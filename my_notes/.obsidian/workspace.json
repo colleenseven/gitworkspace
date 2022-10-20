@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "34140dbe4a5ea29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "106a090e4192e7a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5614d054e277b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "49f7e9d478157107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小学阅读/二年级/小猫钓鱼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27dd40afe027170e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c9a0b9bed4a1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2643a4c4d1110b42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b147528ba3c4d5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a284d2d09e175050",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71fea7c3f4a76603",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5f3fcd6ad661b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f2f560800cfbca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "小学阅读/二年级/小猫钓鱼.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b1501dd2c9e063",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "小学阅读/二年级/小猫钓鱼.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9729a1718f27296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4ad9e76c6bad0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "小学阅读/二年级/小猫钓鱼.md"
+              }
+            }
+          },
+          {
+            "id": "3e1538c6aa9c9f97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "49f7e9d478157107",
+  "lastOpenFiles": [
+    "小学阅读/二年级/蝴蝶有一面小镜子.md",
+    "小学英语/一年级上册英语.md",
+    "其他学科学习/音乐/我和我的祖国.md",
+    "历史文件/文案/你是做运营的吗？.md",
+    "日期.md",
+    "2022-10-19.md"
+  ]
+}
