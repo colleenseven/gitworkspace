@@ -4,38 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "106a090e4192e7a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a5614d054e277b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49f7e9d478157107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小学阅读/二年级/小猫钓鱼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "750c8a8e8ba6a323",
         "type": "tabs",
         "children": [
           {
             "id": "9a2dd22e41df5d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/课外阅读模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd587e9d2299f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +160,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9a2dd22e41df5d7b",
+  "active": "2643a4c4d1110b42",
   "lastOpenFiles": [
+    "小学阅读/二年级/孤独的小螃蟹.md",
+    "未命名.md",
+    "Templates/课外阅读模板.md",
     "小学阅读/二年级/小猫钓鱼.md",
     "小学阅读/二年级/蝴蝶有一面小镜子.md",
     "小学英语/一年级上册英语.md",
