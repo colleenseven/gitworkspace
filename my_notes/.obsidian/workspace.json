@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f3ba856b67a742",
+            "id": "78290625aab159c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小学阅读/二年级/机器巨人.md",
+                "file": "小学英语/口语材料/英文版西游记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "961ab610e274f454",
+            "id": "701df7352d5f6e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小学阅读/二年级/狐狸打猎人.md",
+                "file": "Templates/求职功课模板.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13c7e46990996b61",
+            "id": "6dea0b512093a47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小学阅读/二年级/骄傲的大公鸡.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "574751aae576ca0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小学阅读/二年级/买梦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963e9dc1a2e320ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小学阅读/二年级/老鼠和万花筒.md",
+                "file": "求职准备/中电建物业管理有限公司 线上社区运营.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小学阅读/二年级/老鼠和万花筒.md",
+                "file": "求职准备/中电建物业管理有限公司 线上社区运营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小学阅读/二年级/老鼠和万花筒.md",
+                "file": "求职准备/中电建物业管理有限公司 线上社区运营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小学阅读/二年级/老鼠和万花筒.md"
+                "file": "求职准备/中电建物业管理有限公司 线上社区运营.md"
               }
             }
           },
@@ -196,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "963e9dc1a2e320ba",
+  "active": "6dea0b512093a47b",
   "lastOpenFiles": [
+    "Templates/求职功课模板.md",
+    "求职准备/中电建物业管理有限公司 线上社区运营.md",
+    "Templates/课外阅读模板.md",
+    "小学英语/口语材料/英文版西游记.md",
+    "小学英语/一年级上册英语.md",
+    "小学阅读/二年级/老鼠和万花筒.md",
     "小学阅读/二年级/买梦.md",
     "小学阅读/二年级/骄傲的大公鸡.md",
     "小学阅读/二年级/狐狸打猎人.md",
-    "小学阅读/二年级/机器巨人.md",
-    "Templates/课外阅读模板.md",
-    "小学阅读/二年级/蝴蝶有一面小镜子.md",
-    "小学阅读/快乐读书吧39本介绍.md",
-    "小学阅读/二年级/小猫钓鱼.md",
-    "小学阅读/二年级/螃蟹小裁缝.md",
-    "小学阅读/二年级/恐龙鲁鲁.md"
+    "小学阅读/二年级/机器巨人.md"
   ]
 }
