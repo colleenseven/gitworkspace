@@ -1,10 +1,13 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "附件库"
 }

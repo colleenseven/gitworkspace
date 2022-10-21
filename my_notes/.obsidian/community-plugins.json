@@ -1,4 +1,12 @@
 [
   "table-editor-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-tasks-plugin",
+  "dataview",
+  "obsidian-day-planner",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "obsidian-checklist-plugin",
+  "obsidian-pandoc",
+  "obsidian-rollover-daily-todos"
 ]
