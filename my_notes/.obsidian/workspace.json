@@ -11,8 +11,12 @@
             "id": "6c6935eb3bafc938",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常/日记/2022-10-21-日记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "cb8c2776158c16da",
@@ -178,8 +181,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dd3ad95799eef328",
+  "active": "6c6935eb3bafc938",
   "lastOpenFiles": [
+    "日常/日记/2022-10-22-日记.md",
     "日常/日记/2022-10-21-日记.md",
     "Templates/炒股心得.md",
     "求职准备/海淀区精华培训学校 教育社群运营专员.md",
@@ -188,7 +192,6 @@
     "Templates/日记模板.md",
     "Templates/抖音碎片想法.md",
     "Templates/知乎阅读模板.md",
-    "小学阅读/二年级/狐狸打猎人.md",
-    "日常/周记/2022-W42-周记.md"
+    "小学阅读/二年级/狐狸打猎人.md"
   ]
 }
