@@ -10,5 +10,6 @@
   "obsidian-pandoc",
   "obsidian-rollover-daily-todos",
   "note-refactor-obsidian",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-auto-link-title"
 ]
