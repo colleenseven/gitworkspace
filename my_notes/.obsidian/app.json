@@ -9,5 +9,6 @@
   },
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "附件库"
+  "attachmentFolderPath": "附件库",
+  "newFileLocation": "current"
 }

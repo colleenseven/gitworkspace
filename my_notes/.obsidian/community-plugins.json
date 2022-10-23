@@ -4,12 +4,13 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-day-planner",
-  "obsidian-kanban",
-  "templater-obsidian",
   "obsidian-checklist-plugin",
   "obsidian-pandoc",
   "obsidian-rollover-daily-todos",
   "note-refactor-obsidian",
   "cmenu-plugin",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "tag-wrangler",
+  "text-snippets-obsidian",
+  "templater-obsidian"
 ]

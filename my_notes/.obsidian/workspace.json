@@ -4,83 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "befc73b3fc876c5d",
+        "id": "ab2797b525bf16c8",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6935eb3bafc938",
+            "id": "921aeace1daadf12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/日记/2022-10-22-日记.md",
+                "file": "知乎/知乎index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4776f3a13ab0bafc",
+            "id": "a1d45b55519a4781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刘博尹成长记录/英语读书笔记/gkid课本四册.md",
+                "file": "知乎/语言表达/遗憾真的会被时间抚平吗？.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0d72952421fcb96",
+            "id": "9b7974ab8a3f75d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刘博尹成长记录/其他科目读书笔记/北斗地理贴纸书-启妙岛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a529200da71fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知乎/你曾经为一口流利的英语付出了什么？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9627bb1cf2b46a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刘博尹成长记录/英语读书笔记/gkid课本四册.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbf96d91400c01f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日常/日记/2022-10-21-日记.md",
+                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,14 +81,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a284d2d09e175050",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -146,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知乎/你曾经为一口流利的英语付出了什么？.md",
+                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知乎/你曾经为一口流利的英语付出了什么？.md",
+                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知乎/你曾经为一口流利的英语付出了什么？.md"
+                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md"
               }
             }
           },
@@ -207,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "cb8c2776158c16da",
@@ -230,17 +186,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63a529200da71fab",
+  "active": "9b7974ab8a3f75d1",
   "lastOpenFiles": [
-    "刘博尹成长记录/其他科目读书笔记/北斗地理贴纸书-启妙岛.md",
-    "Templates/刘博尹读书笔记.md",
-    "刘博尹成长记录/英语读书笔记/gkid课本四册.md",
+    "知乎/语言表达/「以绝大数人努力程度之低，根本没有要到拼天赋的地步」这句话可信吗？.md",
+    "知乎/语言表达/为什么年轻人宁愿挤死在北上广也不愿意回家乡？.md",
+    "知乎/语言表达/遗憾真的会被时间抚平吗？.md",
+    "Templates/Metdata新文件.md",
+    "知乎/未命名.md",
+    "知乎/语言表达/遗憾真的会被时间抚平吗？ - 知乎.md",
+    "日常/日记/2022-10-23-日记.md",
+    "日常/日记/2022-10-29-日记.md",
     "日常/日记/2022-10-22-日记.md",
-    "日常/日记/2022-10-21-日记.md",
-    "Templates/炒股心得.md",
-    "求职准备/海淀区精华培训学校 教育社群运营专员.md",
-    "求职准备/中电建物业管理有限公司 线上社区运营.md",
-    "Templates/求职功课模板.md",
-    "Templates/日记模板.md"
+    "日常/日记/2022-10-21-日记.md"
   ]
 }
