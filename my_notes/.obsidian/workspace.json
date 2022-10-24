@@ -11,60 +11,27 @@
             "id": "fd7ab5aa25093458",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b4a7e5ee5e2d000",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/语言表达/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
+                "file": "日常/日记/2022-10-24-日记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "39b87a18ef81bab1",
+            "id": "d6bd6e96052ea587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/语言表达/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585a4027273df28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知乎/语言表达/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c10945bef73f461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知乎/语言表达/未命名.md",
+                "file": "知乎/文化写作/写作训练/词汇不太好，如何提升文笔？.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自己",
+                "query": "努力",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知乎/语言表达/未命名.md",
+                "file": "日常/日记/2022-10-24-日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知乎/语言表达/未命名.md",
+                "file": "日常/日记/2022-10-24-日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知乎/语言表达/未命名.md"
+                "file": "日常/日记/2022-10-24-日记.md"
               }
             }
           },
@@ -182,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "cb8c2776158c16da",
@@ -206,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4c10945bef73f461",
+  "active": "fd7ab5aa25093458",
   "lastOpenFiles": [
-    "知乎/语言表达/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
-    "知乎/语言表达/该不该接受自己平庸？.md",
-    "知乎/语言表达/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
-    "Templates/Metdata新文件.md",
-    "知乎/语言表达/你曾经为一口流利的英语付出了什么？.md",
-    "知乎/语言表达/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
-    "知乎/语言表达/东亚人为什么活得累？.md",
-    "日常/日记/2022-10-24-日记.md",
-    "日常/日记/2022-10-23-日记.md",
-    "Templates/炒股心得.md"
+    "知乎/语言表达/人生感悟/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
+    "知乎/文化写作/写作训练/如何理解现代汉语语法中的八种基本句法成分？.md",
+    "知乎/文化写作/写作训练/词汇不太好，如何提升文笔？.md",
+    "知乎/知乎index.md",
+    "知乎/语言表达/人生感悟/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
+    "知乎/语言表达/人生感悟/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
+    "知乎/语言表达/人生感悟/一个人的自信从根本上来说靠的是什么？.md",
+    "知乎/文化写作/【太多了】中国古代神话能构成一个体系吗？如果能，是何种逻辑及联系？.md",
+    "知乎/语言表达/人生感悟/该不该接受自己平庸？.md",
+    "知乎/语言表达/个人成长训练/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md"
   ]
 }
