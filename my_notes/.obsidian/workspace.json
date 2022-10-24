@@ -4,47 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2797b525bf16c8",
+        "id": "31c1f74cb488a03a",
         "type": "tabs",
         "children": [
           {
-            "id": "921aeace1daadf12",
+            "id": "fd7ab5aa25093458",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b4a7e5ee5e2d000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/知乎index.md",
+                "file": "知乎/语言表达/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1d45b55519a4781",
+            "id": "39b87a18ef81bab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/语言表达/遗憾真的会被时间抚平吗？.md",
+                "file": "知乎/语言表达/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b7974ab8a3f75d1",
+            "id": "585a4027273df28b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
+                "file": "知乎/语言表达/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c10945bef73f461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知乎/语言表达/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,10 +93,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自己",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -102,8 +122,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
-                "collapseAll": true,
+                "file": "知乎/语言表达/未命名.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
+                "file": "知乎/语言表达/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知乎/语言表达/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md"
+                "file": "知乎/语言表达/未命名.md"
               }
             }
           },
@@ -163,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "cb8c2776158c16da",
@@ -186,17 +206,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9b7974ab8a3f75d1",
+  "active": "4c10945bef73f461",
   "lastOpenFiles": [
-    "知乎/语言表达/「以绝大数人努力程度之低，根本没有要到拼天赋的地步」这句话可信吗？.md",
-    "知乎/语言表达/为什么年轻人宁愿挤死在北上广也不愿意回家乡？.md",
-    "知乎/语言表达/遗憾真的会被时间抚平吗？.md",
+    "知乎/语言表达/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
+    "知乎/语言表达/该不该接受自己平庸？.md",
+    "知乎/语言表达/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
     "Templates/Metdata新文件.md",
-    "知乎/未命名.md",
-    "知乎/语言表达/遗憾真的会被时间抚平吗？ - 知乎.md",
+    "知乎/语言表达/你曾经为一口流利的英语付出了什么？.md",
+    "知乎/语言表达/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
+    "知乎/语言表达/东亚人为什么活得累？.md",
+    "日常/日记/2022-10-24-日记.md",
     "日常/日记/2022-10-23-日记.md",
-    "日常/日记/2022-10-29-日记.md",
-    "日常/日记/2022-10-22-日记.md",
-    "日常/日记/2022-10-21-日记.md"
+    "Templates/炒股心得.md"
   ]
 }

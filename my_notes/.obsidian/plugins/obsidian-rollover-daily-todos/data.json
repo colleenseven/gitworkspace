@@ -1,0 +1,5 @@
+{
+  "templateHeading": "### 顺延未完成",
+  "deleteOnComplete": true,
+  "removeEmptyTodos": true
+}
