@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "知乎",
-      "template": "Templates/Metdata新文件.md"
+      "template": "Templates/T-frontmater新文件.md"
     }
   ],
   "syntax_highlighting": true,

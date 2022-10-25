@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31c1f74cb488a03a",
+        "id": "804b39906dfcb992",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7ab5aa25093458",
+            "id": "ee8f6613bd63760c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常/日记/2022-10-24-日记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bd6e96052ea587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知乎/文化写作/写作训练/词汇不太好，如何提升文笔？.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "努力",
+                "query": "男朋友",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/日记/2022-10-24-日记.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常/日记/2022-10-24-日记.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/日记/2022-10-24-日记.md"
+                "file": "Templates/T-frontmater新文件.md"
               }
             }
           },
@@ -150,20 +138,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "cb8c2776158c16da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d9cd0edf63ecaf2",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +146,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd7ab5aa25093458",
+  "active": "ee8f6613bd63760c",
   "lastOpenFiles": [
-    "知乎/语言表达/人生感悟/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
-    "知乎/文化写作/写作训练/如何理解现代汉语语法中的八种基本句法成分？.md",
-    "知乎/文化写作/写作训练/词汇不太好，如何提升文笔？.md",
-    "知乎/知乎index.md",
-    "知乎/语言表达/人生感悟/俄罗斯为什么不担心芯片制造和光刻机的问题？.md",
-    "知乎/语言表达/人生感悟/梁永安教授表示条件允许的年轻人可以「啃几年老」，给自己探索的机会，不用忙着找所谓的理想工作，你认同吗？.md",
-    "知乎/语言表达/人生感悟/一个人的自信从根本上来说靠的是什么？.md",
-    "知乎/文化写作/【太多了】中国古代神话能构成一个体系吗？如果能，是何种逻辑及联系？.md",
-    "知乎/语言表达/人生感悟/该不该接受自己平庸？.md",
-    "知乎/语言表达/个人成长训练/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md"
+    "Templates/T-日记.md",
+    "Templates/T-frontmater新文件.md",
+    "Templates/T-英语学习.md",
+    "Templates/T-求职功课.md",
+    "Templates/T-刘博尹读书笔记.md",
+    "Templates/T-历史碎片归档.md",
+    "Templates/T-课外阅读.md",
+    "Templates/T-抖音碎片想法.md",
+    "Templates/T-炒股心得.md",
+    "Templates/T-知乎阅读.md"
   ]
 }
