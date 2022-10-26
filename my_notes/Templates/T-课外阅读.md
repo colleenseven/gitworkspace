@@ -27,3 +27,4 @@
 
 完成创作时间  
 
+<% await tp.file.move("小学阅读/" + tp.file.title) %>

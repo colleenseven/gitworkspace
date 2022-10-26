@@ -1,5 +1,5 @@
 {
-  "strategy": "chinese",
+  "strategy": "default",
   "matchStrategy": "prefix",
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
@@ -46,5 +46,14 @@
     "maxNumberOfHistoryToKeep": 0
   },
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "%%pandoc导出docx和ppt非常有用%%": {
+      "%%pandoc导出docx和ppt非常有用%%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666702571808
+        }
+      }
+    }
+  }
 }
