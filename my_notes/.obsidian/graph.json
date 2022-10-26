@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 6062550
       }
+    },
+    {
+      "query": "path:OB操作",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:歌曲",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,

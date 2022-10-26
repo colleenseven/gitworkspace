@@ -4,6 +4,7 @@ tag: null
 status: null
 date updated: 2022-10-26 16:44
 ---
+## 已完成记录
 
 ### 思维导图插件
 
@@ -20,16 +21,9 @@ date updated: 2022-10-26 16:44
 [用 Obsidian 做思维导图 | 笔记神器 Obsidian 完全指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LV411e7vY/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%需要逐层添加，标题和列表均可，用tab缩进，层级有缺失不显示%%
 
 #### outliner 
+[Johnny学OB 第14集 - 在OB里实现幕布的大纲笔记效果。所用插件Outliner和Zoom。Obsidian | 黑曜石教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nh411s73k/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%设置好后，在页面内使用- 的无序列表均可自动套用%%
 
----
-
-### 功能增强
-
-#### VariousComplete（补全未学会）
-
-[Obsidian好用的补全插件VariousComplete_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1at4y1u7uS/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
-
-#### Word Splitting for Simplified Chinese in Edit Mode
+### 功能增强 
 
 #### advanced tables
 
@@ -46,11 +40,73 @@ date updated: 2022-10-26 16:44
 #### markdown prettifier 
 [Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行%%
 
+#### copy block link 
+[通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用%%
+
+### 语法
+
+#### callout
+
+[使用Callout Blocks来美观地组织你的文档｜高级玩家_锌一（Strik0r）｜Obsidian知识管理 番外篇_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Hd4y1N7XF/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+类型汇总 
+
+> [!note]  note
+> note
+
+>[!abstract] abstract
+>abstract, summary, tldr
+
+>[!info] info
+>info, todo
+
+>[!tip] tip
+>tip, hint, important
+
+>[!success] success
+success, check, done
+
+> [!failure] failure
+> failure, fail, missing
+
+>[!question] question
+>question, help, faq
+
+> [!warning] warning
+> warning, caution, attention
+
+> [!danger] danger
+> danger, error
+
+> [!bug] bug
+> bug
+
+> [! example]  example
+example
+
+> [!quote] quote
+quote, cite
+
+[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
+[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+---
+## 未完成记录
+
+### 功能增强
+
+#### VariousComplete（补全未学会）
+
+[Obsidian好用的补全插件VariousComplete_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1at4y1u7uS/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+
 #### auto link to title
 [Obsidian 插件记录 - 知乎](https://zhuanlan.zhihu.com/p/368487154)
 
-Find unlinked files
+#### Find unlinked files
 
+#### Word Splitting for Simplified Chinese in Edit Mode
 
 #### customizable menu
 
@@ -60,29 +116,29 @@ Find unlinked files
 
 #### calendar
 
+#### rollover daily todos
+
+#### day planner
+
 #### checklist
 
 #### cmenu
 
+#### pandoc plugin
+
 #### dataview
 
-#### day planner
 
 
-#### callout
-[obsidian 排版美化 callout block_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rK411f7Vz/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
-[!note]例子
 
 #### note refactor
 
 
 
-#### pandoc plugin
-
 #### quickadd
 
-#### rollover daily todos
+
 
 #### shell commands
 
@@ -98,9 +154,11 @@ Find unlinked files
 
 #### tracker
 
-#### Media Extended（未安装）
+#### Media Extended
 
-#### PDF to Markdown（未安装）
+#### pdf highlights
+
+#### annotator
 
 #### 周边功能
 
@@ -123,9 +181,7 @@ date updated: 2022-10-25 15:07
 #### 优质已读内容
 
 ##### 标记类
-[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
-[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
-[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+
 [如何在Obsidian中去除那些恼人的空行_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12N4y1T7HT/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学OB 一个网站帮你搞定用好Obsidian，你需要知道的所有语言_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1e7nJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)%%学习yaml写法%%
@@ -156,7 +212,7 @@ date updated: 2022-10-25 15:07
 [Johnny学OB 第19集 - 只有想不到，没有找不到，OB超级强大的搜索功能，你到底用到了几成？Obsidian | 黑曜石笔记使用教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MU4y1N7u3/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%搜索结果复制和搜索路径非常有用%%
 [Johnny学OB 第17集 - OB的日记功能你真的用对了吗 （上） Obsidian | 黑曜石笔记 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12M4y1G7ue/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学OB 第15集 - 在OB里快速实现类似Anki的间隔重复卡片学习系统 Obsidian教程-如何使用插件 Spaced Repetition_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qU4y1P7Bu/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%超赞的题目复习卡片%%
-[Johnny学OB 第14集 - 在OB里实现幕布的大纲笔记效果。所用插件Outliner和Zoom。Obsidian | 黑曜石教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nh411s73k/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+
 [Johnny学OB 第12集 - 如何用OB和Pandoc插件，让你制作PPT的速度飞起来。尤其适合制作课件。Obsidian | 黑曜石教程 OB插件教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1Q7Hd/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学OB 第16集 - 懂数据，你才真的懂OB。你在OB里的每次操作，其实都是在操作数据库。Obsidian | 黑曜石笔记 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pb4y127R9/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%status 挺有用的%%
 [Johnny学OB 第11集 - 一切皆可嵌入，高仿Notion头图，用OB学唐诗三百首下集，关于嵌入多媒体的各种技巧，还有额外彩蛋。 ｜ Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KQ4y1a7pd/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%嵌入图片视频和头图%%
