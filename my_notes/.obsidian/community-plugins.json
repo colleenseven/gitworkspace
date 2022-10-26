@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "obsidian-tasks-plugin",
   "dataview",
@@ -17,5 +16,13 @@
   "markdown-prettifier",
   "various-complements",
   "obsidian-tracker",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-spaced-repetition",
+  "obsidian-image-toolkit",
+  "table-editor-obsidian",
+  "drawio-obsidian",
+  "obsidian-mind-map",
+  "customizable-menu",
+  "cm-chs-patch",
+  "find-unlinked-files"
 ]
