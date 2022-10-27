@@ -1,7 +1,7 @@
 ---
-create_date: <%tp.file.creation_date() %>
+create_date: <%tp.file.creation_date() %> (UTC +08:00)
 tag: 
-status: 
+status: 未阅读 
 uid: 
 ---
 

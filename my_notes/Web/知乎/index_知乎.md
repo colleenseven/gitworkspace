@@ -1,8 +1,16 @@
 ### 语言表达
+
 ```dataview
 list 
 from "Web/知乎/语言表达"
 where status = "已完成"
+sort file.ctime asc
+```
+
+```dataview
+list 
+from "Web/知乎/语言表达"
+where contains(create_date,"2022-10")
 sort file.ctime asc
 ```
 
