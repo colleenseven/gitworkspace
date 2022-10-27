@@ -98,8 +98,8 @@
     "tables": {
       "tables": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1666851892996
+          "count": 4,
+          "lastUpdated": 1666880411044
         }
       }
     },
@@ -170,16 +170,16 @@
     "已完成": {
       "已完成": {
         "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1666870029550
+          "count": 18,
+          "lastUpdated": 1666884143391
         }
       }
     },
     "list": {
       "list": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666863965151
+          "count": 6,
+          "lastUpdated": 1666884205175
         }
       }
     },
@@ -298,16 +298,16 @@
     "浏览文章": {
       "浏览文章": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1666860220905
+          "count": 10,
+          "lastUpdated": 1666884053896
         }
       }
     },
     "泛读文章": {
       "泛读文章": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1666860531489
+          "count": 3,
+          "lastUpdated": 1666883992549
         }
       }
     },
@@ -322,8 +322,8 @@
     "未阅读": {
       "未阅读": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1666868005836
+          "count": 3,
+          "lastUpdated": 1666883664470
         }
       }
     },
@@ -332,6 +332,62 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1666870785063
+        }
+      }
+    },
+    "WER": {
+      "WER": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666879572391
+        }
+      }
+    },
+    "author": {
+      "author": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666879642507
+        }
+      }
+    },
+    "create": {
+      "create": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666880417547
+        }
+      }
+    },
+    "create_date": {
+      "create_date": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666881640904
+        }
+      }
+    },
+    "DESC": {
+      "DESC": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666881644286
+        }
+      }
+    },
+    "DAX函数": {
+      "DAX函数": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1666884041897
+        }
+      }
+    },
+    "from": {
+      "from": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666884209259
         }
       }
     }

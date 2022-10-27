@@ -1,16 +1,17 @@
 ---
-create_date:2022-10-20T21:42:47 (UTC +08:00)
-tags: DAX 
+create_date: 2022-10-20T23:15:58 (UTC +08:00)
+tags: 
+pagetitle: 用一个度量值返回列表？CONCATENATEX函数你应该掌握
 source: https://mp.weixin.qq.com/s/c7rH7AvxeCu9gZyJOy_e7A
 author: 采悟
-status: 已完成 
-category: 浏览文章 
+status: 未阅读
+category: 
 uid: 
 ---
 
-连接文本字符串经常会用到连接符&，还有个的DAX函数<mark style="background: #D2B3FFA6;">CONCATENATE</mark>，可以将两个字符串连接成一个字符串，这个函数本身非常简单，使用场景也有限，不过它的迭代函数<mark style="background: #D2B3FFA6;">CONCATENATEX</mark>，用处非常大，之前的文章中也多次用到过这个函数。  
+连接文本字符串经常会用到连接符&，还有个的DAX函数CONCATENATE，可以将两个字符串连接成一个字符串，这个函数本身非常简单，使用场景也有限，不过它的迭代函数CONCATENATEX，用处非常大，之前的文章中也多次用到过这个函数。  
 
-<mark style="background: #FF5582A6;">CONCATENATEX函数迭代表的每一行</mark>，按表达式和分隔符将每一行的字符连接为一个文本字符串，语法如下：
+CONCATENATEX函数迭代表的每一行，按表达式和分隔符将每一行的字符连接为一个文本字符串，语法如下：
 
 > CONCATENATEX(
 > 
@@ -74,7 +75,8 @@ uid:
 > )
 
 这个度量值相比前一个，**主要是第2个参数有变化，每一行的字符，本身又是产品和利润数据连在一起的字符串；**第三个参数分隔符，这里用的是UNICHAR(10)，也就是换行符，来让每个字符串单独一行来显示，用卡片图展示效果如下：  
-![[Pasted image 20221027163151.png]]
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJM5mO8kJBGGCniaj9icJOEG5icbiaU4CbSEznkYr8IbtvuSH25PGIhD2Y7P7oKjgghAbpnic2qRLZGzMng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **3\. 按顺序来展示类别名称和数据**
 
@@ -98,8 +100,22 @@ uid:
 
 第四参数排序依据是按利润金额来排序；第5参数DESC表示按降序排列，效果如下：  
 
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJM5mO8kJBGGCniaj9icJOEG5ic6RtnO82QIvBN59bMmuhzf4icgRN6ibpk69m5UyXsqmHVoD7bemyT2S6g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 通过排序的参数，就实现了多个字符串的按顺序连接。
 
 通过上面3个场景，把CONCATENATEX函数的每个参数的用法都做了介绍，遇到类似的需求时，就会更理解该函数的妙处。
 
 之前介绍的动态展示表的例子，其中第一种方法，也是用CONCATENATEX函数来实现的：[Power BI如何动态展示表？送你两种方法](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074639&idx=1&sn=03b003d199f754794c0bac8af15c50e0&chksm=8e0c5258b97bdb4e0aa92667a047bca5c7705f86a6c2b4ac66e3eefc171ca95e6891a433ecff&scene=21#wechat_redirect)
+
+___
+
+[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
+
+帮你从0到1，轻松上手PowerBI
+
+___
+
+**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
+
+假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

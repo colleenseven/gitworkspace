@@ -1,15 +1,14 @@
 ---
-create_date: 2022-10-22T23:10:41 (UTC +08:00)
-tags: 
-pagetitle: Power BI 2022年10月更新，自然语言生成DAX功能面世
+create_date: 2022-10-22T21:26:03 (UTC +08:00)
+tags: 汇总
 source: https://mp.weixin.qq.com/s/eJNl5pwmEf-RxBw_3JuS9w
 author: 采悟
-status: 未阅读 
+status: 已完成 
 category: 浏览文章 
 uid: 
 ---
 
-Power BI 2022年10月更新，增加/优化了几个新的功能，其中最重磅的当属自动生成DAX的快速度量建议，你可以在官方博客中浏览全面的介绍，点击最下方的阅读原文也可直接进入：
+Power BI 2022年10月更新，增加/优化了几个新的功能，其中最重磅的当属<mark style="background: #FF5582A6;">自动生成DAX的快速度量建议</mark>，你可以在官方博客中浏览全面的介绍，点击最下方的阅读原文也可直接进入：
 
 https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 
@@ -24,12 +23,16 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 不过，系统内置的快速度量值的模板数量有限，灵活性也有待提高。本月PowerBI发布了新的方法，就是**快速度量建议，它可以让用户使用自然语言创建DAX度量，而不是使用模板或从头开始编写DAX**。
 
 现在还是预览功能，所以需要先启用该功能，在PowerBI Desktop中依次打开文件>选项和设置>选项>预览功能，勾选“快速度量建议”，如下图：  
+![[Pasted image 20221027163418.png]]
 
 在功能区点击"快速度量值"，就会弹出快度量值面板，然后点击"建议",就可以看到自然语言的文本输入框。
+![[Pasted image 20221027163434.png]]
 
 如果想知道排名前三的产品销售额，可以在文本框中输入“_**产品名称 销售额 top3**_”，然后点击“生成”，就会自动生成产品前3合计销售额的DAX表达式，以及预览结果：
+![[Pasted image 20221027163456.png | 300]]
 
 这就是快速度量建议，对于自动生成的DAX，如果验证没有问题，就可以点击右下角的“添加”按钮，然后这个度量值就建好了，与正常的度量值没有什么区别：
+![[Pasted image 20221027163516.png]]
 
 度量值的名称自动命名为Measure，你可以手动重命名。
 
@@ -42,30 +45,32 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 **2\. 堆积柱形图的反向堆叠**
 
 对于堆积柱形图，如果显示图例，并置于图表左侧或者右侧垂直显示，之前的效果是这样的：
+![[Pasted image 20221027163602.png]]
 
 图例的顺序与柱形图的顺序是相反的，比如橙色显示的电脑外设，柱形图显示在最底层，而图例中却显示在顶部第一个，给人很奇怪的感觉，本月添加了一个选项：**反向堆叠顺序。**
 
 打开这个开关后，就可以让图例与柱形图的类别顺序一致：
+![[Pasted image 20221027163633.png]]
 
 **3\. 模型视图中新增关系编辑面板**
 
 这也是个预览功能，首先启用该功能：  
+![[Pasted image 20221027163644.png]]
 
 然后在模型视图中，点击某个关系线，就会弹出关系编辑面板：  
+![[Pasted image 20221027163719.png]]
 
 通过这个面板，可以直接查看、修改所有的关系选项，比如基数、方向、关系是否可用等，更加方便。
 
 **4\. 模型视图中支持编写DAX**
 
-之前只能在报表视图或者数据视图中可以编写DAX，现在在模型视图中，也可以直接创建、查看、编辑度量值、计算列和计算表的DAX了，这样就不用来回切换视图了。
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO9wKMTHqHAEPtqTyaAfAyGq6fwTdDk9Ogc2TrAhiaDKsOkf2egia15fPA37v966KMaVylicpuQbwfCg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+之前只能在报表视图或者数据视图中可以编写DAX，现在<mark style="background: #FFB86CA6;">在模型视图中，也可以直接创建、查看、编辑度量值、计算列和计算表的DAX</mark>了，这样就不用来回切换视图了。
+![[Pasted image 20221027163758.png]]
 
 **5\. 在PowerBI服务中支持下载不含数据的pbix文件**  
 
 从本月开始，在PowerBI服务中下载报告的pbix文件时，您将看到以下对话框：
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO9wKMTHqHAEPtqTyaAfAyGuuYICY0lgRLAqcPGrIwk9NlHYib2gxrDmOJ8KD331E6mJoozteESV6Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![[Pasted image 20221027163815.png]]
 
 如对话框所示，您现在可以选择下载包含数据的报告，也可以选择下载不包含数据但与数据有实时连接的报告。请注意，根据您的具体情况，可能只有一个选项可用。
 
@@ -78,11 +83,3 @@ PowerBI每月更新后，如果不能自动更新或者不方便下载，可以�
 如果要下载历史安装包，也可以发送**6位年月编号**获取，比如发送“202109”获取2021年9月的安装包。
 
 更多安装说明请参考：[关于Power BI的下载和安装，你想知道的都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078648&idx=1&sn=7e53496bd78498ed962696055a500474&chksm=8e13a2efb9642bf98bb73de730c5141d61eb2dfd22e1781c2603745137302ea56ba2ae4dd6ba&scene=21#wechat_redirect)
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

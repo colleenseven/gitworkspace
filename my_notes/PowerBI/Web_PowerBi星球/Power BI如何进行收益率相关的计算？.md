@@ -1,11 +1,11 @@
 ---
-create_date:2022-10-27T16:55:29 (UTC +08:00)
-tags: 
+create_date: 2022-10-10T16:55:29 (UTC +08:00)
+tags: DAX函数 
 pagetitle: Power BI如何进行收益率相关的计算？
 source: https://mp.weixin.qq.com/s/IXGtLDzNBwL21ncx0zOn8A
 author: 采悟
-status: 
-category: 
+status: 已完成 
+category: 泛读文章  
 uid: 
 ---
 
@@ -13,11 +13,11 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNnicYHklQVPkNUbztkWTlHvzQvOoeSliavpUMdzXExb4Faz5sbFbLkjtornjm2sh6pMjK9EDLnzT2A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-如何计算这6年的累计收益率，以及年化平均收益率呢？
+如何计算这<mark style="background: #FF5582A6;">6年的累计收益率</mark>，以及年化平均收益率呢？
 
 对于累计收益率，从逻辑上看肯定不是对这些年度的收益率相加，而是连续相乘，这种应该如何计算呢？
 
-求和的函数是SUM，相乘也有对应的函数：PRODUCT，不过对于上面的收益率，并不是该列数据的简单相乘，而应该是每年（1+收益率）的乘积，这种情况下使用迭代函数PRODUCTX更合适。
+求和的函数是SUM，相乘也有对应的函数：<mark style="background: #FFB86CA6;">PRODUCT</mark>，不过对于上面的收益率，并不是该列数据的简单相乘，而应该是每年（1+收益率）的乘积，这种情况下使用迭代函数PRODUCTX更合适。
 
 PRODUCTX函数的用法与SUMX类似，只是逻辑为迭代乘积而已，语法如下：
 
@@ -43,9 +43,9 @@ PRODUCTX函数的用法与SUMX类似，只是逻辑为迭代乘积而已，语�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNnicYHklQVPkNUbztkWTlHvEmoPCCVDqdOcEM2t564gfAxGGY8nzvhfxPaqGP4tfLAbFh7OHicLtPg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-知道了累计收益率，如果还想计算这6年平均每年的年化收益率，应该怎么做呢？
+知道了累计收益率，如果还想计算这<mark style="background: #FFB86CA6;">6年平均每年的年化收益率</mark>，应该怎么做呢？
 
-其实是对累计收益率开6次方根，这也有对应的DAX函数：POWER，其语法如下：  
+其实是对累计收益率开6次方根，这也有对应的DAX函数：<mark style="background: #FFB86CA6;">POWER</mark>，其语法如下：  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNnicYHklQVPkNUbztkWTlHvluiciccS8lVVoZia2LFXDj1kulCGhuMmCfZwZO1gnavQNRDicqVkPyjsYA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -57,9 +57,9 @@ POWER是个幂函数，第二个参数如果大于1，就是计算某个数的N�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNnicYHklQVPkNUbztkWTlHvA3zvEMoXEr4JwGpdKzYQ3gIgTkIr8XxDUJVgw2xziaoHPynI5vfO1jQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-除了上面全部年度的整体计算，如果想计算出截至当前年度的累计收益率和年化收益率，应该如何做呢？
+除了上面全部年度的整体计算，如果想计算出<mark style="background: #FF5582A6;">截至当前年度的累计收益率和年化收益率</mark>，应该如何做呢？
 
-只需要利用FILTER函数，筛选出小于等于当前年度的数据，进行在此基础上进行累计和年化就可以了。
+只需要利用<mark style="background: #FFB86CA6;">FILTER</mark>函数，筛选出小于等于当前年度的数据，进行在此基础上进行累计和年化就可以了。
 
 > 截至当前年度 累计收益率 =
 > 
@@ -88,17 +88,3 @@ POWER是个幂函数，第二个参数如果大于1，就是计算某个数的N�
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNnicYHklQVPkNUbztkWTlHvChr83Miby82wVHMPiaQ6oPHa1PoAkU8NN9sqR1eoMmuZIZRKoVkPkSOw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 理解了上面这个简单的例子，再进行收益率相关的计算应该就很轻松了，关键是掌握PRODUCTX和POWER函数的用法。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

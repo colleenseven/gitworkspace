@@ -1,15 +1,15 @@
 ---
-create_date:2022-10-16T22:40:47 (UTC +08:00)
-tags: DAX 
+create_date: 2022-10-16T23:14:50 (UTC +08:00)
+tags: 
 pagetitle: Power BI中不显示表格总计的技巧
 source: https://mp.weixin.qq.com/s/phP28WetvTpZGH2O3sSzSA
 author: 采悟
 status: 已完成 
-category: 泛读文章
+category: 精读文章
 uid: 
 ---
 
-在PowerBI中经常会用到表格，如果里面有<mark style="background: #FFB86CA6;">数值型的字段</mark>，默认会显示总计行，比如下面这个表格，展示每个产品类别的收入和利润：
+在PowerBI中经常会用到表格，如果里面有<mark style="background: #FFB86CA6;">数值型的字段，默认会显示总计行</mark>，比如下面这个表格，展示每个产品类别的收入和利润：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOna3LZzcEpp19wiaIJrARcpMngxGqw8yyHyic6PJfVgho5Q4fkf6WjsOkOE7sFZQZ24TTKUOeia7LlA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -25,11 +25,12 @@ uid:
 
 **1\. 利用DAX让总计行返回空值**
 
-对于收入度量值，可以通过<mark style="background: #FFB86CA6;">ISINSCOPE函数来判断上下文是否为总计行</mark>，如果是总计行，则返回空值。
+对于收入度量值，可以通过ISINSCOPE函数来判断上下文是否为总计行，如果是总计行，则返回空值。
 
 度量值的写法以及效果如下。
 
-![[Pasted image 20221027164215.png]]
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOna3LZzcEpp19wiaIJrARcpIhVrnkibZKVwqeLGZh4cH64cAzTKSBffmvf5d2NTRcdTkfEOgs1Wygg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 关于利用DAX来处理总计行的更多场景，可以参考：[一文掌握Power BI矩阵总计的自定义计算](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078406&idx=1&sn=3f64d35e34d0f9cd0d5483ee46bf124a&chksm=8e13ad91b9642487e4c2e64af7c944c76ef506eab1a9ecb731173a3cbfbf57b46da9c2cd855e&scene=21#wechat_redirect) 
 
 **2. 利用条件格式隐藏总计行**
@@ -38,7 +39,11 @@ uid:
 
 展开“单元格元素”，选择不需要显示总计的列（这里是收入），打开字体颜色：
 
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOna3LZzcEpp19wiaIJrARcpFO8mTueKWl6LLOwjJVyPW3os9ib9vSRIYhZ01bUm3tlq1JRym5RtL6g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 然后点击字体颜色的"**fx**"按钮，进入字体颜色设置编辑框，在里面进行如下的设置：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOna3LZzcEpp19wiaIJrARcp2Ria0wMjfrEa6tM6cUibdtrcZfTUJodibvXbiclUN3sSIgFjHRaVZd1SBw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 也就是将颜色设置仅应用于总计，并将最大值和最小值都设置为与背景色一致的颜色（这里背景是白色，所以字体颜色也设置为白色），就可以与第1种方法一样，实现收入总计不显示的效果。
 
@@ -53,3 +58,17 @@ uid:
 [一文掌握Power BI矩阵的自定义配色](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078467&idx=1&sn=ad4e9834b50b19df4b0d79d156dfe0b3&chksm=8e13ad54b964244279a717fb8ddaa704cc3b5a1bf6f63fb377dd1f2d7c97f4c868b14d7799c5&scene=21#wechat_redirect)  
 
 [PowerBI矩阵可视化技巧：总计显示在左侧+动态显示列](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484079444&idx=1&sn=ad080b098e66a4ce4e2c6183cc4c93c4&chksm=8e13a183b964289558908f8238eb17ee3dc050084242d39c32d7de7a5d28098861e11c8fe0c8&scene=21#wechat_redirect)  
+
+___
+
+[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
+
+帮你从0到1，轻松上手PowerBI
+
+___
+
+**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

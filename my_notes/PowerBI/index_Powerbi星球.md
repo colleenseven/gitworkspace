@@ -1,5 +1,19 @@
+#### 202210文章汇总
 ```dataview
-list 
+table status,category,create_date,tags 
 from "PowerBI/Web_PowerBi星球"
-where contains(created  "2022-10")
+where contains(create_date, "2022-10")
+sort create_date DESC 
 ```
+
+#### 202209文章汇总
+
+```dataview
+table status,category,create_date,tags 
+from "PowerBI/Web_PowerBi星球"
+where contains(create_date, "2022-09")
+sort create_date DESC 
+```
+
+
+``

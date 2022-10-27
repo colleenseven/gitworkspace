@@ -1,11 +1,11 @@
 ---
-create_date:2022-10-27T17:44:57 (UTC +08:00)
-tags: 
+create_date: 2022-10-04T17:44:57 (UTC +08:00)
+tags: 可视化图表
 pagetitle: Power BI如何制作漂亮的玫瑰图？
 source: https://mp.weixin.qq.com/s/sYL7FCpJdRwwPAg__Cyz8w
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 uid: 
 ---
 
@@ -15,9 +15,9 @@ uid:
 
 网址：https://www.163.com/data/article/HFN186H3000181IU.html
 
-这个图表是玫瑰图，也称作南丁格尔玫瑰图，最早是由弗罗伦斯·南丁格尔绘制，因此该图用她的名字来命名，来纪念这位伟大的护士和统计学家。
+这个图表是玫瑰图，也称作<mark style="background: #FF5582A6;">南丁格尔玫瑰图</mark>，最早是由弗罗伦斯·南丁格尔绘制，因此该图用她的名字来命名，来纪念这位伟大的护士和统计学家。
 
-玫瑰图类似一种圆形的柱状图，以扇形的半径来表示数据的大小， 那么如何用PowerBI来制作玫瑰图呢？
+玫瑰图类似一种<mark style="background: #FF5582A6;">圆形的柱状图，以扇形的半径来表示数据的大小</mark>， 那么如何用PowerBI来制作玫瑰图呢？
 
 以上面图表中，各地区生均校舍面积的数据为例，来看看如何制作玫瑰图。
 
@@ -68,11 +68,3 @@ Charticulator不是一个图表类型，而是一个十分强大的可视化工�
 关于玫瑰图的制作，建议使用上面第二种方式。其实不仅仅是玫瑰图，如果你有个性化的图表展现需求，而PowerBI中没有合适的图表可以用，那么就可以尝试使用Charticulator，熟悉它的操作和用法后，它就是一个灵活、免费、无代码实现各种可视化效果的好帮手。
 
 本文示例文件可以在公众号对话框发送"PowerBI玫瑰图"获取。
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。
