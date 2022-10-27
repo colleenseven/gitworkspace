@@ -6,6 +6,10 @@ date updated: 2022-10-26 16:44
 ---
 ## 已完成记录
 
+### 基础操作 
+
+[别装，老实讲，这些基本操作，你到底几个不会用？左手Word，右手Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A34y1n738/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%ob与word选中操作和光标移动操作的区别%%
+
 ### 思维导图插件
 
 #### drawio
@@ -18,12 +22,15 @@ date updated: 2022-10-26 16:44
 
 #### mindmap
 
-[用 Obsidian 做思维导图 | 笔记神器 Obsidian 完全指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LV411e7vY/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%需要逐层添加，标题和列表均可，用tab缩进，层级有缺失不显示%%
+[用 Obsidian 做思维导图 | 笔记神器 Obsidian 完全指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LV411e7vY/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%需要逐层添加，标题和列表均可，用tab缩进，层级有缺失不显示下下级%%
 
 #### outliner 
 [Johnny学OB 第14集 - 在OB里实现幕布的大纲笔记效果。所用插件Outliner和Zoom。Obsidian | 黑曜石教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nh411s73k/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%设置好后，在页面内使用- 的无序列表均可自动套用%%
 
-### 功能增强 
+### 功能增强
+
+#### highlightr
+[[Obs＃97] Highlightr外掛丰富Obsidian笔记的外观_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bg411Y781/?vd_source=0e30673b55c5c5beeb0619a112151137)%%最好选择inline的样式，右键即可使用%%
 
 #### advanced tables
 
@@ -37,13 +44,42 @@ date updated: 2022-10-26 16:44
 
 [Obsidian有救了？再也不怕笔记“移动”和"重命名"了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Gr4y1s7i5/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%title右键有copy advanced uri就可以实现稳定链接，移动文件位置也不影响%%
 
+#### markdownload 浏览器插件
+
+[推荐三种方式，在Obsidian中轻松完成网页剪藏，总有一款适合你_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11d4y117tR/?spm_id_from=333.999.0.0)%%网页需要加载完成后再同步到obsidian，frontmatter和正文部分均可配置，避免同步无效内容或内容缺失%%
+
 #### markdown prettifier 
 [Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行%%
 
 #### copy block link 
 [通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用%%
 
+#### search  on internet
+[Johnny学OB 第40集 如何在Obsidian里通过右键快速查询那些你不认识的字 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HQ4y1q7jJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%内嵌搜索后，总是新增tab，还没解决%%
+
+#### footnote shortcut
+
+[Johnny学OB 第23集 - 只需一个快捷键，在OB里加脚注Footnote就是这么的痛快。关于Footnote脚注，看这个就可以了 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bh411p7mv/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%角标使用^符号，需可以快速匹配到页尾的角标%%
+
+### 特色功能 
+
+
+
 ### 语法
+
+#### comment
+
+[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)%%dataview在搜索的时候能搜索到注释内的内容，用于定位和引用，注释用^^符号%% 
+
+
+#### highlight
+
+[[Obs＃5] Obsidian(黑曜石) 高亮度显示或变更文字顏色的3种方法 (CC字幕)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1df4y1w7jr/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+= = 内容写法 = =
+
+
+==内容效果==
 
 #### callout
 
@@ -87,9 +123,7 @@ example
 > [!quote] quote
 quote, cite
 
-[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
-[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
-[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+
 
 ---
 ## 未完成记录
@@ -99,6 +133,9 @@ quote, cite
 #### VariousComplete（补全未学会）
 
 [Obsidian好用的补全插件VariousComplete_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1at4y1u7uS/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+
+
 
 
 #### auto link to title
@@ -149,6 +186,7 @@ quote, cite
 #### tasks
 
 #### templater
+[Johnny学OB 第26集 - 关于模板、标签、别名、嵌入、Frontmatter和快捷键 OB基础打得牢，你才真正用得好 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fq4y1K71h/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%frontmatter和标签用处很大%%
 
 #### text snippets
 
@@ -174,11 +212,21 @@ tag: null
 date updated: 2022-10-25 15:07
 ---
 
-### 博主主页
+### OB博主主页
 
 [Johnny学的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/432408734/video)
+[简睿学堂-emisjerry的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1119961064)
+[胸毛齐腰的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/39954354)
+[负性玻色子的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/63017796/)
+[厦东分享的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/50363940)
+[清单控沙牛的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/443605967)
+[Note必利阀的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/8013542)
 
 #### 优质已读内容
+
+[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
+
+[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 ##### 标记类
 
@@ -190,7 +238,6 @@ date updated: 2022-10-25 15:07
 [AudioMass - Audio Editor](https://audiomass.co/)%%开源免费录制工具%%
 [这个给Obsidian写插件的大叔，真的有点牛，一人干翻一个团队，Excalidraw还可以这么用 Johnny用Obsidian去考试 【系列第二集】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WZ4y1D7X6/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学ClickUp 第3集 超级高效的ClickUp快捷键以及超级强大的嵌入功能_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nF411z7JY/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[如何在Obsidian中去除那些恼人的空行_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12N4y1T7HT/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 [Johnny的OB私训课之精华分享1 帮小宋律师用Obsidian的Templater插件一键创建同客户相关的所有文件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aY411s7rd/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%批量生成文件很有用%%
 [Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%
@@ -204,9 +251,9 @@ date updated: 2022-10-25 15:07
 [Johnny学OB 第31集 分享几个让OB更好用的小工具，2个浏览器插件，1个我很爱的网站，1个OB小插件 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL4y187iV/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 	[🛠️ My Text Tools - Free, Online, Text Manipulation Tools](https://mytexttools.com/)%%还没搞明白%%
 [Johnny学OB 第29集 Markdown入门小技巧，高手勿入。标题加序号，快速切换标题层级，快速会换区块位置等 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1944y1b7UU/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%标题序号没有学%%
-[Johnny学OB 第26集 - 关于模板、标签、别名、嵌入、Frontmatter和快捷键 OB基础打得牢，你才真正用得好 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fq4y1K71h/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%frontmatter和标签用处很大%%
+
 [Johnny学OB 第25集 - 不是吧，OB还可以这么用！配合在线数据库，在OB里搭建你的个人管理后台。 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cb4y1m7jx/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[Johnny学OB 第23集 - 只需一个快捷键，在OB里加脚注Footnote就是这么的痛快。关于Footnote脚注，看这个就可以了 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bh411p7mv/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+
 [Johnny学OB 第22集 - 光速添加时间戳，用OB看本地视频学习，原来可以这么爽的 Obsidian | 黑曜石笔记教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1EA411F7Xk/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%用飞书实现视频文本识别%%
 [Johnny学OB 第21集 - OB的日记功能你真的用对了吗（下集）模板、标签加搜索，你的日记可以很强大 Obsidian | 黑曜石笔记 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wg41157wB/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%日历的待办用法%%
 [Johnny学OB 第19集 - 只有想不到，没有找不到，OB超级强大的搜索功能，你到底用到了几成？Obsidian | 黑曜石笔记使用教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MU4y1N7u3/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%搜索结果复制和搜索路径非常有用%%

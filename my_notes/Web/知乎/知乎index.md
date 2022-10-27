@@ -1,7 +1,8 @@
 ### 语言表达
 ```dataview
 list 
-from "知乎/语言表达"
+from "Web/知乎/语言表达"
+where status = "已完成"
 sort file.ctime asc
 ```
 

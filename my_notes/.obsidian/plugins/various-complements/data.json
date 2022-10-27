@@ -98,8 +98,8 @@
     "tables": {
       "tables": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666770093085
+          "count": 3,
+          "lastUpdated": 1666851892996
         }
       }
     },
@@ -164,6 +164,174 @@
         "currentVault": {
           "count": 2,
           "lastUpdated": 1666794323726
+        }
+      }
+    },
+    "已完成": {
+      "已完成": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1666870029550
+        }
+      }
+    },
+    "list": {
+      "list": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666863965151
+        }
+      }
+    },
+    "ebchat_redirect": {
+      "ebchat_redirect": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666848789628
+        }
+      }
+    },
+    "frontmatter": {
+      "frontmatter": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666863637792
+        }
+      }
+    },
+    "tag": {
+      "tag": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666849169417
+        }
+      }
+    },
+    "status": {
+      "status": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666870250717
+        }
+      }
+    },
+    "状态": {
+      "状态": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666849279272
+        }
+      }
+    },
+    "操作": {
+      "操作": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666850231940
+        }
+      }
+    },
+    "word": {
+      "word": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1666867964144
+        }
+      }
+    },
+    "online": {
+      "online": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666851388891
+        }
+      }
+    },
+    "highlightr": {
+      "highlightr": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666851864236
+        }
+      }
+    },
+    "符号": {
+      "符号": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666857888206
+        }
+      }
+    },
+    "footnote": {
+      "footnote": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666858028672
+        }
+      }
+    },
+    "erbi": {
+      "erbi": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666858887698
+        }
+      }
+    },
+    "Power BI中不显示表格总计的技巧": {
+      "Power BI中不显示表格总计的技巧": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666859094207
+        }
+      }
+    },
+    "DAX": {
+      "DAX": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1666860186700
+        }
+      }
+    },
+    "浏览文章": {
+      "浏览文章": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1666860220905
+        }
+      }
+    },
+    "泛读文章": {
+      "泛读文章": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1666860531489
+        }
+      }
+    },
+    "功能": {
+      "功能": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666861140973
+        }
+      }
+    },
+    "未阅读": {
+      "未阅读": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1666868005836
+        }
+      }
+    },
+    "contains": {
+      "contains": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666870785063
         }
       }
     }

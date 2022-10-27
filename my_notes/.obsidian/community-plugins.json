@@ -25,8 +25,10 @@
   "customizable-menu",
   "cm-chs-patch",
   "find-unlinked-files",
-  "obsidian-outliner",
   "obsidian-extract-pdf-highlights",
   "obsidian-annotator",
-  "media-extended"
+  "media-extended",
+  "highlightr-plugin",
+  "search-on-internet",
+  "obsidian-footnotes"
 ]

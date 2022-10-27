@@ -1,14 +1,15 @@
 ---
-created: 2022-10-26T22:41:41 (UTC +08:00)
-tags: []
+created: 2022-10-14T22:41:41 (UTC +08:00)
+tags: DAX
 pagetitle: 认识Power BI中的财务函数
 source: https://mp.weixin.qq.com/s/-PkaudojWtrQX4g3PiTwNw
 author: 采悟
-status: 
+status: 已完成 
+category: 浏览文章
 uid: 
 ---
 
-[前面文章](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484082457&idx=1&sn=31519e6ea0656cf8bcccd9c86aa2172f&chksm=8e13bdceb96434d87ea55b9c93fa23970be977fa081257cf932b218734e6e821262490b072ee&scene=21#wechat_redirect)中介绍了收益率相关的计算，其实DAX中还有一类函数，专门用于这种计算，除了收益率，还有折旧、现值/终值、投资回报期等财务场景的计算，这就是DAX财务函数。
+[前面文章](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484082457&idx=1&sn=31519e6ea0656cf8bcccd9c86aa2172f&chksm=8e13bdceb96434d87ea55b9c93fa23970be977fa081257cf932b218734e6e821262490b072ee&scene=21#wechat_redirect)中介绍了收益率相关的计算，其实DAX中还有一类函数，专门用于这种计算，除了<mark style="background: #FF5582A6;">收益率</mark>，还有<mark style="background: #FF5582A6;">折旧、现值/终值、投资回报期</mark>等财务场景的计算，这就是<mark style="background: #FFB86CA6;">DAX财务函数</mark>。
 
 财务函数是将一些常用的、规律性的财务计算逻辑，封装成函数，以便帮助用户更快捷实现特定的计算。
 
@@ -22,9 +23,9 @@ https://learn.microsoft.com/zh-cn/dax/financial-functions-dax
 
 **PV** 
 
-根据固定利率计算现金流的现值
+根据<mark style="background: #FF5582A6;">固定利率计算现金流的现值</mark>
 
-假如每月还房贷5000元，年利率5%，20年还清，则现值（也就是初始贷款额）可以这样计算：
+假如每月还<mark style="background: #FFB86CA6;">房贷</mark>5000元，年利率5%，20年还清，则现值（也就是初始贷款额）可以这样计算：
 
 > 贷款额(20年月供5000年息5%) = PV( 0.05/12 , 20\*12 , -5000)
 
@@ -32,7 +33,7 @@ https://learn.microsoft.com/zh-cn/dax/financial-functions-dax
 
 **FV**
 
-根据固定利率计算现金流的终值
+根据<mark style="background: #FF5582A6;">固定利率计算现金流的终值</mark>
 
 FV与PV正好相反，如果你每月存5000，年利率5%，你想知道存够20年以后会变成多少钱，就可以用这个函数：  
 
@@ -42,7 +43,7 @@ FV与PV正好相反，如果你每月存5000，年利率5%，你想知道存够2
 
 ## **PDURATION**
 
-## 返回投资达到指定值所需的期数
+返回<mark style="background: #FF5582A6;">投资达到指定值所需的期数</mark>
 
 比如年收益率10%，投入5万元，多少年后可以得到10万，也就是投资翻倍需要的年数，就可以用这个函数来计算。  
 
@@ -52,7 +53,7 @@ FV与PV正好相反，如果你每月存5000，年利率5%，你想知道存够2
 
 **RRI**
 
-返回投资的每期收益率
+返回<mark style="background: #FF5582A6;">投资的每期收益率</mark>
 
 通过这个函数，已知现值、终值和期数，就可以计算出每期的收益率。  
 
@@ -68,7 +69,7 @@ FV与PV正好相反，如果你每月存5000，年利率5%，你想知道存够2
 
 **XIRR**
 
-返回不一定具有周期性的现金流时间表的内含收益率
+返回<mark style="background: #FF5582A6;">不一定具有周期性的现金流时间表的内含收益率</mark>
 
 上面RRI计算每期收益率，是在非常规律的周期性现金流的基础上的，这种计算起来比较简单。  
 
@@ -83,15 +84,3 @@ FV与PV正好相反，如果你每月存5000，年利率5%，你想知道存够2
 上述投资的内含报酬率为24.87%。
 
 关于财务函数就简单介绍这几个，更多财务函数可以在官方文档中了解，其实这些函数都不复杂，先熟悉这些函数的语法，弄清楚他们的作用和对应的参数，然后将相关财务信息放到指定的参数位置上，就可以直接得到需要的结果。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

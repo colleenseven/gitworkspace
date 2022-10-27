@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "804b39906dfcb992",
+        "id": "846300e5fe90693c",
         "type": "tabs",
         "children": [
           {
-            "id": "2f928fb5d1cfbf59",
+            "id": "0f452d02406c2651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerBI/Web_PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9f83c1a14b48a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小古文/web_古文库/孔融让梨原文及翻译_范晔文言文_古诗文网.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "孟",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小古文/web_古文库/孔融让梨原文及翻译_范晔文言文_古诗文网.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小古文/web_古文库/孔融让梨原文及翻译_范晔文言文_古诗文网.md",
+                "file": "Templates/T-frontmater新文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小古文/web_古文库/孔融让梨原文及翻译_范晔文言文_古诗文网.md"
+                "file": "Templates/T-frontmater新文件.md"
               }
             }
           },
@@ -181,20 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4f9f83c1a14b48a0",
+  "active": "0f452d02406c2651",
   "lastOpenFiles": [
     "PowerBI/Web_PowerBi星球/认识Power BI中的财务函数.md",
-    "小古文/web_古文库/孔融让梨原文及翻译_范晔文言文_古诗文网.md",
-    "PowerBI/Web_PowerBi星球/Power BI中不显示表格总计的技巧.md",
-    "OB操作/OB插件.md",
-    "歌曲/大风吹.md",
-    "Excalidraw/Drawing 2022-10-26 21.49.25.excalidraw.md",
-    "PowerBI/Web_PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md",
-    "PowerBI/Web_PowerBi星球/用一个度量值返回列表？CONCATENATEX函数你应该掌握.md",
-    "PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
-    "Templates/T-frontmater新文件.md"
+    "PowerBI/index_Powerbi星球.md",
+    "Web/知乎/知乎index.md",
+    "Web/知乎/语言表达/人生感悟/爱是不是能败给穷?.md",
+    "Web/知乎/语言表达/人生感悟/31 岁北大考古博士刘拓在考察洞窟壁画时坠崖去世，他对考古学有哪些贡献?.md",
+    "Web/知乎/语言表达/人生感悟/「以绝大数人努力程度之低，根本没有要到拼天赋的地步」这句话可信吗？.md",
+    "Web/知乎/语言表达/人生感悟/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
+    "Web/Power BI如何制作漂亮的玫瑰图？.md",
+    "Templates/T-frontmater新文件.md",
+    "Templates/T-table.md"
   ]
 }
