@@ -2,7 +2,6 @@
   "calendar",
   "obsidian-tasks-plugin",
   "dataview",
-  "obsidian-day-planner",
   "obsidian-checklist-plugin",
   "obsidian-pandoc",
   "obsidian-rollover-daily-todos",
@@ -30,5 +29,9 @@
   "media-extended",
   "highlightr-plugin",
   "search-on-internet",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-shellcommands",
+  "better-word-count",
+  "quickadd",
+  "obsidian-copy-block-link"
 ]

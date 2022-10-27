@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/T-frontmater新文件.md",
+                "file": "小古文/web_古文库/朱子家训·全文_古诗文网.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "孟",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/T-frontmater新文件.md",
+                "file": "小古文/web_古文库/朱子家训·全文_古诗文网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/T-frontmater新文件.md",
+                "file": "小古文/web_古文库/朱子家训·全文_古诗文网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/T-frontmater新文件.md"
+                "file": "小古文/web_古文库/朱子家训·全文_古诗文网.md"
               }
             }
           },
@@ -170,15 +171,15 @@
   },
   "active": "0f452d02406c2651",
   "lastOpenFiles": [
+    "OB操作/OB插件.md",
+    "PowerBI/Web_PowerBi星球/Power BI中不显示表格总计的技巧.md",
+    "PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
+    "Templates/T-frontmater新文件.md",
     "PowerBI/Web_PowerBi星球/认识Power BI中的财务函数.md",
     "PowerBI/index_Powerbi星球.md",
     "Web/知乎/知乎index.md",
     "Web/知乎/语言表达/人生感悟/爱是不是能败给穷?.md",
     "Web/知乎/语言表达/人生感悟/31 岁北大考古博士刘拓在考察洞窟壁画时坠崖去世，他对考古学有哪些贡献?.md",
-    "Web/知乎/语言表达/人生感悟/「以绝大数人努力程度之低，根本没有要到拼天赋的地步」这句话可信吗？.md",
-    "Web/知乎/语言表达/人生感悟/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
-    "Web/Power BI如何制作漂亮的玫瑰图？.md",
-    "Templates/T-frontmater新文件.md",
-    "Templates/T-table.md"
+    "Web/知乎/语言表达/人生感悟/「以绝大数人努力程度之低，根本没有要到拼天赋的地步」这句话可信吗？.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-created: 2022-10-27T17:42:11 (UTC +08:00)
+create_date:2022-10-27T17:42:11 (UTC +08:00)
 tags: 
 pagetitle: Power BI如何进行收益率相关的计算？
 source: https://mp.weixin.qq.com/s/IXGtLDzNBwL21ncx0zOn8A

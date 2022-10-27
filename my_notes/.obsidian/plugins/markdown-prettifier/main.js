@@ -3947,7 +3947,7 @@ var jsYaml = {
 
 var DEFAULT_DATE_FORMAT = 'YYYYMMDDHHmm';
 var DATE_REGEX = /(?<target>{{date:?(?<date>[^}]*)}})/g;
-var NEW_HEADER_TEMPLATE = "\ndate created: \"{{date:YYYY-MM-DD HH:mm}}\" \n";
+var NEW_HEADER_TEMPLATE = "\ndate create_date:\"{{date:YYYY-MM-DD HH:mm}}\" \n";
 var UPDATE_HEADER_TEMPLATE = "\ndate updated: \"{{date:YYYY-MM-DD HH:mm}}\" \n";
 var DEFAULT_OPTIONS = {
     bullet: "-",

@@ -1,5 +1,5 @@
 ---
-created: 2022-10-27T17:43:34 (UTC +08:00)
+create_date:2022-10-27T17:43:34 (UTC +08:00)
 tags: 
 pagetitle: 原来Power BI不是必须从外部导入数据，还可以直接"输入数据"
 source: https://mp.weixin.qq.com/s/TnxgSG6sXu8M-bENSo1slg

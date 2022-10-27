@@ -1,5 +1,5 @@
 ---
-created: 2022-10-14T22:41:41 (UTC +08:00)
+create_date:2022-10-14T22:41:41 (UTC +08:00)
 tags: DAX
 pagetitle: 认识Power BI中的财务函数
 source: https://mp.weixin.qq.com/s/-PkaudojWtrQX4g3PiTwNw

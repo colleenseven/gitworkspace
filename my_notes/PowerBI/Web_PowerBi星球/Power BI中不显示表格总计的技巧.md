@@ -1,5 +1,5 @@
 ---
-created: 2022-10-16T22:40:47 (UTC +08:00)
+create_date:2022-10-16T22:40:47 (UTC +08:00)
 tags: DAX 
 pagetitle: Power BI中不显示表格总计的技巧
 source: https://mp.weixin.qq.com/s/phP28WetvTpZGH2O3sSzSA
