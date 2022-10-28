@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读计划汇总.md",
+                "file": "OB操作学习/OB插件.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hj",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读计划汇总.md",
+                "file": "OB操作学习/OB插件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读计划汇总.md",
+                "file": "OB操作学习/OB插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读计划汇总.md"
+                "file": "OB操作学习/OB插件.md"
               }
             }
           },
@@ -158,19 +158,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2fd8226d64d9178b",
   "lastOpenFiles": [
+    "Web/知乎/文化写作/中国古代神话能构成一个体系吗？如果能，是何种逻辑及联系？.md",
     "笔记概述.md",
+    "OB操作学习/OB插件.md",
+    "刘博尹成长记录/英语读书笔记/gkid课本四册.md",
+    "阅读计划汇总.md",
+    "求职面试/海淀区精华培训学校 教育社群运营专员.md",
     "PowerBI/index_Powerbi星球.md",
-    "求职准备/index_求职.md",
-    "求职准备/中电建物业管理有限公司 线上社区运营.md",
-    "求职准备/海淀区精华培训学校 教育社群运营专员.md",
-    "刘博尹成长记录/小学阅读/二年级/小鲤鱼跳龙门.md",
-    "刘博尹成长记录/小学阅读/二年级/螃蟹小裁缝.md",
-    "刘博尹成长记录/小学阅读/二年级/买梦.md",
-    "刘博尹成长记录/小学阅读/二年级/老鼠和万花筒.md",
-    "刘博尹成长记录/小学阅读/二年级/恐龙鲁鲁.md"
+    "求职面试/index_求职.md",
+    "求职面试/中电建物业管理有限公司 线上社区运营.md",
+    "刘博尹成长记录/小学阅读/二年级/小鲤鱼跳龙门.md"
   ]
 }

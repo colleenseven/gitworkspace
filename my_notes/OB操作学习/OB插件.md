@@ -54,13 +54,13 @@ date updated: 2022-10-28 14:52
 
 #### markdown prettifier
 
-[Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行%%
+[Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行，但使用prettifier可能会删除tags的meta数据%%
 
 #### copy block link
 
-[通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用%%
+[通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用，只引用链接用to block，引用内容用embed%%
 
-#### search  on internet
+#### search  on internet【待优化】
 
 [Johnny学OB 第40集 如何在Obsidian里通过右键快速查询那些你不认识的字 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HQ4y1q7jJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%内嵌搜索后，总是新增tab，还没解决%%
 
@@ -74,14 +74,13 @@ date updated: 2022-10-28 14:52
 
 #### comment
 
-[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)%%dataview在搜索的时候能搜索到注释内的内容，用于定位和引用，注释用^^符号%%
+[OB的注释还可以这么用，没想到吧 Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vG411g7h7/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)%%dataview在搜索的时候能搜索到注释内的内容，用于定位和引用，注释用"!+[+[+^^+内容 ]+]"符号，可以代替搜索功能，只要页面内有，不管是否可见均可使用%%
 
 #### highlight
 
 [[Obs＃5] Obsidian(黑曜石) 高亮度显示或变更文字顏色的3种方法 (CC字幕)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1df4y1w7jr/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 = = 内容写法 = =
-
 ==内容效果==
 
 #### callout
@@ -103,8 +102,7 @@ date updated: 2022-10-28 14:52
 > tip, hint, important
 
 > [!success] success
-
-success, check, done
+> success, check, done
 
 > [!failure] failure
 > failure, fail, missing
@@ -122,12 +120,11 @@ success, check, done
 > bug
 
 > [! example]  example
+> example
 
-example
 
 > [!quote] quote
-
-quote, cite
+> quote, cite
 
 ---
 

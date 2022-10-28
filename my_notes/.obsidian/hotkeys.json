@@ -57,5 +57,42 @@
       "key": "L"
     }
   ],
-  "markdown-prettifier:markdown-prettifier-update-fields": []
+  "markdown-prettifier:markdown-prettifier-update-fields": [],
+  "app:open-settings": [],
+  "app:go-back": [],
+  "window:toggle-always-on-top": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:go-forward": [],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:undo-close-pane": []
 }
