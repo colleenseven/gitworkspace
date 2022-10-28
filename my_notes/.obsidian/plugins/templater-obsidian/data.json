@@ -15,12 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "知乎",
-      "template": "Templates/T-frontmater新文件.md"
-    },
-    {
-      "folder": "小古文",
-      "template": "Templates/T-frontmater新文件.md"
+      "folder": "/",
+      "template": "Templates/T-frontmater全局.md"
     }
   ],
   "syntax_highlighting": true,

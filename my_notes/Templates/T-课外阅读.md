@@ -1,5 +1,3 @@
-开始阅读时间 {{date:YYYY-MM-DD}}  {{time:HH:mm}}
-
 ### 写作手法学习
 
 

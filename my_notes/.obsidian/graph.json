@@ -5,15 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:知乎",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
     {
       "query": "path:日常",
       "color": {
@@ -22,17 +15,24 @@
       }
     },
     {
-      "query": "path:OB操作",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "path:歌曲",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Web",
+      "color": {
+        "a": 1,
+        "rgb": 15476598
+      }
+    },
+    {
+      "query": "path:小古文",
+      "color": {
+        "a": 1,
+        "rgb": 15454244
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5074458899286798,
+  "scale": 0.2915625132987088,
   "close": true
 }

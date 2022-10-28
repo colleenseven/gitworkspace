@@ -47,5 +47,15 @@
       ],
       "key": "3"
     }
-  ]
+  ],
+  "markdown-prettifier:markdown-prettifier-run": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "markdown-prettifier:markdown-prettifier-update-fields": []
 }

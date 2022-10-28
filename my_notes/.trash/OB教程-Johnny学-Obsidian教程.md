@@ -1,6 +1,6 @@
 ---
 create_date: <%tp.file.creation_date() %>
-tag: null
+tags: null
 date updated: 2022-10-25 15:07
 ---
 
