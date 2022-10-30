@@ -7,7 +7,7 @@ uid:
 #### 已完成
 ```dataview
 list 
-from "求职准备"
+from "求职面试"
 where status= "已完成"
 sort create_date DESC 
 ```
@@ -15,7 +15,7 @@ sort create_date DESC
 
 ```dataview
 list 
-from "求职准备"
+from "求职面试"
 where status= "未完成"
 sort create_date DESC 
 ```

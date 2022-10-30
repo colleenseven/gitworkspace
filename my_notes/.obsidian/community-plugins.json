@@ -28,5 +28,6 @@
   "obsidian-shellcommands",
   "quickadd",
   "obsidian-copy-block-link",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-linter"
 ]

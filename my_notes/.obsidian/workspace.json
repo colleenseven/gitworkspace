@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17924e8a5a7e7096",
+        "id": "b27fad6a19136e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd8226d64d9178b",
+            "id": "56574e7836e1b81d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB操作学习/OB插件.md"
+                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md"
               }
             }
           },
@@ -158,20 +158,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2fd8226d64d9178b",
+  "active": "56574e7836e1b81d",
   "lastOpenFiles": [
-    "Web/知乎/文化写作/中国古代神话能构成一个体系吗？如果能，是何种逻辑及联系？.md",
-    "笔记概述.md",
-    "OB操作学习/OB插件.md",
-    "刘博尹成长记录/英语读书笔记/gkid课本四册.md",
     "阅读计划汇总.md",
-    "求职面试/海淀区精华培训学校 教育社群运营专员.md",
-    "PowerBI/index_Powerbi星球.md",
-    "求职面试/index_求职.md",
-    "求职面试/中电建物业管理有限公司 线上社区运营.md",
-    "刘博尹成长记录/小学阅读/二年级/小鲤鱼跳龙门.md"
+    "笔记概述.md",
+    "刘博尹成长记录/小学阅读/狐狸打猎人的故事内容 狐狸打猎人的故事 - 知识问答 - 晟火网.md",
+    "刘博尹成长记录/小学语文/科普一下连动式词语和兼语，可以吗？ - 知乎.md",
+    "刘博尹成长记录/小学语文/小学语文基础知识归纳表.md",
+    "Write/知乎/如何看待《一人客栈》中提到的年轻人裸辞现象？年轻人该不该选择职场裸辞？.md",
+    "knowledge/Web/知乎/语言表达/缓存区/40岁的你想告诉 30 岁的人什么人生道理？.md",
+    "knowledge/Web/知乎/语言表达/缓存区/为什么大家都知道打工不挣钱都还在打工？.md",
+    "knowledge/PowerBI/Web_PowerBi星球/PowerBI可视化设计：预警指标分析.md",
+    "刘博尹成长记录/小学阅读/二年级/狐狸打猎人.md"
   ]
 }

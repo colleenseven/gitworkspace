@@ -12,13 +12,17 @@ date updated: 2022-10-28 14:52
 
 [别装，老实讲，这些基本操作，你到底几个不会用？左手Word，右手Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A34y1n738/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%ob与word选中操作和光标移动操作的区别%%
 
+[Johnny学OB 第26集 - 关于模板、标签、别名、嵌入、Frontmatter和快捷键 OB基础打得牢，你才真正用得好 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fq4y1K71h/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%模板可以原子化，在frontmatter中存储标签%%
+
 ### 思维导图插件
 
-#### drawio
+#### drawio 
 
 [超强obsidian插件 drawio图表编辑工具需要花费半小时讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sd4y117G1/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137) %%diagram绘图，用右键插入新的绘图%%
 
 #### excalidraw
+
+[这个给Obsidian写插件的大叔，真的有点牛，一人干翻一个团队，Excalidraw还可以这么用 Johnny用Obsidian去考试 【系列第二集】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WZ4y1D7X6/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 [【Obsidian视觉笔记】如何降低阅读文献/教科书的痛苦（白板|excalidraw）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1SB4y1n7zd/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%模拟无限制白板，从边栏插入，有单独的folder，可以设置字体，用法很高级%%
 
@@ -31,6 +35,10 @@ date updated: 2022-10-28 14:52
 [Johnny学OB 第14集 - 在OB里实现幕布的大纲笔记效果。所用插件Outliner和Zoom。Obsidian | 黑曜石教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nh411s73k/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%设置好后，在页面内使用- 的无序列表均可自动套用%%
 
 ### 功能增强
+
+#### VariousComplete
+
+[Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%%%重点是设置本地的词库文件，可以设置成词库/四六级.md，必须是md格式的才能识别，如果不是则无法识别%%
 
 #### highlightr
 
@@ -69,8 +77,6 @@ date updated: 2022-10-28 14:52
 [Johnny学OB 第23集 - 只需一个快捷键，在OB里加脚注Footnote就是这么的痛快。关于Footnote脚注，看这个就可以了 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bh411p7mv/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%角标使用^符号，需可以快速匹配到页尾的角标%%
 
 ### 特色功能
-
-### 语法
 
 #### comment
 
@@ -126,15 +132,24 @@ date updated: 2022-10-28 14:52
 > [!quote] quote
 > quote, cite
 
+
+### 周边功能
+
+[Johnny学OB 一个网站帮你搞定用好Obsidian，你需要知道的所有语言_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1e7nJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+	[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)%%学习yaml写法%%
+[Johnny学 这是我最爱用的录音工具了——AudioMass_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DT4y1a73x/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+	[AudioMass - Audio Editor](https://audiomass.co/)%%开源免费录制工具%%
+
 ---
 
 ## 未完成记录
 
 ### 功能增强
 
-#### VariousComplete（补全未学会）
+#### linter
 
-[Obsidian好用的补全插件VariousComplete_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1at4y1u7uS/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
+[如何在Obsidian中去除那些恼人的空行_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12N4y1T7HT/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+[Linter小妙招-如何在Obsidian中复用你的Yaml设置_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ng411278B/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 #### auto link to title
 
@@ -178,7 +193,7 @@ date updated: 2022-10-28 14:52
 
 #### templater
 
-[Johnny学OB 第26集 - 关于模板、标签、别名、嵌入、Frontmatter和快捷键 OB基础打得牢，你才真正用得好 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fq4y1K71h/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%frontmatter和标签用处很大%%
+
 
 #### text snippets
 
@@ -190,20 +205,11 @@ date updated: 2022-10-28 14:52
 
 #### annotator
 
-#### 周边功能
-
 easy typing
 [【IP爱学习】obsidian自动格式化插件Easy-Typing|中文文本增强插件|实用插件推荐，提升使用效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HU4y1r7rT/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
-#### 参考链接
 
----
-
-## create_date: 2022-10-25 12:25
-tags null
-date updated: 2022-10-25 15:07
-
-### OB博主主页
+## OB博主主页
 
 [Johnny学的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/432408734/video)
 [简睿学堂-emisjerry的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1119961064)
@@ -216,22 +222,15 @@ date updated: 2022-10-25 15:07
 #### 优质已读内容
 
 [全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
-
 [Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
 
-##### 标记类
-
-[如何在Obsidian中去除那些恼人的空行_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12N4y1T7HT/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[Johnny学OB 一个网站帮你搞定用好Obsidian，你需要知道的所有语言_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1e7nJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)%%学习yaml写法%%
 [一秒生成一万行组合文本，活用Textce，提高你的输出效率 【Johnny学Textce 第二集】 一秒生成一万行组合文本，活用Textce，提供你的输出效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Vr4y1p7K3/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%失效了%%
-[Johnny学 这是我最爱用的录音工具了——AudioMass_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DT4y1a73x/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[AudioMass - Audio Editor](https://audiomass.co/)%%开源免费录制工具%%
-[这个给Obsidian写插件的大叔，真的有点牛，一人干翻一个团队，Excalidraw还可以这么用 Johnny用Obsidian去考试 【系列第二集】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WZ4y1D7X6/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+
 [Johnny学ClickUp 第3集 超级高效的ClickUp快捷键以及超级强大的嵌入功能_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nF411z7JY/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 [Johnny的OB私训课之精华分享1 帮小宋律师用Obsidian的Templater插件一键创建同客户相关的所有文件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aY411s7rd/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%批量生成文件很有用%%
-[Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%
+
 [Johnny学OB 第45集 分享OB必用插件Templater的两个懒人用法，看不懂没关系，放到模板下面就可以用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RR4y1x7S8/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%快速把文件移动到指定文件夹%%
 [Johnny学OB 第44集 如何使用Templater在阅读时，一键完成为选中的关键词创建笔记、添加双链、移动到制定文件夹并应用选定模板等一系列操作_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ef4y1K77F/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学OB 第39集 用Obsidian的URI协议，将Airtable中的数据，添加或者更新到OB Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1344y1i71m/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)

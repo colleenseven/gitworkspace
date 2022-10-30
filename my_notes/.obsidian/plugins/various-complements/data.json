@@ -5,7 +5,7 @@
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 2,
   "minNumberOfWordsTriggeredPhrase": 1,
-  "complementAutomatically": true,
+  "complementAutomatically": false,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
@@ -19,7 +19,7 @@
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
   "propagateEsc": false,
-  "enableCurrentFileComplement": false,
+  "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
   "enableCurrentVaultComplement": true,
@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "/Users/liuzhong/gitworkspace/my_notes/词库/四级词汇.txt",
+  "customDictionaryPaths": "词库/四级词汇.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -170,8 +170,8 @@
     "已完成": {
       "已完成": {
         "frontMatter": {
-          "count": 71,
-          "lastUpdated": 1666939349136
+          "count": 72,
+          "lastUpdated": 1666963477289
         }
       }
     },
@@ -520,6 +520,22 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1666940817913
+        }
+      }
+    },
+    "io": {
+      "io": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666946979280
+        }
+      }
+    },
+    "歌词": {
+      "歌词": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666966239701
         }
       }
     }
