@@ -1,11 +1,11 @@
 ---
 create_date: 2022-10-20T23:15:58 (UTC +08:00)
-tags: 
+tags: DAX函数
 pagetitle: 用一个度量值返回列表？CONCATENATEX函数你应该掌握
 source: https://mp.weixin.qq.com/s/c7rH7AvxeCu9gZyJOy_e7A
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
@@ -27,9 +27,9 @@ CONCATENATEX函数迭代表的每一行，按表达式和分隔符将每一行�
 > 
 > ）
 
-由于度量值的结果都只能是一个值，当需要返回多个值时，就可以利用CONCATENATEX函数将多个值连接成一个字符串输出，下面通过几个应用场景来理解这个函数的用法。
+由于度量值的结果都只能是一个值，当<mark style="background: #FF5582A6;">需要返回多个值时，就可以利用CONCATENATEX函数将多个值连接成一个字符串输出</mark>，下面通过几个应用场景来理解这个函数的用法。
 
-**1\. 返回多个类别名称**
+### **1\. 返回多个类别名称**
 
 对于多选的切片器，如果想获取切片器的选项，其结果就是一个列表，这时就可以用CONCATENATEX函数将列表合并成一个字符串来返回，比如获取产品切片器的筛选情况，度量值可以这样写：
 
@@ -58,7 +58,7 @@ CONCATENATEX函数迭代表的每一行，按表达式和分隔符将每一行�
 
 参考：[Power BI可视化设计：用文字展示切片器的筛选情况](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080905&idx=1&sn=31fb4dd94d4a23988183f463c8e85c41&chksm=8e13bbdeb96432c89c7744d82533d86fcd469e091b4153d57b7558030ea61ef95183fe6c5e47&scene=21#wechat_redirect)  
 
-**2\. 返回多个类别的名称和数据**
+### **2\. 返回多个类别的名称和数据**
 
 如果不仅想展示切片器所选的产品，还需要同时展示出该产品的利润，就可以这样写个度量值：
 
@@ -78,7 +78,7 @@ CONCATENATEX函数迭代表的每一行，按表达式和分隔符将每一行�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJM5mO8kJBGGCniaj9icJOEG5icbiaU4CbSEznkYr8IbtvuSH25PGIhD2Y7P7oKjgghAbpnic2qRLZGzMng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**3\. 按顺序来展示类别名称和数据**
+### **3\. 按顺序来展示类别名称和数据**
 
 在上面效果的基础上，如果想让这些产品，按照利润额的高低，从上往下排列展示，就需要用到CONCATENATEX函数的第4和第5参数：
 
@@ -107,15 +107,3 @@ CONCATENATEX函数迭代表的每一行，按表达式和分隔符将每一行�
 通过上面3个场景，把CONCATENATEX函数的每个参数的用法都做了介绍，遇到类似的需求时，就会更理解该函数的妙处。
 
 之前介绍的动态展示表的例子，其中第一种方法，也是用CONCATENATEX函数来实现的：[Power BI如何动态展示表？送你两种方法](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074639&idx=1&sn=03b003d199f754794c0bac8af15c50e0&chksm=8e0c5258b97bdb4e0aa92667a047bca5c7705f86a6c2b4ac66e3eefc171ca95e6891a433ecff&scene=21#wechat_redirect)
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

@@ -29,5 +29,7 @@
   "quickadd",
   "obsidian-copy-block-link",
   "better-word-count",
-  "obsidian-linter"
+  "obsidian-linter",
+  "convert-url-to-iframe",
+  "workspaces-plus"
 ]

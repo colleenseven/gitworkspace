@@ -1,11 +1,11 @@
 ---
 create_date: 2022-10-26T23:16:48 (UTC +08:00)
-tags: 
+tags: DAX函数
 pagetitle: PowerQuery查询加载到数据模型后，列的顺序变了怎么办？
 source: https://mp.weixin.qq.com/s/ZOQH-vima84K5a3wXquBOQ
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
@@ -27,7 +27,7 @@ uid:
 
 可以通过以下两种方法来解决。  
 
-**1\. 在PQ中重新加载**
+### **1\. 在PQ中重新加载**
 
 因为第一次加载时顺序就不会错乱，所以就可以先删掉这个查询，然后重新导入整理数据后再次加载，不过如果数据清洗比较复杂，需要的操作步骤也会很多，这样就太麻烦了。
 
@@ -37,9 +37,9 @@ uid:
 
 然后点击关闭并应用，模型中就不会再有这个表，这时度量值/可视化图表可能因为缺少这个表的数据而报错，不用理会这些报错，直接再次进入PQ编辑器，重新勾选“启用加载”，再上载到模型以后，列的顺序就一样了，之前的报错也会消失。
 
-**2\. 利用SELECTCOLUMNS对列重新排序**
+### **2\. 利用SELECTCOLUMNS对列重新排序**
 
-如果不想在PowerQuery操作，也可以用SELECTCOLUMNS函数重新排序后再用UNION合并。
+如果不想在PowerQuery操作，<mark style="background: #FF5582A6;">也可以用SELECTCOLUMNS函数重新排序后再用UNION合并。</mark>
 
 比如正常的表1是这样的顺序：  
 
@@ -53,6 +53,11 @@ uid:
 
 ```
 合并表 = 
+UNION(
+    '表1',
+    SELECTCOLUMNS('表2',"订单日期",[订单日期],"商品名称",[商品名称],"订单数量",[订单数量],"销售金额",[销售金额])
+)
+
 ```
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMU58I3mBnfBsYpsODk574ZdWotXBicyqVGZjv65YUEXDzApIUr7lEtaoiahvgn67vEeMN77NeeZ1Gg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -64,15 +69,3 @@ uid:
 其实如果是做数据合并，并且这些表也都在PowerQuery中，建议在Powerquery中利用追加查询合并好再上载，而不必使用UNION函数在模型中合并。
 
 ___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

@@ -1,15 +1,15 @@
 ---
 create_date: 2022-09-22T23:26:49 (UTC +08:00)
-tags: 
+tags: DAX函数
 pagetitle: PowerBI如何进行工作日的滚动计算？
 source: https://mp.weixin.qq.com/s/pBFu48ruYhrjfzRTOOSXew
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
-之前的文章中介绍了滚动指标的计算（[_Power BI 滚动聚合_](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484069714&idx=1&sn=82ec558b5ef6bf991dc0de0e3a3ead79&chksm=8e0c4f85b97bc693f113d2e9bc425c405b2ab2f1a3f93d8546073265c22f099a4994f1d2acd8&scene=21#wechat_redirect)），最近被问到，如何只对工作日进行滚动计算，比如最近7个工作日的滚动求和，这种用PowerBI怎么做呢？
+之前的文章中介绍了滚动指标的计算（[_Power BI 滚动聚合_](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484069714&idx=1&sn=82ec558b5ef6bf991dc0de0e3a3ead79&chksm=8e0c4f85b97bc693f113d2e9bc425c405b2ab2f1a3f93d8546073265c22f099a4994f1d2acd8&scene=21#wechat_redirect)），最近被问到，如何只对工作日进行滚动计算，比如<mark style="background: #FF5582A6;">最近7个工作日的滚动求和</mark>，这种用PowerBI怎么做呢？
 
 关于工作日的分析，之前也分享过相应的文章：  
 
@@ -21,7 +21,7 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNbtiatk6CdmYgNu9SjpqPtAKbaX23icHwagk7mmSoVQcA7rJzfZgVjyeNKcic1lSFKQHBHAOOvus7Wg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-工作日的滚动计算，对于这种不规则的日期区间无法直接使用时间智能函数，不过使用最基本的函数也可以完成，滚动求和就可以用SUMX+FILTER组合。  
+工作日的滚动计算，对于这种<mark style="background: #FF5582A6;">不规则的日期区间无法直接使用时间智能函数</mark>，不过使用最基本的函数也可以完成，<mark style="background: #FF5582A6;">滚动求和就可以用SUMX+FILTER组合</mark>。  
 
 > 7个工作日滚动求和\=
 > 
@@ -43,7 +43,7 @@ uid:
 > 
 > )
 
-这个度量值的逻辑就是利用FILTER函数来找出最近的7个工作日期，然后SUMX函数将这7个工作日的数据累加起来。  
+这个度量值的逻辑就是利用<mark style="background: #FF5582A6;">FILTER函数来找出最近的7个工作日期</mark>，然后<mark style="background: #FF5582A6;">SUMX函数将这7个工作日的数据累加起来</mark>。  
 
 这样实现了工作日的滚动7天求和：  
 
@@ -51,7 +51,7 @@ uid:
 
 以上是工作日的滚动求和，如果是想计算工作日的滚动平均，只需要将SUMX函数变为AVERAGEX就可以了。
 
-比如30个工作日的移动平均是这样写的：
+比如<mark style="background: #FF5582A6;">30个工作日的移动平均</mark>是这样写的：
 
 > 30工作日移动平均 \=
 > 
@@ -82,17 +82,3 @@ uid:
 同理，对于计算最近N个工作日的最大值和最小值，也是改一下聚合函数，SUMX改成MAXX/MINX就可以实现。
 
 关于工作日的滚动计算，关键点是在日期表中构建关于工作日的相关列，然后就是与自然日期类似的计算思路。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

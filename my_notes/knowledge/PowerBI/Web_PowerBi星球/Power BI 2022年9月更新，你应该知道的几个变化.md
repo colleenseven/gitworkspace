@@ -1,11 +1,11 @@
 ---
 create_date: 2022-09-16T23:28:19 (UTC +08:00)
-tags: 
+tags: 数据处理功能
 pagetitle: Power BI 2022年9月更新，你应该知道的几个变化
 source: https://mp.weixin.qq.com/s/FTn7Hy9cbn8Hn-5uIz2GaA
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -17,7 +17,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-september-2022-feature-summary
 
 本月的更新依然没有大的变动，这里我挑选几个可能会对你有用的细节简单介绍一下。
 
-**1\. 层级坐标轴优化**
+### **1\. 层级坐标轴优化**
 
 当图表的X轴放多个字段时，比如把年、季度、月份都放到柱形图的X轴中，之前默认是这样的效果：
 
@@ -27,9 +27,9 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-september-2022-feature-summary
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOQ4Ig8TCcEiaebBbx92FC87Dt3gQsh1VxP8gyzOlaceLQwic2iaias9fleSVjnrwaqRf96jJIOe3yLCA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-重复的维度自动分组显示，这样的坐标轴是不是简洁多了。  
+<mark style="background: #FF5582A6;">重复的维度自动分组显示</mark>，这样的坐标轴是不是简洁多了。  
 
-**2\. 增加了是否显示聚合类型的选项**
+### **2\. 增加了是否显示聚合类型的选项**
 
 将列字段放到表格中时，之前是自动不显示默认聚合的类型，比如下面这个表格中，列字段\[零售价\]的默认聚合方式是“平均值”，直接拖拽到表格里是不显示聚合类型的：  
 
@@ -45,30 +45,10 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-september-2022-feature-summary
 
 其实建议直接用显示度量值来聚合，对度量值规范命名，并不会引起歧义，所以这个功能意义不大。  
 
-**3\. 移动布局单独调整格式功能普遍可用**
+### **3\. 移动布局单独调整格式功能普遍可用**
 
 [移动布局单独调整格式功能](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484079146&idx=1&sn=9107a5be99c1ea63fbb1da3209aa3785&chksm=8e13a0fdb96429ebf572ac6b2b9c7d3cf739de85f3490af96e18fff8e161d25e6f2ced19f2db&scene=21#wechat_redirect)最早在今年2月推出，现在该功能普遍可用！
 
 移动格式选项允许您在移动优化布局中设置视觉效果的样式和格式，而不会影响其在桌面布局中的格式。这为您提供了极大的灵活性，并为创建真正针对手机查看优化的精美报告开辟了设计可能性的世界。
 
 本月的更新就简单介绍这几个，更全面的功能可以去看官方博客继续探索，或者视频号中观看中文字幕的视频讲解。
-
-___
-
-PowerBI每月更新后，如果不能自动更新或者不方便下载，可以在公众号后台发送"**软件下载**",获取最新的PowerBI Desktop安装包；
-
-如果要下载历史安装包，也可以发送**6位年月编号**获取，比如发送“202109”获取2021年9月的安装包。
-
-更多安装说明请参考：[关于Power BI的下载和安装，你想知道的都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078648&idx=1&sn=7e53496bd78498ed962696055a500474&chksm=8e13a2efb9642bf98bb73de730c5141d61eb2dfd22e1781c2603745137302ea56ba2ae4dd6ba&scene=21#wechat_redirect)
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

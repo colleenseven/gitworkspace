@@ -112,5 +112,23 @@
       ],
       "key": "M"
     }
+  ],
+  "templater-obsidian:Templates/T-三级标题.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:Templates/T-四级标题.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "4"
+    }
   ]
 }

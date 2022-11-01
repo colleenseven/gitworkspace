@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b27fad6a19136e9d",
+        "id": "a3e939fc5b361fde",
         "type": "tabs",
         "children": [
           {
-            "id": "56574e7836e1b81d",
+            "id": "030562783a57fc5d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/商业洞察/index_刘润.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7e537e4ef11987d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
+                "file": "OB操作学习/OB插件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hj",
+                "query": "方法论",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
+                "file": "OB操作学习/OB插件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md",
+                "file": "OB操作学习/OB插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/PowerBI/Web_PowerBi星球/如何在Power BI中制作各式各样的小多图？.md"
+                "file": "OB操作学习/OB插件.md"
               }
             }
           },
@@ -158,19 +173,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
-  "active": "56574e7836e1b81d",
+  "active": "0a4ad9e76c6bad0d",
   "lastOpenFiles": [
-    "阅读计划汇总.md",
-    "笔记概述.md",
-    "刘博尹成长记录/小学阅读/狐狸打猎人的故事内容 狐狸打猎人的故事 - 知识问答 - 晟火网.md",
-    "刘博尹成长记录/小学语文/科普一下连动式词语和兼语，可以吗？ - 知乎.md",
-    "刘博尹成长记录/小学语文/小学语文基础知识归纳表.md",
-    "Write/知乎/如何看待《一人客栈》中提到的年轻人裸辞现象？年轻人该不该选择职场裸辞？.md",
-    "knowledge/Web/知乎/语言表达/缓存区/40岁的你想告诉 30 岁的人什么人生道理？.md",
-    "knowledge/Web/知乎/语言表达/缓存区/为什么大家都知道打工不挣钱都还在打工？.md",
-    "knowledge/PowerBI/Web_PowerBi星球/PowerBI可视化设计：预警指标分析.md",
-    "刘博尹成长记录/小学阅读/二年级/狐狸打猎人.md"
+    "knowledge/商业洞察/刘润/拆解直播带货.md",
+    "knowledge/商业洞察/index_刘润.md",
+    "knowledge/商业洞察/刘润/抵御寒气：信心，就是黄金.md",
+    "knowledge/商业洞察/刘润/到底什么是外包？.md",
+    "knowledge/商业洞察/刘润/如果你的梦想是移民火星，你准备怎么实现？.md",
+    "knowledge/PowerBI/Web_PowerBi星球/多列结构的二维表转一维表，PowerQuery可以这样做.md",
+    "knowledge/PowerBI/index_Powerbi星球.md",
+    "knowledge/Web/知乎/语言表达/人生感悟/该不该接受自己平庸？.md",
+    "Write/知乎/从什么时候开始，承认自己是个普通甚至平庸的人？.md",
+    "knowledge/Web/知乎/语言表达/个人成长训练/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md"
   ]
 }

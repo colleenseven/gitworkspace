@@ -1,11 +1,11 @@
 ---
 create_date: 2022-09-13T23:28:55 (UTC +08:00)
-tags: 
+tags: 建模技巧
 pagetitle: 多列结构的二维表转一维表，PowerQuery可以这样做
 source: https://mp.weixin.qq.com/s/uLbXKUXQrTYIcmBS0LWXPA
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
@@ -21,7 +21,7 @@ uid:
 
 其实熟练掌握了PowerQuery基本界面功能，这种结构的转换也不难，下面来看一下转换步骤：  
 
-**第一步：选中课程1和成绩1两列，点击合并列。**
+#### **第一步：选中课程1和成绩1两列，点击合并列。**
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMHxg0uxa5YhybNgQARnJfuiaFlibpeZBNJ2nTjV86u0KbsqM89dYvzLVt9WhDUIRCmicE0hicIjCC0mw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -31,11 +31,11 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMHxg0uxa5YhybNgQARnJfu3JqTm5t1NhOf6wKant3u7uXrvshJZRlEJdFXMN2lPJPIPsBefFf5sg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**第二步：选中“姓名”列，点击“逆透视其他列”，逆透视后数据结构如下。**
+#### **第二步：选中“姓名”列，点击“逆透视其他列”，逆透视后数据结构如下。**
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMHxg0uxa5YhybNgQARnJfuwsxJRibqVwqSG3zticxvTjruDibo88r5E1uwcickvD7jVVwXmwANBVCWZQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**第三步：删除“属性”列，拆分“值”列，以之前合并时候的分割符空格为拆分符，并修改拆分后的列名。**
+#### **第三步：删除“属性”列，拆分“值”列，以之前合并时候的分割符空格为拆分符，并修改拆分后的列名。**
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMHxg0uxa5YhybNgQARnJfuA7zxYh6PfuRG8SK2bauwBntAX6F25Kibls6WGwZDtU8hEEcwvjqLuSQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -47,6 +47,26 @@ uid:
 
 ```
 let
+多列组合=(需要操作的表 as table, x as number, y as number, optional 固定列终点 as number) as table=>
+Table.Combine(List.Transform({1..x},
+            each Table.FromColumns(
+                                   List.Range( Table.ToColumns(需要操作的表),0,
+                                               if 固定列终点=null then 1 else 固定列终点                                                
+                                              )&
+                                   List.Range( Table.ToColumns(需要操作的表),((_-1)*y+固定列终点),y)
+                                  )
+                            )          
+            ),
+元数据=[Documentation.Name="批量多列合并",
+      Documentation.Description="可以把多列相同的数据合并到一起。
+第1参数是需要操作的表，第2参数x代表的是循环几次，第3参数代表的是多少列循环，第4参数是固定标题的结束位置",
+      Documentation.Examples={[Description="第1列为固定列，每3列进行合并存放，一共循环2次",
+                            Code="批量多列合并(源,2,3,1)",
+                            Result="  "]
+                             }
+                             ]
+in
+Value.ReplaceType(多列组合,Value.Type(多列组合) meta 元数据)
 ```
 
 这里将这个自定义函数命名为“批量多列合并”，以上面的数据为例，只需要这样输入这几个参数：
@@ -71,17 +91,3 @@ let
 关于这个自定义函数的逻辑，可以不去理解，只需要知道这几个参数应该输入什么数据就行，当你有类似的数据结构需要转换为一维表时，直接调用这个自定义函数就可以了。
 
 本文示例文件请在公众号后台发送“PQ多列批量合并”获取。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

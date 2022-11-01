@@ -10,6 +10,10 @@ date updated: 2022-10-28 14:52
 
 ### 基础操作
 
+[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)%%多条件查询引用方式%%
+
+[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)%%使用模板自定义的方式添加区块id，可以定位到日期%%
+
 [别装，老实讲，这些基本操作，你到底几个不会用？左手Word，右手Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A34y1n738/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%ob与word选中操作和光标移动操作的区别%%
 
 [Johnny学OB 第26集 - 关于模板、标签、别名、嵌入、Frontmatter和快捷键 OB基础打得牢，你才真正用得好 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fq4y1K71h/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%模板可以原子化，在frontmatter中存储标签%%
@@ -76,6 +80,10 @@ date updated: 2022-10-28 14:52
 
 [Johnny学OB 第23集 - 只需一个快捷键，在OB里加脚注Footnote就是这么的痛快。关于Footnote脚注，看这个就可以了 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bh411p7mv/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%角标使用^符号，需可以快速匹配到页尾的角标%%
 
+#### workspaceplus
+[Johnny学OB 第49集 6个Obsidian的优化小插件，配合好了，让你大大提升在OB里的工作效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nS4y1X7vS/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+
 ### 特色功能
 
 #### comment
@@ -137,9 +145,13 @@ date updated: 2022-10-28 14:52
 
 [Johnny学OB 一个网站帮你搞定用好Obsidian，你需要知道的所有语言_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1e7nJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 	[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)%%学习yaml写法%%
+	
 [Johnny学 这是我最爱用的录音工具了——AudioMass_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DT4y1a73x/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 	[AudioMass - Audio Editor](https://audiomass.co/)%%开源免费录制工具%%
 
+[Johnny学OB 第31集 分享几个让OB更好用的小工具，2个浏览器插件，1个我很爱的网站，1个OB小插件 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL4y187iV/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%iframe的嵌入方法%%
+	[🛠️ My Text Tools - Free, Online, Text Manipulation Tools](https://mytexttools.com/)%%把文本处理网页插到ob内，方便随时调取%%
+	
 ---
 
 ## 未完成记录
@@ -221,11 +233,8 @@ easy typing
 
 #### 优质已读内容
 
-[全局引用你会了，但是区块ID你真的会用了吗？ Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DN4y1N7ks/?spm_id_from=333.999.0.0)
-[Obsidian的全局引用你用对了吗？Johnny学Obsidian_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bP411H7rx/?spm_id_from=333.788&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 [一秒生成一万行组合文本，活用Textce，提高你的输出效率 【Johnny学Textce 第二集】 一秒生成一万行组合文本，活用Textce，提供你的输出效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Vr4y1p7K3/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%失效了%%
-
 
 [Johnny学ClickUp 第3集 超级高效的ClickUp快捷键以及超级强大的嵌入功能_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nF411z7JY/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 
@@ -238,8 +247,10 @@ easy typing
 [Airtable | Create apps that perfectly fit your team's needs](https://www.airtable.com)%%可以方便的加语法的在线表格 %%
 [Johnny学OB 第36集 用QuickAdd 快速记录你乍现的灵感，以及Button和Sidebar的用法 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV14u411Z7sJ/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Johnny学OB 第33集 再谈OB和Pandoc 如何用模板快速导出你（你老板）喜欢的Word和PPT Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kf4y1w7YH/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt的格式设置%%
-[Johnny学OB 第31集 分享几个让OB更好用的小工具，2个浏览器插件，1个我很爱的网站，1个OB小插件 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL4y187iV/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
-[🛠️ My Text Tools - Free, Online, Text Manipulation Tools](https://mytexttools.com/)%%还没搞明白%%
+
+
+
+
 [Johnny学OB 第29集 Markdown入门小技巧，高手勿入。标题加序号，快速切换标题层级，快速会换区块位置等 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1944y1b7UU/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%标题序号没有学%%
 
 [Johnny学OB 第25集 - 不是吧，OB还可以这么用！配合在线数据库，在OB里搭建你的个人管理后台。 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cb4y1m7jx/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
