@@ -1,15 +1,15 @@
 ---
 create_date: 2022-08-31T12:20:20 (UTC +08:00)
-tags: 
+tags: 建模技巧
 pagetitle: PowerBI分析技巧：自定义动态分组
 source: https://mp.weixin.qq.com/s/1i3buocFqMwsYT9ilRc1Qg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
-关于数据分组，一般是通过辅助表来进行的，比如分享过一篇关于客户细分的文章：
+关于<mark style="background: #FF5582A6;">数据分组，一般是通过辅助表来进行的</mark>，比如分享过一篇关于客户细分的文章：
 
 [PowerBI业务分析：客户细分](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484071357&idx=1&sn=e533d335e302b9ca5c76313dcac38852&chksm=8e0c416ab97bc87c1101fcbdb870356d9a400c68ba7c8ab6b91d4e6c54726b28cc358b6015fd&scene=21#wechat_redirect)
 
@@ -21,7 +21,7 @@ uid:
 
 下面就通过客户细分这个案例来介绍自定义分类标准的思路。
 
-自定义标准，首先需要为用户提供个输入框，这个输入框我们利用切片器来实现，为了做这个切片器，这里先用DAX建一个序列表。
+自定义标准，首先<mark style="background: #FF5582A6;">需要为用户提供个输入框，这个输入框我们利用切片器来实现，为了做这个切片器，这里先用DAX建一个序列表</mark>。
 
 > 分组表 = GENERATESERIES(500,5000,1)
 
@@ -29,7 +29,7 @@ uid:
 
 这里利用GENERATESERIES函数生成一个从500到5000的序列，假设分类标准都在这个范围内，具体起止点，你可以根据实际分析需要来调整。
 
-然后用分组表的字段做个切片器，样式为“介于”，切片器就出现两个输入框，我们就利用这两个值来进行标准划分，为了让用户更清楚这两个值的用途，可以在标题上对它进行必要的文字说明，如下图。
+然后用<mark style="background: #FF5582A6;">分组表的字段做个切片器，样式为“介于”</mark>，切片器就出现两个输入框，我们就利用这两个值来进行标准划分，为了让用户更清楚这两个值的用途，可以在标题上对它进行必要的文字说明，如下图。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPWQnxE4lQ1u1sAZMvlIwjyibLJT9SicrGNZCGFicXticXIcrz6fdmMHwscoPCtwoldaqiamEjYrz8LDkg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -41,9 +41,15 @@ uid:
 
 ```
 利润 客户细分 = 
+SWITCH(
+    TRUE(),
+    [利润]<MIN('分组表'[Value])&&SELECTEDVALUE('客户分类表'[客户分类])="低贡献客户",[利润],
+    [利润]<=MAX('分组表'[Value])&&[利润]>=MIN('分组表'[Value])&&SELECTEDVALUE('客户分类表'[客户分类])="一般贡献客户",[利润],
+    [利润]>MAX('分组表'[Value])&&SELECTEDVALUE('客户分类表'[客户分类])="高贡献客户",[利润]
+)
 ```
 
-这个度量值的逻辑是，判断利润所在区间以及分类表上下文的类型，如果利润小于分组表的最小值，并且客户分类是“低贡献客户”，返回利润，其他两个判断条件同理，这样判断的结果是，只有某个客户在正确的类型下面，才返回其利润数据，效果如下：
+这个度量值的逻辑是，判断<mark style="background: #FF5582A6;">利润所在区间以及分类表上下文的类型，如果利润小于分组表的最小值，并且客户分类是“低贡献客户”，返回利润</mark>，其他两个判断条件同理，这样判断的结果是，只有某个客户在正确的类型下面，才返回其利润数据，效果如下：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPWQnxE4lQ1u1sAZMvlIwjyRk2rBLKNianhu214Du5uQJmib35LzicaiaL62wCBibloTWR2OL8C4gBfjFQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -55,10 +61,26 @@ uid:
 
 ```
 利润 按类型汇总 = 
+SUMX(
+    CROSSJOIN(
+        VALUES('客户'[客户姓名]),
+        VALUES('客户分类表'[客户分类])
+    ),
+    [利润 客户细分]
+)
 ```
 
 ```
 客户数量 按类型 = 
+COUNTROWS(
+    FILTER(
+        CROSSJOIN(
+            VALUES('客户'[客户姓名]),
+            VALUES('客户分类表'[客户分类])
+        ),
+        [利润 客户细分]>0
+    )
+)
 ```
 
 然后就可以随着分类标准的变化，动态即时统计出每个分类的指标：  
@@ -66,17 +88,3 @@ uid:
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/aHEbZtANQJPWQnxE4lQ1u1sAZMvlIwjyFibZNAz04yH41qVjtaUyFzbzG1FcZywZShc9E2gF4zVkib3Qb2adAYTA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 以上就是自定义分组的思路，当你有类似的需求时可以尝试。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

@@ -1,17 +1,17 @@
 ---
 create_date: 2022-08-15T12:23:03 (UTC +08:00)
-tags: 
+tags: 可视化图表
 pagetitle: 如何为Power BI图表添加辅助线？
 source: https://mp.weixin.qq.com/s/9TavAQ1EK77YfKxljmYNvg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
 辅助线是可视化的一部分，是对图表的必要补充，为图表添加合适的辅助线会让信息看起来更清晰直观。  
 
-辅助线有多种形式，比如平均值线、最大值线、最小值线等，在PowerBI中，添加辅助线一般是通过图表的分析功能来实现的。  
+辅助线有多种形式，比如<mark style="background: #FF5582A6;">平均值线、最大值线、最小值线</mark>等，在PowerBI中，<mark style="background: #FF5582A6;">添加辅助线一般是通过图表的分析功能来实现</mark>的。  
 
 选中需要添加辅助线的图表（以下面这个柱形图为例），然后点击右侧的分析按钮，就能在里面看到支持该图表的各种辅助线。  
 
@@ -23,19 +23,19 @@ uid:
 
 添加均线以后，就可以更直观看出哪些产品的数据超过平均水平，哪些低于平均水平。  
 
-添加辅助线就是个很简单的功能，关键在于灵活运用，之前分享过的很多可视化案例都有用到辅助线。比如在关联分析中，对散点图添加x轴和y轴均线，就相当于一个四象限图。
+添加辅助线就是个很简单的功能，关键在于灵活运用，之前分享过的很多可视化案例都有用到辅助线。比如在<mark style="background: #FF5582A6;">关联分析中，对散点图添加x轴和y轴均线，就相当于一个四象限图。</mark>
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/aHEbZtANQJPMPdM3A09z3t8qjkeKibMjFznlCWZZnSJHeVlxrd2LJ15QmKRS5yHLLrfrVxgXJHf26RoSZu54ibuA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 参考：[如何用Power BI分析产品关联度？](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068422&idx=1&sn=218b3a331f4ea648d4c3e2d0e05701e4&chksm=8e0c4a91b97bc387219523f5ae09fa32e60a8c04b3d02bbdc2763bd6e72ae09f32f1ee1b4e7d&scene=21#wechat_redirect)  
 
-在盈亏盈亏平衡分析中，盈亏平衡点的垂直交叉线是利用x轴和y轴恒线来实现的：
+在<mark style="background: #FF5582A6;">盈亏平衡分析中，盈亏平衡点的垂直交叉线是利用x轴和y轴恒线来实现</mark>的：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/aHEbZtANQJMdLcDZj9oMDDzaIvqXibV2lYASicpAOWiaepIA0uvx7H3zXFh1hS0SEDaF0Xos6tdcVuOs6sat8kcgg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 参考：[Power BI盈亏平衡分析-优化](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484077048&idx=1&sn=b3da0a4079ed8366c67982912e795d59&chksm=8e13ab2fb964223978c16d5647e4a28eaeb50bc7338c4e82f4e14f2cddc8bb844b956f09beb6&scene=21#wechat_redirect)
 
-还有用阴影来突出显示特定日期的案例，是通过添加误差线来实现的：  
+还有<mark style="background: #FF5582A6;">用阴影来突出显示特定日期的案例，是通过添加误差线来实现</mark>的：  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPtJqPCmPPTn0EC7W4Oz6kZeVISzFgPPHrt6DAJapt5G1hRqtAk2NoEV3lMvkQ07wqadbCyzxqVUA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -47,7 +47,7 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPavjY3lPGForcyWNmqZO5n9DteOKYxrIgaqHwuIseK2ibXItUheDz9aXSYuQc7W6Pd0CXQAmhBh6Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-如果想在这个图表中添加一条平均利润率的辅助线，怎么才能实现呢？
+如果想在这个图表中添加一条<mark style="background: #FF5582A6;">平均利润率的辅助线</mark>，怎么才能实现呢？
 
 既然无法通过分析面板直接加，可以试试通过图表本身的元素来变通实现，上面的需求可以用度量值计算出这个均值：  
 
@@ -58,17 +58,3 @@ uid:
 将这个度量值也放到组合图的【行y轴】中，就可以实现平均值辅助线的效果。  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJObiasxnicSjd7UArft4Y463q7ZwvhNakl3XZa2ibt9G0eSEricIRLCXGbRxsBBp1JDxWVJ0982cakzhQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

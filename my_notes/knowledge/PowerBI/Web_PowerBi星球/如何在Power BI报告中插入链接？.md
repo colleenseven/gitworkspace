@@ -1,19 +1,19 @@
 ---
 create_date: 2022-07-12T12:28:26 (UTC +08:00)
-tags: 
+tags: 建模技巧
 pagetitle: 如何在Power BI报告中插入链接？
 source: https://mp.weixin.qq.com/s/vAPo6AeDF4IuPino0pdNuA
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
 经常有人问如何在PowerBI报告中插入链接，点击即可跳转到一个网页，这是很常见的需求，这里就介绍几种插入链接的方式。
 
-**1、利用文本框插入链接**
+#### **1、利用文本框插入链接**
 
-插入文本框，就会在格式栏看到“插入链接”的按钮，这里以PowerBI官网为例：https://powerbi.microsoft.com
+<mark style="background: #FF5582A6;">插入文本框，就会在格式栏看到“插入链接”的按钮</mark>，这里以PowerBI官网为例：https://powerbi.microsoft.com
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNZXcVP7HTZZpvtQm6lyS3ickPZqN8YX22NCnKE1b3GBLVOgicQoSaIMzTfhYrWicmOROFh0MNWIHElQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -21,9 +21,9 @@ uid:
 
 在编辑状态下不能直接点击打开链接，发布后在阅读状态可以直接点击跳转到对应的网页。
 
-**2、利用按钮插入链接**
+#### **2、利用按钮插入链接**
 
-按钮经常与书签结合用于导航，它其实也可以用于网页的跳转。插入按钮后，可以在按钮的操作属性中，选择类型为“Web URL”，然后在下面输入网址即可：
+<mark style="background: #FF5582A6;">按钮经常与书签结合用于导航，它其实也可以用于网页的跳转</mark>。插入按钮后，可以在按钮的操作属性中，选择类型为“Web URL”，然后在下面输入网址即可：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNZXcVP7HTZZpvtQm6lyS3icEQ2ICEfhCqK9Mga6UjjlGuGGJu5mfcrQdQ9GAVYuj1PfBricdYiaTubA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -31,7 +31,7 @@ uid:
 
 上面两种方式都是单独插入一个链接，如果在数据表中有个链接字段，需要批量插入多个链接，可以使用下面的方式。  
 
-**3、利用表格/矩阵插入链接**
+#### **3、利用表格/矩阵插入链接**
 
 以之前介绍的豆瓣图书信息为例（[Power BI如何获取网页中的链接](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484070458&idx=1&sn=c4c2f4de681ef66524b91209e83dd769&chksm=8e0c42edb97bcbfb525a923d9d7378095f91ae9e3d592e28b7918ee1ea8a991b49ed4017fee0&scene=21#wechat_redirect)），已经从网页获取了每本书的链接，如果把这个字段直接放到表格里展示：  
 
@@ -47,7 +47,7 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNZXcVP7HTZZpvtQm6lyS3icKaaTLiaeLWe16h7B05woNd9Va0Qu8Qgdsrib1RlmTPDncZ1TTy0OvCpg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-如果觉得网址太长不够美观，还可以不显示网址，直接显示一个链接图标，在表格的格式面板中，打开“URL 图标”。
+如果觉得网址太长不够美观，还可以<mark style="background: #FF5582A6;">不显示网址，直接显示一个链接图标</mark>，在表格的格式面板中，打开“URL 图标”。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNZXcVP7HTZZpvtQm6lyS3icS9J87e6xw1oGZVwBUC60YSElsNXVIGYHpJmaHgpkiaqD4zWEpKxXibbg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -57,7 +57,7 @@ uid:
 
 这样看起来就比一大串的网址简洁多了。
 
-不过还可以进一步设置，不单独把链接的字段放到表格中，而是把它作为书名的超链接。  
+不过还可以进一步设置，<mark style="background: #FF5582A6;">不单独把链接的字段放到表格中，而是把它作为书名的超链接</mark>。  
 
 在单元格元素中，找到“书名”列，打开"Web URL":
 
@@ -74,17 +74,3 @@ uid:
 点击某个书名即可跳转到对应的网页，而不需要在表格中单独放一列网址。
 
 以上就是PowerBI报告中插入网址链接的几种常用方式，基本可以满足日常需要。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

@@ -130,5 +130,22 @@
       ],
       "key": "4"
     }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "workspace:goto-tab-4": [],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
   ]
 }

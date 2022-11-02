@@ -1,17 +1,17 @@
 ---
 create_date: 2022-07-06T12:28:56 (UTC +08:00)
-tags: 
+tags: PQ数据处理
 pagetitle: 如何利用Power Query进行排名？
 source: https://mp.weixin.qq.com/s/l3LaNDACvAQ-ir8jbGkljQ
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
 以前介绍过利用RANKX函数来进行排名，在某些情况下，需要对PowerQuery中的数据直接进行排名，那么如何用PowerQuery来计算排名呢？  
 
-DAX函数中有RANKX来计算排名(参考：[这几个示例，帮你深入理解RANKX排名](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068781&idx=1&sn=4f7d7abed75b6db6cae3b23a45e7dfbe&chksm=8e0c4b7ab97bc26c2303edcd22dad9261981486689833504f129603f5b20a7b8f8d3669517e6&scene=21#wechat_redirect)），其实PowerQuery中的也有一个M函数可以排名：Table.AddRankColumn。
+DAX函数中有RANKX来计算排名(参考：[这几个示例，帮你深入理解RANKX排名](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068781&idx=1&sn=4f7d7abed75b6db6cae3b23a45e7dfbe&chksm=8e0c4b7ab97bc26c2303edcd22dad9261981486689833504f129603f5b20a7b8f8d3669517e6&scene=21#wechat_redirect)），其实PowerQuery中的也有一个<mark style="background: #FF5582A6;">M函数可以排名：Table.AddRankColumn</mark>。
 
 这个M函数可以为表添加一个排名列，下面通过几个简单的例子，来熟悉这个函数的用法。
 
@@ -45,7 +45,7 @@ ___
 > 
 > )
 
-函数中第一个参数更改的类型，是上一个步骤的名称，第二个参数是新列的列名，第三个参数，是排名依据。
+函数中<mark style="background: #FF5582A6;">第一个参数更改的类型，是上一个步骤的名称，第二个参数是新列的列名，第三个参数，是排名依据</mark>。
 
 然后就自动添加了一列排名列。  
 
@@ -53,7 +53,7 @@ ___
 
 通过这个M函数，我们就得到了一列排名，不过这个排名是按照金额升序排列的，也就是金额最小的排名第一。
 
-如果想让金额最大的排名第一，可以这样改：
+如果<mark style="background: #FF5582A6;">想让金额最大的排名第一</mark>，可以这样改：
 
 > Table.AddRankColumn(
 > 
@@ -69,7 +69,7 @@ ___
 
 上面的排名数字是跳跃的，这个数据有两个类别并列第三，则下一个排名从5开始。  
 
-如果想让下一个排名不跳跃，即使有并列的情况，也是连续的排名，还可以再添加个参数来调整排名。  
+如果想<mark style="background: #FF5582A6;">让下一个排名不跳跃，即使有并列的情况，也是连续的排名，还可以再添加个参数来调整排名。  </mark>
 
 > Table.AddRankColumn(
 > 
@@ -83,7 +83,7 @@ ___
 
 这样就得到了连续的排名。
 
-这个函数不仅是对根据一列进行排名，还可以按照多个字段来排名，假如按照金额列和数量列来排名，如果金额相等，则按数量来排名，就可以这样来写：  
+这个函数不仅是<mark style="background: #FF5582A6;">对根据一列进行排名，还可以按照多个字段来排名</mark>，假如按照金额列和数量列来排名，如果金额相等，则按数量来排名，就可以这样来写：  
 
 > Table.AddRankColumn(
 > 
@@ -98,15 +98,3 @@ ___
 这样就实现了按照两个字段来排名，如果按更多的字段排名，还可以继续添加字段。
 
 通过以上几个示例，你应该了解了如何在PQ中计算排名，不过这里计算的排名都是静态的，如果你想在报告中实现动态的排名，还是应该用RANKX函数写度量值来实现。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

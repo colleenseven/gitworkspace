@@ -1,11 +1,11 @@
 ---
 create_date: 2022-08-10T12:24:22 (UTC +08:00)
-tags: 
+tags: 建模技巧
 pagetitle: 在PowerBI中创建日期表，你可能会遇到的3个问题
 source: https://mp.weixin.qq.com/s/v7ZsIZlHZ0Dy_60r_PNzpg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
@@ -19,7 +19,7 @@ uid:
 
 ___
 
-**1\. 系统报错：该表达式引用多列，多列不能转换为标量值**
+#### **1\. 系统报错：该表达式引用多列，多列不能转换为标量值**
 
 经常有人给我发这个截图，问怎么办？
 
@@ -27,7 +27,7 @@ ___
 
 明明是复制的文章中的公式，没有做任何改动，为什么会出现这个报错呢？  
 
-**这个问题的原因很简单，就是DAX公式放错地方了。**
+**这个问题的原因很简单，就是<mark style="background: #FF5582A6;">DAX公式放错地方</mark>了。**
 
 日期表是一张表，所以你要点击的是"**新建表**"，然后将复制的日期表公式粘贴进去，而不是新建度量值。  
 
@@ -37,15 +37,15 @@ ___
 
 ___
 
-**2\. 系统报错：CALENDARAUTO 函数无法在模型中找到 DateTime 类型的基列。**
+#### **2\. 系统报错：CALENDARAUTO 函数无法在模型中找到 DateTime 类型的基列。**
 
-即使没有点错，确实是"新建表"，但是如果你的日期表公式中用的是CALENDARAUTO，还有可能会弹出下面这种报错：  
+即使没有点错，确实是"新建表"，但是如果你的日期表公式中用的是<mark style="background: #FF5582A6;">CALENDARAUTO</mark>，还有可能会弹出下面这种报错：  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJORNmibUoP55kvDIPKWYpyq1c8YicUPdSJ3QNL0DSghB7WruzcVXia6UNWHRD1MYMdbwAVpRsVObSO9Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-CALENDARAUTO函数可以自动识别模型中其他表的日期列，并自动生成涵盖模型中所有日期的日期表，但是如果模型中没有一个日期列，识别不了就无法建日期表，所以弹出上面的报错。
+CALENDARAUTO函数可以自动识别模型中其他表的日期列，并自动生成涵盖模型中所有日期的日期表，但是<mark style="background: #FF5582A6;">如果模型中没有一个日期列，识别不了就无法建日期表</mark>，所以弹出上面的报错。
 
-**使用CALENDARAUTO函数来生成日期表的前提是，模型中至少有一个日期列，该列的数据类型必须是日期型或者日期/时间型，并且必须是基列，不能是计算列。**
+**使用<mark style="background: #FF5582A6;">CALENDARAUTO函数来生成日期表的前提是，模型中至少有一个日期列，该列的数据类型必须是日期型或者日期/时间型，并且必须是基列，不能是计算列</mark>。**
 
 关于基列，你可以理解为是从PowerQuery中上加载进来的列，而不是通过DAX表达式生成的列。
 
@@ -53,15 +53,15 @@ CALENDARAUTO函数可以自动识别模型中其他表的日期列，并自动�
 
 ___
 
-**3\. FORMAT函数不能正常返回中文粒度**
+#### **3\. FORMAT函数不能正常返回中文粒度**
 
-在日期表中可以利用FORMAT函数来生成中文的月份、星期等粒度，不过有可能会遇到它不起作用的情况。  
+在日期表中可以<mark style="background: #FF5582A6;">利用FORMAT函数来生成中文的月份、星期等粒度</mark>，不过有可能会遇到它不起作用的情况。  
 
 比如FORMAT( \[Date\] , "OOOO"）本来可以返回中文的一月、二月……，但是它却返回的还是"OOOO"。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJORNmibUoP55kvDIPKWYpyq196ib3oxFtHx7zGPIWEz5Bz47qVWvqYCDMhib1Ze49Y98zd9jAs18LyKA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-如果你遇到这种情况，可以使用FORMAT的第三个参数将区域指定为中国，写成：
+如果你遇到这种情况，可以使用FORMAT的<mark style="background: #FF5582A6;">第三个参数将区域指定为中国</mark>，写成：
 
 FORMAT( \[Date\] , "OOOO" , **"zh-cn"** ) 
 
@@ -74,19 +74,3 @@ FORMAT( \[Date\] , "OOOO" , **"zh-cn"** ) 
 [利用FORMAT函数自定义数据格式](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067980&idx=1&sn=4c314be995c216a5a6e6f7a49886cc2f&chksm=8e0c745bb97bfd4d1092fadd56e335ccb0d27f38cffeca7d234fef18eaae81da052c7c69900e&scene=21#wechat_redirect)  
 
 [FORMAT函数，原来还可以这么用](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080057&idx=1&sn=273812ae60d7966b64362d2e8f5ec474&chksm=8e13a76eb9642e78a0577d4dd83ea866d49ca21ae60691ed732a6a3b71646162dc6e7dc37de9&scene=21#wechat_redirect)  
-
-___
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。
