@@ -10,16 +10,16 @@ uid:
 
  powerbi软件公众号情况说明
 
-BI使徒：持续更新，雷元，专注于bi知识解析及资讯分享领域，阅读价值 3star。
-Excel商务智能PowerPivot：2019年后长期不更新，但是有几篇核心文章有价值，其他阅读价值 0star。
-Excel到PowerBI：持续更新，黄海剑，专注于办公软件使用技巧，阅读价值 4star
-Excel催化剂：持续更新，但内容基本与Excel插件相关，阅读价值 0star
-简快Excel之PowerBI建模分析：很少更新，内容价值不大，阅读价值 0star
-PowerPivot工坊：早期内容干货，后续逐渐水化，入门pbi以后，不需要再仔细阅读，阅读价值 2star
-PowerBI极客：高飞，pbi数据分析和可视化，更新很少，阅读价值 1star
-PowerBI老司机：pbi学习心得，多数是函数，学习价值不大，阅读价值 1star
-PowerBI大师：马世权，PBI教程通俗易懂，但是更新较少，阅读价值 1star
-悦策PowerBI：微软pbi官方平台，没有什么干货，阅读价值 0star
+<mark style="background: #FF5582A6;">BI使徒</mark>：持续更新，雷元，专注于bi知识解析及资讯分享领域，阅读价值 3star。
+<mark style="background: #FF5582A6;">Excel商务智能PowerPivot</mark>：2019年后长期不更新，但是有几篇核心文章有价值，其他阅读价值 0star。
+<mark style="background: #FF5582A6;">Excel到PowerBI</mark>：持续更新，黄海剑，专注于办公软件使用技巧，阅读价值 4star
+<mark style="background: #FF5582A6;">Excel催化剂</mark>：持续更新，但内容基本与Excel插件相关，阅读价值 0star
+<mark style="background: #FF5582A6;">简快Excel之PowerBI建模分析</mark>：很少更新，内容价值不大，阅读价值 0star
+<mark style="background: #FF5582A6;">PowerPivot工坊</mark>：早期内容干货，后续逐渐水化，入门pbi以后，不需要再仔细阅读，阅读价值 2star
+<mark style="background: #FF5582A6;">PowerBI极客</mark>：高飞，pbi数据分析和可视化，更新很少，阅读价值 1star
+<mark style="background: #FF5582A6;">PowerBI老司机</mark>：pbi学习心得，多数是函数，学习价值不大，阅读价值 1star
+<mark style="background: #FF5582A6;">PowerBI大师</mark>：马世权，PBI教程通俗易懂，但是更新较少，阅读价值 1star
+<mark style="background: #FF5582A6;">悦策PowerBI</mark>：微软pbi官方平台，没有什么干货，阅读价值 0star
 
 ## PowerBI战友联盟
 
@@ -44,6 +44,7 @@ dv.paragraph("共有文章 == " + count + "== 条")
 ```
 
 示例：共有Dax函数文章数==`$=dv.pages("#DAX函数").length`==条
+
 
 ```
 dataviewjs dv.taskList(dv.pages().file.tasks.where(t => !t.completed)); 

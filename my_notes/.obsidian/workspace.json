@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e939fc5b361fde",
+        "id": "7dcde18758b68d00",
         "type": "tabs",
         "children": [
           {
-            "id": "196b2797e1b1b1aa",
+            "id": "9573ee2442d498a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/国投人力资源服务有限公司-产品运营经理.md",
+                "file": "刘博尹成长记录/小学英语/小学英语1200词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7deeca807ae35198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刘博尹成长记录/小学阅读/二年级/孤独的小螃蟹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e3e2c1cfb200ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video/电视剧素材整理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae60a3dfe8816c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video/纪录片素材整理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "你的笔记数",
+                "query": "西洲",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职面试/国投人力资源服务有限公司-产品运营经理.md",
+                "file": "Video/纪录片素材整理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职面试/国投人力资源服务有限公司-产品运营经理.md",
+                "file": "Video/纪录片素材整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职面试/国投人力资源服务有限公司-产品运营经理.md"
+                "file": "Video/纪录片素材整理.md"
               }
             }
           },
@@ -154,23 +191,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 206.5
   },
-  "active": "196b2797e1b1b1aa",
+  "active": "ae60a3dfe8816c8d",
   "lastOpenFiles": [
-    "knowledge/商业洞察/index_刘润.md",
+    "Video/电视剧素材整理.md",
+    "Video/电影素材整理.md",
+    "抖音+/七月短视频.md",
     "OB操作学习/OB插件.md",
-    "knowledge/PowerBI/index_Powerbi.md",
-    "求职面试/国投人力资源服务有限公司-产品运营经理.md",
-    "求职面试/中电建物业管理有限公司 线上社区运营.md",
-    "求职面试/海淀区精华培训学校 教育社群运营专员.md",
-    "Templates/T-New未完成.md",
-    "knowledge/PowerBI/Web_PowerBi星球/Power BI数据分析入门案例：目标实际对比.md",
-    "knowledge/PowerBI/Web_PowerBi星球/利用PowerBI这个自定义对象，轻松展示列表信息.md",
-    "knowledge/PowerBI/Web_PowerBi星球/Power BI数据分析入门案例：费用分摊问题.md"
+    "刘博尹成长记录/小学语文/小学语文基础知识归纳表.md",
+    "刘博尹成长记录/小学阅读/人一生要读的经典.md",
+    "求职面试/index_求职.md",
+    "求职面试/面试问题汇总.md",
+    "求职面试/面试自我介绍.md",
+    "求职面试/中电建物业管理有限公司 线上社区运营.md"
   ]
 }

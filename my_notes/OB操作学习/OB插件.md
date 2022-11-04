@@ -46,6 +46,9 @@ date updated: 2022-10-28 14:52
 
 ### 功能增强
 
+#### remember cursor position
+[解决Obsidian长文本处理小烦恼|插件推荐|光标位置记忆|快捷键增强设置|【IP爱学习】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tV4y1u7zU/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%无需修改自动生效，自动记忆光标位置%%
+
 #### VariousComplete
 
 [Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%%%重点是设置本地的词库文件，可以设置成词库/四六级.md，必须是md格式的才能识别，如果不是则无法识别%%

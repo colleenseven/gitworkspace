@@ -30,5 +30,7 @@
   "better-word-count",
   "obsidian-linter",
   "convert-url-to-iframe",
-  "workspaces-plus"
+  "workspaces-plus",
+  "obsidian-incremental-writing",
+  "remember-cursor-position"
 ]
