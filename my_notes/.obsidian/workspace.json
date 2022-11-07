@@ -14,7 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Web/知乎/notes/未命名.md",
+                "file": "Knowledge/Web/知乎/notes/我.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4faaa346619ba661",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插件语法汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,20 +38,15 @@
             }
           },
           {
-            "id": "20027dd3b130d997",
+            "id": "5bedb36e225da7d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Web/知乎/notes/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:努力",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Web/知乎/notes/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Web/知乎/notes/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge/Web/知乎/notes/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +183,17 @@
     "direction": "horizontal",
     "width": 206.5
   },
-  "active": "2643a4c4d1110b42",
+  "active": "5bedb36e225da7d9",
   "lastOpenFiles": [
-    "Knowledge/Web/知乎/语言表达/31 岁北大考古博士刘拓在考察洞窟壁画时坠崖去世，他对考古学有哪些贡献?.md",
-    "Knowledge/Web/知乎/notes/未命名.md",
-    "Knowledge/Web/知乎/语言表达/“人家三代人的努力，凭什么输给你十年寒窗苦读。”如何反驳？.md",
-    "Knowledge/Web/知乎/语言表达/一个人的自信从根本上来说靠的是什么？.md",
-    "笔记概述.md",
+    "插件语法汇总.md",
+    "歌曲/解析/吹梦到西洲.md",
+    "Knowledge/Web/知乎/notes/我.md",
+    "歌曲/解析/弱水三千.md",
     "阅读计划汇总.md",
+    "笔记概述.md",
+    "歌曲/解析/湖光水色调.md",
+    "Write/index_write.md",
     "Write/知乎/英语不会语法可以吗？.md",
-    "Knowledge/Web/知乎/语言表达/该不该接受自己平庸？.md",
-    "Knowledge/Web/知乎/notes/mark.md",
-    "Knowledge/Web/知乎/notes/Drawing 2022-11-06 22.53.08.excalidraw.md"
+    "歌曲/index_歌曲.md"
   ]
 }

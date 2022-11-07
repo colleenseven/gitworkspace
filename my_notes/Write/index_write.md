@@ -8,6 +8,12 @@ uid:
 
 #### 未完成
 
+```dataview
+table create_date, status, file.folder,tags  
+from "Write/知乎"
+where status = "未阅读"
+sort file.ctime asc
+```
 
 #### 已发布
 
