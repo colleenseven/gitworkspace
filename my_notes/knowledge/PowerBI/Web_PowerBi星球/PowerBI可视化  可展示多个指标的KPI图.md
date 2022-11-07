@@ -1,6 +1,6 @@
 ---
 create_date: 2022-07-26T12:27:12 (UTC +08:00)
-tags: 可视化图表
+tags: wx/pbi/可视化图表
 pagetitle: PowerBI可视化 | 可展示多个指标的KPI图
 source: https://mp.weixin.qq.com/s/WlsQ0SsnAFd9HoF2h3_NaQ
 author: 采悟

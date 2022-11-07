@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-22T23:26:49 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: PowerBI如何进行工作日的滚动计算？
 source: https://mp.weixin.qq.com/s/pBFu48ruYhrjfzRTOOSXew
 author: 采悟

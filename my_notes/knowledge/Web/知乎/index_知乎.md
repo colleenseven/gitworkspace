@@ -1,6 +1,6 @@
 ---
 create_date: 2022-10-23 12:03
-tags: 汇总
+tags: whole/汇总
 status: 状态为空 
 uid: 
 ---

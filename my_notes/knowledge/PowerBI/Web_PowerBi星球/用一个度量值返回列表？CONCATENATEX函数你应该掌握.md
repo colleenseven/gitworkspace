@@ -1,6 +1,6 @@
 ---
 create_date: 2022-10-20T23:15:58 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: 用一个度量值返回列表？CONCATENATEX函数你应该掌握
 source: https://mp.weixin.qq.com/s/c7rH7AvxeCu9gZyJOy_e7A
 author: 采悟

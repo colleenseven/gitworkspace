@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-06T23:29:31 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: 一文掌握Power BI中平均值的计算
 source: https://mp.weixin.qq.com/s/VRShOW9-X10ylLn-Zgy9Ww
 author: 采悟

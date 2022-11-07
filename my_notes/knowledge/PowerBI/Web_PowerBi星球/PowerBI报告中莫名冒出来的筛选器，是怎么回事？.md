@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-25T23:25:04 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: PowerBI报告中莫名冒出来的筛选器，是怎么回事？
 source: https://mp.weixin.qq.com/s/MWtPHFT1QHVhOG0EDndrEg
 author: 采悟

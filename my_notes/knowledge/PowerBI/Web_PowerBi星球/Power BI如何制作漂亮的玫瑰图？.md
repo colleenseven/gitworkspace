@@ -1,6 +1,6 @@
 ---
 create_date: 2022-10-04T17:44:57 (UTC +08:00)
-tags: 可视化图表
+tags: wx/pbi/可视化图表
 pagetitle: Power BI如何制作漂亮的玫瑰图？
 source: https://mp.weixin.qq.com/s/sYL7FCpJdRwwPAg__Cyz8w
 author: 采悟

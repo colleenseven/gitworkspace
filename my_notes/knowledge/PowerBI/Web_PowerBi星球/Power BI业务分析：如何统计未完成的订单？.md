@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-05T12:25:23 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: Power BI业务分析：如何统计未完成的订单？
 source: https://mp.weixin.qq.com/s/OG_X3u5aZsJG6_bX3okE4Q
 author: 采悟

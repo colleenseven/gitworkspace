@@ -1,6 +1,6 @@
 ---
 create_date: 2022-07-18T12:27:49 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI 2022年7月更新，NETWORKDAYS函数亮相
 source: https://mp.weixin.qq.com/s/LPGv2mKD3RCDWLzN7uqapg
 author: 采悟

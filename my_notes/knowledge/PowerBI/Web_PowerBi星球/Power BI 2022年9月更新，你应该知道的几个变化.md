@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-16T23:28:19 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI 2022年9月更新，你应该知道的几个变化
 source: https://mp.weixin.qq.com/s/FTn7Hy9cbn8Hn-5uIz2GaA
 author: 采悟

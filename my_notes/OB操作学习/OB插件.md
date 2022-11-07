@@ -1,10 +1,11 @@
 ---
 create_date: 2022-10-26 10:05
-tags: 汇总
+tags: dy/汇总
 status: 阅读中
 uid: null
 date updated: 2022-10-28 14:52
 ---
+
 
 ## 已完成记录
 
@@ -45,6 +46,8 @@ date updated: 2022-10-28 14:52
 [Johnny学OB 第14集 - 在OB里实现幕布的大纲笔记效果。所用插件Outliner和Zoom。Obsidian | 黑曜石教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nh411s73k/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%设置好后，在页面内使用- 的无序列表均可自动套用%%
 
 ### 功能增强
+
+
 
 #### remember cursor position
 [解决Obsidian长文本处理小烦恼|插件推荐|光标位置记忆|快捷键增强设置|【IP爱学习】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tV4y1u7zU/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%无需修改自动生效，自动记忆光标位置%%
@@ -191,6 +194,8 @@ date updated: 2022-10-28 14:52
 
 [如何在Obsidian中去除那些恼人的空行_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12N4y1T7HT/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 [Linter小妙招-如何在Obsidian中复用你的Yaml设置_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ng411278B/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
+[[Obs＃57] Obsidian YAML区tags标签自动补全的3种方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Qv411u7HC/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
+
 
 #### auto link to title
 

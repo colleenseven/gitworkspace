@@ -1,6 +1,6 @@
 ---
 create_date: 2022-10-26T23:16:48 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: PowerQuery查询加载到数据模型后，列的顺序变了怎么办？
 source: https://mp.weixin.qq.com/s/ZOQH-vima84K5a3wXquBOQ
 author: 采悟

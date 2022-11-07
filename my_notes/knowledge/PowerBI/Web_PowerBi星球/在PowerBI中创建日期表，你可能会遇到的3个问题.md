@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-10T12:24:22 (UTC +08:00)
-tags: 建模技巧
+tags: wx/pbi/建模技巧
 pagetitle: 在PowerBI中创建日期表，你可能会遇到的3个问题
 source: https://mp.weixin.qq.com/s/v7ZsIZlHZ0Dy_60r_PNzpg
 author: 采悟

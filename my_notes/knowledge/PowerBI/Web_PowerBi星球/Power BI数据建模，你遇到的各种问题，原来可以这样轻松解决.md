@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-28T22:35:24 (UTC +08:00)
-tags: 建模技巧
+tags: wx/pbi/建模技巧
 pagetitle: Power BI数据建模，你遇到的各种问题，原来可以这样轻松解决
 source: https://mp.weixin.qq.com/s/F3b3jrok9SGx737EBxcbbw
 author: 采悟

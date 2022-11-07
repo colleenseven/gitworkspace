@@ -1,6 +1,6 @@
 ---
 create_date: 2022-07-29T12:26:32 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI数据源从Excel变更为文件夹应如何处理？
 source: https://mp.weixin.qq.com/s/NBAnfc4l4jprGoQiD7LOvg
 author: 采悟

@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-08T12:24:55 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: 如何在PowerQuery中实现DAX中的IN运算？
 source: https://mp.weixin.qq.com/s/WfzOTiH-A13vxHEgr-C4mg
 author: 采悟

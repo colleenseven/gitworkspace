@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-31T12:20:20 (UTC +08:00)
-tags: 建模技巧
+tags: wx/pbi/建模技巧
 pagetitle: PowerBI分析技巧：自定义动态分组
 source: https://mp.weixin.qq.com/s/1i3buocFqMwsYT9ilRc1Qg
 author: 采悟

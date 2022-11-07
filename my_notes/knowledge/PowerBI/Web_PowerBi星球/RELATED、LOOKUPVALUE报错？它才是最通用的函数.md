@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-19T12:22:27 (UTC +08:00)
-tags: DAX函数
+tags: wx/pbi/DAX函数
 pagetitle: RELATED、LOOKUPVALUE报错？它才是最通用的函数
 source: https://mp.weixin.qq.com/s/PMRGL8LCAUUHSCsSJaIogA
 author: 采悟

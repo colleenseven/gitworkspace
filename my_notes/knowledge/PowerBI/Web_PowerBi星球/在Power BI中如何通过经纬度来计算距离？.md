@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-28T12:21:10 (UTC +08:00)
-tags: 建模技巧
+tags: wx/pbi/建模技巧
 pagetitle: 在Power BI中如何通过经纬度来计算距离？
 source: https://mp.weixin.qq.com/s/6FlIiX7K1TLt-PDJHOW_4A
 author: 采悟

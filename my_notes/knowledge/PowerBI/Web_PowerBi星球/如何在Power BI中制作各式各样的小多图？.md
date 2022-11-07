@@ -1,6 +1,6 @@
 ---
 create_date: 2022-09-04T23:30:07 (UTC +08:00)
-tags: 可视化图表
+tags: wx/pbi/可视化图表
 pagetitle: 如何在Power BI中制作各式各样的小多图？
 source: https://mp.weixin.qq.com/s/zmbXSCDapbjaOKdBamPqPA
 author: 采悟

@@ -60,15 +60,7 @@
   "markdown-prettifier:markdown-prettifier-update-fields": [],
   "app:open-settings": [],
   "app:go-back": [],
-  "window:toggle-always-on-top": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
+  "window:toggle-always-on-top": [],
   "workspace:toggle-pin": [
     {
       "modifiers": [
@@ -146,6 +138,33 @@
         "Ctrl"
       ],
       "key": "D"
+    }
+  ],
+  "cmenu-plugin:editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-yaml-database:yaml-bulk-edit-created-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "mrj-text-expand:editor-expand": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }

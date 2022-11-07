@@ -1,6 +1,6 @@
 ---
 create_date: 2022-10-22T15:27:56 (UTC +08:00)
-tags: 数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI 2022年10月更新，自然语言生成DAX功能面世
 source: https://mp.weixin.qq.com/s/eJNl5pwmEf-RxBw_3JuS9w
 author: 采悟

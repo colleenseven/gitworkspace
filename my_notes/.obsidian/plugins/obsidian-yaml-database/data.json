@@ -1,0 +1,118 @@
+{
+  "databases": [
+    {
+      "id": "自动创建阅读计划汇总.md2022/11/620:59:42",
+      "colDef": [
+        {
+          "colId": "yamleditFirstFileColumn",
+          "field": "yamleditFirstFileColumn",
+          "headerName": "文件",
+          "type": "inLink",
+          "width": 200,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "create_date",
+          "field": "create_date",
+          "headerName": "create_date",
+          "type": "text",
+          "width": 200,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "tags",
+          "field": "tags",
+          "headerName": "tags",
+          "type": "text",
+          "width": 200,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "status",
+          "field": "status",
+          "headerName": "status",
+          "type": "text",
+          "width": 200,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "uid",
+          "field": "uid",
+          "headerName": "uid",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "date updated",
+          "field": "date updated",
+          "headerName": "date updated",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "uis",
+          "field": "uis",
+          "headerName": "uis",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "notes",
+          "field": "notes",
+          "headerName": "notes",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "singer",
+          "field": "singer",
+          "headerName": "singer",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        }
+      ],
+      "folder": "歌曲/解析",
+      "paginationSize": 50,
+      "filterModal": {},
+      "templatePath": ""
+    },
+    {
+      "id": "自动创建 歌曲/原曲/爱晚亭边.md 2022/11/6 19:59:54",
+      "colDef": [
+        {
+          "colId": "yamleditFirstFileColumn",
+          "field": "yamleditFirstFileColumn",
+          "headerName": "文件",
+          "type": "inLink",
+          "width": 200,
+          "hide": false
+        }
+      ],
+      "folder": "/",
+      "paginationSize": 50,
+      "filterModal": {},
+      "templatePath": ""
+    }
+  ],
+  "DBdataJsonLocation": "pluginFolder",
+  "DBdataJsonFolderPath": "/"
+}

@@ -1,6 +1,6 @@
 ---
 create_date: 2022-08-15T12:23:03 (UTC +08:00)
-tags: 可视化图表
+tags: wx/pbi/可视化图表
 pagetitle: 如何为Power BI图表添加辅助线？
 source: https://mp.weixin.qq.com/s/9TavAQ1EK77YfKxljmYNvg
 author: 采悟
