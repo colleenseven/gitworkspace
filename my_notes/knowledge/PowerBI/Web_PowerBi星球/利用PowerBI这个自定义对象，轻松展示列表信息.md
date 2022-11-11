@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-01-07T12:32:37 (UTC +08:00)
 tags: 
 pagetitle: 利用PowerBI这个自定义对象，轻松展示列表信息

@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-09-18T23:27:20 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: PowerBI可视化设计：预警指标分析

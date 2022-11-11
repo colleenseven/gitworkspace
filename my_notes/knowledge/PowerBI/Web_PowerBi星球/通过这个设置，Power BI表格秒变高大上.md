@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-08-02T12:25:56 (UTC +08:00)
 tags: wx/pbi/可视化图表
 pagetitle: 通过这个设置，Power BI表格秒变高大上

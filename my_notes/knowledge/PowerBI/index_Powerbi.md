@@ -35,37 +35,7 @@ uid:
  
 ## Powerbi星球
 
-powerbi 星球文章统计
-
-```dataviewjs
-const pages = dv.pages()
-const count = page.length
-dv.paragraph("共有文章 == " + count + "== 条")
-```
-
-示例：共有Dax函数文章数==`$=dv.pages("#DAX函数").length`==条
-
-
-```
-dataviewjs dv.taskList(dv.pages().file.tasks.where(t => !t.completed)); 
-```
-
-学习平台，
-业务线，起步初期，拆出来一个平台，缺乏的是付费课程。
-定制的要求，中国电子集团，校园招聘，公司的福利待遇，有专人辅导，
-内部孵化19年开始
-几百号人。
-线下，项目交付。
-直播
-
-之前在美团，1、方向，用户体验，2、求职者和b端关键用户，
-3、内容运营，粘性和频率
-4、后台工具运营，企业管理后台。
-5、商业化目前属于公益阶段。
-
-
-
-
+powerbi 星球文章统计：共有文章数`$= dv.pages('"Knowledge/PowerBI/Web_PowerBi星球"').length`条
 
 ### 2022文章汇总
 
@@ -81,24 +51,24 @@ dataviewjs dv.taskList(dv.pages().file.tasks.where(t => !t.completed));
 
 #### 202206文章汇总
 ```dataview
-table status,category,create_date,tags 
-from "knowledge/PowerBI/Web_PowerBi星球"
+table status,category,create_date,tags,file.folder
+from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-06")
 sort create_date DESC 
 ```
 
 #### 202207文章汇总
 ```dataview
-table status,category,create_date,tags 
-from "knowledge/PowerBI/Web_PowerBi星球"
+table status,category,create_date,tags,file.folder 
+from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-07")
 sort create_date DESC 
 ```
 
 #### 202208文章汇总
 ```dataview
-table status,category,create_date,tags 
-from "knowledge/PowerBI/Web_PowerBi星球"
+table status,category,create_date,tags,file.folder
+from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-08")
 sort create_date DESC 
 ```
@@ -107,16 +77,16 @@ sort create_date DESC
 #### 202209文章汇总
 
 ```dataview
-table status,category,create_date,tags 
-from "knowledge/PowerBI/Web_PowerBi星球"
+table status,category,create_date,tags,file.folder
+from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-09")
 sort create_date DESC 
 ```
 
 #### 202210文章汇总
 ```dataview
-table status,category,create_date,tags 
-from "knowledge/PowerBI/Web_PowerBi星球"
+table status,category,create_date,tags,file.folder
+from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-10")
 sort create_date DESC 
 ```

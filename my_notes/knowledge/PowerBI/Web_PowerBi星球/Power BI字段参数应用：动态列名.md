@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-14T12:32:27 (UTC +08:00)
-tags: 
+tags: wx/pbi/建模技巧
 pagetitle: Power BI字段参数应用：动态列名
 source: https://mp.weixin.qq.com/s/6DAkVAMxusfsPHoW0XVf3Q
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
@@ -28,9 +29,9 @@ uid:
 
 [如何用Power BI设计复杂结构的表格？](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484077653&idx=1&sn=3473232e3694cb2e90586c5fabbd695b&chksm=8e13ae82b9642794ca021808e9b3231ace4f66d8cf4dc22901042eb7d429ef06f586255ffc4d&scene=21#wechat_redirect)
 
-而对于第二个需求是个难点，在5月之前很难做到，不过现在利用新的字段参数功能，上面这两个需求都可以轻松实现，下面介绍一下实现步骤。
+而对于第二个需求是个难点，在5月之前很难做到，不过现在利用<mark style="background: #FF5582A6;">新的字段参数功能</mark>，上面这两个需求都可以轻松实现，下面介绍一下实现步骤。
 
-**1\. 新建字段参数**
+#### **1\. 新建字段参数**
 
 利用已经建好的度量值生成字段参数。  
 
@@ -38,7 +39,7 @@ uid:
 
 关于字段参数的基本用法请参考：[Power BI字段参数介绍以及常见应用场景](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080273&idx=1&sn=b985ea8a53854f41a1ba75c0585cb3cd&chksm=8e13a446b9642d5085b1590f38ca7dd36c085269ae2d5d0fe75e09c57fc1ae270158d15d79db&scene=21#wechat_redirect)  
 
-**2\. 为参数表添加一列**
+#### **2\. 为参数表添加一列**
 
 打开参数的DAX表达式，手动添加一列，每一行都是“收入”。
 
@@ -52,13 +53,13 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMGAlWib41ndKI9nSgeMibKKMTqIopjBe9Jwtq1L6nnIIuBbjE2uT8EzMmmicDDFnuiboRFMwgatVwNEg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-这样就添加了一个表头，实现了第一个需求。
+这样就<mark style="background: #FF5582A6;">添加了一个表头，实现了第一个需求</mark>。
 
 左上角自动显示了该列的列名，你可以双击【列】中的字段，将它直接修改为空格，就不会显示了。
 
-**3\. 修改参数表中的参数名称**
+#### **3\. 修改参数表中的参数名称**
 
-自动生成的字段参数，名称默认是度量值或者列字段的名称，这个名称是静态的文本，不过它也是可以利用DAX来调整为动态的变量。
+<mark style="background: #FF5582A6;">自动生成的字段参数，名称默认是度量值或者列字段的名称</mark>，<mark style="background: #FF5582A6;">这个名称是静态的文本，不过它也是可以利用DAX来调整为动态的变量。</mark>
 
 这里接着修改参数表的公式如下：
 
@@ -66,7 +67,7 @@ uid:
 
 （点击查看大图）  
 
-这里的逻辑是先利用变量找出本月、上月、上年同期对应的年度月份，然后将参数表的第一列，修改为对应的变量名，其中同比和环比也在字符的前面加上对应的年月，以便更清晰的显示出具体是哪个月的指标。
+这里的逻辑是<mark style="background: #FF5582A6;">先利用变量找出本月、上月、上年同期对应的年度月份，然后将参数表的第一列，修改为对应的变量名，其中同比和环比也在字符的前面加上对应的年月，以便更清晰的显示出具体是哪个月的指标。</mark>
 
 这样修改后参数表的第一列就变成了具体的年月，矩阵也自动变成了需求的效果：  
 
@@ -74,18 +75,4 @@ uid:
 
 参数的名称利用TODAY函数来获取的本月和上月的名称，那么随着时间的变化，这些列名也会自动的调整。
 
-利用字段参数这个特性，不用单独构造结构表，也可以便捷而灵活地来设计一些个性化的中国式报表了。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。
+利用<mark style="background: #FF5582A6;">字段参数这个特性，不用单独构造结构表，也可以便捷而灵活地来设计一些个性化的中国式报表了</mark>。

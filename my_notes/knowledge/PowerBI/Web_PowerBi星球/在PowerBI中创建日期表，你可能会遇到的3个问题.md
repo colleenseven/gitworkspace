@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-08-10T12:24:22 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: 在PowerBI中创建日期表，你可能会遇到的3个问题

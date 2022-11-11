@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-06-12T12:33:00 (UTC +08:00)
 tags: 
 pagetitle: 利用Power BI的书签导航器，原来设计导航如此简单
@@ -9,7 +10,7 @@ category:
 uid: 
 ---
 
-前面的文章介绍了[页面导航器](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080516&idx=1&sn=0290f2762815188f0b96e03f3f25fe7b&chksm=8e13a553b9642c45ecf32e51e95720e7f82a4ec9691bc00b6aaee95f12fd30e312557f5ce381&scene=21#wechat_redirect)，和它同时发布的功能中，还有一个也同样有用，它就是**书签导航器**。
+前面的文章介绍了[页面导航器](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080516&idx=1&sn=0290f2762815188f0b96e03f3f25fe7b&chksm=8e13a553b9642c45ecf32e51e95720e7f82a4ec9691bc00b6aaee95f12fd30e312557f5ce381&scene=21#wechat_redirect)，和它同时发布的功能中，还有一个也同样有用，它就是**<mark style="background: #FF5582A6;">书签导航器</mark>**。
 
 关于导航的设计，并不仅仅是针对页面的导航，比页面导航更灵活的是利用书签导航，即使只有一个页面，也可以利用书签设计灵活的切换效果，比如之前介绍的[页内导航](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080023&idx=1&sn=001ead7e1723917c204db70d6f198425&chksm=8e13a740b9642e5620efbd3bfecfc47c3b33062715dc6d5e48f033010fb815a07ee090c8fb52&scene=21#wechat_redirect)：
 
@@ -29,15 +30,15 @@ uid:
 
 书签导航器中的这组按钮也会随着报表书签的变动而自动同步，特点如下：
 
--   按钮的标题与书签显示名称一致
+-   <mark style="background: #FF5582A6;">按钮的标题与书签显示名称一致</mark>
     
--   按钮的顺序与报表书签的顺序一致
+-   <mark style="background: #FF5582A6;">按钮的顺序与报表书签的顺序一致</mark>
     
--   所选按钮是最后一个选中的书签
+-   <mark style="background: #FF5582A6;">所选按钮是最后一个选中的书签</mark>
     
--   在报表中添加或删除书签时，导航器会自动更新
+-   <mark style="background: #FF5582A6;">在报表中添加或删除书签时，导航器会自动更新</mark>
     
--   重命名书签时，按钮的标题会自动更新
+-   <mark style="background: #FF5582A6;">重命名书签时，按钮的标题会自动更新</mark>
     
 
 如果对默认的效果不满意，你还可以选中生成的书签导航器，然后在设置面板上，对按钮的形状、样式、布局等各项元素进行自定义调整：

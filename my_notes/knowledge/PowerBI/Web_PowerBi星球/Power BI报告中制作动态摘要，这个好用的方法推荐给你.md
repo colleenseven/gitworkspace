@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-08T12:03:28 (UTC +08:00)
 tags: 
 pagetitle: Power BI报告中制作动态摘要，这个好用的方法推荐给你

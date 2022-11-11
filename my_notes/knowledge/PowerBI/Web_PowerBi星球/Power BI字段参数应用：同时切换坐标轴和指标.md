@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-06-01T12:34:04 (UTC +08:00)
 tags: 
 pagetitle: Power BI字段参数应用：同时切换坐标轴和指标

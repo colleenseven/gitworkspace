@@ -1,6 +1,7 @@
 ---
+aliases: null
 create_date: 2022-07-06T12:28:56 (UTC +08:00)
-tags: PQ数据处理
+tags: wx/pbi/PQ数据处理
 pagetitle: 如何利用Power Query进行排名？
 source: https://mp.weixin.qq.com/s/l3LaNDACvAQ-ir8jbGkljQ
 author: 采悟

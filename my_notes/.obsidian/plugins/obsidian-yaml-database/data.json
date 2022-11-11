@@ -88,9 +88,49 @@
           "hide": true,
           "sort": null,
           "sortIndex": null
+        },
+        {
+          "colId": "pagetitle",
+          "field": "pagetitle",
+          "headerName": "pagetitle",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "source",
+          "field": "source",
+          "headerName": "source",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "author",
+          "field": "author",
+          "headerName": "author",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
+        },
+        {
+          "colId": "category",
+          "field": "category",
+          "headerName": "category",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
         }
       ],
-      "folder": "歌曲/解析",
+      "folder": "Knowledge/商业洞察/刘润",
       "paginationSize": 50,
       "filterModal": {},
       "templatePath": ""

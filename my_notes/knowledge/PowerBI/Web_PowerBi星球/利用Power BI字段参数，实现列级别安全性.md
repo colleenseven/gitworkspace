@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-27T12:30:19 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: 利用Power BI字段参数，实现列级别安全性
 source: https://mp.weixin.qq.com/s/BvzWRrpz_QOygBYgBQteRw
 author: 陆文捷
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -72,15 +73,3 @@ https://powerbi.microsoft.com/zh-cn/blog/object-level-security-ols-now-available
 参考文章：https://blog.crossjoin.co.uk/tag/row-level-security/
 
 数据来源：后台发送关键字“PowerBI星球案例数据”获取
-
-___
-
-欢迎有干货、爱分享的星友投稿，稿件入选发布时会标识原创作者(算是自己的在线作品），并且还有稿费，具体事宜请微信沟通：powerbi001
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

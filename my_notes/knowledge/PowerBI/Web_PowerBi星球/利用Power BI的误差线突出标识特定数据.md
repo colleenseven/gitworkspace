@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-19T12:31:26 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表
 pagetitle: 利用Power BI的误差线突出标识特定数据
 source: https://mp.weixin.qq.com/s/-j8YpWielSYcLv5q7sXyug
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
@@ -45,7 +46,7 @@ uid:
 > 
 > )
 
-下限度量值的逻辑是，如果当前上下文日期是周末，则返回0；上限度量值的逻辑是，如果当前上下文日期是周末，返回当前所选时间段的最大值，其他情况上限和下限都返回空值。
+<mark style="background: #FF5582A6;">下限度量值的逻辑是，如果当前上下文日期是周末，则返回0</mark>；<mark style="background: #FF5582A6;">上限度量值的逻辑是，如果当前上下文日期是周末，返回当前所选时间段的最大值</mark>，<mark style="background: #FF5582A6;">其他情况上限和下限都返回空值</mark>。
 
 用日期和销售金额先做一个折线图，然后打开折线图的分析面板，找到误差线功能，
 
@@ -61,16 +62,4 @@ uid:
 
 利用误差线的方法，是真正的在折线图中添加阴影标记，更加实用。
 
-以上的例子是为周末添加阴影，其他各种特定的区间添加阴影都可以参考这种思路，关键是灵活掌握误差线的用法。
-
-___
-
-PowerBI星球学习社群618优惠活动
-
-**限时立减50元**
-
-****如果你想获得更多****学习资源****，欢迎加入我的PowerBI学习社群****，3门课程免费学习，扫码领取优惠券，解锁如下权益：****
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOVQjhBFFyyd29H4jRugZpWtVl1KZySvaGaSQFgibqAJaNBsx5ic66X6pgqJ9dGPng1vOSOibPNFJ3iaw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-▼点击**阅读原文**，也可领取优惠券
+以上的例子是<mark style="background: #FF5582A6;">为周末添加阴影</mark>，其他各种特定的区间添加阴影都可以参考这种思路，关键是灵活掌握误差线的用法。

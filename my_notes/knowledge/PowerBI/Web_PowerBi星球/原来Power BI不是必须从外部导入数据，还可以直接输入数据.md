@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-10-07T17:43:34 (UTC +08:00)
 tags: wx/pbi/数据处理功能
 pagetitle: 原来Power BI不是必须从外部导入数据，还可以直接"输入数据"

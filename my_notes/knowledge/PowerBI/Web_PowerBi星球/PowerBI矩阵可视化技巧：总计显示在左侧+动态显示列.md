@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-10T12:00:20 (UTC +08:00)
 tags: 
 pagetitle: PowerBI矩阵可视化技巧：总计显示在左侧+动态显示列

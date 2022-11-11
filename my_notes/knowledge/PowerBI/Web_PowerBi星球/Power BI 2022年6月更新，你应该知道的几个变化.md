@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-17T12:31:55 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI 2022年6月更新，你应该知道的几个变化
 source: https://mp.weixin.qq.com/s/ijUcw_MezopTdF9JetTeeg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文字
 uid: 
 ---
 
@@ -17,13 +18,13 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-june-2022-feature-summary/
 
 这里我还是例行挑选几个可能会对你有用的地方简要介绍一下。
 
-**1\. 新格式窗格全面可用**
+#### **1\. 新格式窗格全面可用**
 
 新格式窗格自去年11月发布以来，每个月都在不断迭代，从最初的不适应到慢慢习惯、从大量功能的缺失到现在的逐步完善。
 
 从2022年6月开始，它变成全面可用，不再是预览功能，并且新的版本不再支持切换回旧格式窗格。（如果想使用旧格式窗格，请先不要升级或者安装之前的版本）。  
 
-**2. 表格效果增强**
+#### **2. 表格效果增强**
 
 表格视觉效果进行了几项增强，以提高所有用户的性能、可用性和可访问性。
 
@@ -44,7 +45,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-june-2022-feature-summary/
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJP3ONjCVDXpHeXgqOCgMnWGHtcIpkPCB1ibvGJbFjiad9mM2ujooo0UNTCdHY154mgwRCyRFg7N729w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**3\. Power BI Desktop支持连接数据集市**
+#### **3\. Power BI Desktop支持连接数据集市**
 
 现在可以从 Power BI Desktop 功能区中的“数据中心”轻松发现并连接到数据集市，此功能允许用户发现已创建的数据集市并重用它们以轻松构建报告。
 
@@ -54,7 +55,7 @@ Power BI 数据集市是 2022 年 5 月正式宣布为一种新的 Power BI Prem
 
 https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/#:~:text=Datamart%20in%20Power%20BI%20is%20a%20new%20self-service,own%20data%20without%20any%20help%20from%20IT%20teams.
 
-**4\. Power BI报表支持嵌入到PPT**
+#### **4\. Power BI报表支持嵌入到PPT**
 
 这个功能在前一段刚发布时已专门介绍过，这里就不再赘述。
 
@@ -69,11 +70,3 @@ PowerBI每月更新后，如果不能自动更新或者不方便下载，可以�
 如果要下载历史安装包，也可以发送**6位年月编号**获取，比如发送“202109”获取2021年9月的安装包。
 
 更多安装说明请参考：[关于Power BI的下载和安装，你想知道的都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078648&idx=1&sn=7e53496bd78498ed962696055a500474&chksm=8e13a2efb9642bf98bb73de730c5141d61eb2dfd22e1781c2603745137302ea56ba2ae4dd6ba&scene=21#wechat_redirect)
-
-___
-
-PowerBI星球会员618活动进行中
-
-**现在加入立减50**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOVQjhBFFyyd29H4jRugZpWtVl1KZySvaGaSQFgibqAJaNBsx5ic66X6pgqJ9dGPng1vOSOibPNFJ3iaw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)

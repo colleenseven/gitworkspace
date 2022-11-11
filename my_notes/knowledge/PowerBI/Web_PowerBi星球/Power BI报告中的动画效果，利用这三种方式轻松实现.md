@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-26T11:57:21 (UTC +08:00)
 tags: 
 pagetitle: Power BI报告中的动画效果，利用这三种方式轻松实现

@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-10-10T16:55:29 (UTC +08:00)
 tags: wx/pbi/DAX函数 
 pagetitle: Power BI如何进行收益率相关的计算？

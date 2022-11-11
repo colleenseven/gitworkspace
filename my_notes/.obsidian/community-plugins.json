@@ -28,8 +28,11 @@
   "find-and-replace-in-selection",
   "find-unlinked-files",
   "obsidian-incremental-writing",
-  "obsidian-pandoc",
   "quickadd",
   "obsidian-yaml-database",
-  "mrj-text-expand"
+  "mrj-text-expand",
+  "drawio-obsidian",
+  "number-headings-obsidian",
+  "obsidian-pandoc",
+  "breadcrumbs"
 ]

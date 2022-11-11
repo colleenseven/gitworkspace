@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-23T12:30:55 (UTC +08:00)
-tags: 
+tags: wx/pbi/建模技巧
 pagetitle: Power BI可视化设计：用文字展示切片器的筛选情况
 source: https://mp.weixin.qq.com/s/rlUeB6WYoOfxZO_Yfr_y8g
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
@@ -19,13 +20,13 @@ uid:
 
 图表的标头隐藏以后，报表看起来是清爽多了，但如果想快速查看报表的筛选情况，应该怎么办呢？
 
-本文就来介绍一个方法，利用DAX将切片器的筛选情况直观展示出来。以产品切片器为例，根据切片器的几种筛选情况，先来分别看看DAX是如何获取切片器状态的。  
+本文就来介绍一个方法，<mark style="background: #FF5582A6;">利用DAX将切片器的筛选情况直观展示出来</mark>。以产品切片器为例，根据切片器的几种筛选情况，先来分别看看DAX是如何获取切片器状态的。  
 
 ___
 
 **切片器单选**
 
-单选的情况很简单，利用SELECTEDVALUE函数或者MAX函数都可以直接获取切片器当前的选项，度量值如下：
+单选的情况很简单，<mark style="background: #FF5582A6;">利用SELECTEDVALUE函数或者MAX函数都可以直接获取切片器当前的选项</mark>，度量值如下：
 
 > 产品切片器 单选 \= SELECTEDVALUE('产品表'\[产品名称\])
 
@@ -35,7 +36,7 @@ ___
 
 **切片器多选**
 
-由于度量值只能返回一个值，并不能返回列表，所以对于多选的情况，可以将多个选项利用CONCATENATEX函数合并成一个字符串来返回，度量值可以这样写：
+由于度量值只能返回一个值，并不能返回列表，所以<mark style="background: #FF5582A6;">对于多选的情况，可以将多个选项利用CONCATENATEX函数合并成一个字符串来返回</mark>，度量值可以这样写：
 
 > 产品切片器 多选\=
 > 
@@ -57,7 +58,7 @@ ___
 
 **切片器全选**
 
-如果切片器全选，并不需要将所有的选项都列出来，可以直接返回“全选”来表示，利用如下的度量值来判断是否全选：  
+如果<mark style="background: #FF5582A6;">切片器全选，并不需要将所有的选项都列出来，可以直接返回“全选”来表示</mark>，利用如下的度量值来判断是否全选：  
 
 > 产品切片器 全选 =
 > 
@@ -77,7 +78,7 @@ ___
 
 **切片器不选**
 
-可以利用ISFILTERED函数来判断切片器是否筛选：
+可以<mark style="background: #FF5582A6;">利用ISFILTERED函数来判断切片器是否筛选</mark>：
 
 > 产品切片器 不选 \=
 > 
@@ -119,7 +120,7 @@ ___
 > 
 > )
 
-逻辑就是如果切片器被选中，则返回选中的项目（多个项目时，用“、”分隔），否则返回“未筛选”。
+逻辑就是<mark style="background: #FF5582A6;">如果切片器被选中，则返回选中的项目（多个项目时，用“、”分隔），否则返回“未筛选”</mark>。
 
 如果报表中有多个切片器，比如还有年份、城市维度的切片，也与产品维度一样，分别写度量值：
 
@@ -139,14 +140,3 @@ ___
 
 [PowerBI报告设计技巧：一键重置](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484073105&idx=1&sn=630078447d92ab54c9c049fb8a656953&chksm=8e0c5846b97bd150bd23d3af28b62bf9813d17b339a2a4199096cdb076fd664b0e744d2808b8&scene=21#wechat_redirect)
 
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4800+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

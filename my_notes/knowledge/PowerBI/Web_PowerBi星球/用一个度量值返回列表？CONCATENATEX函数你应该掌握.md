@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-10-20T23:15:58 (UTC +08:00)
 tags: wx/pbi/DAX函数
 pagetitle: 用一个度量值返回列表？CONCATENATEX函数你应该掌握

@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-07-12T12:28:26 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: 如何在Power BI报告中插入链接？

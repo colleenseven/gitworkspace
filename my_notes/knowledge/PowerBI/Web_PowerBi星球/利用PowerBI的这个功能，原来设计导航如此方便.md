@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-06-09T12:33:31 (UTC +08:00)
 tags: 
 pagetitle: 利用PowerBI的这个功能，原来设计导航如此方便

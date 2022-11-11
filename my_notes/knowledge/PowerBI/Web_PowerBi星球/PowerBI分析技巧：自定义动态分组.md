@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-08-31T12:20:20 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: PowerBI分析技巧：自定义动态分组

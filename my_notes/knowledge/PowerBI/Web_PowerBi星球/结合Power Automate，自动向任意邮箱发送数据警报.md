@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-01T12:20:43 (UTC +08:00)
 tags: 
 pagetitle: 结合Power Automate，自动向任意邮箱发送数据警报

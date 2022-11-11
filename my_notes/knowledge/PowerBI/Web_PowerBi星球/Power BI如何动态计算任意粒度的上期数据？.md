@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-22T11:57:45 (UTC +08:00)
 tags: 
 pagetitle: Power BI如何动态计算任意粒度的上期数据？

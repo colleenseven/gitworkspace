@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-08-24T12:21:47 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: Power BI中如何用度量值做切片器/坐标轴？

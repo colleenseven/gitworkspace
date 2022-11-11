@@ -1,11 +1,12 @@
 ---
+aliases: null
 create_date: 2022-06-30T12:29:41 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: 利用Power Automate，下载PowerBI中的数据到本地文件夹
 source: https://mp.weixin.qq.com/s/WXADkDL8rYPqf2NL0i7PFw
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -15,7 +16,7 @@ uid:
 
 本文介绍的方法虽然不需要使用OneDrive，但也不是完全无条件自由下载，它需要使用数据网关。
 
-数据网关是本地数据和云端数据连接的纽带，**之前我们介绍过利用数据网关将本地数据传送到云端，以实现云端的计划刷新；而这里的使用场景正好相反，是将云端的数据传输到本地。**
+<mark style="background: #FF5582A6;">数据网关是本地数据和云端数据连接的纽带</mark>，**之前我们介绍过<mark style="background: #FF5582A6;">利用数据网关将本地数据传送到云端，以实现云端的计划刷新；而这里的使用场景正好相反，是将云端的数据传输到本地</mark>。**
 
 关于数据网关的介绍，参考这篇文章：
 
@@ -83,12 +84,3 @@ ___
 
 ___
 
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

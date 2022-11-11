@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-09-06T23:29:31 (UTC +08:00)
 tags: wx/pbi/DAX函数
 pagetitle: 一文掌握Power BI中平均值的计算

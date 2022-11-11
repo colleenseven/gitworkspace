@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-04-08T11:55:26 (UTC +08:00)
 tags: 
 pagetitle: Power BI分析10个常用的业务度量值，你肯定会用的到

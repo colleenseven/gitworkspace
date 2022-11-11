@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2020-01-08T21:19:26 (UTC +08:00)
 tags: 
 pagetitle: 晚点独家｜蚂蚁金服CEO胡晓明将兼任阿里本地生活服务公司董事长 业务全面对标美团

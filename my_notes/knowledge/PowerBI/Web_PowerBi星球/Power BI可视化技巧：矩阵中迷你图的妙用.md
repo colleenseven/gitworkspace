@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-01-19T12:30:09 (UTC +08:00)
 tags: 
 pagetitle: Power BI可视化技巧：矩阵中迷你图的妙用

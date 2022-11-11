@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Knowledge/PowerBI",
+  "search": "path:Knowledge/商业洞察",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2915625132987088,
-  "close": true
+  "close": false
 }

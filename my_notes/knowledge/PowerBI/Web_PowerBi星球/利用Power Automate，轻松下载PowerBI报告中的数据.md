@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-02-24T12:22:20 (UTC +08:00)
 tags: 
 pagetitle: 利用Power Automate，轻松下载PowerBI报告中的数据

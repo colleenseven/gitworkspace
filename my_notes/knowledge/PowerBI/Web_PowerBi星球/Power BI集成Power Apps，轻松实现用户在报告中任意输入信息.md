@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-03-15T11:58:58 (UTC +08:00)
 tags: 
 pagetitle: Power BI集成Power Apps，轻松实现用户在报告中任意输入信息

@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-09-13T23:28:55 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: 多列结构的二维表转一维表，PowerQuery可以这样做

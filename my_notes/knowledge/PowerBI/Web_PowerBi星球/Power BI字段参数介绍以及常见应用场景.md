@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-05-25T11:41:33 (UTC +08:00)
 tags: 
 pagetitle: Power BI字段参数介绍以及常见应用场景

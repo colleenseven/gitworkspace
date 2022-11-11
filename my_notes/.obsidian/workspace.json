@@ -8,28 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "998818ed3ac25e29",
+            "id": "1d24e7ce38ca6871",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Web/知乎/notes/我.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4faaa346619ba661",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "插件语法汇总.md",
+                "file": "Knowledge/商业洞察/index_刘润.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,11 +23,31 @@
             }
           },
           {
-            "id": "5bedb36e225da7d9",
+            "id": "df13700a32f84850",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/PowerBI/index_Powerbi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dde091a3bd2ffdae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -75,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#wx/pbi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 250.5
   },
   "right": {
     "id": "71fea7c3f4a76603",
@@ -112,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md"
+              }
             }
           },
           {
@@ -175,25 +184,41 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c7cffe924227736d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed4e816c848884f4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200.5
   },
-  "active": "5bedb36e225da7d9",
+  "active": "dde091a3bd2ffdae",
   "lastOpenFiles": [
-    "插件语法汇总.md",
-    "歌曲/解析/吹梦到西洲.md",
-    "Knowledge/Web/知乎/notes/我.md",
-    "歌曲/解析/弱水三千.md",
-    "阅读计划汇总.md",
-    "笔记概述.md",
-    "歌曲/解析/湖光水色调.md",
-    "Write/index_write.md",
-    "Write/知乎/英语不会语法可以吗？.md",
-    "歌曲/index_歌曲.md"
+    "Knowledge/PowerBI/index_Powerbi.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI字段参数应用：动态列名.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的误差线突出标识特定数据.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI可视化设计：用文字展示切片器的筛选情况.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI字段参数，实现列级别安全性.md",
+    "Knowledge/商业洞察/刘润/刘润notes/N-到底什么是外包？.md",
+    "Knowledge/商业洞察/刘润/刘润notes/N-5个方面洞察项目：我如何判断一个项目能否成功.md",
+    "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md"
   ]
 }

@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-05-17T11:43:12 (UTC +08:00)
 tags: 
 pagetitle: Power BI 2022年5月更新，你应该知道的几个变化

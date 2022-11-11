@@ -1,4 +1,5 @@
 ---
+aliases: null
 create_date: 2022-10-26 10:05
 tags: dy/汇总
 status: 阅读中
@@ -223,7 +224,7 @@ date updated: 2022-10-28 14:52
 
 #### pandoc plugin
 
-
+[[Obs＃30] 更多的Dataview- 动态查询笔记资料_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YU4y1A7hG/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 
 
