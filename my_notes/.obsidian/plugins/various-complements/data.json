@@ -2,13 +2,13 @@
   "strategy": "default",
   "matchStrategy": "prefix",
   "maxNumberOfSuggestions": 7,
-  "maxNumberOfWordsAsPhrase": 3,
-  "minNumberOfCharactersTriggered": 2,
+  "maxNumberOfWordsAsPhrase": 2,
+  "minNumberOfCharactersTriggered": 0,
   "minNumberOfWordsTriggeredPhrase": 1,
-  "complementAutomatically": false,
+  "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
-  "insertAfterCompletion": true,
+  "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "词库/四级词汇.md",
+  "customDictionaryPaths": "词库/四级词汇.md\n词库/DAX函数汇总.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -330,8 +330,8 @@
     "contains": {
       "contains": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666885949209
+          "count": 3,
+          "lastUpdated": 1668327834964
         }
       }
     },
@@ -380,6 +380,10 @@
         "frontMatter": {
           "count": 2,
           "lastUpdated": 1666884041897
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668327864539
         }
       }
     },
@@ -536,6 +540,46 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1666966239701
+        }
+      }
+    },
+    "SELECTCOLUMNS": {
+      "SELECTCOLUMNS": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668327621293
+        }
+      }
+    },
+    "Union": {
+      "Union": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668327650677
+        }
+      }
+    },
+    "UNION ": {
+      "UNION ": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668327870002
+        }
+      }
+    },
+    "Knowledge": {
+      "Knowledge": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668327767094
+        }
+      }
+    },
+    "PowerBI": {
+      "PowerBI": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668327777400
         }
       }
     }

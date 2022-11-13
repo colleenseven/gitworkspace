@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d24e7ce38ca6871",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/商业洞察/index_刘润.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "dcdb70a6ca9f41d9",
             "type": "leaf",
             "pinned": true,
@@ -36,9 +21,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d74033fc7ad0101d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +95,19 @@
         "id": "fe5f3fcd6ad661b5",
         "type": "tabs",
         "children": [
+          {
+            "id": "df5ff55688ba9875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text-expand 测试.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
           {
             "id": "d4f2f560800cfbca",
             "type": "leaf",
@@ -189,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,15 +207,15 @@
   },
   "active": "dcdb70a6ca9f41d9",
   "lastOpenFiles": [
+    "Knowledge/PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
+    "Knowledge/PowerBI/index_Powerbi.md",
+    "词库/DAX函数汇总.md",
     "Knowledge/商业洞察/index_刘润.md",
+    "text-expand 测试.md",
     "Knowledge/商业洞察/刘润/刘润notes/N-到底什么是外包？.md",
     "Knowledge/商业洞察/刘润/刘润notes/N-拆解直播带货.md",
     "Knowledge/商业洞察/刘润/刘润notes/N-从员工到老板，你必须经历的三次跃迁.md",
     "OB操作学习/打戏.md",
-    "阅读计划汇总.md",
-    "插件语法汇总.md",
-    "笔记概述.md",
-    "Knowledge/商业洞察/index_晚点lastpost.md",
-    "Knowledge/商业洞察/刘润/终极困扰，为什么迅速积累到财富之后，生意却逐渐垮了？.md"
+    "阅读计划汇总.md"
   ]
 }

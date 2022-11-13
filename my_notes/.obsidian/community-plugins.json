@@ -23,7 +23,6 @@
   "better-word-count",
   "convert-url-to-iframe",
   "remember-cursor-position",
-  "various-complements",
   "metaedit",
   "find-and-replace-in-selection",
   "find-unlinked-files",
@@ -34,5 +33,6 @@
   "drawio-obsidian",
   "number-headings-obsidian",
   "obsidian-pandoc",
-  "breadcrumbs"
+  "breadcrumbs",
+  "various-complements"
 ]

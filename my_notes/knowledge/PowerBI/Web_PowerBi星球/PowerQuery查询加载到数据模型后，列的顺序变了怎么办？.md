@@ -10,6 +10,10 @@ category: 泛读文章
 uid: 
 ---
 
+DAX ::  SELECTCOLUMNS , UNION  
+
+---
+
 你应该碰到过这样的问题，在PowerQuery编辑器中处理后的表，上载到模型以后，列的顺序变得不一致了，比如这个表，在PowerQuery中是这样显示的：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMU58I3mBnfBsYpsODk574ZgQkMNL2rjv3hMHqCBuydEvwY1bN6QwyUN0kRFbXCibxqibHVt6KbSFNw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)

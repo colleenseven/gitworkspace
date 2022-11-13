@@ -1,0 +1,3 @@
+SELECTCOLUMNS	选择列
+UNION 	垂直合并表
+
