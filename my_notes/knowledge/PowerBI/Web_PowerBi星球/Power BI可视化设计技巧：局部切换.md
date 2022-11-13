@@ -1,12 +1,12 @@
 ---
 aliases: null
 create_date: 2022-05-07T11:51:51 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化方法
 pagetitle: Power BI可视化设计技巧：局部切换
 source: https://mp.weixin.qq.com/s/CscEOMpZUo5F0rfJ4MtGRg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -14,7 +14,7 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMOw9BKOEkR7xE1eRLoPOibBVBb7UR8O1OSoBejoxa394vkicZoM9CnibFEQbEepAibaFYW7euVMpYvjA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-关于下层导航的制作，与上层导航的制作方法一致，前面已经介绍，这里不再重复。不过如果你设计这种导航，很可能会面临这个问题：**同一个页面上的两种导航会相互影响，不能独立切换。**
+关于下层导航的制作，与上层导航的制作方法一致，前面已经介绍，这里不再重复。不过如果你设计这种导航，很可能会面临这个问题：**<mark style="background: #FF5582A6;">同一个页面上的两种导航会相互影响，不能独立切换</mark>。**
 
 比如下面的导航再切换到利润趋势时，上面的导航也自动变回到本月的数据；而上面的导航切换时，下面的图表也自动变回到收入趋势。
 
@@ -22,7 +22,7 @@ uid:
 
 如何让这一页内的两种导航相互独立，点击按钮只切换相关的图表，而不影响到其他可视化对象呢？
 
-这就是本文要介绍的**局部切换**，专门来解决这个问题。
+这就是本文要介绍的**<mark style="background: #FF5582A6;">局部切换</mark>**，专门来解决这个问题。
 
 下面来看看局部切换的的设计思路和步骤。
 
@@ -36,35 +36,35 @@ uid:
 
 对于每一个视觉对象，应该养成重命名并排序的习惯，并将同一个模块的元素放到一起。  
 
-然后就可以将上层导航涉及到的全部可视化对象组合到一起，选中第一个，然后按住啊shift键选中最后一个，即可批量选择，然后右键>分组，如下图：
+然后就可以<mark style="background: #FF5582A6;">将上层导航涉及到的全部可视化对象组合到一起</mark>，选中第一个，然后按住shift键选中最后一个，即可批量选择，然后右键>分组，如下图：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMOw9BKOEkR7xE1eRLoPOibBUN3p40UNYSqZSmPJt6ZbPvfsYQEyEemZKlSYaDcAvPuteIBmHtS9hQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-分组以后，还可以对这个分组重命名，这里重命名为“本期”。  
+分组以后，还可以对这个<mark style="background: #FF5582A6;">分组重命名</mark>，这里重命名为“本期”。  
 
-同样的方式，对下层导航涉及的这几个可视化元素分组，命名为“趋势”，分组后的效果如下：
+同样的方式，对下层导航涉及的这几个可视化元素分组，<mark style="background: #FF5582A6;">命名为“趋势”</mark>，分组后的效果如下：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMOw9BKOEkR7xE1eRLoPOibBndkrUL2EsiawwCLgAUk6Z0PHGupbJxiaibbib4q8PKiaF2Qdw3517YH8kvA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 分组完成以后，就可以进行下面的操作了。
 
-**局部切换设计：调整书签属性**
+**<mark style="background: #FF5582A6;">局部切换设计：调整书签属性</mark>**
 
-这是最核心的一步，通过调整书签的属性，让书签只作用于所选择的视觉对象。
+这是最核心的一步，通过<mark style="background: #FF5582A6;">调整书签的属性，让书签只作用于所选择的视觉对象</mark>。
 
 打开书签面板，需要对之前建好的书签，进行逐个调整，这里主要以第一个书签“本月”为例，介绍调整的方法和步骤。
 
-**1、调整书签属性为“所选的视觉对象”**
+#### **1、调整书签属性为“所选的视觉对象”**
 
 选中“本月”书签，然后在选择面板中**选中本期**（这就是前面分组的好处，可以非常方便的选择本书签需要作用的视觉对象），右键书签，勾选“所选视觉对象”：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMOw9BKOEkR7xE1eRLoPOibBjH2320ibeTQLyvAC9blvZ9nJLCYia6rx8Jn4ibCICz2eR4iaqUW8KAgDlA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**2、更新书签**  
+#### **2、更新书签**  
 
 再次右键书签，点击“更新”，这样关于“本月”的书签设置完成。  
 
-**3、重复前2个步骤，调整其他书签**
+#### **3、重复前2个步骤，调整其他书签**
 
 同样的方式，调整剩余4个书签的属性。
 
@@ -81,17 +81,3 @@ uid:
 [Power BI书签的各种属性](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078084&idx=1&sn=ab69796a96590211deaf842b188a63b2&chksm=8e13acd3b96425c5f34d50c390caedac3a0c57559ac0cb1ecce6394263c7ad9805331a08afc5&scene=21#wechat_redirect)  
 
 [Power BI书签的十大经典应用](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068940&idx=1&sn=723666f112f15b6d20fcd980d2268c97&chksm=8e0c489bb97bc18d87c357cd2ee31a363f2146dcfdac61a32e8708a6ecf5e502370210925251&scene=21#wechat_redirect)  
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

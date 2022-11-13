@@ -15,12 +15,19 @@ date updated: 2022-11-06 20:52
 同步进度：2022年11月09日
 阅读进度：2022年11月05日
 
+### 2022年笔记文章
+
+```dataview
+table status,category,create_date,tags,notes 
+from "Knowledge/商业洞察/刘润/刘润notes"
+sort create_date DESC
+```
 
 #### 2022年11月文章
 
 ```dataview
 table status,category,create_date,tags,notes 
-from "Knowledge/商业洞察/刘润"
+from "Knowledge/商业洞察/刘润" and !"Knowledge/商业洞察/刘润/刘润notes"
 where contains(create_date, "2022-11")
 sort create_date DESC
 ```
@@ -28,8 +35,8 @@ sort create_date DESC
 #### 2022年10月文章
 
 ```dataview
-table status,category,create_date,tags,notes
-from "Knowledge/商业洞察/刘润"
-where contains(create_date, "2022-10")
+table status,category,create_date,tags,notes,file.folder
+from "Knowledge/商业洞察/刘润" and !"Knowledge/商业洞察/刘润/刘润notes"
+where contains(create_date, "2022-10") 
 sort create_date DESC 
 ```

@@ -1,12 +1,12 @@
 ---
 aliases: null
 create_date: 2022-06-12T12:33:00 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: 利用Power BI的书签导航器，原来设计导航如此简单
 source: https://mp.weixin.qq.com/s/2ejylP6j-REoMhUw806e0Q
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
@@ -49,19 +49,19 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNRcrakssTXuLhicuxOb5m24QUqEc2GUZcFgK6WfSujYBicG5ZU7MPZMY3DaG6vQ0pCaDiaG9ocRUoUA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-使用页面导航器时，会遇到某些页面不需要放入导航器的问题，通过一定的设置就可以解决；在书签导航器中，同样会有这样的问题。
+使用页面导航器时，会<mark style="background: #FF5582A6;">遇到某些页面不需要放入导航器的问题，通过一定的设置就可以解决</mark>；在书签导航器中，同样会有这样的问题。
 
 一个报告中可能有很多书签，但是制作某个书签导航器时，只需要其中一部分书签，比如之前介绍的[局部切换](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080041&idx=1&sn=1e9699099902ed7dded7c60f65661585&chksm=8e13a77eb9642e68c3922d958fe66c52f3ba0f1a35954fbef7309c0ee4b33801ca7eb53ab54c&scene=21#wechat_redirect)，效果是这样的：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/aHEbZtANQJMOw9BKOEkR7xE1eRLoPOibBMtHJnOTsht13vTIHVHRXj4Kg26QDqwoibGwpbTl3CNIRtJPy8Yx6XhQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
-上面是一组书签，下面是另一组书签，如果直接插入书签导航器，默认的导航器中会出现所有的书签：
+上面是一组书签，下面是另一组书签，<mark style="background: #FF5582A6;">如果直接插入书签导航器，默认的导航器中会出现所有的书签</mark>：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNRcrakssTXuLhicuxOb5m24chibNCOz72N5uczghXUuxzcGdLicjMmwHGticibBrhky0ttjet19XOo0Hg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 这明显不符合我们的需要，**其实这页报告中需要建两个书签导航器，每个导航器只包含部分书签，这种应该如何用书签导航器来设计呢？**
 
-同样是是先建好书签（无需再考虑按钮的插入与设计），并对书签进行分组。打开书签面板，按住Ctrl键选择应放入同一组的书签，这里是将本月、本季、本年三个书签选中，然后右键>分组，如下图：
+同样是是先建好书签（无需再考虑按钮的插入与设计），并<mark style="background: #FF5582A6;">对书签进行分组</mark>。打开书签面板，按住Ctrl键选择应放入同一组的书签，这里是将本月、本季、本年三个书签选中，然后右键>分组，如下图：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNRcrakssTXuLhicuxOb5m24LYA4mwtmAdXItsjeIFVcuu1sVV6z0Ok6RUh7YPdUWic3ppG4iakI9TDQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -88,17 +88,3 @@ uid:
 通过书签导航器来设置非常方便快捷，大多数情况下，你只需要灵活掌握[书签](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068219&idx=1&sn=b74e0d16ac61413a90fb5f7837dea112&chksm=8e0c75acb97bfcba745fe9ba7eb4ca2aa83d0af34a17668284170b97c68b2d3dc909dc9eb936&scene=21#wechat_redirect)的用法，而无需再单独考虑按钮的设置了。
 
 通过[上篇文章](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080516&idx=1&sn=0290f2762815188f0b96e03f3f25fe7b&chksm=8e13a553b9642c45ecf32e51e95720e7f82a4ec9691bc00b6aaee95f12fd30e312557f5ce381&scene=21#wechat_redirect)以及本文，分别介绍了页面导航器和书签导航器的用法，灵活掌握这两种方式，以后你只需要轻松点击几下鼠标，就能快速完成报告的导航，帮你节省出时间着眼于更有价值的事情上去。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

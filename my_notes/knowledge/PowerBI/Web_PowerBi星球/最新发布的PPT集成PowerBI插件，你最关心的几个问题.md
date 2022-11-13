@@ -1,12 +1,12 @@
 ---
 aliases: null
 create_date: 2022-05-28T11:40:44 (UTC +08:00)
-tags: 
+tags: wx/pbo/数据处理功能
 pagetitle: 最新发布的PPT集成PowerBI插件，你最关心的几个问题
 source: https://mp.weixin.qq.com/s/xrsMCWNsvweukF_sH2i6bQ
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -84,7 +84,7 @@ uid:
 
 **4\. 是否必须拥有PowerBI Pro许可证？**
 
-不是必须Pro，免费的PowerBI账户也可以使用该功能。
+不是必须Pro，<mark style="background: #FF5582A6;">免费的PowerBI账户也可以使用该功能</mark>。
 
 在PPT中，在不注销原账户的情况下，点击使用其他账户登录，然后用你的PowerBI账户登录（可以是免费账户），登录以后，加载PowerBI插件，然后将该账户中的PowerBI报告地址复制到里面就可以查看了。
 
@@ -109,17 +109,3 @@ ___
 以上是根据目前版本测试的结果，如有不准确/不完整的地方欢迎留言指正、补充，随着版本的迭代也许会有不同，期待越来越好用的Power BI。
 
 如果你还有其他问题也可以留言交流哦~
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

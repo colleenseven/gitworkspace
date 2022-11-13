@@ -1,12 +1,12 @@
 ---
 aliases: null
 create_date: 2022-05-22T11:42:36 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表
 pagetitle: 认识3个新的Power BI可视化控件
 source: https://mp.weixin.qq.com/s/EQN6yAMDe_fCjo7E6EKG5w
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -18,7 +18,7 @@ ___
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L3vOt7xIicz446o4hfkCb34icYqquXfJlHKIticAuAw0T1Ar7b38Wtx2ibGw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-Mass Filter 优点是用户可以从任何外部源复制筛选的列表，并将其粘贴到输入框中，然后单击过滤器按钮时，所有值都会立即用于过滤报告，不需要中间步骤，如下图。
+Mass Filter 优点是用户可以<mark style="background: #FF5582A6;">从任何外部源复制筛选的列表，并将其粘贴到输入框中，然后单击过滤器按钮时，所有值都会立即用于过滤报告</mark>，不需要中间步骤，如下图。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L3palc8xj335N1JHE9w54Zjq9t3sGZfkkxuzMTZiaWXZjkq0fibAhicePFQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -26,7 +26,7 @@ Mass Filter 优点是用户可以从任何外部源复制筛选的列表，并�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L3wj17BHWjH7h4ppZuZBvss5e40Ct5aONIAly9VkKY4PEpQ9zI1Bibm3A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-当某个维度的选项特别多时，切片器一项项找会比较麻烦，而利用这个控件操作更简单一些。
+当<mark style="background: #FF5582A6;">某个维度的选项特别多时，切片器一项项找会比较麻烦，而利用这个控件操作更简单一些</mark>。
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L3X8d13POCXibsAAibicppyYibdHbzknAYx1BSwpZJxyHFoQPS2cKgFNNB4Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-这个切片器最大的优点就是可以设定切片器的默认值，利用DAX来表达默认的逻辑。
+这个切片器最大的优点就是可以<mark style="background: #FF5582A6;">设定切片器的默认值，利用DAX来表达默认的逻辑</mark>。
 
 它不太方便的地方，是必须建个这样的辅助表才能正常使用，  
 
@@ -68,8 +68,6 @@ ___
 
 ## ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L38tJeHH4o3eoq4PwuibUFs4llTuuicSdhnfwmMVicib4t3S4RGbXF0tyBjA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-## 
-
 在报表上添加这个控件，可以重复更新数据和其他视觉对象。当您在没有输入设备的电视屏幕上显示报告并且想要查看最新数据时，它特别有用。
 
 它在报告中默认的效果是这样的：
@@ -89,17 +87,3 @@ ___
 这样就可以实现循环重复展示每个产品类别的数据了，作用和[之前介绍](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484075525&idx=1&sn=3a9a9b94ef22b9e041570bfb3403a06a&chksm=8e0c56d2b97bdfc4defc0c193efd1d0dd90d5549901cb581dd254c7b451d9eaebbf269438909&scene=21#wechat_redirect)的Play Axis功能类似。
 
 关于上面这3个控件的更多用法，你可以自行摸索。当然每个图表或者控件都有自己的局限性，不可能满足所有的需求，特别是自定义视觉对象，应用场景比较窄，不过多了解一些，在特定场景下多一个选择也没坏处。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

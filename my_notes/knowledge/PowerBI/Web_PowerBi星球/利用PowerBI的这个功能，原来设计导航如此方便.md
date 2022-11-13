@@ -1,12 +1,12 @@
 ---
 aliases: null
 create_date: 2022-06-09T12:33:31 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: 利用PowerBI的这个功能，原来设计导航如此方便
 source: https://mp.weixin.qq.com/s/at2bEozVsWJuT0S4dQN9gw
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 泛读文章
 uid: 
 ---
 
@@ -80,17 +80,3 @@ uid:
 并且当新增页面时、删除页面，或者修改页面的名称时，这个导航系统也会自动更新，一次设计，自动扩展。
 
 灵活使用页面导航器，无需繁琐的按钮操作，只需点击几次鼠标，就可以生成一个美观的导航系统，帮你大大节省报告设计的时间。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

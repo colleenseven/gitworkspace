@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "df13700a32f84850",
+            "id": "dcdb70a6ca9f41d9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,22 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "dde091a3bd2ffdae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wx/pbi",
+                "query": "通过一个案例",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
+                "file": "Knowledge/PowerBI/index_Powerbi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
+                "file": "Knowledge/PowerBI/index_Powerbi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md"
+                "file": "Knowledge/PowerBI/index_Powerbi.md"
               }
             }
           },
@@ -202,23 +189,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "dde091a3bd2ffdae",
+  "active": "dcdb70a6ca9f41d9",
   "lastOpenFiles": [
-    "Knowledge/PowerBI/index_Powerbi.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI字段参数应用：动态列名.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI的误差线突出标识特定数据.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI可视化设计：用文字展示切片器的筛选情况.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/利用Power BI字段参数，实现列级别安全性.md",
+    "Knowledge/商业洞察/index_刘润.md",
     "Knowledge/商业洞察/刘润/刘润notes/N-到底什么是外包？.md",
-    "Knowledge/商业洞察/刘润/刘润notes/N-5个方面洞察项目：我如何判断一个项目能否成功.md",
-    "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md"
+    "Knowledge/商业洞察/刘润/刘润notes/N-拆解直播带货.md",
+    "Knowledge/商业洞察/刘润/刘润notes/N-从员工到老板，你必须经历的三次跃迁.md",
+    "OB操作学习/打戏.md",
+    "阅读计划汇总.md",
+    "插件语法汇总.md",
+    "笔记概述.md",
+    "Knowledge/商业洞察/index_晚点lastpost.md",
+    "Knowledge/商业洞察/刘润/终极困扰，为什么迅速积累到财富之后，生意却逐渐垮了？.md"
   ]
 }

@@ -1,22 +1,22 @@
 ---
 aliases: null
 create_date: 2022-05-04T11:52:19 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化方法
 pagetitle: PowerBI可视化设计技巧：页内导航
 source: https://mp.weixin.qq.com/s/K_xFcNiHszB-_1mOt3Dimw
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
 在进行PowerBI可视化报告的导航设计时，一般是利用页导航或者书签的方式来实现的，经常有人问这两个功能有什么区别，既然都可以实现，为什么要设计两种方式呢？  
 
-简单来说，页导航只能导航到某个页面，如果你的报告确实是这个需求，那么利用页导航功能十分方便，直接设置按钮的操作属性为该页的名称就可以了。  
+简单来说，<mark style="background: #FF5582A6;">页导航只能导航到某个页面</mark>，如果你的报告确实是这个需求，那么利用页导航功能十分方便，直接设置按钮的操作属性为该页的名称就可以了。  
 
-但是利用书签实现就没有这么方便，必须先建立书签，然后才能使用，但是并不能因为书签多了一个步骤，就觉得书签无用，恰恰相反，书签的灵活性以及应用场景要远远超过页导航。
+但是利用书签实现就没有这么方便，必须先建立书签，然后才能使用，但是并不能因为书签多了一个步骤，就觉得书签无用，恰恰相反，<mark style="background: #FF5582A6;">书签的灵活性以及应用场景要远远超过页导航</mark>。
 
-**书签不仅仅能导航到某个页面，还能在一页内任意跳转，本文就来认识一个书签能实现但是页导航无法实现的应用场景：页内导航。**
+**<mark style="background: #FF5582A6;">书签不仅仅能导航到某个页面，还能在一页内任意跳转</mark>，本文就来认识一个书签能实现但是页导航无法实现的应用场景：页内导航。**
 
 比如下面这个报告，只有一页，通过点击各个按钮，分别跳转到对应的数据图表：
 
@@ -28,7 +28,7 @@ uid:
 
 这里进一步美化，设计成页内导航的效果，关于三个图表和按钮的制作这里不再重复，这里接着链接中的文章的步骤，介绍一下页内导航效果的简易做法。
 
-**1、将不变的元素设计为页面背景图片**
+#### **1、将不变的元素设计为页面背景图片**
 
 利用页面背景，可以更快速、更美观的设计报告效果，这里将不变的元素，比如主要的布局框架，以及页内导航的几个灰色按钮都设计到背景图片上，用PPT就可以做到：
 
@@ -40,17 +40,17 @@ uid:
 
 利用“本月”、“本季”、“本年”这三个按钮也可以直接切换，不过为了可视化效果切换更自然，下面再进行一下美化。  
 
-**2、插入当前页面的醒目图标按钮**
+#### **2、插入当前页面的醒目图标按钮**
 
 可以在PPT中设计一个和上面页面背景中的灰色图标尺寸相同，但是颜色更醒目的图标，
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNicGqnNoVZ636SThJssJKSh6ZrhvQYH1nUWibAzG38Y5A2N1weGhbY9M7yVgs3endKRZTatk6fHIbA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-然后导出为图片，并在PowerBI中通过插入>图片的方式，插入进来，作为当前所选的按钮效果，因为有三个切换图标，所以插入三个一样的，放置到切换按钮上面，并设置“置于底层”：
+然后导出为图片，并在PowerBI中通过<mark style="background: #FF5582A6;">插入>图片</mark>的方式，插入进来，作为<mark style="background: #FF5582A6;">当前所选的按钮效果</mark>，因为有三个切换图标，所以插入三个一样的，放置到切换按钮上面，并设置“置于底层”：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2cuQicov3Hb8ULJzsxU5Ke0YuKtqhuOoUl4KIWafKlUbDDHPTxAgTsqg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**3、设置图标状态，并更新书签**
+#### **3、设置图标状态，并更新书签**
 
 为了只显示当前数据对应的导航图标，将其他两个醒目图标隐藏，比如在选择本月数据时，隐藏“本季”和“本年”的图标。  
 
@@ -63,17 +63,3 @@ uid:
 同样的方式设计本季和本年的书签，页内导航的效果就制作好了，也就是本文开头的效果。
 
 希望通过本文的介绍，你能够理解页导航和书签的不同之处，并学会灵活使用书签的这个应用。  
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

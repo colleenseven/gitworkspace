@@ -4,9 +4,10 @@ create_date: 2022-11-10 23:35
 tags: notes
 status: 已完成
 notes: False
-parent: [[到底什么是外包？]]
+
 uid: 
 ---
+parent :: [[到底什么是外包？]]
 
 
 **第一种：<mark style="background: #FF5582A6;">人力资源外包</mark>。  

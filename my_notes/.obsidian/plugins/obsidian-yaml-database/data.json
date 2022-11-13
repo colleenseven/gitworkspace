@@ -128,6 +128,16 @@
           "hide": true,
           "sort": null,
           "sortIndex": null
+        },
+        {
+          "colId": "aliases",
+          "field": "aliases",
+          "headerName": "aliases",
+          "type": "text",
+          "width": 200,
+          "hide": true,
+          "sort": null,
+          "sortIndex": null
         }
       ],
       "folder": "Knowledge/商业洞察/刘润",
