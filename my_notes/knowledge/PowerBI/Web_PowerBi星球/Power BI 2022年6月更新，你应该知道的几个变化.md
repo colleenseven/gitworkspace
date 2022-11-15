@@ -7,7 +7,7 @@ pagetitle: Power BI 2022年6月更新，你应该知道的几个变化
 source: https://mp.weixin.qq.com/s/ijUcw_MezopTdF9JetTeeg
 author: 采悟
 status: 已完成
-category: 浏览文字
+category: 浏览文章
 uid: 
 ---
 

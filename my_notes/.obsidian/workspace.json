@@ -23,12 +23,27 @@
             }
           },
           {
-            "id": "1236d5918239206a",
+            "id": "faaa8ee9ddad6ebe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/商业洞察/index_刘润.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "21f4978a23a90663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
+                "file": "求职面试/启明星辰.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "字段参数",
+                "query": "tag:#wx/管理方法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
+                "file": "求职面试/启明星辰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
+                "file": "求职面试/启明星辰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md"
+                "file": "求职面试/启明星辰.md"
               }
             }
           },
@@ -190,33 +205,25 @@
               "type": "BC-matrix",
               "state": {}
             }
-          },
-          {
-            "id": "ed4e816c848884f4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "1236d5918239206a",
+  "active": "21f4978a23a90663",
   "lastOpenFiles": [
-    "OB操作学习/打戏.md",
-    "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
-    "Knowledge/商业洞察/刘润/刘润notes/N-5个方面洞察项目：我如何判断一个项目能否成功.md",
+    "求职面试/字节跳动1.md",
+    "求职面试/启明星辰.md",
+    "求职面试/归档/中电建物业管理有限公司 线上社区运营.md",
+    "求职面试/面试问题汇总.md",
+    "求职面试/归档/国聘急速反馈业务流程图.svg",
+    "求职面试/归档/海淀区精华培训学校 教育社群运营专员.md",
+    "求职面试/归档/国投人力资源服务有限公司-产品运营经理.md",
     "Knowledge/PowerBI/index_Powerbi.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI字段参数介绍以及常见应用场景.md",
-    "词库/DAX函数汇总.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/最新发布的PPT集成PowerBI插件，你最关心的几个问题.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/认识3个新的Power BI可视化控件.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md",
-    "Knowledge/PowerBI/Web_PowerBi星球/Power BI分析技巧：层级排名.md"
+    "Knowledge/商业洞察/index_刘润.md",
+    "Knowledge/抖音/未完成的转移分类/文案三把刀.md"
   ]
 }

@@ -4,7 +4,6 @@ create_date: 2022-11-10 22:49
 tags: notes
 status: 已完成
 notes: False
-parent: [[从员工到老板，你必须经历的三次跃迁]]
 uid: 
 ---
 衡量一名员工的好坏，也许有八万四千种方法。**但是，<mark style="background: #FF5582A6;">最根本的，还是看他承担多大责任，交付多少业绩。</mark>**
@@ -39,4 +38,6 @@ uid:
 衡量一名老板的好坏，可能也有八万四千个方面。**但是，<mark style="background: #FF5582A6;">最重要的一点，也许是价值观</mark>。**
 **<mark style="background: #FF5582A6;">一切商业的起点，都是消费者获益</mark>。**
 
-[[从员工到老板，你必须经历的三次跃迁]]
+#### 参考链接
+
+up:: [[从员工到老板，你必须经历的三次跃迁]]

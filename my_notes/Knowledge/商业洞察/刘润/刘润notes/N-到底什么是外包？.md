@@ -4,10 +4,8 @@ create_date: 2022-11-10 23:35
 tags: notes
 status: 已完成
 notes: False
-
 uid: 
 ---
-parent :: [[到底什么是外包？]]
 
 
 **第一种：<mark style="background: #FF5582A6;">人力资源外包</mark>。  
@@ -41,3 +39,6 @@ parent :: [[到底什么是外包？]]
 所以，**在<mark style="background: #FF5582A6;">特殊时期，很多公司会通过变固定成本为变动成本，从而来降低成本、增加利润</mark>。  
 
 
+#### 参考链接
+
+up:: [[到底什么是外包？]]

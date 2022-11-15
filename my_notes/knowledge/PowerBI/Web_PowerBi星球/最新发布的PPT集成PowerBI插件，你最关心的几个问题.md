@@ -2,7 +2,7 @@
 notes: False
 aliases: null
 create_date: 2022-05-28T11:40:44 (UTC +08:00)
-tags: wx/pbo/数据处理功能
+tags: wx/pbi/数据处理功能
 pagetitle: 最新发布的PPT集成PowerBI插件，你最关心的几个问题
 source: https://mp.weixin.qq.com/s/xrsMCWNsvweukF_sH2i6bQ
 author: 采悟

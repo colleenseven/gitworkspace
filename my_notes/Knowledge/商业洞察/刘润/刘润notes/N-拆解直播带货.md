@@ -4,7 +4,6 @@ create_date: 2022-11-09 23:02
 tags: notes
 status: 已完成
 notes: False
-parent: [[拆解直播带货]]
 uid: 
 ---
 
@@ -53,4 +52,4 @@ uid:
 <-->
 #### 参考链接
 
-[[拆解直播带货]]
+up:: [[拆解直播带货]]
