@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-05T12:25:23 (UTC +08:00)
 tags: wx/pbi/DAX函数
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: CALCULATE, FILTER, VALUES,MAX, MIN, ALL,BLANK, COUNTROWS
+
 ---
 
 对于有两列日期（订单日期和发货日期）的订单表，之前介绍过如何利用虚线关系和USERELATIONSHIP函数实现不同日期类型的销售额计算，参考：

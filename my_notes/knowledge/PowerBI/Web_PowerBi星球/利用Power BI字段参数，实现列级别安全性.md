@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-06-27T12:30:19 (UTC +08:00)
 tags: wx/pbi/数据处理功能
@@ -7,7 +8,12 @@ source: https://mp.weixin.qq.com/s/BvzWRrpz_QOygBYgBQteRw
 author: 陆文捷
 status: 已完成
 category: 浏览文章
+
 uid: 
+---
+
+DAX:: SUM, NAMEOF
+
 ---
 
 > 文/陆文捷

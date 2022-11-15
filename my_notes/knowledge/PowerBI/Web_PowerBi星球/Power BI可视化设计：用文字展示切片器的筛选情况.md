@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-06-23T12:30:55 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: SELECTEDVALUE, MAX,CONCATENATEX,VALUES,IF, COUNTROWS,ALL,ISFILTERED,NOT
+
 ---
 
 最近遇到有星友问这样的问题，**如何在报表页面中用文字将切片器的筛选情况展示出来？**因为当报告中切片器比较多、或者切片器折叠起来时，是很难直观看出来到底都是哪些切片器被选中，以及选择了哪些项目的。

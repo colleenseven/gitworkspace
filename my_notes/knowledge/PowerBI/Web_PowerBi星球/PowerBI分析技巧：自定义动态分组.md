@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-31T12:20:20 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 泛读文章
 uid: 
+---
+
+DAX:: SWITCH, TRUE, MIN, MAX, SUMX, VALUES, FILTER, GENERATESERIES, SELECTEDVALUE,CROSSJOIN
+
 ---
 
 关于<mark style="background: #FF5582A6;">数据分组，一般是通过辅助表来进行的</mark>，比如分享过一篇关于客户细分的文章：

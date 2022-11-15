@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-07-18T12:27:49 (UTC +08:00)
 tags: wx/pbi/数据处理功能
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 浏览文章
 uid: 
+---
+
+DAX:: MIN, MAX,VALUES, NETWORKDAYS
+
 ---
 
 Power BI 2022年7月的更新来了，你可以在官方博客中浏览全面的介绍，点击最下方的阅读原文也可直接进入：

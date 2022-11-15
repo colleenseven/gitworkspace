@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-06-01T12:34:04 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -9,6 +10,8 @@ status: 已完成
 category: 精读文章
 uid: 
 ---
+
+DAX:: NAMEOF
 
 上周介绍了新推出的[字段参数的基本用法](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484080273&idx=1&sn=b985ea8a53854f41a1ba75c0585cb3cd&chksm=8e13a446b9642d5085b1590f38ca7dd36c085269ae2d5d0fe75e09c57fc1ae270158d15d79db&scene=21#wechat_redirect)，利用它可以方便的<mark style="background: #FF5582A6;">进行动态的分析，比如动态坐标轴、动态指标等</mark>，然后有星友问，<mark style="background: #FF5582A6;">能不能在一个图表中同时切换坐标轴和指标呢</mark>？  
 

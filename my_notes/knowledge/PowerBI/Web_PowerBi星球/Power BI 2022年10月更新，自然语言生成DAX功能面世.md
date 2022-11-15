@@ -1,4 +1,5 @@
 ---
+notes: False
 aliases: null
 create_date: 2022-10-22T15:27:56 (UTC +08:00)
 tags: wx/pbi/数据处理功能
@@ -18,7 +19,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 
 这里我挑选几个你应该会用到的更新简要介绍一下。
 
-**1\. 快速度量建议**
+#### **1\. 快速度量建议**
 
 几年前Power BI就发布了快速度量值的功能，允许用户使用内置模板创建DAX度量，而不是从头开始编写DAX，之前我也介绍过快速度量的用法：[不知道怎么写度量值，试试这个方法！](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067688&idx=1&sn=7c6e715e449557e1a082e22889cc7351&chksm=8e0c77bfb97bfea9f11f37dd7d02ad042a5313b882b4efb833d31a5117a83188310240c7014b&scene=21#wechat_redirect)
 
@@ -48,7 +49,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 
 后续深入探索后再对该功能做更详细的介绍。  
 
-**2\. 堆积柱形图的反向堆叠**
+#### **2\. 堆积柱形图的反向堆叠**
 
 对于堆积柱形图，如果显示图例，并置于图表左侧或者右侧垂直显示，之前的效果是这样的：
 
@@ -60,7 +61,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO9wKMTHqHAEPtqTyaAfAyGE2xB0MqrK3gtqJOcotGVFmAgUOXdAknr2KOdVlIZwEJQI3Oms06qng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**3\. 模型视图中新增关系编辑面板**
+#### **3\. 模型视图中新增关系编辑面板**
 
 这也是个预览功能，首先启用该功能：  
 
@@ -72,13 +73,13 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-october-2022-feature-summary/
 
 通过这个面板，可以直接查看、修改所有的关系选项，比如基数、方向、关系是否可用等，更加方便。
 
-**4\. 模型视图中支持编写DAX**
+#### **4\. 模型视图中支持编写DAX**
 
 之前只能在报表视图或者数据视图中可以编写DAX，现在<mark style="background: #FF5582A6;">在模型视图中，也可以直接创建、查看、编辑度量值、计算列和计算表的DAX</mark>了，这样就不用来回切换视图了。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO9wKMTHqHAEPtqTyaAfAyGq6fwTdDk9Ogc2TrAhiaDKsOkf2egia15fPA37v966KMaVylicpuQbwfCg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**5\. 在PowerBI服务中支持下载不含数据的pbix文件**  
+#### **5\. 在PowerBI服务中支持下载不含数据的pbix文件**  
 
 从本月开始，在PowerBI服务中下载报告的pbix文件时，您将看到以下对话框：
 

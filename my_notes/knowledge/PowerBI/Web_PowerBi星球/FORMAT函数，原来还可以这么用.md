@@ -7,8 +7,12 @@ source: https://mp.weixin.qq.com/s/XLSEpOIwS9hlqmmrGxi9DA
 author: 采悟
 status: 已完成
 category: 精读文章
-notes: False
+notes: True
 uid: 
+---
+
+DAX:: FORMAT
+
 ---
 
 本文开始之前，先来看一个很常见的小需求，<mark style="background: #FF5582A6;">在PowerBI中如何像Excel一样，将负数显示为外面套一个括号的样式</mark>呢？  

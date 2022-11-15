@@ -1,14 +1,17 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-09-18T23:27:20 (UTC +08:00)
 tags: wx/pbi/建模技巧
 pagetitle: PowerBI可视化设计：预警指标分析
 source: https://mp.weixin.qq.com/s/eH8fqhSC3_bQ8FG4etP6Xg
 author: 采悟
-status: 已阅读
+status: 已完成
 category: 精读文章
 uid: 
 ---
+
+DAX:: NAMEOF, SWITCH, TRUE, MAX, COUNTROWS, FILTER
 
 今年可视化大赛最佳展现创意作品中有个设计是预警分析，最近被很多人问过这个是如何设计的，效果如下：
 

@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-10-10T16:55:29 (UTC +08:00)
 tags: wx/pbi/DAX函数 
@@ -9,7 +10,10 @@ status: 已完成
 category: 泛读文章  
 uid: 
 ---
-DAX :: PRODUCT, 
+
+DAX :: PRODUCT,  PRODUCTX, ALL,  POWER, FILTER, MAX
+
+---
 
 在投资分析中，经常会碰到收益率相关的计算，本文介绍一下如何在PowerBI中实现，以下面这个从2017年到2022年每年的收益数据为例：
 
@@ -19,7 +23,7 @@ DAX :: PRODUCT,
 
 对于累计收益率，从逻辑上看肯定不是对这些年度的收益率相加，而是连续相乘，这种应该如何计算呢？
 
-求和的函数是SUM，相乘也有对应的函数：<mark style="background: #FFB86CA6;">PRODUCT</mark>，不过对于上面的收益率，并不是该列数据的简单相乘，而应该是每年（1+收益率）的乘积，这种情况下使用迭代函数PRODUCTX更合适。
+求和的函数是SUM，相乘也有对应的函数：<mark style="background: #FFB86CA6;">PRODUCT</mark>，不过对于上面的收益率，并不是该列数据的简单相乘，而应该是每年（1+收益率）的乘积，这种情况下使用迭代函数<mark style="background: #FFB86CA6;">PRODUCTX</mark>更合适。
 
 PRODUCTX函数的用法与SUMX类似，只是<mark style="background: #FF5582A6;">逻辑为迭代乘积</mark>而已，语法如下：
 

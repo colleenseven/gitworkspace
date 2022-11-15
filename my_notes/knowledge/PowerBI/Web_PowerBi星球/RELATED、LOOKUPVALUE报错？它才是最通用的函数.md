@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-19T12:22:27 (UTC +08:00)
 tags: wx/pbi/DAX函数
@@ -9,6 +10,8 @@ status: 已完成
 category: 精读文章
 uid: 
 ---
+
+DAX:: CALCULATE,AVERAGE,FILTER,RELATED, LOOKUPVALUE
 
 <mark style="background: #FF5582A6;">不同表之间的查找匹配是很常用的操作</mark>，类似于Excel中的VLOOKUP的做法，很多人在PowerBI中，也习惯于<mark style="background: #FF5582A6;">用RELATED或者LOOKUPVALUE函数创建计算列</mark>，那么也应该碰到过报错的情况，这篇文章就来介绍一下这两个函数的区别、为什么会报错以及一个更通用的写法。
 

@@ -25,7 +25,7 @@
   "enableCurrentVaultComplement": true,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
-  "excludeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "OB操作/打戏",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
   "customDictionaryPaths": "词库/四级词汇.md\n词库/DAX函数汇总.md",
@@ -204,6 +204,10 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1666849169417
+        },
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668333019496
         }
       }
     },
@@ -282,8 +286,8 @@
     "Power BI中不显示表格总计的技巧": {
       "Power BI中不显示表格总计的技巧": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1666859094207
+          "count": 2,
+          "lastUpdated": 1668328989733
         }
       }
     },
@@ -298,8 +302,8 @@
     "浏览文章": {
       "浏览文章": {
         "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1666884053896
+          "count": 11,
+          "lastUpdated": 1668437983907
         }
       }
     },
@@ -580,6 +584,422 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1668327777400
+        }
+      }
+    },
+    "Power": {
+      "Power": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668328994125
+        }
+      }
+    },
+    "PRODUCTX": {
+      "PRODUCTX": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668329343596
+        }
+      }
+    },
+    "POWER": {
+      "POWER": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668329357108
+        }
+      }
+    },
+    "FILTER": {
+      "FILTER": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1668436747244
+        },
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1668437782134
+        }
+      }
+    },
+    "Fa'l'se": {
+      "Fa'l'se": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668329625025
+        }
+      }
+    },
+    "ISINSCOPE": {
+      "ISINSCOPE": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668440717291
+        }
+      }
+    },
+    "CONCATENATEX": {
+      "CONCATENATEX": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668439012616
+        },
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668439016349
+        }
+      }
+    },
+    "平均值线、最大值线、最小值线": {
+      "平均值线、最大值线、最小值线": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668334926643
+        }
+      }
+    },
+    "SUM": {
+      "SUM": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668439331032
+        }
+      }
+    },
+    "晚点lastpost": {
+      "晚点lastpost": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668411621173
+        }
+      }
+    },
+    "CALCULATETABLE": {
+      "CALCULATETABLE": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668416341781
+        }
+      }
+    },
+    "VALUES": {
+      "VALUES": {
+        "customDictionary": {
+          "count": 9,
+          "lastUpdated": 1668439561384
+        }
+      }
+    },
+    "AVERAGE": {
+      "AVERAGE": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668437453362
+        }
+      }
+    },
+    "AVERAGEX": {
+      "AVERAGEX": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668437322437
+        }
+      }
+    },
+    "CALCULATE": {
+      "CALCULATE": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1668440313103
+        }
+      }
+    },
+    "SUMMARIZE": {
+      "SUMMARIZE": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668416361725
+        }
+      }
+    },
+    "NAMEOF，": {
+      "NAMEOF，": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668438214103
+        }
+      }
+    },
+    "Maximum": {
+      "Maximum": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668436215494
+        }
+      }
+    },
+    "MAX": {
+      "MAX": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1668438451626
+        }
+      }
+    },
+    "NAMEOF": {
+      "NAMEOF": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1668441432697
+        }
+      }
+    },
+    "SWITCH": {
+      "SWITCH": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1668440456920
+        }
+      }
+    },
+    "TRUE": {
+      "TRUE": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668440462759
+        }
+      }
+    },
+    "COUNTROWS": {
+      "COUNTROWS": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1668439029442
+        }
+      }
+    },
+    "ALL": {
+      "ALL": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1668437326102
+        }
+      }
+    },
+    "ADDCOLUMNS": {
+      "ADDCOLUMNS": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668437183929
+        }
+      }
+    },
+    "CALENDER": {
+      "CALENDER": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437213776
+        }
+      }
+    },
+    "CALENDARAUTO": {
+      "CALENDARAUTO": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437220107
+        }
+      }
+    },
+    "FORMAT": {
+      "FORMAT": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668439477873
+        }
+      }
+    },
+    "DATE": {
+      "DATE": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437228679
+        }
+      }
+    },
+    "YEAR": {
+      "YEAR": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437231355
+        }
+      }
+    },
+    "WEEKDAY": {
+      "WEEKDAY": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437237974
+        }
+      }
+    },
+    "GENERATE": {
+      "GENERATE": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668437661521
+        }
+      }
+    },
+    "ROW": {
+      "ROW": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668437246362
+        }
+      }
+    },
+    "LOOKUPVALUE": {
+      "LOOKUPVALUE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668437501493
+        }
+      }
+    },
+    "GENERATESERIES": {
+      "GENERATESERIES": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668437866295
+        }
+      }
+    },
+    "MIN": {
+      "MIN": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668438065761
+        }
+      }
+    },
+    "SUMX": {
+      "SUMX": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668440552070
+        }
+      }
+    },
+    "SELECTEDVALUE": {
+      "SELECTEDVALUE": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668438571748
+        }
+      }
+    },
+    "CROSSJOIN": {
+      "CROSSJOIN": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668437891475
+        }
+      }
+    },
+    "NETWORKDAYS": {
+      "NETWORKDAYS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668438111957
+        }
+      }
+    },
+    "TODAY": {
+      "TODAY": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668438515175
+        }
+      }
+    },
+    "ALLSELECTED": {
+      "ALLSELECTED": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668440546244
+        }
+      }
+    },
+    "ISFILTERED": {
+      "ISFILTERED": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668439113639
+        }
+      }
+    },
+    "Not": {
+      "Not": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668439129815
+        }
+      }
+    },
+    "TREATAS": {
+      "TREATAS": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668439622616
+        }
+      }
+    },
+    "RANKX": {
+      "RANKX": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668440282614
+        }
+      }
+    },
+    "ALLEXCEPT": {
+      "ALLEXCEPT": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668440699458
+        }
+      }
+    },
+    "wx/pbi/DAX函数": {
+      "wx/pbi/DAX函数": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1668441459545
+        }
+      }
+    },
+    "wx/pbi/数据处理功能": {
+      "wx/pbi/数据处理功能": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668441030606
+        }
+      }
+    },
+    "精读文章": {
+      "精读文章": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668441489124
+        }
+      }
+    },
+    "浜辺栞帆女主的嘴也太难看了，情节也太老套了，应该是两人谈恋爱的意思%%": {
+      "浜辺栞帆女主的嘴也太难看了，情节也太老套了，应该是两人谈恋爱的意思%%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668479851256
         }
       }
     }

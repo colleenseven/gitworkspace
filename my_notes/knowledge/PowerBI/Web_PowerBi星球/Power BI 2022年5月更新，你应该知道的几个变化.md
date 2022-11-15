@@ -1,12 +1,13 @@
 ---
+notes: False
 aliases: null
 create_date: 2022-05-17T11:43:12 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能
 pagetitle: Power BI 2022年5月更新，你应该知道的几个变化
 source: https://mp.weixin.qq.com/s/gAdHoIfa_u4sSeDWZAbvWA
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章
 uid: 
 ---
 
@@ -18,7 +19,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 这里我主要挑选几个可能会对你有用的新功能简要介绍一下。
 
-**1、新增"字段参数"功能**
+#### **1、新增"字段参数"功能**
 
 这是本月全新推出的一个功能，它可以将模型中的列字段或者度量值设置为参数，快速进行各种动态的分析和可视化设计。
 
@@ -36,7 +37,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJP0m1jPFZm0XQR9Wia691ibMjXvic8ZeHcY6seicFvxxkEobRiaWRgIydoKiaasFFz74oPDeJrQxPgTsH8A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-然后点击创建，就和之前创建数字参数一样，模型中多了一个参数表，并在页面上自动添加一个切片器：
+然后点击创建，就和之前创建数字参数一样，<mark style="background: #FF5582A6;">模型中多了一个参数表，并在页面上自动添加一个切片器</mark>：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJP0m1jPFZm0XQR9Wia691ibMj9WicgWdNC2qFS2TNGziaRTEBc9LCq1JNa1ibABgAwsg4XG1BxIxtdsbpA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -50,9 +51,9 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 是不是非常便捷！
 
-利用字段参数这个功能，很多动态的技巧都可以重新设计，之后也会介绍它的更多应用场景。
+利用<mark style="background: #FF5582A6;">字段参数这个功能，很多动态的技巧都可以重新设计</mark>，之后也会介绍它的更多应用场景。
 
-**2、新增画布缩放功能**
+#### **2、新增画布缩放功能**
 
 本月新增画布缩放功能，可以通过右下角的滑块进行放大缩小：
 
@@ -62,7 +63,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 对于报告读者来说，可读性尤为重要。对于报告创建者，这个功能也有助于放大画布以进行像素级完美调整。
 
-**3\. 新格式窗格继续优化**
+#### **3\. 新格式窗格继续优化**
 
 新的格式窗格自去年底推出以后，不断在优化，并且会在下个月变成全部可用，不能再通过设置切换到旧版。  
 
@@ -72,7 +73,7 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 这样在设置各种格式时，可以节省点击的次数。  
 
-**4、组合图支持添加误差线**
+#### **4、组合图支持添加误差线**
 
 误差线功能继续迭代，本月开始支持在组合图中添加误差线。  
 
@@ -82,18 +83,3 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-may-2022-feature-summary/
 
 本月的更新就简单介绍这几个，更全面的功能可以去看官方博客继续探索，或者视频号中观看中文字幕的视频讲解。
 
-___
-
-PowerBI每月更新后，如果不能自动更新或者不方便下载，可以在公众号后台发送"**软件下载**",获取最新的PowerBI Desktop安装包；
-
-如果要下载历史安装包，也可以发送**6位年月编号**获取，比如发送“202109”获取2021年9月的安装包。
-
-更多安装说明请参考：[关于Power BI的下载和安装，你想知道的都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078648&idx=1&sn=7e53496bd78498ed962696055a500474&chksm=8e13a2efb9642bf98bb73de730c5141d61eb2dfd22e1781c2603745137302ea56ba2ae4dd6ba&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

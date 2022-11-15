@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-09-22T23:26:49 (UTC +08:00)
 tags: wx/pbi/DAX函数
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: SUMX, FILTER, ALL, MAX, AVERAGEX
+
 ---
 
 之前的文章中介绍了滚动指标的计算（[_Power BI 滚动聚合_](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484069714&idx=1&sn=82ec558b5ef6bf991dc0de0e3a3ead79&chksm=8e0c4f85b97bc693f113d2e9bc425c405b2ab2f1a3f93d8546073265c22f099a4994f1d2acd8&scene=21#wechat_redirect)），最近被问到，如何只对工作日进行滚动计算，比如<mark style="background: #FF5582A6;">最近7个工作日的滚动求和</mark>，这种用PowerBI怎么做呢？

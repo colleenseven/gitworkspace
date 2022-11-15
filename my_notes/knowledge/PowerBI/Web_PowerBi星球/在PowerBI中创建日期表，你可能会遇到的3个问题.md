@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-10T12:24:22 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -9,6 +10,8 @@ status: 已完成
 category: 泛读文章
 uid: 
 ---
+
+DAX:: ADDCOLUMNS, CALENDER,CALENDARAUTO, FORMAT, DATE, YEAR,WEEKDAY,GENERATE,ROW
 
 日常业务分析少不了时间相关分析，PowerBI时间相关分析离不开日期表，之前分享过日期表的制作方法，参考：
 

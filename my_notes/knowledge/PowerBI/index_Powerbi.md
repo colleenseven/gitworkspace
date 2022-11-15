@@ -1,4 +1,5 @@
 ---
+notes: Fa'l'se
 create_date: 2022-10-27 17:45 
 tags: whole/汇总
 status: 状态为空
@@ -21,12 +22,15 @@ uid:
 <mark style="background: #FF5582A6;">PowerBI大师</mark>：马世权，PBI教程通俗易懂，但是更新较少，阅读价值 1star
 <mark style="background: #FF5582A6;">悦策PowerBI</mark>：微软pbi官方平台，没有什么干货，阅读价值 0star
 
+
 ## 函数抽取
+
+VALUES
 
 ```dataview
 table status,category,create_date,tags,file.folder
 from "Knowledge/PowerBI"
-where contains(DAX, "UNION")
+where contains(DAX, "VALUES")
 ```
 
 ## PowerBI战友联盟
@@ -53,13 +57,33 @@ powerbi 星球文章统计：共有文章数`$= dv.pages('"Knowledge/PowerBI/Web
 
 #### 202203文章汇总
 
+```dataview
+table status,category,create_date,tags,notes
+from "Knowledge/PowerBI/Web_PowerBi星球"
+where contains(create_date, "2022-03")
+sort create_date DESC 
+```
+
 #### 202204文章汇总
+```dataview
+table status,category,create_date,tags,notes
+from "Knowledge/PowerBI/Web_PowerBi星球"
+where contains(create_date, "2022-04")
+sort create_date DESC 
+```
 
 #### 202205文章汇总
 
+```dataview
+table status,category,create_date,tags,notes
+from "Knowledge/PowerBI/Web_PowerBi星球"
+where contains(create_date, "2022-05")
+sort create_date DESC 
+```
+
 #### 202206文章汇总
 ```dataview
-table status,category,create_date,tags,file.folder
+table status,category,create_date,tags,notes
 from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-06")
 sort create_date DESC 
@@ -67,7 +91,7 @@ sort create_date DESC
 
 #### 202207文章汇总
 ```dataview
-table status,category,create_date,tags,file.folder 
+table status,category,create_date,tags,notes
 from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-07")
 sort create_date DESC 
@@ -75,7 +99,7 @@ sort create_date DESC
 
 #### 202208文章汇总
 ```dataview
-table status,category,create_date,tags,file.folder
+table status,category,create_date,tags,notes
 from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-08")
 sort create_date DESC 
@@ -85,7 +109,7 @@ sort create_date DESC
 #### 202209文章汇总
 
 ```dataview
-table status,category,create_date,tags,file.folder
+table status,category,create_date,tags,notes
 from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-09")
 sort create_date DESC 
@@ -93,7 +117,7 @@ sort create_date DESC
 
 #### 202210文章汇总
 ```dataview
-table status,category,create_date,tags,file.folder
+table status,category,create_date,tags,notes
 from "Knowledge/PowerBI/Web_PowerBi星球"
 where contains(create_date, "2022-10")
 sort create_date DESC 

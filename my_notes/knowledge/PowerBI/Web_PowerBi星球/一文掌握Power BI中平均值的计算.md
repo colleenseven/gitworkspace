@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-09-06T23:29:31 (UTC +08:00)
 tags: wx/pbi/DAX函数
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX :: SUM, VALUES, AVERAGE, AVERAGEX, CALCULATE, CALCULATETABLE, DATESYTD, SUMMARIZE
+
 ---
 
 本文介绍一下平均值的计算，平均与求和类似，也是一种常用的聚合运算，不过相对于求和，平均的逻辑稍微复杂一点。

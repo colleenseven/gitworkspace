@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-05-13T11:50:51 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: CALCULATE,VALUES,TREATAS
+
 ---
 
 本文来介绍一下在设计PowerBI报告的工具提示时，很多人可能都会遇到的一个问题。  

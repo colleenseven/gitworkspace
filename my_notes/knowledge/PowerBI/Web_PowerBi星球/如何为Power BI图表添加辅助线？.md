@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-15T12:23:03 (UTC +08:00)
 tags: wx/pbi/可视化图表
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 浏览文章
 uid: 
+---
+
+DAX:: AVERAGEX, ALL
+
 ---
 
 辅助线是可视化的一部分，是对图表的必要补充，为图表添加合适的辅助线会让信息看起来更清晰直观。  

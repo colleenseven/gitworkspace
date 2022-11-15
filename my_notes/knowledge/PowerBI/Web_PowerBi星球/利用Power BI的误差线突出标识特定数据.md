@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-06-19T12:31:26 (UTC +08:00)
 tags: wx/pbi/可视化图表
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: IF, SELECTEDVALUE,MAXX,ALLSELECTED
+
 ---
 
 之前曾介绍过一个可视化技巧，在折线图中添加垂直的阴影区域来突出标识特定数据：  

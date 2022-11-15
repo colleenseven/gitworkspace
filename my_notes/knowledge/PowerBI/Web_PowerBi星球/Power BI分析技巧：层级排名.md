@@ -1,24 +1,29 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-05-16T11:50:17 (UTC +08:00)
-tags: 
+tags: wx/pbi/DAX函数
 pagetitle: Power BI分析技巧：层级排名
 source: https://mp.weixin.qq.com/s/fH9IUk-gPs881K6514tXCg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
 
-以前曾经介绍过[层级占比](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068912&idx=1&sn=70e9083b581019385e8877d4a91e5a26&chksm=8e0c48e7b97bc1f159d60622393ab8b7a30c3cde30006d465b10cf005ecb58238e84ab77415c&scene=21#wechat_redirect)，也就是父级字段显示该层级值占总体的比例，子级各明细项显示占所属父级的占比。  
+DAX:: ALL, CALCULATE,SWITCH, TRUE,ALLSELECTED,SUMX，RANKX, ALLEXCEPT,ISINSCOPE
+
+---
+
+以前曾经介绍过[层级占比](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484068912&idx=1&sn=70e9083b581019385e8877d4a91e5a26&chksm=8e0c48e7b97bc1f159d60622393ab8b7a30c3cde30006d465b10cf005ecb58238e84ab77415c&scene=21#wechat_redirect)，也就是<mark style="background: #FF5582A6;">父级字段显示该层级值占总体的比例，子级各明细项显示占所属父级的占比。  </mark>
 
 最近遇到有人问能不能按层级进行排名？以下面这个矩阵为例来说明。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN9HCk0Ls3zNhu2gQYARG081vA0ibl065IedHibaSgkA0ibQeNmEvaDkXFLXWYIicaicnMYCfQe7VvianlA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-这个矩阵有两个层级，产品类别和产品名称，按销售额来排名，假如想要的排名逻辑是，**当上下文是产品类别时，在产品类别的范围内进行排名；当上下文是产品名称时，在该类别内的产品中进行排名，这就是一种层级排名。**  
+这个矩阵有两个层级，产品类别和产品名称，按销售额来排名，假如想要的排名逻辑是，**<mark style="background: #FF5582A6;">当上下文是产品类别时，在产品类别的范围内进行排名；当上下文是产品名称时，在该类别内的产品中进行排名，这就是一种层级排名。</mark>**  
 
-其实思路与层级占比是一样的，也是判断当前的层级，然后对应返回当前层级内的排名。
+其实思路与层级占比是一样的，也是<mark style="background: #FF5582A6;">判断当前的层级，然后对应返回当前层级内的排名</mark>。
 
 关于排名的计算，之前专门介绍过：
 
@@ -56,7 +61,7 @@ uid:
 > 
 > )
 
-这里依然是利用ISINSCOPE函数来判断层级，返回对应的排名，效果如下：  
+这里依然是<mark style="background: #FF5582A6;">利用ISINSCOPE函数来判断层级</mark>，返回对应的排名，效果如下：  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN9HCk0Ls3zNhu2gQYARG08G887CM0nCtAsNwkcqlEh38UOJgJ8XopbUs2eoicPWtOSFJB12BLTFOQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -103,17 +108,3 @@ uid:
 这样就实现了，无论上下文选择哪些产品，都可以动态地实现在所选择的范围内进行层级排名。  
 
 以上就是两种层级排名的思路，先按逻辑先对每个层级分别排名，然后利用SWITCH+ISINSCOPE函数判断层级，将多种排名逻辑整合到一个度量值里面，就可以轻松实现。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4500+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJO1AEySOiakLF2kY7eb1kUw2DtfKoVz2ctBDia5dtNsPX2GhV0ZOCDDWpgpaTQtnqfqJrRXt5PNia95g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

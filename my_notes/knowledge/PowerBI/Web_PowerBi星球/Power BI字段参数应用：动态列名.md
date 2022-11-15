@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-06-14T12:32:27 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: NAMEOF， CALCULATE,MAX,TODAY
+
 ---
 
 最近碰到一个星友的提问，他结合[这篇文章](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074772&idx=1&sn=f13557e739a5b0304696c1b9213c09c2&chksm=8e0c53c3b97bdad5d606da03d4723cbdb822d3a5faa7d6b2b0d4fa4e8268bad5fe2d58ddfac8&scene=21#wechat_redirect)（[无日期上下文如何计算同比环比](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074772&idx=1&sn=f13557e739a5b0304696c1b9213c09c2&chksm=8e0c53c3b97bdad5d606da03d4723cbdb822d3a5faa7d6b2b0d4fa4e8268bad5fe2d58ddfac8&scene=21#wechat_redirect)）的思路，已经建好了本月、上月、上年同期以及环比、同比数据这几个度量值，用矩阵展示每个类别的数据如下图：  

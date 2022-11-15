@@ -23,19 +23,20 @@
             }
           },
           {
-            "id": "d74033fc7ad0101d",
+            "id": "1236d5918239206a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
+                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "通过一个案例",
+                "query": "字段参数",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,12 +97,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df5ff55688ba9875",
+            "id": "928f91fb197c029b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "text-expand 测试.md",
+                "file": "词库/DAX函数汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/PowerBI/index_Powerbi.md",
+                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/PowerBI/index_Powerbi.md",
+                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/PowerBI/index_Powerbi.md"
+                "file": "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md"
               }
             }
           },
@@ -199,23 +200,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "dcdb70a6ca9f41d9",
+  "active": "1236d5918239206a",
   "lastOpenFiles": [
-    "Knowledge/PowerBI/Web_PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md",
-    "Knowledge/PowerBI/index_Powerbi.md",
-    "词库/DAX函数汇总.md",
-    "Knowledge/商业洞察/index_刘润.md",
-    "text-expand 测试.md",
-    "Knowledge/商业洞察/刘润/刘润notes/N-到底什么是外包？.md",
-    "Knowledge/商业洞察/刘润/刘润notes/N-拆解直播带货.md",
-    "Knowledge/商业洞察/刘润/刘润notes/N-从员工到老板，你必须经历的三次跃迁.md",
     "OB操作学习/打戏.md",
-    "阅读计划汇总.md"
+    "Knowledge/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
+    "Knowledge/商业洞察/刘润/刘润notes/N-5个方面洞察项目：我如何判断一个项目能否成功.md",
+    "Knowledge/PowerBI/index_Powerbi.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI字段参数介绍以及常见应用场景.md",
+    "词库/DAX函数汇总.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/最新发布的PPT集成PowerBI插件，你最关心的几个问题.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/认识3个新的Power BI可视化控件.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md",
+    "Knowledge/PowerBI/Web_PowerBi星球/Power BI分析技巧：层级排名.md"
   ]
 }

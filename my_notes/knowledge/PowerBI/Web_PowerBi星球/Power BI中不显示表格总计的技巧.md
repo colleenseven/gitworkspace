@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-10-16T23:14:50 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -9,6 +10,8 @@ status: 已完成
 category: 精读文章
 uid: 
 ---
+
+DAX ::  ISINSCOPE, IF, SUM
 
 在PowerBI中经常会用到表格，如果里面有<mark style="background: #FFB86CA6;">数值型的字段，默认会显示总计行</mark>，比如下面这个表格，展示每个产品类别的收入和利润：
 

@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-08-24T12:21:47 (UTC +08:00)
 tags: wx/pbi/建模技巧
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 精读文章
 uid: 
+---
+
+DAX:: SWITCH, TRUE, IF, MAX,COUNTROWS,FILTER
+
 ---
 
 经常有人问如何<mark style="background: #FF5582A6;">用度量值做切片器，或者如何放在图表的坐标轴上</mark>？基于度量值本身的特点以及可视化的制作逻辑，度量值不可能直接制作切片器，也不能用于图表的坐标轴，但并非不能实现同样的效果，本文通过一个例子来再现这个需求，并给出一个变通的解决思路。

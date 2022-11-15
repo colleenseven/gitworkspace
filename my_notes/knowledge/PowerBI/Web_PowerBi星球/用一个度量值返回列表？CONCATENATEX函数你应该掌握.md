@@ -1,4 +1,5 @@
 ---
+notes: True
 aliases: null
 create_date: 2022-10-20T23:15:58 (UTC +08:00)
 tags: wx/pbi/DAX函数
@@ -8,6 +9,10 @@ author: 采悟
 status: 已完成
 category: 泛读文章
 uid: 
+---
+
+DAX :: CONCATENATEX, CONCATENATE, VALUES
+
 ---
 
 连接文本字符串经常会用到连接符&，还有个的DAX函数CONCATENATE，可以将两个字符串连接成一个字符串，这个函数本身非常简单，使用场景也有限，不过它的迭代函数CONCATENATEX，用处非常大，之前的文章中也多次用到过这个函数。  

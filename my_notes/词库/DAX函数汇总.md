@@ -1,3 +1,57 @@
+ALL	清除筛选返回全部
+ALLSELECTED	清除内筛选保留外筛选,按选中项筛选
+AVERAGE	平均值
+AVERAGEX	迭代平均值
+BLANK	值为空
+CALCULATE	筛选上下文计算
+CALCULATETABLE	筛选上下文计算为表格
+CALENDARAUTO	自动日历表
+CALENDER	日历表
+CONCATENATE	连接字符串
+CONCATENATEX	迭代每一行字符连接为一个字符串
+COUNTROWS	行计数
+CROSSJOIN	笛卡尔积
+DATE	日期
+DATESYTD	时间智能年度至今
+FILTER	筛选器
+FILTER	筛选表
+FORMAT	格式化
+GENERATE	生成表
+GENERATESERIES	生成序列
+IF	如果条件
+ISFILTERED	判断是否选中
+ISINSCOPE	是否总计行
+LOOKUPVALUE	匹配计算列
+MAX	最大值
+MAXX	迭代最大值
+MIN	最小值
+NAMEOF	返回字段名称
+NETWORKDAYS	间隔工作天数计算
+NOT	取反
+POWER	幂函数开N次方
+PRODUCT	相乘函数
+PRODUCTX	迭代相乘函数
+RELATED	关联列
+ROW	新增行
 SELECTCOLUMNS	选择列
-UNION 	垂直合并表
+SELECTEDVALUE	选中值
+SUM	求和
+SUMMARIZE	抽取维度表
+SUMX	迭代求和
+SWITCH	选择值
+TODAY	返回今天的日期
+UNION	垂直合并表
+VALUES	值表
+WEEKDAY	周几
+YEAR	年
+TRUE	值为真
+TREATAS	视为
+RANKX	迭代排名
+ALLEXCEPT	除指定列外的筛选
+ISINSCOPE	判断层级
+
+
+
+
+
 
