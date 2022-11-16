@@ -268,6 +268,7 @@ easy typing
 
 #### 优质已读内容
 
+[Johnny学OB 第18集 - 用OB给音频和视频加时间戳，你想看哪儿，就去看哪儿，更加高效的学习。Media Extended详细教程 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hf4y1P7iN/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 [一秒生成一万行组合文本，活用Textce，提高你的输出效率 【Johnny学Textce 第二集】 一秒生成一万行组合文本，活用Textce，提供你的输出效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Vr4y1p7K3/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%失效了%%
 

@@ -20,7 +20,7 @@ sort create_date DESC
 #### 已完成
 
 ```dataview
-table status,category,create_date,tags,notes
+table status,category,create_date,tags,notes,down
 from "Knowledge/商业洞察/晚点lastpost"
 where status ="已完成"
 sort create_date DESC

@@ -4,54 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcde18758b68d00",
+        "id": "84cead54f154632e",
         "type": "tabs",
         "children": [
           {
-            "id": "dcdb70a6ca9f41d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/PowerBI/index_Powerbi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "faaa8ee9ddad6ebe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/商业洞察/index_刘润.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "21f4978a23a90663",
+            "id": "6248dd6528e2a49f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/启明星辰.md",
+                "file": "OB操作学习/打戏.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wx/管理方法",
+                "query": "直男",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "71fea7c3f4a76603",
@@ -111,48 +81,6 @@
         "id": "fe5f3fcd6ad661b5",
         "type": "tabs",
         "children": [
-          {
-            "id": "928f91fb197c029b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "词库/DAX函数汇总.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4f2f560800cfbca",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "求职面试/启明星辰.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "12b1501dd2c9e063",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "求职面试/启明星辰.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "c9729a1718f27296",
             "type": "leaf",
@@ -170,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职面试/启明星辰.md"
+                "file": "OB操作学习/打戏.md"
               }
             }
           },
@@ -205,25 +133,55 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "9fddee74a0aeb67a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OB操作学习/打戏.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5202712c1617465",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OB操作学习/打戏.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
-  "active": "21f4978a23a90663",
+  "active": "6248dd6528e2a49f",
   "lastOpenFiles": [
-    "求职面试/字节跳动1.md",
-    "求职面试/启明星辰.md",
-    "求职面试/归档/中电建物业管理有限公司 线上社区运营.md",
-    "求职面试/面试问题汇总.md",
-    "求职面试/归档/国聘急速反馈业务流程图.svg",
-    "求职面试/归档/海淀区精华培训学校 教育社群运营专员.md",
-    "求职面试/归档/国投人力资源服务有限公司-产品运营经理.md",
-    "Knowledge/PowerBI/index_Powerbi.md",
-    "Knowledge/商业洞察/index_刘润.md",
-    "Knowledge/抖音/未完成的转移分类/文案三把刀.md"
+    "Video/电视剧素材整理.md",
+    "Video/待下载资源.md",
+    "OB操作学习/打戏.md",
+    "OB操作学习/OB插件.md",
+    "OB操作学习/if_mytexttools.md",
+    "Knowledge/抖音/index_抖音.md",
+    "Knowledge/抖音/抖音模仿汇总（收藏）.md",
+    "Knowledge/抖音/抖音收藏-模仿/短视频拍摄素材与方法.md",
+    "Knowledge/抖音/抖音收藏-模仿/表情.md",
+    "Knowledge/抖音/抖音科普汇总（喜欢）.md"
   ]
 }
