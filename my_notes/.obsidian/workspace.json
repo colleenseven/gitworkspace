@@ -58,7 +58,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词库/八阵图.md",
+                "file": "成长记录/小学英语/小学英语1200词.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3636d43e2989ce69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "质量 增长",
+                "query": "line:(完善)",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "词库/八阵图.md"
+                "file": "成长记录/小学英语/小学英语基础知识归纳表.md"
               }
             }
           },
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词库/八阵图.md",
+                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "词库/八阵图.md",
+                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +228,17 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "33405a2924c42525",
+  "active": "3636d43e2989ce69",
   "lastOpenFiles": [
+    "成长记录/小学语文/小学语文基础知识归纳表.md",
+    "成长记录/小学英语/小学英语基础知识归纳表.md",
+    "成长记录/小学英语/小学英语1200词.md",
     "求职面试/index_求职.md",
-    "词库/南园十三首·其五原文、翻译及赏析_李贺古诗_古诗文网.md",
-    "词库/客中作原文、翻译及赏析_李白古诗_古诗文网.md",
-    "词库/竹枝词二首·其一原文、翻译及赏析_刘禹锡古诗_古诗文网.md",
-    "词库/戏问花门酒家翁原文、翻译及赏析_岑参古诗_古诗文网.md",
-    "词库/白云泉原文、翻译及赏析_白居易古诗_古诗文网.md",
-    "词库/望月怀远原文、翻译及赏析_张九龄古诗_古诗文网.md",
-    "词库/八阵图.md",
-    "词库/山居秋暝原文、翻译及赏析_王维古诗_古诗文网.md",
-    "词库/使至塞上原文、翻译及赏析_王维古诗_古诗文网.md"
+    "词库/index_唐诗.md",
+    "词库/唐诗/登鹳雀楼.md",
+    "词库/唐诗/大林寺桃花.md",
+    "词库/唐诗/春晓.md",
+    "词库/唐诗/春夜洛城闻笛.md",
+    "词库/唐诗/登乐游原.md"
   ]
 }
