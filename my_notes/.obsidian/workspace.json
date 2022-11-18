@@ -4,23 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "84cead54f154632e",
+        "id": "e5871a2e1528411c",
         "type": "tabs",
         "children": [
           {
-            "id": "6248dd6528e2a49f",
+            "id": "f087184f4557bbdb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/面试问题汇总.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4f5242ac13ebed26",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/面试自我介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "75e99f3d74f1e47c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/index_求职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "33405a2924c42525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB操作学习/打戏.md",
+                "file": "词库/八阵图.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,10 +95,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "直男",
+                "query": "质量 增长",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
@@ -70,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "71fea7c3f4a76603",
@@ -98,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB操作学习/打戏.md"
+                "file": "词库/八阵图.md"
               }
             }
           },
@@ -135,12 +180,12 @@
             }
           },
           {
-            "id": "9fddee74a0aeb67a",
+            "id": "6198617ba7b7e2c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB操作学习/打戏.md",
+                "file": "词库/八阵图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +197,12 @@
             }
           },
           {
-            "id": "c5202712c1617465",
+            "id": "59f2efa47b98dfba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB操作学习/打戏.md",
+                "file": "词库/八阵图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,20 +213,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
-  "active": "6248dd6528e2a49f",
+  "active": "33405a2924c42525",
   "lastOpenFiles": [
-    "Video/电视剧素材整理.md",
-    "Video/待下载资源.md",
-    "OB操作学习/打戏.md",
-    "OB操作学习/OB插件.md",
-    "OB操作学习/if_mytexttools.md",
-    "Knowledge/抖音/index_抖音.md",
-    "Knowledge/抖音/抖音模仿汇总（收藏）.md",
-    "Knowledge/抖音/抖音收藏-模仿/短视频拍摄素材与方法.md",
-    "Knowledge/抖音/抖音收藏-模仿/表情.md",
-    "Knowledge/抖音/抖音科普汇总（喜欢）.md"
+    "求职面试/index_求职.md",
+    "词库/南园十三首·其五原文、翻译及赏析_李贺古诗_古诗文网.md",
+    "词库/客中作原文、翻译及赏析_李白古诗_古诗文网.md",
+    "词库/竹枝词二首·其一原文、翻译及赏析_刘禹锡古诗_古诗文网.md",
+    "词库/戏问花门酒家翁原文、翻译及赏析_岑参古诗_古诗文网.md",
+    "词库/白云泉原文、翻译及赏析_白居易古诗_古诗文网.md",
+    "词库/望月怀远原文、翻译及赏析_张九龄古诗_古诗文网.md",
+    "词库/八阵图.md",
+    "词库/山居秋暝原文、翻译及赏析_王维古诗_古诗文网.md",
+    "词库/使至塞上原文、翻译及赏析_王维古诗_古诗文网.md"
   ]
 }

@@ -5,7 +5,9 @@ status: 状态为空
 uid: 
 ---
 
-关注社区团购，美团，美团优选，美团快驴，美团买菜，多多买菜，橙心优选，京喜拼拼，每日优鲜，叮咚买菜，同城生活，十荟团
+关注社区团购，美团，美团优选，美团快驴，美团买菜，多多买菜，橙心优选，京喜拼拼，每日优鲜，叮咚买菜，同程生活，十荟团
+
+关注直播，字节和快手
 
 阅读进度：2022年11月05日
 
@@ -21,7 +23,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,notes,down
-from "Knowledge/商业洞察/晚点lastpost"
+from "Knowledge/商业洞察/晚点lastpost" and !"Knowledge/商业洞察/晚点lastpost/晚点notes"
 where status ="已完成"
 sort create_date DESC
 ```
