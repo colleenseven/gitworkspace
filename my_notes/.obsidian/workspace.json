@@ -71,7 +71,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
+                "file": "求职面试/启明星辰信息技术集团股份有限公司-运营经理（网络安全）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2758f0cadfb5bf55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长记录/小学阅读/二年级/机器巨人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长记录/小学英语/小学英语基础知识归纳表.md"
+                "file": "成长记录/小学阅读/二年级/机器巨人.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
+                "file": "成长记录/小学阅读/二年级/机器巨人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长记录/小学英语/小学英语基础知识归纳表.md",
+                "file": "成长记录/小学阅读/二年级/机器巨人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,17 +241,17 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "3636d43e2989ce69",
+  "active": "2758f0cadfb5bf55",
   "lastOpenFiles": [
-    "成长记录/小学语文/小学语文基础知识归纳表.md",
-    "成长记录/小学英语/小学英语基础知识归纳表.md",
-    "成长记录/小学英语/小学英语1200词.md",
-    "求职面试/index_求职.md",
-    "词库/index_唐诗.md",
-    "词库/唐诗/登鹳雀楼.md",
-    "词库/唐诗/大林寺桃花.md",
-    "词库/唐诗/春晓.md",
-    "词库/唐诗/春夜洛城闻笛.md",
-    "词库/唐诗/登乐游原.md"
+    "词库/秋浦歌十七首·十五.md",
+    "词库/唐诗/暮江吟.md",
+    "词库/唐诗/静夜思.md",
+    "词库/春雪原文、翻译及赏析_韩愈古诗_古诗文网.md",
+    "词库/唐诗/江雪.md",
+    "词库/唐诗/鹿柴.md",
+    "词库/唐诗/江南逢李龟年.md",
+    "词库/唐诗/回乡偶书.md",
+    "词库/唐诗/过故人庄.md",
+    "词库/唐诗/赋得古原草送别.md"
   ]
 }
