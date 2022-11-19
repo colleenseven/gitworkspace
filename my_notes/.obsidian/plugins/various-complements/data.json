@@ -25,7 +25,7 @@
   "enableCurrentVaultComplement": true,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
-  "excludeCurrentVaultPathPrefixPatterns": "OB操作/打戏",
+  "excludeCurrentVaultPathPrefixPatterns": "OB操作/打戏\nOB操作/家庭生活",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
   "customDictionaryPaths": "词库/四级词汇.md\n词库/DAX函数汇总.md",
@@ -170,8 +170,8 @@
     "已完成": {
       "已完成": {
         "frontMatter": {
-          "count": 85,
-          "lastUpdated": 1668833222643
+          "count": 87,
+          "lastUpdated": 1668850995522
         }
       }
     },
@@ -1334,8 +1334,8 @@
     "wx/社区团购": {
       "wx/社区团购": {
         "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1668843218718
+          "count": 13,
+          "lastUpdated": 1668869974326
         }
       }
     },
@@ -1350,8 +1350,8 @@
     "未完成文章": {
       "未完成文章": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668662360729
+          "count": 3,
+          "lastUpdated": 1668875430162
         }
       }
     },
@@ -1430,8 +1430,8 @@
     "gsw/唐诗": {
       "gsw/唐诗": {
         "frontMatter": {
-          "count": 28,
-          "lastUpdated": 1668843240086
+          "count": 94,
+          "lastUpdated": 1668875382495
         }
       }
     },
@@ -1462,16 +1462,64 @@
     "杜牧": {
       "杜牧": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1668833931653
+          "count": 2,
+          "lastUpdated": 1668849481088
         }
       }
     },
     "location": {
       "location": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1668842696785
+          "count": 27,
+          "lastUpdated": 1668875000336
+        }
+      }
+    },
+    "杜甫": {
+      "杜甫": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668849578814
+        }
+      }
+    },
+    "李贺": {
+      "李贺": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668850215571
+        }
+      }
+    },
+    "刘长卿": {
+      "刘长卿": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668863506494
+        }
+      }
+    },
+    "刘方平": {
+      "刘方平": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668874383246
+        }
+      }
+    },
+    "王维": {
+      "王维": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1668874898501
+        }
+      }
+    },
+    "碧玉妆成一树高，万条垂下绿丝绦。\\": {
+      "碧玉妆成一树高，万条垂下绿丝绦。\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668875361961
         }
       }
     }
