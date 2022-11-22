@@ -4,32 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "e5871a2e1528411c",
+        "id": "598accb9ce91f2a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f087184f4557bbdb",
+            "id": "63088529099b12ec",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
+                "file": "成长记录/语文课外系列/其他/大自然温馨微童话集（共10册）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "75e99f3d74f1e47c",
+            "id": "c2a1034ea95672ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长记录/英语课外计划/gkid课本四册.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cdb5126c9eb8f66",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/index_求职.md",
+                "file": "成长记录/语文课外系列/index_语文课外系列.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,9 +78,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dy",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -83,12 +94,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c8d9eada1bcc8615",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 267.5
   },
   "right": {
     "id": "71fea7c3f4a76603",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长记录/index_唐诗.md"
+                "file": "成长记录/英语课外计划/gkid课本四册.md"
               }
             }
           },
@@ -124,14 +143,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd3ad95799eef328",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长记录/index_唐诗.md",
+                "file": "成长记录/英语课外计划/gkid课本四册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,31 +185,44 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长记录/index_唐诗.md",
+                "file": "成长记录/英语课外计划/gkid课本四册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ca0f526620bbcffa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "词库/DAX函数汇总.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
-  "active": "2643a4c4d1110b42",
+  "active": "c2a1034ea95672ad",
   "lastOpenFiles": [
-    "求职面试/index_求职.md",
+    "成长记录/语文课外系列/index_语文课外系列.md",
+    "成长记录/语文课外系列/其他/写给儿童的二十四节气（共8册）.md",
+    "成长记录/语文课外系列/其他/大自然温馨微童话集（共10册）.md",
+    "成长记录/语文课外系列/其他/婉达盖格大师名作绘本（共4册）.md",
     "成长记录/index_唐诗.md",
-    "成长记录/小学语文/唐诗/赤壁.md",
-    "成长记录/小学语文/唐诗/咏柳.md",
-    "成长记录/小学语文/唐诗/月下独酌·其一.md",
-    "成长记录/小学语文/唐诗/夜雨寄北.md",
-    "成长记录/小学语文/唐诗/月夜.md",
-    "成长记录/小学语文/唐诗/乌衣巷.md",
-    "成长记录/小学语文/唐诗/于易水送人.md",
-    "成长记录/小学语文/唐诗/咏鹅.md"
+    "成长记录/语文课外系列/其他/米小圈上学记（一年级共4册）.md",
+    "成长记录/语文课外系列/其他/恐龙王国童话（共6册）.md",
+    "成长记录/语文课外系列/其他/儿童逆商培养绘本（共12册）.md",
+    "Interest/抖音/抖音博主汇总.md",
+    "Interest/歌曲/index_歌曲.md"
   ]
 }

@@ -61,15 +61,7 @@
   "app:open-settings": [],
   "app:go-back": [],
   "window:toggle-always-on-top": [],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
+  "workspace:toggle-pin": [],
   "app:go-forward": [],
   "insert-current-date": [
     {
@@ -158,7 +150,17 @@
       "key": "Y"
     }
   ],
-  "mrj-text-expand:editor-expand": [
+  "mrj-text-expand:editor-expand": [],
+  "longform:longform-show-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-reading-time:reading-time-editor-command": [
     {
       "modifiers": [
         "Mod",

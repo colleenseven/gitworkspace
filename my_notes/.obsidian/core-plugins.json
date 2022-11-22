@@ -1,7 +1,6 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
   "graph",
   "backlink",
   "outgoing-link",
@@ -13,8 +12,8 @@
   "command-palette",
   "editor-status",
   "starred",
+  "random-note",
   "outline",
-  "word-count",
-  "workspaces",
+  "audio-recorder",
   "file-recovery"
 ]

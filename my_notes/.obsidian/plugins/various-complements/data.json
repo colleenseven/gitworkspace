@@ -47,6 +47,14 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "1239463676": {
+      "1239463676": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668918791238
+        }
+      }
+    },
     "%%pandoc导出docx和ppt非常有用%%": {
       "%%pandoc导出docx和ppt非常有用%%": {
         "currentFile": {
@@ -194,8 +202,8 @@
     "frontmatter": {
       "frontmatter": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666863637792
+          "count": 5,
+          "lastUpdated": 1669099197936
         }
       }
     },
@@ -302,8 +310,8 @@
     "浏览文章": {
       "浏览文章": {
         "frontMatter": {
-          "count": 14,
-          "lastUpdated": 1668500513679
+          "count": 15,
+          "lastUpdated": 1669083130391
         }
       }
     },
@@ -350,8 +358,8 @@
     "author": {
       "author": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666879642507
+          "count": 2,
+          "lastUpdated": 1669096644761
         }
       }
     },
@@ -430,8 +438,8 @@
     "2022-10-25 10:56": {
       "2022-10-25 10:56": {
         "frontMatter": {
-          "count": 16,
-          "lastUpdated": 1666939289674
+          "count": 18,
+          "lastUpdated": 1669110293274
         }
       }
     },
@@ -618,8 +626,8 @@
           "lastUpdated": 1668436747244
         },
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1668437782134
+          "count": 8,
+          "lastUpdated": 1669083533587
         }
       }
     },
@@ -646,8 +654,8 @@
           "lastUpdated": 1668439012616
         },
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668439016349
+          "count": 2,
+          "lastUpdated": 1668950266039
         }
       }
     },
@@ -662,8 +670,8 @@
     "SUM": {
       "SUM": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1668439331032
+          "count": 5,
+          "lastUpdated": 1668959235917
         }
       }
     },
@@ -678,16 +686,16 @@
     "CALCULATETABLE": {
       "CALCULATETABLE": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1668416341781
+          "count": 6,
+          "lastUpdated": 1669038186210
         }
       }
     },
     "VALUES": {
       "VALUES": {
         "customDictionary": {
-          "count": 9,
-          "lastUpdated": 1668439561384
+          "count": 16,
+          "lastUpdated": 1669038180637
         }
       }
     },
@@ -710,16 +718,16 @@
     "CALCULATE": {
       "CALCULATE": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1668440313103
+          "count": 13,
+          "lastUpdated": 1669083526866
         }
       }
     },
     "SUMMARIZE": {
       "SUMMARIZE": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668416361725
+          "count": 3,
+          "lastUpdated": 1669036295972
         }
       }
     },
@@ -742,8 +750,8 @@
     "MAX": {
       "MAX": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1668438451626
+          "count": 10,
+          "lastUpdated": 1669083529684
         }
       }
     },
@@ -758,40 +766,40 @@
     "SWITCH": {
       "SWITCH": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1668440456920
+          "count": 6,
+          "lastUpdated": 1669080214198
         }
       }
     },
     "TRUE": {
       "TRUE": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1668440462759
+          "count": 4,
+          "lastUpdated": 1669036459082
         }
       }
     },
     "COUNTROWS": {
       "COUNTROWS": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1668439029442
+          "count": 6,
+          "lastUpdated": 1668950441667
         }
       }
     },
     "ALL": {
       "ALL": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1668437326102
+          "count": 7,
+          "lastUpdated": 1669036380413
         }
       }
     },
     "ADDCOLUMNS": {
       "ADDCOLUMNS": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668437183929
+          "count": 5,
+          "lastUpdated": 1669083581436
         }
       }
     },
@@ -814,8 +822,8 @@
     "FORMAT": {
       "FORMAT": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1668439477873
+          "count": 3,
+          "lastUpdated": 1669044392704
         }
       }
     },
@@ -862,8 +870,8 @@
     "LOOKUPVALUE": {
       "LOOKUPVALUE": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668437501493
+          "count": 2,
+          "lastUpdated": 1668959023760
         }
       }
     },
@@ -886,16 +894,16 @@
     "SUMX": {
       "SUMX": {
         "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1668440552070
+          "count": 4,
+          "lastUpdated": 1669083600866
         }
       }
     },
     "SELECTEDVALUE": {
       "SELECTEDVALUE": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1668438571748
+          "count": 9,
+          "lastUpdated": 1669080217525
         }
       }
     },
@@ -918,24 +926,24 @@
     "TODAY": {
       "TODAY": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668438515175
+          "count": 3,
+          "lastUpdated": 1668957952244
         }
       }
     },
     "ALLSELECTED": {
       "ALLSELECTED": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1668440546244
+          "count": 4,
+          "lastUpdated": 1669036469823
         }
       }
     },
     "ISFILTERED": {
       "ISFILTERED": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668439113639
+          "count": 4,
+          "lastUpdated": 1669038268364
         }
       }
     },
@@ -950,8 +958,8 @@
     "TREATAS": {
       "TREATAS": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1668439622616
+          "count": 5,
+          "lastUpdated": 1669037332324
         }
       }
     },
@@ -966,32 +974,32 @@
     "ALLEXCEPT": {
       "ALLEXCEPT": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668440699458
+          "count": 2,
+          "lastUpdated": 1668954278960
         }
       }
     },
     "wx/pbi/DAX函数": {
       "wx/pbi/DAX函数": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1668441459545
+          "count": 5,
+          "lastUpdated": 1669038336837
         }
       }
     },
     "wx/pbi/数据处理功能": {
       "wx/pbi/数据处理功能": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1668441030606
+          "count": 9,
+          "lastUpdated": 1669083414646
         }
       }
     },
     "精读文章": {
       "精读文章": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1668441489124
+          "count": 2,
+          "lastUpdated": 1668944762145
         }
       }
     },
@@ -1022,16 +1030,16 @@
     "notes": {
       "notes": {
         "frontMatter": {
-          "count": 16,
-          "lastUpdated": 1668651076360
+          "count": 17,
+          "lastUpdated": 1668940794836
         }
       }
     },
     "matchline": {
       "matchline": {
         "currentVault": {
-          "count": 9,
-          "lastUpdated": 1668650504232
+          "count": 11,
+          "lastUpdated": 1668944921455
         }
       }
     },
@@ -1046,8 +1054,8 @@
     "wx/商业洞察": {
       "wx/商业洞察": {
         "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1668523336336
+          "count": 12,
+          "lastUpdated": 1668946878609
         }
       }
     },
@@ -1106,16 +1114,16 @@
     "wx/企业管理": {
       "wx/企业管理": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1668524862422
+          "count": 3,
+          "lastUpdated": 1668943307640
         }
       }
     },
     "wx/热点时评": {
       "wx/热点时评": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1668525194493
+          "count": 2,
+          "lastUpdated": 1668945600042
         }
       }
     },
@@ -1366,8 +1374,8 @@
     "qz/启明星辰": {
       "qz/启明星辰": {
         "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1668750424124
+          "count": 8,
+          "lastUpdated": 1668959721745
         }
       }
     },
@@ -1376,6 +1384,10 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1668747794243
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669007429890
         }
       }
     },
@@ -1520,6 +1532,406 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1668875361961
+        }
+      }
+    },
+    "acterys": {
+      "acterys": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668917835132
+        }
+      }
+    },
+    "2022年3月22日": {
+      "2022年3月22日": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668931204078
+        }
+      }
+    },
+    "Interest": {
+      "Interest": {
+        "customDictionary": {
+          "count": 14,
+          "lastUpdated": 1668949032645
+        }
+      }
+    },
+    "Extract": {
+      "Extract": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1668946563071
+        }
+      }
+    },
+    "wx/自我管理": {
+      "wx/自我管理": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1668946506891
+        }
+      }
+    },
+    "wx/pbi/PQ数据处理": {
+      "wx/pbi/PQ数据处理": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1669036088606
+        }
+      }
+    },
+    "MAXX": {
+      "MAXX": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668949797489
+        }
+      }
+    },
+    "DIVIDE": {
+      "DIVIDE": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668958108061
+        }
+      }
+    },
+    "wx/pbi/建模技巧": {
+      "wx/pbi/建模技巧": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1669087474059
+        }
+      }
+    },
+    "wx/pbi/可视化图表": {
+      "wx/pbi/可视化图表": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1669080159023
+        }
+      }
+    },
+    "UNION": {
+      "UNION": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669036291929
+        }
+      }
+    },
+    "保留不重复项": {
+      "保留不重复项": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668957741161
+        }
+      }
+    },
+    "ADDCOLUMS": {
+      "ADDCOLUMS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668957746063
+        }
+      }
+    },
+    "EOMONTH": {
+      "EOMONTH": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668957958285
+        }
+      }
+    },
+    "STARTOFQUARTER": {
+      "STARTOFQUARTER": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668958204805
+        }
+      }
+    },
+    "ENDOFQUARTER": {
+      "ENDOFQUARTER": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668958100206
+        }
+      }
+    },
+    "STARTOFYEAR": {
+      "STARTOFYEAR": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668958237101
+        }
+      }
+    },
+    "ENDOFYEAR": {
+      "ENDOFYEAR": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668958241215
+        }
+      }
+    },
+    "%%国投人力的问题%%": {
+      "%%国投人力的问题%%": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669007450967
+        }
+      }
+    },
+    "项目经理：项目包含启动-计划-执行-控制-收尾5个阶段，项目经理需要拆解任务，找到关键路径，做好应急储备，对项目进行中的质量，安全和工期负责，实现最终交付。项目经理是产品与开发之间的桥梁。": {
+      "项目经理：项目包含启动-计划-执行-控制-收尾5个阶段，项目经理需要拆解任务，找到关键路径，做好应急储备，对项目进行中的质量，安全和工期负责，实现最终交付。项目经理是产品与开发之间的桥梁。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669007445768
+        }
+      }
+    },
+    "你对数据分析的认知": {
+      "你对数据分析的认知": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669007606306
+        }
+      }
+    },
+    "我最长使用的数据分析组合是SQL+PBI+Excel的形式。SQL能从海量数据中快速抽取目标数据集，PBI通过筛选+计算的方式聚合出分析结果进行可视化呈现，Excel通用性强，能比较快的将数据结果分享给其他业务方。": {
+      "我最长使用的数据分析组合是SQL+PBI+Excel的形式。SQL能从海量数据中快速抽取目标数据集，PBI通过筛选+计算的方式聚合出分析结果进行可视化呈现，Excel通用性强，能比较快的将数据结果分享给其他业务方。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669007621029
+        }
+      }
+    },
+    "Wind": {
+      "Wind": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669007863743
+        }
+      }
+    },
+    "wind金融终端需要付费使用，它提供的数据接口可以与excel打通，支持自定义数据指标，既可以获得原始数据，也可以获得分析数据，可视化效果也比较好，是做调研报告和数据分析必备的工具。": {
+      "wind金融终端需要付费使用，它提供的数据接口可以与excel打通，支持自定义数据指标，既可以获得原始数据，也可以获得分析数据，可视化效果也比较好，是做调研报告和数据分析必备的工具。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669009220167
+        }
+      }
+    },
+    "接诉即办接收，核实，转派，回访，结案，申诉工作，": {
+      "接诉即办接收，核实，转派，回访，结案，申诉工作，": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669015524721
+        }
+      }
+    },
+    "日报，周报，月报，年报和其他报告，分析得失分原因和整改意见": {
+      "日报，周报，月报，年报和其他报告，分析得失分原因和整改意见": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669015669336
+        }
+      }
+    },
+    "招投标信息": {
+      "招投标信息": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669016836872
+        }
+      }
+    },
+    "SAMEPERIODLASTYEAR": {
+      "SAMEPERIODLASTYEAR": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1669038195828
+        }
+      }
+    },
+    "DATEADD": {
+      "DATEADD": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669037587224
+        }
+      }
+    },
+    "INTERSECT": {
+      "INTERSECT": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669038203863
+        }
+      }
+    },
+    "times": {
+      "times": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669044110737
+        }
+      }
+    },
+    "你说的哪一个": {
+      "你说的哪一个": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669044133678
+        }
+      }
+    },
+    "say": {
+      "say": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669044182753
+        }
+      }
+    },
+    "PowerBI战友联盟": {
+      "PowerBI战友联盟": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669088763399
+        }
+      }
+    },
+    "distinct": {
+      "distinct": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669098232790
+        }
+      }
+    },
+    "米小圈上学记": {
+      "米小圈上学记": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669109001537
+        }
+      }
+    },
+    "我是小学生": {
+      "我是小学生": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669109271044
+        }
+      }
+    },
+    "978-7-5601-9920-7": {
+      "978-7-5601-9920-7": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1669131731274
+        }
+      }
+    },
+    "978-7-5365-8771-7 耗子是条狗， 978-7-5365-8770-0 好朋友铁头 ， 978-7-5365-8769-4 我是小学生， 978-7-5365-8772-4 瞧这一家人": {
+      "978-7-5365-8771-7 耗子是条狗， 978-7-5365-8770-0 好朋友铁头 ， 978-7-5365-8769-4 我是小学生， 978-7-5365-8772-4 瞧这一家人": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669109959477
+        }
+      }
+    },
+    "review/名句赏析": {
+      "review/名句赏析": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669110257941
+        }
+      }
+    },
+    "review/故事讲解": {
+      "review/故事讲解": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1669130610537
+        }
+      }
+    },
+    "受欢迎第二招：尊重别人": {
+      "受欢迎第二招：尊重别人": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1669110774019
+        }
+      }
+    },
+    "学习文化知识": {
+      "学习文化知识": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669110922050
+        }
+      }
+    },
+    "没有人能永远100分，骄傲使人落后": {
+      "没有人能永远100分，骄傲使人落后": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669113063980
+        }
+      }
+    },
+    "困难细拆分，逐个去攻破": {
+      "困难细拆分，逐个去攻破": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669113592107
+        }
+      }
+    },
+    "978-7-5376-6376-2": {
+      "978-7-5376-6376-2": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669115872323
+        }
+      }
+    },
+    "978-7-5376-6376-2 妈妈和我一起变巫师， 978-7-5376-6374-8 红树叶的咒语": {
+      "978-7-5376-6376-2 妈妈和我一起变巫师， 978-7-5376-6374-8 红树叶的咒语": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1669129405664
+        }
+      }
+    },
+    "快乐猴的快乐果，": {
+      "快乐猴的快乐果，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669117390053
+        }
+      }
+    },
+    "天空下起了蜗牛雨": {
+      "天空下起了蜗牛雨": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669117672699
+        }
+      }
+    },
+    "Index": {
+      "Index": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1669131719687
         }
       }
     }

@@ -21,13 +21,13 @@ GENERATESERIES	生成序列
 IF	如果条件
 ISFILTERED	判断是否选中
 ISINSCOPE	是否总计行
-LOOKUPVALUE	匹配计算列
+LOOKUPVALUE	查找匹配计算列
 MAX	最大值
 MAXX	迭代最大值
 MIN	最小值
 NAMEOF	返回字段名称
 NETWORKDAYS	间隔工作天数计算
-NOT	取反
+NOT	取反否定
 POWER	幂函数开N次方
 PRODUCT	相乘函数
 PRODUCTX	迭代相乘函数
@@ -36,7 +36,7 @@ ROW	新增行
 SELECTCOLUMNS	选择列
 SELECTEDVALUE	选中值
 SUM	求和
-SUMMARIZE	抽取维度表
+SUMMARIZE	抽取多列维度表
 SUMX	迭代求和
 SWITCH	选择值
 TODAY	返回今天的日期
@@ -49,6 +49,27 @@ TREATAS	视为
 RANKX	迭代排名
 ALLEXCEPT	除指定列外的筛选
 ISINSCOPE	判断层级
+MINX	迭代最小值
+TOPN	求前N名
+DATEADD	同比周期
+INTERSECT	表的交集
+DIVIDE	相除
+ADDCOLUMNS	添加列
+CONTAINS	多列条件判定包含，返回布尔值
+DISTINCT	保留不重复项
+DAY	日序号
+EOMONTH	月的最后一天
+STARTOFQUARTER	季度的开始
+ENDOFQUARTER	季度的结束
+STARTOFYEAR	年的开始
+ENDOFYEAR	年的结束
+EARLIER	迭代前一个日期
+IN	逻辑运算属于
+SAMEPERIODLASTYEAR	去年同期
+AND	逻辑运算和
+
+
+
 
 
 

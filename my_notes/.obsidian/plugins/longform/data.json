@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Longform/融通润园/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2022-11-22T01:13:43.503Z",
+      "total": 0,
+      "drafts": {
+        "Longform/融通润园/Index.md": {
+          "total": 0,
+          "scenes": {
+            "招投标信息": 0,
+            "N-海淀区市民热线座席服务外包项目": 0,
+            "N-海淀区市民热线座席服务外包招标文件": 0,
+            "发布调研的权威媒体": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2022-11-21T00:42:22.084Z",
+      "total": 389,
+      "drafts": {
+        "Longform/融通润园/Index.md": {
+          "total": 389,
+          "scenes": {
+            "招投标信息": 389,
+            "N-海淀区市民热线座席服务外包项目": 0,
+            "N-海淀区市民热线座席服务外包招标文件": 0,
+            "发布调研的权威媒体": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2022-11-20T04:20:31.142Z",
+      "total": 35,
+      "drafts": {
+        "Longform/融通润园/Index.md": {
+          "total": 35,
+          "scenes": {
+            "招投标信息": 17,
+            "N-海淀区市民热线座席服务外包项目": 18,
+            "N-海淀区市民热线座席服务外包招标文件": 0,
+            "发布调研的权威媒体": 0
+          }
+        },
+        "Longform/测试/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Longform/融通_1/Index.md": {
+          "total": 0,
+          "scenes": {
+            "测试1": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "测试第一个.md",
+            "open-after": true
+          }
+        },
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        }
+      ]
+    },
+    "新增的是啥": {
+      "name": "新增的是啥",
+      "description": "",
+      "steps": [
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

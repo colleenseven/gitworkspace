@@ -8,7 +8,7 @@
   "SaveMemoButtonIcon": "✍️",
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
-  "DefaultPrefix": "List",
+  "DefaultPrefix": "Task",
   "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",

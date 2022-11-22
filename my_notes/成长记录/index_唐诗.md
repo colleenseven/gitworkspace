@@ -16,7 +16,7 @@ uid:
 table create_date,author,status,tags,location
 from "成长记录/小学语文/唐诗"
 where status = "已完成"
-sort location DESC 
+sort author DESC 
 ```
 
 ### 未完成

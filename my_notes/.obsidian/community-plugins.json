@@ -2,7 +2,6 @@
   "calendar",
   "obsidian-tasks-plugin",
   "dataview",
-  "obsidian-checklist-plugin",
   "obsidian-rollover-daily-todos",
   "note-refactor-obsidian",
   "obsidian-auto-link-title",
@@ -23,7 +22,6 @@
   "metaedit",
   "find-and-replace-in-selection",
   "find-unlinked-files",
-  "obsidian-incremental-writing",
   "obsidian-yaml-database",
   "mrj-text-expand",
   "number-headings-obsidian",
@@ -32,5 +30,10 @@
   "various-complements",
   "obsidian-jupyter",
   "media-extended",
-  "obsidian-memos"
+  "obsidian-memos",
+  "longform",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-annotator",
+  "text-snippets-obsidian",
+  "obsidian-reading-time"
 ]

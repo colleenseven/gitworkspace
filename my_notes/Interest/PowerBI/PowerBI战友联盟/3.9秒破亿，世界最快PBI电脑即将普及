@@ -1,0 +1,380 @@
+---
+create_date: 2022-11-22T13:30:39 (UTC +08:00)
+tags: 
+aliases: null
+pagetitle: 3.9秒破亿，世界最快PBI电脑即将普及
+source: https://mp.weixin.qq.com/s/N_y3FX19oNyxsW4h40vDfw
+author: BI佐罗
+status: 未阅读
+category: 
+notes: False
+ZK: Origin
+uid: 
+---
+
+学习 Power BI 的伙伴都渴望有一台适合运行 Power BI 的电脑，那我们也给出过这方面的分享。
+
+参考：[看 PowerBI 是如何帮你选电脑配置的](http://mp.weixin.qq.com/s?__biz=MzI1MDA4MzcxMA==&mid=2650783364&idx=1&sn=357bf027fafb4a12264537012c3ec1e9&chksm=f18cbe95c6fb3783aea65a57dfb23ad519d59ae9a59192dbb07f896a233c3574036daa19a876&scene=21#wechat_redirect)（2019 年）
+
+时间来到 2022 年，两种硬件都得到了大幅度增强。它们分别是：
+
+-   CPU 以 Intel 为例，增强到了 Intel 12 代。
+    
+-   内存则已经可以使用 DDR 5。
+    
+
+本文来带大家了解运行 Power BI 最快的机器是什么样的。
+
+## 回顾 Power BI 的运行原理
+
+首先给出 Power BI 运行的核心原理图，如下：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzvAqv17hjicW9502zSSpTbHpM4akFhhAMZ2LXTCgdhGaWfCPIaiaAVEaQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+不难看出，其实用户平时所见的部分与 Power BI 实际执行时的结构有区别，这也是 Power BI 的神奇地方。
+
+总的来说：
+
+-   每一个 DAX 公式或界面图表都会在拖放的那一瞬间，触发 CPU 计算，如果 CPU 够快，那就秒出了。
+    
+-   所有的数据不论在建立关系时候是什么样子，都会被打散成列压缩到内存中存放，使用时在内存中查询。
+    
+
+另外一个重要的特点是：
+
+-   计算 DAX 公式的引擎是 DAX 引擎，它单线程运作，不管 CPU 有多少个核，它每次那下只用一个核。
+    
+-   从内存中提取数据的是 VertiPaq 存储引擎，它负责将处于内存中压缩状态的数据拿出来。
+    
+
+可见：
+
+-   单核心的 CPU 性能是速度的关键，CPU 综合性能以及核心数并不重要。
+    
+-   内存大小仅仅涉及存放空间问题，而内存的速度才是运算时的关键。
+    
+
+因此，理论上运行最快的电脑应该满足三个条件：
+
+-   【1】单核 CPU 性能可以被激发利用，且是工业界最快的。
+    
+-   【2】内存读取速度是工业界最快的。
+    
+-   【3】以上硬件可以被装入某电脑且可以被买到。
+    
+
+## Power BI 经典性能测评
+
+使用非常简单的方法就可以进行 Power BI 的性能测评。
+
+第一步：下载安装 Power BI Desktop
+
+可以在这里下载所有 Power BI Desktop：
+
+excel120.com/#/pbid
+
+第二步：创建度量值
+
+打开已经安装好的 Power BI Desktop，点击【输入数据】，保持空表，起一个任何名字，如：“DAX”，点击【确定】。
+
+在该表上右击选择【新建度量值】，在公式编辑栏中输入：
+
+```
+PowerBI.PerformanceTest = VAR vX = 10000VAR tA = SELECTCOLUMNS( GENERATESERIES( 1 , vX ) , "A" , [Value] )VAR tB = SELECTCOLUMNS( GENERATESERIES( 1 , vX ) , "B" , [Value] )RETURN COUNTROWS( GENERATE( tA , tB ) )
+```
+
+第三步：测评
+
+将该度量值拖拽进入 Power BI 桌面版的画布中，再在顶端的菜单中依次选择【视图】选项卡下的【性能分析器】，打开。如下：
+
+点击画布中的表格上的小图标开始独立计算，可以在右侧的性能分析器中看到结果，单位是毫秒（1 秒 = 1000 毫秒）。
+
+## CPU 性能大排名
+
+根据国际权威组织测评报告，参考：
+
+https://www.cpubenchmark.net/CPU\_mega\_page.html
+
+可以按照很多参数排名，例如：按照核心数排名，如下：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzcS7vVR2U3ZaKYjjzruOAXLicRsTDVYHSgkYZ3SLr5NrEfa6IULD565A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+然而，这个并不是 Power BI 需要的性能。
+
+以上这些 CPU 都非常非常厉害，然而，一是不好买，二是特别贵，最重要的是这不是运行 Power BI 的最关键 CPU 指标。
+
+按照 CPU Mark（CPU 综合性能）来排名，如下：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzsH5AeAbT93kLEuzddoqOsphWupJ5eMC8O18QDPVALX3bmrBiaSvOPHA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+然而，这个也不是 Power BI 需要的性能。
+
+以上这些 CPU 都非常非常厉害，然而，一是不好买，而是特别贵，最重要的是这不是运行 Power BI 的最关键 CPU 指标。
+
+按照 Thead Mark（CPU 单线程性能）来排名，如下：
+
+可以看到：
+
+Intel Core i9-12900K（包括：i7-12700K，i9-12900H，i5-12600K 等）等一众 Intel Core 系列 CPU 全部是民用的。
+
+以上这些 CPU 虽然不是玩游戏最最厉害的，但他们都可以买到，有不同阶段价格，最重要的是这就是运行 Power BI 的最关键 CPU 指标。
+
+> BI 佐罗
+> 
+> 难道是因为 Intel 的工程师收到了 BI 佐罗 的信件，BI 佐罗 详细描述了在个人，职场以及商业计算环境中，单线程能力的市场前景，Intel 的工程师加了私料吗？这不知道。但不重要，至少这些努力和作为 Power BI 粉丝的愿望现在彻底实现了。
+
+## 全世界最适合运行 Power BI 的 CPU 来了
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQz9yZibuKJEnyAcfSKPdxwZY00sXEMzI3t0BUg3DialXhdiabick4msibf37g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+根据上述分析，可以看到：
+
+如果用户购买了搭载以上 CPU 的电脑，他将获得的是：
+
+在这个时代，能够运行 Power BI 的最快的 CPU。
+
+也就是说：
+
+以前，即使再有钱，可能买不到一个极致的计算能力。
+
+以前，即使可能买到极致的计算能力，但可能买不起。
+
+以前，即使有钱且能买到极致的计算能力，但那有可能不是工业界的极限。
+
+而现在，2022 年 3 月，所有人，注意，是全世界所有人，都可以：
+
+全世界所有人都可以在普通商店（或电商）买到且买得起这个世界上运行 Power BI 最快且是工业界最快的 CPU 所在的电脑。
+
+没有错，只需要：`3.9 秒`。
+
+## 3.9 秒是什么概念
+
+很多人对 3.9 秒其实是没有概念的，那么就让大家看看 3.9 秒在汽车工业界意味着什么。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQz4fsdu4cFZ4nA7A1yBtI3leqPfmoV7icgcXSicbqXKONicPDibJVqPYTVQA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+3.9 秒，在企业工业界意味着：性能超跑。
+
+它的最低门槛是：100 W RMB 的售价。
+
+裸车售价 127.8W 保时捷 911 Carrera 3.0 T（落地价：160W 起），也只能达到 4.2s；而可以达到另世人赞叹的法拉利是 530w RMB 起的。
+
+上图其实不够标准，里面掺入了大家都知道的：奥迪 A6L，宝马 5 系，保时捷 911，法拉利。
+
+3.9 秒，对汽车工业其实是一个门槛，如下：
+
+这张图才是在：ABB 中同一级别的性能车的经典之作的横向对比。
+
+可以看出：进入 4s，就是机械式汽车工业的经典门槛。
+
+3.9 秒，在商业数据的世界中，意味着你正驾驶着与同年代汽车工业的顶级水准完成你的商业任务。
+
+## 性能就是对自由的向往
+
+推荐大家观赏的一部经典之作《极品飞车》。这里挑选几个精彩桥段与大家分享。
+
+非常精彩，点击【阅读原文】欣赏。
+
+其中，那个比较奔放的男人是技师，打造和调校车子的性能。而要将车子的性能发挥到极致，需要有以下四者的配合：
+
+-   理论上极限的物理引擎硬件和软件
+    
+-   完美的调校和最佳实践
+    
+-   一名顶级职业车手
+    
+-   一场公平公正的竞赛
+    
+
+而这与 Power BI 太相似了。
+
+-   一台理论上搭载着极限硬件的机器
+    
+-   Power BI 这个顶级软件
+    
+-   你，就是这名顶级职业赛车手
+    
+-   你在企业要解决的业务课题就是这场竞赛
+    
+
+## 成为顶级选手
+
+大家都知道，学习开车考个驾照是非常非常普遍的。
+
+正如很多人问：老师，我想考一个数据分析的证，也是很普遍的。
+
+然而，开车上下班，你永远只需要普通的车子（抑或是电动车），开 60Km/h 就可以了。
+
+这不就是 Excel 电子表格嘛以及普适的 Power BI 基础吗？
+
+而如果你希望成为顶级选手，那必须要学习真正的顶级智慧和知识了。
+
+希望大家能通过这个类比找准自己的定位。
+
+## 实际测评 - 十代旗舰
+
+首先来看看搭载第十代旗舰级 CPU 的机器的能力。
+
+内存：
+
+测试结果：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzTznhD02cHudOiaToYLVsZEiaAQc3cYKHMliaR0zJicuWyyNoqmmBHR2OKg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+可见：
+
+CPU：i9-10900K
+
+内存：容量 128G，速度 2400 MHz
+
+来做一个 DAX 经典计算，用时在 7 秒左右。
+
+## 实际测评 - 十二代旗舰
+
+其实，intel 11 代在 CPU 单线程的能力上就有所提升，因此，我们购置的笔记本，如：
+
+搭载 i7-1185G7 或 i7-1165G7 的笔记本已经可以达到 6.x 秒的计算能力。
+
+但这并不够，因为对于单线程的调校根本没有做到极致。
+
+不知道 BI 佐罗 给 intel 工程师的信到底起了作用没有，但不管什么情况，截止到 2022 年 3 月，在国内已经可以买到量产的搭载 intel 12 代 CPU 的电脑，再加上 DDR 5 内存的加持，Power BI 的极限被推向了新的高度。
+
+CPU 能力：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzzJ7DFZ6NNy2kkhHmCqQ8QekQpHdZw5mmliaSD9MtBK1S0moECzmN86g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+内存速度：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzxbjKw1Hd09eqFl58VN2w2VHuDzMtov6q8ibLricfEFZHjhvWDro9ZMvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+搭载这样的硬件可以将 Power BI 的运算推向新高，如下：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzUHE72eu4ly6K4xCeUq4FKiaQUXyzZ2BKUcvWtSx4RUxJhYQ4Dn0YPbA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+可见：
+
+CPU：i9-12900K
+
+内存：容量 16G，速度 4400 MHz
+
+来做一个 DAX 经典计算，用时在 3.9 秒内完成。
+
+这太快了。
+
+也就是说：
+
+所有人都可以轻松买到这个世界上顶级的工业水准，而且特别适合运行 Power BI。
+
+可以在 3.9 秒完成一亿次计算。
+
+## 梦想已至
+
+那还是在 2015 年以前，我就有这样的梦想：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzPzVbPyJU93rEJZpksbKIaGibYIb6uat1oAkex1n9e8nLnlzo5icUlibNA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+而这个梦想的实现需要五个条件：
+
+-   一台个人电脑，现在已经有了。
+    
+-   一个人，现在已经有了。
+    
+-   一天时间的最佳实践方案，现在已经有了。
+    
+-   一套章法，现在已经有了。
+    
+-   可以秒一个亿的数据，现在也可以做到了。
+    
+
+这个梦想达成了。
+
+接下来，我要做的事情就是帮助更多的小伙伴，如果对这样的梦想感兴趣，那么这里就是你的最佳阵营，您将学习顶级商业数据分析的思维，知识和智慧。
+
+## 自助商业智能分析精英时代正式开启
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQzkwRmr61bC5mmOSUvDEqfKLyiaAxW52iclaaEJq3Vic5ACibJQhibCS7UIpA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+请注意：
+
+数据分析，不等于商业智能分析。
+
+商业数据分析，不等于自助商业智能分析。
+
+自助商业智能分析，不等于会分析。
+
+铺天盖地的广告将无数小白卷入各种数据分析的坑，这对每一个你来说都是好事，因为他们错过了。
+
+Power BI 是这个世界上唯一的模型驱动的自助商业智能分析工具。
+
+本文经过严密检查，里面说的每个夸张的字眼都有严密的数据支撑。
+
+所以，你听到的唯一，顶级等，并不是广告宣传语。
+
+由于篇幅关系，我就不一一列举原因了。
+
+比起所谓的 “100 个亿有 100 个亿的数字化，100 元有 100 元的数字化”，我只想说：
+
+那些和我没有半毛钱关系。
+
+我只想要属于我的，我可以驾驭的，可以改变我的生活的真正的与我有关的数字化能力。
+
+而这个时代由于：
+
+-   硬件的成熟和普适化
+    
+-   软件的成熟和普适化
+    
+-   知识的成熟和普适化
+    
+
+将为正确选择上述三点而植入不论是个人还是企业领域，都将开启无限空间。
+
+这个时代正式开启了。
+
+从今天开始，一年后，我就不会再说这个时代刚刚到来了。
+
+一年后，如果有人来，只能说他晚了一年了。
+
+## 总结
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOe506o1sgMZKIMedIE4aQz4PDxNsxtAmFMIZxc7JVpN5ZWjJosVknSeA56Vn9zjxpmeZ05tapg2A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+硬件升级，软件成熟，知识齐备，时代开启。
+
+在 Intel 第十二代处理器（旗舰型号：i9-12900K）已经到来的今天，搭载 DDR 5 内存（频率高达：4400 MHz），经过电脑原厂对主板的高级调校，将打造出这个时代最适合运行 Power BI 的性能机器。这堪比百万级的性能跑车，如果说 3.9 秒是汽车工业界分水岭，那么在自助商业智能分析世界，3.9 秒也是一个分水岭。
+
+推荐大家在有能力和预算的情况下选购这样的配置。当然，第十二代 CPU 并不是只有旗舰型号才好，从列表中可以看出，其他型号的差距不大，因此，从 5k 到 2W 预算都可以选购符合自己的配置。
+
+最后，推荐的《极品飞车》片段，希望大家喜欢。如果你向往自由，向往速度，向往未来，那么，我们为什么不从自己可以驾驭的事情踏踏实实看得见摸得着的开始呢？就从先打开 Power BI 做一个图表开始吧。
+
+不要相信 8.8 元能给你带来什么，能给你带来什么的只有你正确的选择以及实打实的付出，当你可以驾驭不论是保时捷性能跑车还是 Power BI 性能跑车的时候，你都将有资格也有权利去拥有它。因为它只属于可以配得上它的人驾驭。如此简单的道理而已。
+
+最后，驾驶时注意系好安全带，遵守规则，小心驾驶。当然，如果你的技术已经自如到一定境界，那么所有的规则都是用来打破的了。
+
+《极品飞车》是一部励志电影，如果你对它感兴趣，可以在各大视频平台观看，也可以私信获取下载版珍藏。
+
+点击【阅读原文】欣赏精彩桥段。  
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LNhia5Pc4XC1Um7IYgQhGEoEC1yK05ibUFoPBYpcoAMvibuZh2BZaibMzULeDwNfSeQ0KHRcDUdX3FzVA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**Power BI 终极系列课程《BI真经》**
+
+[
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/09hv4Xua0LNBM1lxlQYHJBicic4CvPoRGLqHgdTZOr8goNRh0asDXA48mRDzc9zxW4UMQiayHwgDmx7mlt4cQxtjg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+BI真经 - 让数据真正成为你的力量
+
+
+
+
+
+](http://mp.weixin.qq.com/s?__biz=MzI1MDA4MzcxMA==&mid=2650788512&idx=1&sn=76972ff4b0cf265fe9479c6457b04b47&chksm=f18cd2b1c6fb5ba7386eb0bb835280bd8a651bfe0481cc78f20fc30b80c60d2d4cb7eb5b1e3e&scene=21#wechat_redirect)
+
+扫码与精英一起讨论 Power BI，验证码：极品飞车
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/09hv4Xua0LOiad5BOrdQTKpB733esKiaxZa53LXWIPlQicMjxntaRr3a2hnMmuibTib8QacXeiakucDr7lSNGkuV2MXw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+点击“阅读原文”进入学习中心
+
+**↙**

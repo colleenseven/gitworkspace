@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Knowledge/商业洞察",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2915625132987088,
-  "close": false
+  "scale": 0.17821292203842848,
+  "close": true
 }
