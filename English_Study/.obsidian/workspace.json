@@ -11,11 +11,76 @@
             "id": "26417d0c9261df5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "基础单词/Animal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f88a38814f21d830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础单词/Body.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e341425a3b35ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础句子/Food.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e846fe86d5e8cc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础句子/Food.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c47da38aa64ca54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础句子/Animal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ededee018a8dad6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/待学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -44,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/words/food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/待学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home/待学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home/待学习.md"
+              }
             }
           },
           {
@@ -144,17 +213,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26417d0c9261df5e",
+  "active": "ededee018a8dad6c",
   "lastOpenFiles": [
-    "基础单词/Color.md",
-    "制卡进展.md",
+    "基础句子/Animal.md",
+    "基础句子/Food.md",
     "基础单词/Animal.md",
-    "附件库/animal/duck.jpg",
-    "附件库/animal/bear.jpg",
     "基础单词/School.md",
-    "基础单词/Fruit.md",
-    "附件库/pic_162610..1.gif",
-    "附件库/pen.jpg",
-    "附件库/color/brown.jpg"
+    "基础单词/Food.md",
+    "Templates/T-frontmatter.md",
+    "附件库/food/coke.jpg",
+    "基础单词/Body.md",
+    "附件库/color/yellow.jpg",
+    "基础单词/Color.md"
   ]
 }

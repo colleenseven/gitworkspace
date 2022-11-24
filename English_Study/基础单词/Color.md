@@ -14,6 +14,10 @@
 
 ![[yellow.jpg | 200]] :: yellow黄色
 
-:: green 绿色
+![[green.jpg|200]] :: green 绿色
+
+![[pink.jpg|200]] :: pink 粉红色
+
+![[white.jpg |200]] :: white 白色
 
 

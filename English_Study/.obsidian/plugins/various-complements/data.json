@@ -130,8 +130,8 @@
     "bear": {
       "bear": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1669249685300
+          "count": 2,
+          "lastUpdated": 1669292656194
         }
       }
     },
@@ -162,8 +162,8 @@
     "dog": {
       "dog": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1669249734392
+          "count": 2,
+          "lastUpdated": 1669291175291
         }
       }
     },
@@ -228,6 +228,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669249883571
+        }
+      }
+    },
+    "Body": {
+      "Body": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669290816966
+        }
+      }
+    },
+    "food": {
+      "food": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669291089753
+        }
+      }
+    },
+    "cake": {
+      "cake": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669291097093
         }
       }
     }
