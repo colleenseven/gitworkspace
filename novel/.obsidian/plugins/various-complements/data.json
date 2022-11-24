@@ -1,0 +1,123 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "魔界大牢": {
+      "魔界大牢": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669275311785
+        }
+      }
+    },
+    "create_date": {
+      "create_date": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669276151238
+        }
+      }
+    },
+    "status": {
+      "status": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669276161170
+        }
+      }
+    },
+    "notes": {
+      "notes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669276181158
+        }
+      }
+    },
+    "，有神识的鬼住在里面，野鬼厉鬼则在不见天日的暗狱": {
+      "，有神识的鬼住在里面，野鬼厉鬼则在不见天日的暗狱": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669284103667
+        }
+      }
+    },
+    "第九次神魔之战时，魔王以自身和九十九位大天魔殉炉，终于铸成天魔剑，一剑斩断了神族的命脉，却也使得天柱倾斜，冥水倒灌，从来不见天日的鬼域也由此和人间相通。": {
+      "第九次神魔之战时，魔王以自身和九十九位大天魔殉炉，终于铸成天魔剑，一剑斩断了神族的命脉，却也使得天柱倾斜，冥水倒灌，从来不见天日的鬼域也由此和人间相通。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669285938446
+        }
+      }
+    },
+    "只有一座鬼城，有神识的鬼住在里面，鬼城和人间的通道很难打开，除了每年中元节鬼门大开，平时连通两界的除了靠怨灵秘术，就只有鬼王宫里的轮回井。鬼城里有三百六十个鬼王，分在不同空间的王城，鬼城空间破碎，没有固定路径。": {
+      "只有一座鬼城，有神识的鬼住在里面，鬼城和人间的通道很难打开，除了每年中元节鬼门大开，平时连通两界的除了靠怨灵秘术，就只有鬼王宫里的轮回井。鬼城里有三百六十个鬼王，分在不同空间的王城，鬼城空间破碎，没有固定路径。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669286443797
+        }
+      }
+    },
+    "清心峰": {
+      "清心峰": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669289241903
+        }
+      }
+    },
+    "连通鬼域的空间裂口只有怨灵能打开，而且持续时间很短。南雁飞用剑支撑裂口才跟女主一起进入鬼域": {
+      "连通鬼域的空间裂口只有怨灵能打开，而且持续时间很短。南雁飞用剑支撑裂口才跟女主一起进入鬼域": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669290454470
+        }
+      }
+    }
+  }
+}

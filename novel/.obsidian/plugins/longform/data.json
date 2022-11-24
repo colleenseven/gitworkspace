@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": null,
+  "selectedDraftVaultPath": "longform/修仙文女配每天都在拼命活命/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2022-11-24T01:38:37.077Z",
-      "total": 0,
+      "total": 1401,
       "drafts": {
         "longform/宋妩/Index.md": {
           "total": 0,
@@ -16,6 +16,42 @@
           }
         },
         "longform/修仙文女配每天都在拼命活命/Index.md": {
+          "total": 1401,
+          "scenes": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 2,
+            "14": 0,
+            "15": 8,
+            "16": 5,
+            "17": 3,
+            "18": 50,
+            "19": 111,
+            "20": 110,
+            "21": 216,
+            "22": 133,
+            "23": 128,
+            "24": 56,
+            "25": 131,
+            "26": 152,
+            "27": 95,
+            "28": 78,
+            "29": 57,
+            "30": 28,
+            "楔子": 0,
+            "09": 1,
+            "07": 0,
+            "05": 21,
+            "04": 1,
+            "02": 0,
+            "01": 0,
+            "03": 0,
+            "06": 14,
+            "08": 1
+          }
+        },
+        "longform/修仙文女配每天都在拼命活命1/Index.md": {
           "total": 0,
           "scenes": {
             "10": 0,

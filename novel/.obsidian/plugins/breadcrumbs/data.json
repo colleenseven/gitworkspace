@@ -48,7 +48,7 @@
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
   "openDuckOnLoad": false,
-  "openDownOnLoad": true,
+  "openDownOnLoad": false,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
   "showRelationType": true,

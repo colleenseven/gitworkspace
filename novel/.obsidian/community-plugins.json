@@ -15,5 +15,7 @@
   "markdown-prettifier",
   "remember-cursor-position",
   "longform",
-  "breadcrumbs"
+  "breadcrumbs",
+  "obsidian-footnotes",
+  "obsidian-regex-pipeline"
 ]
