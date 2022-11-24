@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "Home/笔记概述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB操作学习/OB插件.md"
+                "file": "Home/笔记概述.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "Home/笔记概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB操作学习/OB插件.md",
+                "file": "Home/笔记概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,13 +182,13 @@
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "006071317d01ae60",
+  "active": "2643a4c4d1110b42",
   "lastOpenFiles": [
+    "Home/OB操作学习/OB插件.md",
     "Templates/T-frontmater全局.md",
-    "插件语法汇总.md",
-    "笔记概述.md",
-    "text-expand 测试.md",
-    "OB操作学习/OB插件.md",
+    "Home/插件语法汇总.md",
+    "Home/笔记概述.md",
+    "Home/text-expand 测试.md",
     "Longform/修仙文女配每天都在拼命活命/你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎.md",
     "成长记录/语文课外系列/其他/咕叽咕叽.md",
     "Longform/修仙文女配每天都在拼命活命/18.md",

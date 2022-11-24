@@ -30,19 +30,19 @@ VALUES
 
 ```dataview
 table status,category,create_date,tags,DAX,file.folder
-from "Interest/PowerBI"
+from "PowerBI"
 where contains(DAX, "VALUES")
 ```
 
 ## PowerBI战友联盟
 
-powerbi战友联盟文章统计：共有文章数`$= dv.pages('"Interest/PowerBI/PowerBI战友联盟"').length`条
+powerbi战友联盟文章统计：共有文章数`$= dv.pages('"PowerBI/PowerBI战友联盟"').length`条
 
 ### 2022文章汇总
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBI战友联盟"
+from "PowerBI/PowerBI战友联盟"
 where contains(create_date, "2022-")
 sort create_date DESC 
 ```
@@ -53,7 +53,7 @@ sort create_date DESC
 
 ## Powerbi星球
 
-powerbi 星球文章统计：共有文章数`$= dv.pages('"Interest/PowerBI/PowerBi星球"').length`条
+powerbi 星球文章统计：共有文章数`$= dv.pages('"PowerBI/PowerBi星球"').length`条
 
 ### 2022文章汇总
 
@@ -61,7 +61,7 @@ powerbi 星球文章统计：共有文章数`$= dv.pages('"Interest/PowerBI/Powe
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-01")
 sort create_date DESC 
 ```
@@ -70,7 +70,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-02")
 sort create_date DESC 
 ```
@@ -79,7 +79,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-03")
 sort create_date DESC 
 ```
@@ -88,7 +88,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-04")
 sort create_date DESC 
 ```
@@ -97,7 +97,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-05")
 sort create_date DESC 
 ```
@@ -106,7 +106,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-06")
 sort create_date DESC 
 ```
@@ -115,7 +115,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-07")
 sort create_date DESC 
 ```
@@ -124,7 +124,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-08")
 sort create_date DESC 
 ```
@@ -133,7 +133,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-09")
 sort create_date DESC 
 ```
@@ -142,7 +142,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-10")
 sort create_date DESC 
 ```
@@ -150,7 +150,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-11")
 sort create_date DESC 
 ```
@@ -173,7 +173,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-07")
 sort create_date DESC 
 ```
@@ -182,7 +182,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-08")
 sort create_date DESC 
 ```
@@ -191,7 +191,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-09")
 sort create_date DESC 
 ```
@@ -200,7 +200,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-10")
 sort create_date DESC 
 ```
@@ -209,7 +209,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-11")
 sort create_date DESC 
 ```
@@ -218,7 +218,7 @@ sort create_date DESC
 
 ```dataview
 table status,category,create_date,tags,ZK,DAX,notes
-from "Interest/PowerBI/PowerBi星球"
+from "PowerBI/PowerBi星球"
 where contains(create_date, "2021-12")
 sort create_date DESC 
 ```

@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "OB操作/打戏\nOB操作/家庭生活",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "词库/四级词汇.md\n词库/DAX函数汇总.md",
+  "customDictionaryPaths": "词库/四级词汇.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -52,14 +52,6 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1668918791238
-        }
-      }
-    },
-    "%%pandoc导出docx和ppt非常有用%%": {
-      "%%pandoc导出docx和ppt非常有用%%": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1666702571808
         }
       }
     },

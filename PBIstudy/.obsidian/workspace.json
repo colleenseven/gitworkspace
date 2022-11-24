@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "4c98f8010653a8f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7649e9dd81c5d538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11e19484852ab00b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c98bfdbd04bad46",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4eb4b3b770db6ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17cd01e3e92b4250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70938c7888d4a570",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a11ad71d53947e42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2961c401d02d43a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f0bf422aa08a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3cac0d5c1150f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PowerBI/index_Powerbi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "537777e0a8fdecef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PowerBI/index_Powerbi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f07d74768f055e1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4b4fed1c69a5097",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PowerBI/index_Powerbi.md"
+              }
+            }
+          },
+          {
+            "id": "1e4721aca2c613c4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17cd01e3e92b4250",
+  "lastOpenFiles": [
+    "Templates/T-frontmatter.md"
+  ]
+}

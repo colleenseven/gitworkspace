@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md",
+                "file": "Templates/T-frontmatter全局.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md",
+                "file": "Templates/T-frontmatter全局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md",
+                "file": "Templates/T-frontmatter全局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md"
+                "file": "Templates/T-frontmatter全局.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "99a27ea93116d5b9",
   "lastOpenFiles": [
+    "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md",
     "longform/修仙文女配每天都在拼命活命/场景/交界地带/交界地带.md",
     "longform/修仙文女配每天都在拼命活命/场景/人间/藏书阁.md",
     "longform/修仙文女配每天都在拼命活命/文化/皮影戏.md",
@@ -212,7 +213,6 @@
     "longform/修仙文女配每天都在拼命活命/21.md",
     "longform/修仙文女配每天都在拼命活命/文化/满月.md",
     "longform/修仙文女配每天都在拼命活命/文化/冥婚.md",
-    "longform/修仙文女配每天都在拼命活命/文化/迷障.md",
-    "longform/修仙文女配每天都在拼命活命/28.md"
+    "longform/修仙文女配每天都在拼命活命/文化/迷障.md"
   ]
 }
