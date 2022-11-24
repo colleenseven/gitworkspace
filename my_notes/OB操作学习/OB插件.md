@@ -8,6 +8,68 @@ date updated: 2022-10-28 14:52
 ---
 
 
+### 基础增强
+
+#### advanced tables %%表格增强%%
+
+[[Obs＃17] Obsidian表格操作技巧—使用Advanced Tables外掛_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tR4y1p7DD/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%用tab键快速创建表格，属性唤醒在右侧工具栏%%
+
+#### advanced URI %%链接增强%%
+
+[Obsidian有救了？再也不怕笔记“移动”和"重命名"了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Gr4y1s7i5/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%title右键有copy advanced uri就可以实现稳定链接，移动文件位置也不影响%%
+
+#### calendar 
+
+#### copy block link %%应用块增强%%
+
+[通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用，只引用链接用to block，引用内容用embed%%
+
+#### dataview %%数据统计%%
+[Johnny学OB 第16集 - 懂数据，你才真的懂OB。你在OB里的每次操作，其实都是在操作数据库。Obsidian | 黑曜石笔记 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pb4y127R9/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%yaml中记录status等状态，用dataview来做动态目录%%
+[【杂货分享12】Dataview插件-高效信息动态检索工具_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1V44y1T7aS/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%非常清晰的语法讲解%%
+[用 Dataview 汇总信息 | 笔记神器 Obsidian 完全指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kf4y1A75t/?spm_id_from=autoNext&vd_source=0e30673b55c5c5beeb0619a112151137) %%统计数据的写法%%
+#### dataviewjs
+
+[Step1-先预热：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/87a0a411d5cf)
+[Step2-知其然：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/20adace24fa2)
+[Step3-知其所以然：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/d1e19530897a)
+
+[Johnny学OB 第46集 用Obsidian管理18000条笔记是什么体验，如何用OB来做一个知识管理系统——以米霖读书会的管理为例_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1844y1Y7wt/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%dataviewjs的统计功能使用%%
+
+#### Find unlinked files
+
+#### highlightr %%涂色标记%%
+
+[[Obs＃97] Highlightr外掛丰富Obsidian笔记的外观_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bg411Y781/?vd_source=0e30673b55c5c5beeb0619a112151137)%%最好选择inline的样式，右键即可使用%%
+
+#### image toolkit %%图片增强%%
+
+[obsidian 图片插件 解决你多年的痛_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tW4y1E7ob/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%图片的显示形式更丰富%%
+
+#### markdown prettifier
+
+[Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行，但使用prettifier可能会删除tags的meta数据%%
+
+#### remember cursor position %%记忆光标位置%%
+[解决Obsidian长文本处理小烦恼|插件推荐|光标位置记忆|快捷键增强设置|【IP爱学习】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tV4y1u7zU/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%无需修改自动生效，自动记忆光标位置%%
+
+#### templater
+
+[Johnny学OB 第44集 如何使用Templater在阅读时，一键完成为选中的关键词创建笔记、添加双链、移动到制定文件夹并应用选定模板等一系列操作_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ef4y1K77F/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%非常好用，但暂时没有用上代码%%
+
+#### VariousComplete %%自动补全%%
+
+[Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%%%重点是设置本地的词库文件，可以设置成词库/四六级.md，必须是md格式的才能识别，如果不是则无法识别%%
+
+尚未安装
+
+#### auto link to title
+
+[Obsidian 插件记录 - 知乎](https://zhuanlan.zhihu.com/p/368487154)
+
+
+#### better word count
+
 ## 已完成记录
 
 ### 基础操作
@@ -26,7 +88,7 @@ date updated: 2022-10-28 14:52
 
 [Johnny学OB 第11集 - 一切皆可嵌入，高仿Notion头图，用OB学唐诗三百首下集，关于嵌入多媒体的各种技巧，还有额外彩蛋。 ｜ Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KQ4y1a7pd/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%嵌入图片视频和头图以及头图尺寸设置%%
 
-### 思维导图插件
+### 思维导图增强
 
 #### drawio 
 
@@ -49,41 +111,9 @@ date updated: 2022-10-28 14:52
 ### 功能增强
 
 
-
-#### remember cursor position
-[解决Obsidian长文本处理小烦恼|插件推荐|光标位置记忆|快捷键增强设置|【IP爱学习】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tV4y1u7zU/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%无需修改自动生效，自动记忆光标位置%%
-
-#### VariousComplete
-
-[Johnny学OB 第50集 这个Obsidian的自动补全插件，一定不要错过了。本系列第50集，强烈推荐——Various Complements_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WL411778p/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%自动补全和联想功能很有用%%%%重点是设置本地的词库文件，可以设置成词库/四六级.md，必须是md格式的才能识别，如果不是则无法识别%%
-
-#### highlightr
-
-[[Obs＃97] Highlightr外掛丰富Obsidian笔记的外观_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bg411Y781/?vd_source=0e30673b55c5c5beeb0619a112151137)%%最好选择inline的样式，右键即可使用%%
-
-#### advanced tables
-
-[[Obs＃17] Obsidian表格操作技巧—使用Advanced Tables外掛_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tR4y1p7DD/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%用tab键快速创建表格，属性唤醒在右侧工具栏%%
-
-#### image toolkit
-
-[obsidian 图片插件 解决你多年的痛_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tW4y1E7ob/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%图片的显示形式更丰富%%
-
-#### advanced URI
-
-[Obsidian有救了？再也不怕笔记“移动”和"重命名"了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Gr4y1s7i5/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%title右键有copy advanced uri就可以实现稳定链接，移动文件位置也不影响%%
-
 #### markdownload 浏览器插件
 
 [推荐三种方式，在Obsidian中轻松完成网页剪藏，总有一款适合你_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11d4y117tR/?spm_id_from=333.999.0.0)%%网页需要加载完成后再同步到obsidian，frontmatter和正文部分均可配置，避免同步无效内容或内容缺失%%
-
-#### markdown prettifier
-
-[Johnny学OB 第51集 OB学习群答疑篇——Pandoc如何输出封面页，Markdown里的空行如何全部去除，MD如何美化，还有强大的Shell命令插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bi4y1o7Xj/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%pandoc导出docx和ppt非常有用，可以使用::分栏，美化选中文本后，运行命令即可去除多余的空行，但使用prettifier可能会删除tags的meta数据%%
-
-#### copy block link
-
-[通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1a7o4/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%右键进行块引用，只引用链接用to block，引用内容用embed%%
 
 #### search  on internet【待优化】
 
@@ -93,31 +123,14 @@ date updated: 2022-10-28 14:52
 
 [Johnny学OB 第23集 - 只需一个快捷键，在OB里加脚注Footnote就是这么的痛快。关于Footnote脚注，看这个就可以了 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bh411p7mv/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%角标使用^符号，需可以快速匹配到页尾的角标%%
 
-#### workspaceplus
-[Johnny学OB 第49集 6个Obsidian的优化小插件，配合好了，让你大大提升在OB里的工作效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nS4y1X7vS/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%有博主说workplus有bug，菜单栏功能无法呼出，保存当前的工作区，方便切换使用，其他插件有点多余了%%
-
-
 #### note refactor
 
 [Johnny学OB 第9集 - 用OB学习唐诗300首是个什么体验？这是“OB的基本功能用好了就很牛”系列的第一集 | Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15h411W7eH/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%用airtable转化为md格式，按固定的分隔符进行拆分可把单一文件拆成大量分散的文件%%
 
-#### customizable menu
 
-[Johnny学OB 第27集 推荐两个超级好用的OB小插件，也是中秋小礼物了。一个来管工作区，一个来自定义你的右键菜单 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RL4y1b7hH/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%快速自定义右键功能%%
 
 ### 特色功能
 
-#### dataview
-[Johnny学OB 第16集 - 懂数据，你才真的懂OB。你在OB里的每次操作，其实都是在操作数据库。Obsidian | 黑曜石笔记 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pb4y127R9/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%yaml中记录status等状态，用dataview来做动态目录%%
-[【杂货分享12】Dataview插件-高效信息动态检索工具_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1V44y1T7aS/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)%%非常清晰的语法讲解%%
-[用 Dataview 汇总信息 | 笔记神器 Obsidian 完全指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kf4y1A75t/?spm_id_from=autoNext&vd_source=0e30673b55c5c5beeb0619a112151137) %%统计数据的写法%%
-#### dataviewjs
-
-[Step1-先预热：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/87a0a411d5cf)
-[Step2-知其然：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/20adace24fa2)
-[Step3-知其所以然：一文讲透Obsidian插件DataviewJS - 简书](https://www.jianshu.com/p/d1e19530897a)
-
-[Johnny学OB 第46集 用Obsidian管理18000条笔记是什么体验，如何用OB来做一个知识管理系统——以米霖读书会的管理为例_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1844y1Y7wt/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%dataviewjs的统计功能使用%%
 
 #### comment
 
@@ -127,6 +140,14 @@ date updated: 2022-10-28 14:52
 
 [[Obs＃5] Obsidian(黑曜石) 高亮度显示或变更文字顏色的3种方法 (CC字幕)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1df4y1w7jr/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
+### 用处不大
+
+#### workspaceplus
+[Johnny学OB 第49集 6个Obsidian的优化小插件，配合好了，让你大大提升在OB里的工作效率_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nS4y1X7vS/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137) %%有博主说workplus有bug，菜单栏功能无法呼出，保存当前的工作区，方便切换使用，其他插件有点多余了，用处不大%%
+
+#### customizable menu
+
+[Johnny学OB 第27集 推荐两个超级好用的OB小插件，也是中秋小礼物了。一个来管工作区，一个来自定义你的右键菜单 Obsidian 教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RL4y1b7hH/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%快速自定义右键功能，用处不大%%
 = = 内容写法 = =
 ==内容效果==
 
@@ -198,21 +219,15 @@ date updated: 2022-10-28 14:52
 [[Obs＃57] Obsidian YAML区tags标签自动补全的3种方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Qv411u7HC/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
 
-#### auto link to title
-
-[Obsidian 插件记录 - 知乎](https://zhuanlan.zhihu.com/p/368487154)
-
-#### Find unlinked files
 
 #### Word Splitting for Simplified Chinese in Edit Mode
 
 
 
-#### better word count
 
 ### 特色功能
 
-#### calendar
+
 
 #### rollover daily todos
 
@@ -226,7 +241,7 @@ date updated: 2022-10-28 14:52
 
 [[Obs＃30] 更多的Dataview- 动态查询笔记资料_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YU4y1A7hG/?spm_id_from=333.337.search-card.all.click&vd_source=0e30673b55c5c5beeb0619a112151137)
 
-
+[Johnny学OB 第37集 教你几招 - 如何在Obsidian中更好的使用Mermaid做流程图 Obsidian教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eU4y1F7jn/?vd_source=0e30673b55c5c5beeb0619a112151137)
 
 #### quickadd
 
@@ -238,9 +253,7 @@ date updated: 2022-10-28 14:52
 
 #### tasks
 
-#### templater
 
-[Johnny学OB 第44集 如何使用Templater在阅读时，一键完成为选中的关键词创建笔记、添加双链、移动到制定文件夹并应用选定模板等一系列操作_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ef4y1K77F/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)%%非常好用，但暂时没有用上代码%%
 
 #### text snippets
 

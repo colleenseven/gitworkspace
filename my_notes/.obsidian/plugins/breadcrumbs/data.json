@@ -2,7 +2,7 @@
   "addDendronNotes": false,
   "addDateNotes": false,
   "aliasesInIndex": false,
-  "alphaSortAsc": true,
+  "alphaSortAsc": false,
   "altLinkFields": [],
   "CSVPaths": "",
   "createIndexIndent": "  ",
@@ -21,7 +21,13 @@
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
-  "limitWriteBCCheckboxes": [],
+  "limitWriteBCCheckboxes": [
+    "场景",
+    "人物",
+    "前情",
+    "后事",
+    "文化"
+  ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
   "hierarchyNotes": [
@@ -56,7 +62,7 @@
   "showTrail": true,
   "showGrid": true,
   "showJuggl": false,
-  "showPrevNext": true,
+  "showPrevNext": false,
   "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
     0,
@@ -70,9 +76,16 @@
     "same",
     "down",
     "next",
-    "prev"
+    "prev",
+    "场景"
   ],
-  "limitJumpToFirstFields": [],
+  "limitJumpToFirstFields": [
+    "场景",
+    "人物",
+    "前情",
+    "后事",
+    "文化"
+  ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
   "tagNoteField": "",
@@ -107,6 +120,23 @@
       "prev": [
         "prev"
       ]
+    },
+    {
+      "up": [
+        "场景"
+      ],
+      "same": [
+        "文化"
+      ],
+      "down": [
+        "人物"
+      ],
+      "next": [
+        "后事"
+      ],
+      "prev": [
+        "前情"
+      ]
     }
   ],
   "writeBCsInline": false,
@@ -118,7 +148,7 @@
   "wikilinkIndex": true,
   "impliedRelations": {
     "siblingIdentity": false,
-    "sameParentIsSibling": true,
+    "sameParentIsSibling": false,
     "siblingsSiblingIsSibling": false,
     "siblingsParentIsParent": false,
     "parentsSiblingsIsParents": false,

@@ -4,48 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "598accb9ce91f2a4",
+        "id": "7a5870a0e492872e",
         "type": "tabs",
         "children": [
           {
-            "id": "63088529099b12ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "成长记录/语文课外系列/其他/大自然温馨微童话集（共10册）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2a1034ea95672ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "成长记录/英语课外计划/gkid课本四册.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cdb5126c9eb8f66",
+            "id": "1d0659b78b35e280",
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "006071317d01ae60",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "成长记录/语文课外系列/index_语文课外系列.md",
+                "file": "Templates/T-frontmater全局.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -78,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dy",
+                "query": "比武",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 288.5
   },
   "right": {
     "id": "71fea7c3f4a76603",
@@ -117,6 +99,16 @@
         "id": "fe5f3fcd6ad661b5",
         "type": "tabs",
         "children": [
+          {
+            "id": "f36ddd468a14eebf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "c9729a1718f27296",
             "type": "leaf",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长记录/英语课外计划/gkid课本四册.md"
+                "file": "Templates/T-frontmater全局.md"
               }
             }
           },
@@ -168,14 +160,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长记录/英语课外计划/gkid课本四册.md",
+                "file": "Templates/T-frontmater全局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -185,44 +177,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长记录/英语课外计划/gkid课本四册.md",
+                "file": "Templates/T-frontmater全局.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "ca0f526620bbcffa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "词库/DAX函数汇总.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "c2a1034ea95672ad",
+  "active": "006071317d01ae60",
   "lastOpenFiles": [
-    "成长记录/语文课外系列/index_语文课外系列.md",
-    "成长记录/语文课外系列/其他/写给儿童的二十四节气（共8册）.md",
-    "成长记录/语文课外系列/其他/大自然温馨微童话集（共10册）.md",
-    "成长记录/语文课外系列/其他/婉达盖格大师名作绘本（共4册）.md",
-    "成长记录/index_唐诗.md",
-    "成长记录/语文课外系列/其他/米小圈上学记（一年级共4册）.md",
-    "成长记录/语文课外系列/其他/恐龙王国童话（共6册）.md",
-    "成长记录/语文课外系列/其他/儿童逆商培养绘本（共12册）.md",
-    "Interest/抖音/抖音博主汇总.md",
-    "Interest/歌曲/index_歌曲.md"
+    "OB操作学习/OB插件.md",
+    "笔记概述.md",
+    "Longform/修仙文女配每天都在拼命活命/你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎.md",
+    "成长记录/语文课外系列/其他/咕叽咕叽.md",
+    "Longform/修仙文女配每天都在拼命活命/18.md",
+    "Longform/修仙文女配每天都在拼命活命/金剑.md",
+    "Longform/修仙文女配每天都在拼命活命/劫灰.md",
+    "Longform/修仙文女配每天都在拼命活命/万魔来朝.md",
+    "Longform/修仙文女配每天都在拼命活命/17.md",
+    "Longform/修仙文女配每天都在拼命活命/文化/天魔灰.md"
   ]
 }

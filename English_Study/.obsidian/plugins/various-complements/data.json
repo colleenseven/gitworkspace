@@ -1,0 +1,235 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 2,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "词库/四级词汇.md",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "strawberry": {
+      "strawberry": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220515870
+        }
+      }
+    },
+    "watermelon": {
+      "watermelon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220553407
+        }
+      }
+    },
+    "baggage": {
+      "baggage": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669220673718
+        }
+      }
+    },
+    "book": {
+      "book": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669220683788
+        }
+      }
+    },
+    "crayon": {
+      "crayon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220698311
+        }
+      }
+    },
+    "eraser": {
+      "eraser": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220707690
+        }
+      }
+    },
+    "pencil": {
+      "pencil": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669220722561
+        }
+      }
+    },
+    "pencil-case": {
+      "pencil-case": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220732068
+        }
+      }
+    },
+    "ruler": {
+      "ruler": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220739989
+        }
+      }
+    },
+    "sharpener": {
+      "sharpener": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669220750742
+        }
+      }
+    },
+    "bear": {
+      "bear": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249685300
+        }
+      }
+    },
+    "bird": {
+      "bird": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249700849
+        }
+      }
+    },
+    "cat": {
+      "cat": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249711265
+        }
+      }
+    },
+    "deer": {
+      "deer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249721857
+        }
+      }
+    },
+    "dog": {
+      "dog": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249734392
+        }
+      }
+    },
+    "duck": {
+      "duck": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249769139
+        }
+      }
+    },
+    "elephant": {
+      "elephant": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249787114
+        }
+      }
+    },
+    "monkey": {
+      "monkey": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249819058
+        }
+      }
+    },
+    "mouse": {
+      "mouse": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249832150
+        }
+      }
+    },
+    "panda": {
+      "panda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669249847011
+        }
+      }
+    },
+    "pig": {
+      "pig": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249858796
+        }
+      }
+    },
+    "rabbit": {
+      "rabbit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669249872122
+        }
+      }
+    },
+    "squirrel": {
+      "squirrel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669249883571
+        }
+      }
+    }
+  }
+}

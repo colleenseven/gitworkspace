@@ -61,7 +61,15 @@
   "app:open-settings": [],
   "app:go-back": [],
   "window:toggle-always-on-top": [],
-  "workspace:toggle-pin": [],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
   "app:go-forward": [],
   "insert-current-date": [
     {

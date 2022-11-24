@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": null,
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2022-11-24T01:38:37.077Z",
+      "total": 0,
+      "drafts": {
+        "longform/宋妩/Index.md": {
+          "total": 0,
+          "scenes": {
+            "南狸狸-你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎": 0
+          }
+        },
+        "longform/修仙文女配每天都在拼命活命/Index.md": {
+          "total": 0,
+          "scenes": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "01": 0,
+            "02": 0,
+            "03": 0,
+            "04": 0,
+            "05": 0,
+            "06": 0,
+            "07": 0,
+            "08": 0,
+            "09": 0,
+            "楔子": 0,
+            "你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

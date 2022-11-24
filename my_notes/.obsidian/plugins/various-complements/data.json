@@ -98,8 +98,8 @@
     "repetition_": {
       "repetition_": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666759048282
+          "count": 4,
+          "lastUpdated": 1669250869714
         }
       }
     },
@@ -214,8 +214,8 @@
           "lastUpdated": 1666849169417
         },
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668333019496
+          "count": 2,
+          "lastUpdated": 1669251894140
         }
       }
     },
@@ -814,8 +814,8 @@
     "CALENDARAUTO": {
       "CALENDARAUTO": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668437220107
+          "count": 2,
+          "lastUpdated": 1669250949594
         }
       }
     },
@@ -1834,8 +1834,8 @@
     "978-7-5601-9920-7": {
       "978-7-5601-9920-7": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1669131731274
+          "count": 6,
+          "lastUpdated": 1669201503812
         }
       }
     },
@@ -1858,8 +1858,8 @@
     "review/故事讲解": {
       "review/故事讲解": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1669130610537
+          "count": 6,
+          "lastUpdated": 1669201472493
         }
       }
     },
@@ -1930,8 +1930,80 @@
     "Index": {
       "Index": {
         "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1669201139658
+        }
+      }
+    },
+    "Abstract": {
+      "Abstract": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669201468290
+        }
+      }
+    },
+    "明天出版社": {
+      "明天出版社": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669201550936
+        }
+      }
+    },
+    "基础必装插件": {
+      "基础必装插件": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669250113018
+        }
+      }
+    },
+    "%%用tab键快速创建表格，属性唤醒在右侧工具栏%%": {
+      "%%用tab键快速创建表格，属性唤醒在右侧工具栏%%": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669250906073
+        }
+      }
+    },
+    "uri就可以实现稳定链接，移动文件位置也不影响%%": {
+      "uri就可以实现稳定链接，移动文件位置也不影响%%": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669250917496
+        }
+      }
+    },
+    "longform": {
+      "longform": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669251869210
+        }
+      }
+    },
+    "pandoc": {
+      "pandoc": {
+        "currentVault": {
           "count": 2,
-          "lastUpdated": 1669131719687
+          "lastUpdated": 1669251890788
+        }
+      }
+    },
+    "wrangler": {
+      "wrangler": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669251897751
+        }
+      }
+    },
+    "files": {
+      "files": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669251985169
         }
       }
     }

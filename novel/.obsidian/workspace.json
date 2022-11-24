@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "529f7e9ee2759233",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9e736c4ae155c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84933fe160dad8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/修仙文女配每天都在拼命活命/07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c5b35155ddf31c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/T-frontmatter全局.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d670287fe10cf16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/T-frontmatter全局.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94fdcd62a67e2411",
+    "type": "split",
+    "children": [
+      {
+        "id": "892ae8c698489df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4df23f5b054bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c32978d75758645",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bf2f1ef12c8de6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3b9197348ab5eb5",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c8d5d60e623a00ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ba320fbf4baee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d9046c463b85e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/T-frontmatter全局.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eca75ec9bdba5a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/T-frontmatter全局.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94be82e87e6832a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cae004e6c7c23a1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/T-frontmatter全局.md"
+              }
+            }
+          },
+          {
+            "id": "9ff806b6484c33dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5caa009f61ee90",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d670287fe10cf16f",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Templates/未命名.md",
+    "Templates/T-frontmatter全局.md",
+    "longform/修仙文女配每天都在拼命活命/07.md",
+    "longform/修仙文女配每天都在拼命活命/06.md",
+    "longform/修仙文女配每天都在拼命活命/05.md",
+    "longform/修仙文女配每天都在拼命活命/04.md",
+    "longform/修仙文女配每天都在拼命活命/03.md",
+    "longform/修仙文女配每天都在拼命活命/02.md",
+    "longform/修仙文女配每天都在拼命活命/01.md"
+  ]
+}
