@@ -11,8 +11,12 @@
             "id": "11e19484852ab00b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PowerBI/PowerBi星球/这些小众的可视化图表，你用过几个？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#wx/pbi/可视化图表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerBI/index_Powerbi.md",
+                "file": "PowerBI/PowerBi星球/这些小众的可视化图表，你用过几个？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerBI/index_Powerbi.md",
+                "file": "PowerBI/PowerBi星球/这些小众的可视化图表，你用过几个？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerBI/index_Powerbi.md"
+                "file": "PowerBI/PowerBi星球/这些小众的可视化图表，你用过几个？.md"
               }
             }
           },
@@ -133,14 +138,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "17cd01e3e92b4250",
+  "active": "11e19484852ab00b",
   "lastOpenFiles": [
     "Templates/T-frontmatter.md"
   ]

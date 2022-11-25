@@ -31,8 +31,10 @@
   "obsidian-jupyter",
   "media-extended",
   "obsidian-memos",
-  "obsidian-extract-pdf-highlights",
   "obsidian-annotator",
   "text-snippets-obsidian",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "notion-like-tables",
+  "obsidian-read-it-later",
+  "obsidian-booknote-plugin"
 ]

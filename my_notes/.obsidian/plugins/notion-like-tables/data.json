@@ -1,0 +1,173 @@
+{
+  "data": {
+    "table-id-4tnx0C": {
+      "model": {
+        "columnIds": [
+          "column-id-ZaT10Eux",
+          "column-id-mNgQFz9O",
+          "column-id-NtigIDY5",
+          "column-id-mHIrQET9"
+        ],
+        "rowIds": [
+          "row-id-BUx5e5lG",
+          "row-id-0EjZBZb5",
+          "row-id-RNmXW7Xy"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-zWQPNx12",
+            "columnId": "column-id-ZaT10Eux",
+            "rowId": "row-id-BUx5e5lG",
+            "markdown": "业务名称",
+            "html": "业务名称",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-EG3p2WYM",
+            "columnId": "column-id-mNgQFz9O",
+            "rowId": "row-id-BUx5e5lG",
+            "markdown": "履约期限",
+            "html": "履约期限",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-ViMNqHmj",
+            "columnId": "column-id-NtigIDY5",
+            "rowId": "row-id-BUx5e5lG",
+            "markdown": "金额",
+            "html": "金额",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-sV4aAIW2",
+            "columnId": "column-id-mHIrQET9",
+            "rowId": "row-id-BUx5e5lG",
+            "markdown": "关键信息",
+            "html": "关键信息",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-sHI7010R",
+            "columnId": "column-id-ZaT10Eux",
+            "rowId": "row-id-0EjZBZb5",
+            "markdown": "2021-2022年度上地街道接诉即办项目",
+            "html": "2021-2022年度上地街道接诉即办项目",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-xVMm4dy0",
+            "columnId": "column-id-mNgQFz9O",
+            "rowId": "row-id-0EjZBZb5",
+            "markdown": "2021年9月17日至2022年9月16日",
+            "html": "2021年9月17日至2022年9月16日",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-anzcyE0U",
+            "columnId": "column-id-NtigIDY5",
+            "rowId": "row-id-0EjZBZb5",
+            "markdown": "145.827 万元",
+            "html": "145.827 万元",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-qnm6JIMs",
+            "columnId": "column-id-mHIrQET9",
+            "rowId": "row-id-0EjZBZb5",
+            "markdown": "[[N-上地街道接诉即办项目合同]]",
+            "html": "<a class=\"internal-link\" data-href=\"N-上地街道接诉即办项目合同\" href=\"N-上地街道接诉即办项目合同\" target=\"_blank\" rel=\"noopener\">N-上地街道接诉即办项目合同</a>",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-dKkWronJ",
+            "columnId": "column-id-ZaT10Eux",
+            "rowId": "row-id-RNmXW7Xy",
+            "markdown": "紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目",
+            "html": "紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-0q1waVB5",
+            "columnId": "column-id-mNgQFz9O",
+            "rowId": "row-id-RNmXW7Xy",
+            "markdown": "2021年8月23日至2022年8月22日",
+            "html": "2021年8月23日至2022年8月22日",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-hME2Ivkf",
+            "columnId": "column-id-NtigIDY5",
+            "rowId": "row-id-RNmXW7Xy",
+            "markdown": "145.9999950 万元",
+            "html": "145.9999950 万元",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-RwODNrhR",
+            "columnId": "column-id-mHIrQET9",
+            "rowId": "row-id-RNmXW7Xy",
+            "markdown": "[[N-紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目合同]]",
+            "html": "<a class=\"internal-link\" data-href=\"N-紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目合同\" href=\"N-紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目合同\" target=\"_blank\" rel=\"noopener\">N-紫竹院街道12345“接诉即办”、城市管理综合考核第三方服务项目合同</a>",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-ZaT10Eux": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-mNgQFz9O": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-NtigIDY5": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-mHIrQET9": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-BUx5e5lG": {
+            "creationDate": 1669338962299
+          },
+          "row-id-0EjZBZb5": {
+            "creationDate": 1669338962300
+          },
+          "row-id-RNmXW7Xy": {
+            "creationDate": 1669350393093
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-4tnx0C",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}

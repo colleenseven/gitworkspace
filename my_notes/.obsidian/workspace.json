@@ -4,27 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "7a5870a0e492872e",
+        "id": "68e0a830bad81514",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0659b78b35e280",
+            "id": "fc466a719713475c",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/面试自我介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "006071317d01ae60",
+            "id": "e8ba0463d00287e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/面试问题汇总.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "023b32bbbd7745ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/北京融通润园科技有限公司-项目助理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d8fa126cd22a3a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/笔记概述.md",
-                "mode": "source",
+                "file": "Home/OB操作学习/if_mytexttools.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -76,6 +111,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "62b341f805b5d652",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -91,16 +134,6 @@
         "id": "fe5f3fcd6ad661b5",
         "type": "tabs",
         "children": [
-          {
-            "id": "f36ddd468a14eebf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "c9729a1718f27296",
             "type": "leaf",
@@ -118,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/笔记概述.md"
+                "file": "求职面试/面试问题汇总.md"
               }
             }
           },
@@ -152,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/笔记概述.md",
+                "file": "求职面试/面试问题汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,30 +202,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/笔记概述.md",
+                "file": "求职面试/面试问题汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "2643a4c4d1110b42",
+  "active": "e8ba0463d00287e0",
   "lastOpenFiles": [
-    "Home/OB操作学习/OB插件.md",
-    "Templates/T-frontmater全局.md",
-    "Home/插件语法汇总.md",
-    "Home/笔记概述.md",
-    "Home/text-expand 测试.md",
-    "Longform/修仙文女配每天都在拼命活命/你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎.md",
-    "成长记录/语文课外系列/其他/咕叽咕叽.md",
-    "Longform/修仙文女配每天都在拼命活命/18.md",
-    "Longform/修仙文女配每天都在拼命活命/金剑.md",
-    "Longform/修仙文女配每天都在拼命活命/劫灰.md"
+    "Home/OB操作学习/if_mytexttools.md",
+    "Highlights for 海淀区市民热线座席服务外包项目.md",
+    "求职面试/面试问题汇总.md",
+    "求职面试/面试自我介绍.md",
+    "求职面试/发布调研的权威媒体.md",
+    "求职面试/面试政策类文件补充/中共北京市委 北京市人民政府关于进一步深化“接诉即办”改革工作的意见.md",
+    "求职面试/面试政策类文件补充/区委常委会研究进一步压实责任改进“接诉即办”工作等事项.md",
+    "求职面试/面试政策类文件补充/北京市印发优化提升“接诉即办”工作的实施方案.md",
+    "求职面试/面试政策类文件补充/《北京市接诉即办工作条例》解读.md",
+    "求职面试/归档/北京融通润园科技有限公司-项目助理.md"
   ]
 }
