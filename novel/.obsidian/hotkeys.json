@@ -80,5 +80,14 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-tidy-footnotes:tidy-footnotes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "6"
+    }
   ]
 }

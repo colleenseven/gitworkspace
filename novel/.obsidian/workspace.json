@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc8d205b6b718f95",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/场景/人间/藏书阁.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "17bedddd6f295de2",
             "type": "leaf",
             "pinned": true,
@@ -36,13 +22,13 @@
             }
           },
           {
-            "id": "742a059f8be9470a",
+            "id": "6258119e45b371fb",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/文化/好词佳句.md",
+                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/神界/神族物品.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,19 +36,33 @@
             }
           },
           {
-            "id": "99a27ea93116d5b9",
+            "id": "27db16596a9a5175",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c9ea5050f7aa494b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/T-frontmatter全局.md",
+                "file": "home/学习使用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "王城",
+                "query": "冥婚",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,14 +136,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/T-frontmatter全局.md",
+                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/T-frontmatter全局.md",
+                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/T-frontmatter全局.md"
+                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md"
               }
             }
           },
@@ -196,23 +196,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "99a27ea93116d5b9",
+  "active": "27db16596a9a5175",
   "lastOpenFiles": [
-    "longform/修仙文女配每天都在拼命活命/场景/鬼域/鬼域.md",
-    "longform/修仙文女配每天都在拼命活命/场景/交界地带/交界地带.md",
-    "longform/修仙文女配每天都在拼命活命/场景/人间/藏书阁.md",
-    "longform/修仙文女配每天都在拼命活命/文化/皮影戏.md",
-    "longform/修仙文女配每天都在拼命活命/文化/楼船.md",
-    "longform/修仙文女配每天都在拼命活命/文化/好词佳句.md",
-    "longform/修仙文女配每天都在拼命活命/21.md",
-    "longform/修仙文女配每天都在拼命活命/文化/满月.md",
-    "longform/修仙文女配每天都在拼命活命/文化/冥婚.md",
-    "longform/修仙文女配每天都在拼命活命/文化/迷障.md"
+    "home/学习使用.md",
+    "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
+    "longform/修仙文女配每天都在拼命活命/06.md",
+    "longform/修仙文女配每天都在拼命活命/世界观/世界观.md",
+    "longform/修仙文女配每天都在拼命活命/世界观/场景/神界/神族物品.md",
+    "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域.md",
+    "longform/修仙文女配每天都在拼命活命/世界观/场景/魔界/魔界.md",
+    "longform/修仙文女配每天都在拼命活命/18.md",
+    "longform/修仙文女配每天都在拼命活命/星派大-你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎.md",
+    "broken links output.md"
   ]
 }

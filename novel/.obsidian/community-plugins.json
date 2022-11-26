@@ -9,7 +9,6 @@
   "tag-wrangler",
   "templater-obsidian",
   "obsidian-advanced-uri",
-  "obsidian-copy-block-link",
   "highlightr-plugin",
   "obsidian-image-toolkit",
   "markdown-prettifier",
@@ -17,5 +16,7 @@
   "longform",
   "breadcrumbs",
   "obsidian-footnotes",
-  "obsidian-regex-pipeline"
+  "obsidian-regex-pipeline",
+  "obsidian-copy-block-link",
+  "obsidian-tidy-footnotes"
 ]

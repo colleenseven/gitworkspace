@@ -28,7 +28,8 @@
     "前情",
     "文化",
     "角色",
-    "场景"
+    "场景",
+    "情节"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
@@ -90,7 +91,8 @@
     "前情",
     "文化",
     "角色",
-    "场景"
+    "场景",
+    "情节"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -132,7 +134,7 @@
         "场景"
       ],
       "same": [
-        "文化"
+        "事件"
       ],
       "down": [
         "人物"

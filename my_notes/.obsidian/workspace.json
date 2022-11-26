@@ -56,17 +56,20 @@
             "id": "d8fa126cd22a3a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "035c3145ba8f8639",
+            "type": "leaf",
+            "state": {
+              "type": "Search on Internet",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "求职面试/面试问题汇总.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,17 +214,17 @@
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "e8ba0463d00287e0",
+  "active": "2643a4c4d1110b42",
   "lastOpenFiles": [
+    "求职面试/启明星辰信息技术集团股份有限公司-运营经理（网络安全）.md",
+    "求职面试/面试问题汇总.md",
     "Home/OB操作学习/if_mytexttools.md",
     "Highlights for 海淀区市民热线座席服务外包项目.md",
-    "求职面试/面试问题汇总.md",
     "求职面试/面试自我介绍.md",
     "求职面试/发布调研的权威媒体.md",
     "求职面试/面试政策类文件补充/中共北京市委 北京市人民政府关于进一步深化“接诉即办”改革工作的意见.md",
     "求职面试/面试政策类文件补充/区委常委会研究进一步压实责任改进“接诉即办”工作等事项.md",
     "求职面试/面试政策类文件补充/北京市印发优化提升“接诉即办”工作的实施方案.md",
-    "求职面试/面试政策类文件补充/《北京市接诉即办工作条例》解读.md",
-    "求职面试/归档/北京融通润园科技有限公司-项目助理.md"
+    "求职面试/面试政策类文件补充/《北京市接诉即办工作条例》解读.md"
   ]
 }

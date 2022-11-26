@@ -2,5 +2,8 @@
   "attachmentFolderPath": "附件库",
   "promptDelete": false,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "其他小说/"
+  ]
 }
