@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "99f43ad28cd15daa",
+        "id": "4d83d668d10c6e84",
         "type": "tabs",
         "children": [
           {
-            "id": "17bedddd6f295de2",
+            "id": "213851dc41fd2db9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "broken links output.md",
+                "file": "延伸故事/故事灵感.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "6258119e45b371fb",
+            "id": "3ed68a642df9330c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/神界/神族物品.md",
+                "file": "longform/妙有-愿为瓦上霜/世界观/人间-第三重天.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,33 +36,81 @@
             }
           },
           {
-            "id": "27db16596a9a5175",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c9ea5050f7aa494b",
+            "id": "89a095fa94d16a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/学习使用.md",
+                "file": "longform/妙有-愿为瓦上霜/角色/顾弦之.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd4dbfe3d95b5608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "延伸故事/故事灵感.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "981f25faedd1c362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/妙有-愿为瓦上霜/世界观/妖界.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c31fe23b774c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/妙有-愿为瓦上霜/角色/慕沉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d84a9d211f5b31d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/妙有-愿为瓦上霜/28..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab8392484413f447",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其他小说/妙有-愿为瓦上霜.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -91,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "冥婚",
+                "query": "怀念又向往。",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
+                "file": "longform/妙有-愿为瓦上霜/28..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
+                "file": "longform/妙有-愿为瓦上霜/28..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md"
+                "file": "longform/妙有-愿为瓦上霜/28..md"
               }
             }
           },
@@ -189,7 +237,7 @@
             }
           },
           {
-            "id": "eb5caa009f61ee90",
+            "id": "446690571a15664a",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -203,17 +251,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "27db16596a9a5175",
+  "active": "3d84a9d211f5b31d",
   "lastOpenFiles": [
-    "home/学习使用.md",
-    "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域文化.md",
-    "longform/修仙文女配每天都在拼命活命/06.md",
-    "longform/修仙文女配每天都在拼命活命/世界观/世界观.md",
-    "longform/修仙文女配每天都在拼命活命/世界观/场景/神界/神族物品.md",
-    "longform/修仙文女配每天都在拼命活命/世界观/场景/鬼域/鬼域.md",
-    "longform/修仙文女配每天都在拼命活命/世界观/场景/魔界/魔界.md",
-    "longform/修仙文女配每天都在拼命活命/18.md",
-    "longform/修仙文女配每天都在拼命活命/星派大-你穿到一个修仙文变成了一个试图勾引男主的恶毒女配，怎么办？ - 知乎.md",
-    "broken links output.md"
+    "longform/妙有-愿为瓦上霜/27..md",
+    "longform/妙有-愿为瓦上霜/26..md",
+    "longform/妙有-愿为瓦上霜/世界观/人间-第三重天.md",
+    "longform/妙有-愿为瓦上霜/25..md",
+    "longform/妙有-愿为瓦上霜/24..md",
+    "longform/妙有-愿为瓦上霜/23.md",
+    "longform/妙有-愿为瓦上霜/世界观/妖界.md",
+    "longform/妙有-愿为瓦上霜/世界观/仙界.md",
+    "longform/妙有-愿为瓦上霜/角色/狐狸.md",
+    "延伸故事/故事灵感.md"
   ]
 }

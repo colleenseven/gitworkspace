@@ -17,6 +17,10 @@
     {
       "folder": "/",
       "template": "Templates/T-frontmater全局.md"
+    },
+    {
+      "folder": "成长记录",
+      "template": "Templates/T-frontmatter读书笔记.md"
     }
   ],
   "syntax_highlighting": true,

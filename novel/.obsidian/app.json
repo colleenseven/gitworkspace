@@ -4,6 +4,10 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "其他小说/"
-  ]
+    "其他小说/",
+    "Templates/",
+    "longform/星派大-白如霜南雁飞/",
+    "longform/南狸狸-宋清如刑如渊/"
+  ],
+  "trashOption": "local"
 }

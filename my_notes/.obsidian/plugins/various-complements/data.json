@@ -55,27 +55,11 @@
         }
       }
     },
-    "title": {
-      "title": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666773585634
-        }
-      }
-    },
     "toolkit": {
       "toolkit": {
         "currentVault": {
           "count": 2,
           "lastUpdated": 1666940796582
-        }
-      }
-    },
-    "outliner": {
-      "outliner": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666788429915
         }
       }
     },
@@ -95,70 +79,6 @@
         }
       }
     },
-    "excalidra": {
-      "excalidra": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666768020461
-        }
-      }
-    },
-    "menu": {
-      "menu": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666768817714
-        }
-      }
-    },
-    "prettifier": {
-      "prettifier": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666773898976
-        }
-      }
-    },
-    "link": {
-      "link": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666789382444
-        }
-      }
-    },
-    "shang-pic": {
-      "shang-pic": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666793605714
-        }
-      }
-    },
-    "note": {
-      "note": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666793770549
-        }
-      }
-    },
-    "question": {
-      "question": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666793981647
-        }
-      }
-    },
-    "增强": {
-      "增强": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666794323726
-        }
-      }
-    },
     "已完成": {
       "已完成": {
         "frontMatter": {
@@ -175,14 +95,6 @@
         }
       }
     },
-    "ebchat_redirect": {
-      "ebchat_redirect": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666848789628
-        }
-      }
-    },
     "frontmatter": {
       "frontmatter": {
         "currentVault": {
@@ -193,10 +105,6 @@
     },
     "tag": {
       "tag": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666849169417
-        },
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1669251894140
@@ -211,83 +119,11 @@
         }
       }
     },
-    "状态": {
-      "状态": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666849279272
-        }
-      }
-    },
-    "操作": {
-      "操作": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666850231940
-        }
-      }
-    },
-    "word": {
-      "word": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1666867964144
-        }
-      }
-    },
-    "online": {
-      "online": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666851388891
-        }
-      }
-    },
-    "highlightr": {
-      "highlightr": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666851864236
-        }
-      }
-    },
-    "符号": {
-      "符号": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666857888206
-        }
-      }
-    },
-    "footnote": {
-      "footnote": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666858028672
-        }
-      }
-    },
-    "erbi": {
-      "erbi": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666858887698
-        }
-      }
-    },
     "Power BI中不显示表格总计的技巧": {
       "Power BI中不显示表格总计的技巧": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1668328989733
-        }
-      }
-    },
-    "DAX": {
-      "DAX": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1666860186700
         }
       }
     },
@@ -304,14 +140,6 @@
         "frontMatter": {
           "count": 5,
           "lastUpdated": 1668520846074
-        }
-      }
-    },
-    "功能": {
-      "功能": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1666861140973
         }
       }
     },
@@ -1842,8 +1670,8 @@
     "review/故事讲解": {
       "review/故事讲解": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1669201472493
+          "count": 7,
+          "lastUpdated": 1669533735414
         }
       }
     },
@@ -1922,8 +1750,8 @@
     "Abstract": {
       "Abstract": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1669201468290
+          "count": 2,
+          "lastUpdated": 1669533832132
         }
       }
     },
@@ -2084,6 +1912,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669358979032
+        }
+      }
+    },
+    "读书笔记/童话": {
+      "读书笔记/童话": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669533748686
+        }
+      }
+    },
+    "读书笔记/传统文化": {
+      "读书笔记/传统文化": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1669537425793
         }
       }
     }

@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "section:(故事)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:longform/修仙文女配每天都在拼命活命/文化",
+      "query": "path:longform/南狸狸-宋清如刑如渊/角色",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:longform/修仙文女配每天都在拼命活命/世界观/角色",
+      "query": "path:longform/南狸狸-宋清如刑如渊/世界观",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:longform/修仙文女配每天都在拼命活命/世界观/场景",
+      "query": "path:longform/南狸狸-宋清如刑如渊",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -34,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6106121204788835,
+  "scale": 0.4962244394589666,
   "close": true
 }
