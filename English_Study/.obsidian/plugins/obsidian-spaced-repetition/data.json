@@ -10,7 +10,7 @@
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
-    "flashcardHeightPercentage": 55,
+    "flashcardHeightPercentage": 60,
     "flashcardWidthPercentage": 60,
     "showFileNameInFileLink": true,
     "randomizeCardOrder": true,
@@ -35,6 +35,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-11-24",
+  "buryDate": "2022-11-30",
   "buryList": []
 }

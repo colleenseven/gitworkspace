@@ -1,7 +1,8 @@
 ---
+status: 状态为空
 longform:
   format: scenes
-  title: 修仙文女配每天都在拼命活命
+  title: 星派大-白如霜南雁飞-一重天
   workflow: Default Workflow
   sceneFolder: /
   scenes:
@@ -45,14 +46,18 @@ longform:
 
 
 兵器排行：鬼刀=雷箭->天魔剑 -> 金剑 -> 雾刃 -> 普通刀剑
-鬼王在不停的用鬼刀看裂缝，变大
 战力：神魔合力才能打败鬼王，鬼王最强
+
+鬼域不与人间想通,但鬼王不停的用鬼刀砍裂缝,使裂缝变大,才能来到人间
+
+
 
 ### 故事梗概
 
 ```dataview 
 table 人物,场景, 事件
-from "longform/修仙文女配每天都在拼命活命" and !"longform/修仙文女配每天都在拼命活命/世界观" and !"longform/修仙文女配每天都在拼命活命/角色"
+from "longform/星派大-白如霜南雁飞-一重天" and !"longform/星派大-白如霜南雁飞-一重天/世界观" and !"longform/星派大-白如霜南雁飞-一重天/角色"
+where status ="状态为空"
 sort file.name asc
 ```
 
@@ -60,14 +65,14 @@ sort file.name asc
 
 ```dataview 
 table create_date, tags, status, notes, file.folder
-from "longform/修仙文女配每天都在拼命活命/世界观"
+from "longform/星派大-白如霜南雁飞-一重天/世界观"
 ```
 
 ### 角色
 
 ```dataview 
 table create_date, tags, status, notes, file.folder
-from "longform/修仙文女配每天都在拼命活命/角色"
+from "longform/星派大-白如霜南雁飞-一重天/角色"
 ```
 
 [[楔子]]

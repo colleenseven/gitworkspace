@@ -107,5 +107,13 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:Templates/T-灵感分析.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

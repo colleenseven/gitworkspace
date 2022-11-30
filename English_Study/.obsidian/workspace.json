@@ -4,83 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c59bf303f66d9420",
+        "id": "2dce2f9f85cb9e86",
         "type": "tabs",
         "children": [
           {
-            "id": "26417d0c9261df5e",
+            "id": "99841dc669b04e05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础单词/Animal.md",
+                "file": "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f88a38814f21d830",
+            "id": "7ceb4a7fc20a7170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础单词/Body.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1e341425a3b35ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础句子/Food.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e846fe86d5e8cc59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础句子/Food.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c47da38aa64ca54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础句子/Animal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ededee018a8dad6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/待学习.md",
+                "file": "阅读/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "5e4a077aca30de52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512576e6a76eba05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/words/food",
+                "query": "water",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/待学习.md",
+                "file": "阅读/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +133,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/待学习.md",
+                "file": "阅读/未命名.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -186,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/待学习.md"
+                "file": "阅读/未命名.md"
               }
             }
           },
@@ -207,23 +177,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ededee018a8dad6c",
+  "active": "7ceb4a7fc20a7170",
   "lastOpenFiles": [
-    "基础句子/Animal.md",
-    "基础句子/Food.md",
+    "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
+    "Song/Dancing with your ghost.md",
     "基础单词/Animal.md",
-    "基础单词/School.md",
-    "基础单词/Food.md",
+    "home/待学习.md",
     "Templates/T-frontmatter.md",
-    "附件库/food/coke.jpg",
+    "Templates/文件创建时间.md",
+    "基础单词/Color.md",
     "基础单词/Body.md",
-    "附件库/color/yellow.jpg",
-    "基础单词/Color.md"
+    "基础句子/Animal.md",
+    "基础句子/Food.md"
   ]
 }

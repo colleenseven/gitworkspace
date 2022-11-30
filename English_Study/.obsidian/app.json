@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "/附件库"
+  "attachmentFolderPath": "/附件库",
+  "promptDelete": false
 }

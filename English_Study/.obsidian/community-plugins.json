@@ -8,9 +8,12 @@
   "dataview",
   "highlightr-plugin",
   "remember-cursor-position",
-  "templater-obsidian",
   "markdown-prettifier",
   "obsidian-copy-block-link",
   "find-unlinked-files",
-  "Enhanced-editing"
+  "Enhanced-editing",
+  "obsidian-annotator",
+  "templater-obsidian",
+  "obsidian-auto-link-title",
+  "search-on-internet"
 ]

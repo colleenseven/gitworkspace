@@ -29,7 +29,9 @@
     "文化",
     "角色",
     "场景",
-    "情节"
+    "情节",
+    "甜虐",
+    "安危"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
@@ -92,7 +94,9 @@
     "文化",
     "角色",
     "场景",
-    "情节"
+    "情节",
+    "甜虐",
+    "安危"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -140,10 +144,10 @@
         "人物"
       ],
       "next": [
-        "后事"
+        "甜虐"
       ],
       "prev": [
-        "前情"
+        "安危"
       ]
     }
   ],
