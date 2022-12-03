@@ -53,21 +53,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00010838b2087459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "longform/星派大-白如霜南雁飞-一重天/08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longform/星派大-白如霜南雁飞-一重天/08.md",
+                "file": "延伸故事/故事灵感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "longform/星派大-白如霜南雁飞-一重天/08.md",
+                "file": "延伸故事/故事灵感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longform/星派大-白如霜南雁飞-一重天/08.md"
+                "file": "延伸故事/故事灵感.md"
               }
             }
           },
@@ -220,17 +207,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "00010838b2087459",
+  "active": "7e1d72e4bd997d9f",
   "lastOpenFiles": [
+    "longform/妙有-愿为瓦上霜-三重天/01..md",
+    "longform/妙有-愿为瓦上霜-三重天/10..md",
+    "longform/妙有-愿为瓦上霜-三重天/(未完结)妙有-愿为瓦上霜.md",
+    "longform/星派大-白如霜南雁飞-一重天/世界观/鬼域.md",
     "延伸故事/故事灵感.md",
     "longform/星派大-白如霜南雁飞-一重天/08.md",
     "延伸故事/未命名.md",
     "longform/星派大-白如霜南雁飞-一重天/09.md",
     "longform/星派大-白如霜南雁飞-一重天/07.md",
-    "longform/星派大-白如霜南雁飞-一重天/06.md",
-    "longform/星派大-白如霜南雁飞-一重天/05.md",
-    "longform/星派大-白如霜南雁飞-一重天/Index.md",
-    "longform/星派大-白如霜南雁飞-一重天/04.md",
-    "longform/星派大-白如霜南雁飞-一重天/03.md"
+    "longform/星派大-白如霜南雁飞-一重天/06.md"
   ]
 }

@@ -19,5 +19,6 @@
   "obsidian-regex-pipeline",
   "obsidian-copy-block-link",
   "obsidian-tidy-footnotes",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "better-fn"
 ]

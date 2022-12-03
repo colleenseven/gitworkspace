@@ -1,6 +1,11 @@
 {
   "trashOption": "local",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "/附件库",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "词库",
+  "userIgnoreFilters": [
+    "分类单词/"
+  ]
 }

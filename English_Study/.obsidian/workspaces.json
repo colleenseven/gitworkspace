@@ -1,0 +1,183 @@
+{
+  "查词": {
+    "main": {
+      "id": "1de8ceca2d05b146",
+      "type": "split",
+      "children": [
+        {
+          "id": "f3001c5fd7ce24d4",
+          "type": "tabs",
+          "dimension": 37.06563706563706,
+          "children": [
+            {
+              "id": "4ae80cc7e415cfdd",
+              "type": "leaf",
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "基础单词/C/capacity.md",
+                  "mode": "source",
+                  "source": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "3e45299c0a9acead",
+          "type": "tabs",
+          "dimension": 62.93436293436293,
+          "children": [
+            {
+              "id": "114b259315d5cd74",
+              "type": "leaf",
+              "state": {
+                "type": "Search on Internet",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "7ec7437c2359b32c",
+      "type": "split",
+      "children": [
+        {
+          "id": "b56fe5ae1ee5fb96",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "ce9af06df4e6577e",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "119b142a449f1ac0",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": false,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "338aed168ecec03a",
+              "type": "leaf",
+              "state": {
+                "type": "starred",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 200
+    },
+    "right": {
+      "id": "51fbef14b4a0631e",
+      "type": "split",
+      "children": [
+        {
+          "id": "267cd9f442ae3d85",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4c1f399a5fe97978",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "基础单词/C/capacity.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "42a893d2a8b26f36",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "file": "基础单词/C/capacity.md",
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              }
+            },
+            {
+              "id": "71a583da4836d24e",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "frequency",
+                  "useHierarchy": true
+                }
+              }
+            },
+            {
+              "id": "16706a40e36f65a3",
+              "type": "leaf",
+              "state": {
+                "type": "outline",
+                "state": {
+                  "file": "基础单词/C/capacity.md"
+                }
+              }
+            },
+            {
+              "id": "547c1b9ab7be5714",
+              "type": "leaf",
+              "state": {
+                "type": "review-queue-list-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "2ccd15c1a914864e",
+              "type": "leaf",
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "38e9a11530068f59",
+              "type": "leaf",
+              "state": {
+                "type": "dictionary-view",
+                "state": {}
+              }
+            }
+          ],
+          "currentTab": 2
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300,
+      "collapsed": true
+    },
+    "active": "4ae80cc7e415cfdd"
+  }
+}

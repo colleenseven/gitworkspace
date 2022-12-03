@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "词库/四级词汇.md",
+  "customDictionaryPaths": "词库/custom words.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -412,6 +412,70 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1669823574029
+        }
+      }
+    },
+    "已完成": {
+      "已完成": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669862483692
+        }
+      }
+    },
+    "前缀": {
+      "前缀": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1669967427453
+        }
+      }
+    },
+    "snippets": {
+      "snippets": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669979854951
+        }
+      }
+    },
+    "School": {
+      "School": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1669982911405
+        }
+      }
+    },
+    "eight": {
+      "eight": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669984966042
+        }
+      }
+    },
+    "我是吴老师": {
+      "我是吴老师": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669987479492
+        }
+      }
+    },
+    "banana": {
+      "banana": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670063894783
+        }
+      }
+    },
+    "orange": {
+      "orange": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670063901522
         }
       }
     }

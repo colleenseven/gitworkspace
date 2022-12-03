@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
+                "file": "成长记录/暂存/《弟子规》全文和解释.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d2f8dc69adbd9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职面试/面试问题汇总.md"
+                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
+                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,30 +170,38 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
+                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "04b73c485ce04110",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "2b147528ba3c4d5b",
+  "active": "3d2f8dc69adbd9de",
   "lastOpenFiles": [
+    "附件库/Recording 20221201202631.webm",
+    "成长记录/暂存/《弟子规》全文和解释.md",
+    "附件库/Recording 20221201201125.webm",
+    "成长记录/暂存/十万个冷笑话.md",
+    "求职面试/面试问题汇总.md",
     "成长记录/读书笔记/国学启蒙/百家姓·魏_古诗文网.md",
     "成长记录/读书笔记/文化/国学启蒙/百家姓.md",
     "成长记录/读书笔记/国学启蒙/百家姓·陈_古诗文网.md",
     "成长记录/读书笔记/国学启蒙/百家姓·严_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·孔_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·奚_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·范_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·葛_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·潘_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·苏_古诗文网.md"
+    "成长记录/读书笔记/国学启蒙/百家姓·孔_古诗文网.md"
   ]
 }

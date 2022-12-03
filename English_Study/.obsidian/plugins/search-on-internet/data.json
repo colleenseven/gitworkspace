@@ -2,14 +2,14 @@
   "searches": [
     {
       "tags": [],
-      "query": "https://www.google.com/search?&q={{query}}",
+      "query": "https://www.youdao.com/result?word={{query}}&lang=en",
       "name": "有道",
       "encode": true
     },
     {
       "tags": [],
-      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
-      "name": "Wikipedia",
+      "query": "https://hanyu.baidu.com/s?wd={{query}}",
+      "name": "百度",
       "encode": true
     }
   ],

@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 1,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "---\ncreate_date: <%tp.file.creation_date() %>\ntags: \nstatus: 未阅读 \naliases: null\nnotes: False\nZK: \ncategory: \nuid: \n---"
+}

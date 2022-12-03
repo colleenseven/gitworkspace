@@ -4,53 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2dce2f9f85cb9e86",
+        "id": "d440f48c4175c5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "99841dc669b04e05",
+            "id": "dec31a3e11eb407b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/CET4/2013年6月大学英语四级考试真题(第1套).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5d715e4e7d94f371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
+                "file": "词根词缀/词根词缀二.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ceb4a7fc20a7170",
+            "id": "94eb0fa249289e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/未命名.md",
+                "file": "Templates/T-frontmatter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "5e4a077aca30de52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "512576e6a76eba05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "water",
+                "query": "tag:#高中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "51fbef14b4a0631e",
@@ -116,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/未命名.md",
+                "file": "Templates/T-frontmatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/未命名.md",
+                "file": "Templates/T-frontmatter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/未命名.md"
+                "file": "Templates/T-frontmatter.md"
               }
             }
           },
@@ -175,26 +171,33 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "38e9a11530068f59",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7ceb4a7fc20a7170",
+  "active": "94eb0fa249289e13",
   "lastOpenFiles": [
+    "教材/一年级.md",
     "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
-    "Song/Dancing with your ghost.md",
-    "基础单词/Animal.md",
-    "home/待学习.md",
-    "Templates/T-frontmatter.md",
-    "Templates/文件创建时间.md",
-    "基础单词/Color.md",
-    "基础单词/Body.md",
-    "基础句子/Animal.md",
-    "基础句子/Food.md"
+    "基础单词/A/accumulate.md",
+    "词根词缀/ac-,ad-,af-,ag-,an-,ap-,ar-,as-,at-.md",
+    "基础单词/M/mend.md",
+    "词库/mend= 错误,瑕疵.md",
+    "基础单词/G/gallery.md",
+    "基础单词/E/etiquette.md",
+    "基础单词/C/conference.md",
+    "基础单词/C/coach.md"
   ]
 }

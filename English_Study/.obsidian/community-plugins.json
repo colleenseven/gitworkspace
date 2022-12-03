@@ -6,7 +6,6 @@
   "table-editor-obsidian",
   "calendar",
   "dataview",
-  "highlightr-plugin",
   "remember-cursor-position",
   "markdown-prettifier",
   "obsidian-copy-block-link",
@@ -15,5 +14,17 @@
   "obsidian-annotator",
   "templater-obsidian",
   "obsidian-auto-link-title",
-  "search-on-internet"
+  "search-on-internet",
+  "find-and-replace-in-selection",
+  "cmdr",
+  "obsidian-orthography",
+  "obsidian-statusbar-pomo",
+  "obsidian-dictionary-plugin",
+  "better-word-count",
+  "note-refactor-obsidian",
+  "smart-random-note",
+  "obsidian-emoji-toolbar",
+  "text-snippets-obsidian",
+  "obsidian-journey-plugin",
+  "obsidian-autocomplete-plugin"
 ]
