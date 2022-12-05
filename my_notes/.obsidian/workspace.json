@@ -26,15 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
+                "file": "求职面试/面试问题汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "48461a8c1cb6c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2643a4c4d1110b42",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "求职面试/猿辅导-素养课业务梳理.svg"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,11 +62,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91c9a0b9bed4a1a5",
+        "id": "aba58d7e8ce90613",
         "type": "tabs",
         "children": [
           {
-            "id": "2643a4c4d1110b42",
+            "id": "018e055554f588a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "九州羽",
+                "query": "diagra",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md"
+                "file": "求职面试/猿辅导-素养课业务梳理.svg"
               }
             }
           },
@@ -153,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
+                "file": "求职面试/猿辅导-素养课业务梳理.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长记录/其他学科学习/音乐/我和我的祖国.md",
+                "file": "求职面试/猿辅导-素养课业务梳理.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,23 +203,24 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
-  "active": "3d2f8dc69adbd9de",
+  "active": "2643a4c4d1110b42",
   "lastOpenFiles": [
-    "附件库/Recording 20221201202631.webm",
-    "成长记录/暂存/《弟子规》全文和解释.md",
-    "附件库/Recording 20221201201125.webm",
-    "成长记录/暂存/十万个冷笑话.md",
+    "Interest/商业洞察/刘润/刘润notes/N-拆解直播带货.md",
+    "成长记录/读书笔记/文化/朝代/唐诗复习卡.md",
+    "求职面试/策略运营-猿辅导.md",
+    "求职面试/猿辅导-素养课业务梳理.svg",
     "求职面试/面试问题汇总.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·魏_古诗文网.md",
-    "成长记录/读书笔记/文化/国学启蒙/百家姓.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·陈_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·严_古诗文网.md",
-    "成长记录/读书笔记/国学启蒙/百家姓·孔_古诗文网.md"
+    "求职面试/面试岗位知识补充/发布调研的权威媒体.md",
+    "求职面试/N-海淀区市民热线座席服务外包招标文件.md",
+    "求职面试/N-海淀区市民热线座席服务外包项目.md",
+    "求职面试/归档/直播业务-问题发现运营专家.md",
+    "求职面试/归档/启明星辰信息技术集团股份有限公司-运营经理（网络安全）.md"
   ]
 }

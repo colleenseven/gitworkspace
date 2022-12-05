@@ -39,14 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/T-frontmatter.md",
+                "file": "词库/四级词汇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c055e500c6a2ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "词库/Ll_wordsdictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b24c2a9c5c4a11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,8 +115,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "05da95cae43f315a",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/T-frontmatter.md",
+                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/T-frontmatter.md",
+                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/T-frontmatter.md"
+                "file": "阅读/高考/2022年全国甲卷英语高考真题.md"
               }
             }
           },
@@ -179,25 +212,33 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "f1f727e549046b03",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "94eb0fa249289e13",
+  "active": "9b24c2a9c5c4a11d",
   "lastOpenFiles": [
+    "词库/LI_wordsrecite.md",
+    "词库/Ll_wordsdictionary.md",
+    "词库/四级词汇.md",
+    "词库/mend= 错误,瑕疵.md",
+    "Templates/T-frontmatter.md",
     "教材/一年级.md",
     "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
     "基础单词/A/accumulate.md",
     "词根词缀/ac-,ad-,af-,ag-,an-,ap-,ar-,as-,at-.md",
-    "基础单词/M/mend.md",
-    "词库/mend= 错误,瑕疵.md",
-    "基础单词/G/gallery.md",
-    "基础单词/E/etiquette.md",
-    "基础单词/C/conference.md",
-    "基础单词/C/coach.md"
+    "基础单词/M/mend.md"
   ]
 }

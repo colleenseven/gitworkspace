@@ -4,35 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "eee65b58cc68890a",
+        "id": "13b6ec00768bcc03",
         "type": "tabs",
         "children": [
           {
-            "id": "6486cd2544e262d4",
+            "id": "617d73e1d3c3db16",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/index_SQL题目.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4246841acd5c9b17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/index_SQL基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c3e39bc7fb3c2884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sql/595. 大的国家.md",
+                "file": "Sql题目/181. 超过经理收入的员工.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36f20f8d1e8f82b5",
+            "id": "69d41687464262e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sql/未命名.md",
+                "file": "Sql题目/181. 超过经理收入的员工.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "586267884cc54d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/177. 第N高的薪水.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fbdffdd43b27b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL基础知识/关于SQL-case when最全面的学习笔记 - 知乎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef152eb9ef05eb2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/177. 第N高的薪水.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ddbcc17788bfb88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/index_SQL题目.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -61,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "group by",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sql/未命名.md",
+                "file": "SQL基础知识/关于SQL-case when最全面的学习笔记 - 知乎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sql/未命名.md",
+                "file": "SQL基础知识/关于SQL-case when最全面的学习笔记 - 知乎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sql/未命名.md"
+                "file": "SQL基础知识/关于SQL-case when最全面的学习笔记 - 知乎.md"
               }
             }
           },
@@ -149,17 +228,41 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "bf0ca43dec78df35",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "228906d929ffb98d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6430133e14936bf5",
+  "active": "7fbdffdd43b27b29",
   "lastOpenFiles": [
-    "Sql/595. 大的国家.md",
-    "Templates/T-fontmatter.md"
+    "Sql题目/1308. 不同性别每日分数总计.md",
+    "Sql题目/1303. 求团队人数.md",
+    "Sql题目/596. 超过5名学生的课.md",
+    "Sql题目/511. 游戏玩法分析 I.md",
+    "Sql题目/182. 查找重复的电子邮箱.md",
+    "SQL基础知识/关于SQL-case when最全面的学习笔记 - 知乎.md",
+    "Home/177. 第N高的薪水.md",
+    "Home/jupyter.md",
+    "SQL基础知识/SQL SELECT DISTINCT 语句  菜鸟教程.md",
+    "Sql题目/176. 第二高的薪水.md"
   ]
 }

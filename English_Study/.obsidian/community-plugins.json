@@ -26,5 +26,7 @@
   "obsidian-emoji-toolbar",
   "text-snippets-obsidian",
   "obsidian-journey-plugin",
-  "obsidian-autocomplete-plugin"
+  "obsidian-autocomplete-plugin",
+  "obsidian-hover-editor",
+  "obsidian-language-learner"
 ]

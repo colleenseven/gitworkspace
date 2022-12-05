@@ -4,10 +4,16 @@
   "calendar",
   "templater-obsidian",
   "tag-wrangler",
-  "cm-editor-syntax-highlight-obsidian",
-  "code-block-copy",
   "find-unlinked-files",
   "obsidian-advanced-uri",
-  "obsidian-jupyter",
-  "better-word-count"
+  "better-word-count",
+  "highlightr-plugin",
+  "extract-highlights-plugin",
+  "cmdr",
+  "find-and-replace-in-selection",
+  "text-snippets-obsidian",
+  "various-complements",
+  "breadcrumbs",
+  "code-block-copy",
+  "obsidian-jupyter"
 ]

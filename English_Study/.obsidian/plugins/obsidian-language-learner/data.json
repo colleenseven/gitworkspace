@@ -1,0 +1,40 @@
+{
+  "use_server": false,
+  "port": 8086,
+  "self_server": false,
+  "self_port": 3002,
+  "native": "zh",
+  "foreign": "en",
+  "function_key": "ctrlKey",
+  "dictionaries": {
+    "youdao": {
+      "enable": true,
+      "priority": 1
+    },
+    "cambridge": {
+      "enable": false,
+      "priority": 2
+    },
+    "jukuu": {
+      "enable": true,
+      "priority": 3
+    },
+    "hjdict": {
+      "enable": false,
+      "priority": 4
+    }
+  },
+  "dict_height": "250px",
+  "db_name": "WordDB",
+  "word_database": "词库/LI_wordsdictionary",
+  "review_database": "词库/LI_wordsrecite",
+  "col_delimiter": ",",
+  "auto_refresh_db": true,
+  "default_paragraphs": "4",
+  "font_size": "15px",
+  "font_family": "\"Times New Roman\"",
+  "line_height": "1.8em",
+  "use_machine_trans": true,
+  "word_count": true,
+  "review_prons": "0"
+}
