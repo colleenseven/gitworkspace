@@ -33,13 +33,14 @@
   "obsidian-memos",
   "obsidian-annotator",
   "text-snippets-obsidian",
-  "obsidian-reading-time",
   "obsidian-read-it-later",
-  "obsidian-booknote-plugin",
   "review-obsidian",
   "obsidian-stopwatch-plugin",
   "obsidian-related-notes-finder",
   "txt-as-md-obsidian",
-  "extract-highlights-plugin",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "Enhanced-editing",
+  "editing-toolbar",
+  "cmdr",
+  "obsidian-excel-to-markdown-table"
 ]

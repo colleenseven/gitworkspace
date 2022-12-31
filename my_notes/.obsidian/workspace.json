@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "771d3a447382d309",
+        "id": "71575b7ff6635c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "78a8a14265c0f8d0",
+            "id": "596ac887139bc635",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/自我介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "74de2717209b917e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成长记录/暂存/《弟子规》全文和解释.md",
+                "file": "Interest/商业洞察/刘润/把组织，建在群聊里.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +36,12 @@
             }
           },
           {
-            "id": "3d2f8dc69adbd9de",
+            "id": "7af049b4f17639b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职面试/面试问题汇总.md",
+                "file": "Interest/商业洞察/刘润/收购一家公司，到底有哪些原因？.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,21 +49,50 @@
             }
           },
           {
-            "id": "48461a8c1cb6c1d8",
+            "id": "eea69e7b7c66acc0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281c0cb07ad13c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ed71f864e1488b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad253450b2885ff2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "2643a4c4d1110b42",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "求职面试/猿辅导-素养课业务梳理.svg"
-              }
             }
           }
         ],
@@ -66,7 +110,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "018e055554f588a9",
+            "id": "e480ced3d772d4cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diagra",
+                "query": "index_刘润",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -95,14 +139,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "62b341f805b5d652",
-            "type": "leaf",
-            "state": {
-              "type": "book-explorer-view",
               "state": {}
             }
           }
@@ -137,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职面试/猿辅导-素养课业务梳理.svg"
+                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md"
               }
             }
           },
@@ -171,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职面试/猿辅导-素养课业务梳理.svg",
+                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职面试/猿辅导-素养课业务梳理.svg",
+                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,20 +243,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
-  "active": "2643a4c4d1110b42",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-memos:Memos": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "eea69e7b7c66acc0",
   "lastOpenFiles": [
-    "Interest/商业洞察/刘润/刘润notes/N-拆解直播带货.md",
-    "成长记录/读书笔记/文化/朝代/唐诗复习卡.md",
-    "求职面试/策略运营-猿辅导.md",
-    "求职面试/猿辅导-素养课业务梳理.svg",
+    "Interest/商业洞察/刘润/收购一家公司，到底有哪些原因？.md",
+    "Interest/美团、微信、拼多多的比较——双边市场、规模效应及其他 写作此文是为了归纳整理自身杂乱的知识并查漏补缺，有来自不同来源的大段的引用，详见文末。关键词：双边市场、规模效应、双边网... - 雪球 1.md",
+    "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+    "Home/index_刘润.md",
+    "Interest/商业洞察/刘润/放开之后，我建议每个公司要恶补的一堂课.md",
+    "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
+    "Home/OB操作学习/打戏.md",
+    "求职面试/自我介绍.md",
     "求职面试/面试问题汇总.md",
-    "求职面试/面试岗位知识补充/发布调研的权威媒体.md",
-    "求职面试/N-海淀区市民热线座席服务外包招标文件.md",
-    "求职面试/N-海淀区市民热线座席服务外包项目.md",
-    "求职面试/归档/直播业务-问题发现运营专家.md",
-    "求职面试/归档/启明星辰信息技术集团股份有限公司-运营经理（网络安全）.md"
+    "求职面试/未命名.canvas"
   ]
 }

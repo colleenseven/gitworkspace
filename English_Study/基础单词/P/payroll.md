@@ -1,6 +1,6 @@
 ---
 # 由 Obsidian Dictionary Plugin 插件自动生成
-create_date: <%tp.file.creation_date() %>
+create_date: 2022-12-01 23:15 
 tags: CET4 CET6 GRE GMAT 商务英语
 status: 未阅读 
 aliases: payroll, payrolls, payrolled, payrolling

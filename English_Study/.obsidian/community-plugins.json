@@ -10,10 +10,8 @@
   "markdown-prettifier",
   "obsidian-copy-block-link",
   "find-unlinked-files",
-  "Enhanced-editing",
   "obsidian-annotator",
   "templater-obsidian",
-  "obsidian-auto-link-title",
   "search-on-internet",
   "find-and-replace-in-selection",
   "cmdr",
@@ -24,9 +22,6 @@
   "note-refactor-obsidian",
   "smart-random-note",
   "obsidian-emoji-toolbar",
-  "text-snippets-obsidian",
-  "obsidian-journey-plugin",
-  "obsidian-autocomplete-plugin",
-  "obsidian-hover-editor",
-  "obsidian-language-learner"
+  "obsidian-language-learner",
+  "text-snippets-obsidian"
 ]

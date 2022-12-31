@@ -105,24 +105,8 @@
       "key": "M"
     }
   ],
-  "templater-obsidian:Templates/T-三级标题.md": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "3"
-    }
-  ],
-  "templater-obsidian:Templates/T-四级标题.md": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "4"
-    }
-  ],
+  "templater-obsidian:Templates/T-三级标题.md": [],
+  "templater-obsidian:Templates/T-四级标题.md": [],
   "highlightr-plugin:Green": [
     {
       "modifiers": [
@@ -168,13 +152,137 @@
       "key": "P"
     }
   ],
-  "obsidian-reading-time:reading-time-editor-command": [
+  "obsidian-reading-time:reading-time-editor-command": [],
+  "Enhanced-editing:xiahua-format": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "T"
+      "key": "H"
+    }
+  ],
+  "Enhanced-editing:add-Line0": [],
+  "Enhanced-editing:add-lines": [],
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:biaoti0-text": [],
+  "Enhanced-editing:link-showname": [],
+  "Enhanced-editing:mouse-up": [],
+  "Enhanced-editing:mouse-down": [],
+  "Enhanced-editing:mouse-start": [],
+  "Enhanced-editing:mouse-end": [],
+  "Enhanced-editing:mouse-right": [],
+  "Enhanced-editing:mouse-left": [],
+  "Enhanced-editing:zhe-level2": [],
+  "Enhanced-editing:zhe-level6": [],
+  "Enhanced-editing:zhe-level3": [],
+  "Enhanced-editing:zhe-level4": [],
+  "Enhanced-editing:zhe-lines": [],
+  "Enhanced-editing:zhe-level5": [],
+  "Enhanced-editing:text-background1": [],
+  "Enhanced-editing:text-background2": [],
+  "Enhanced-editing:text-background3": [],
+  "Enhanced-editing:text-background4": [],
+  "Enhanced-editing:text-background5": [],
+  "Enhanced-editing:text-Color1": [],
+  "Enhanced-editing:text-Color2": [],
+  "Enhanced-editing:text-Color3": [],
+  "Enhanced-editing:text-Color4": [],
+  "Enhanced-editing:text-Color5": [],
+  "Enhanced-editing:common-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "Enhanced-editing:leftWin-Up": [],
+  "Enhanced-editing:leftWin-Down": [],
+  "Enhanced-editing:biaoti1-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "Enhanced-editing:biaoti2-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "Enhanced-editing:biaoti3-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "Enhanced-editing:biaoti4-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "Enhanced-editing:biaoti5-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "Enhanced-editing:biaoti6-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "convert-url-to-iframe:url-to-iframe": [],
+  "extract-highlights-plugin:shortcut-extract-highlights": [],
+  "extract-highlights-plugin:shortcut-highlight-sentence": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "obsidian-related-notes-finder:show-possible-links": [],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "Enhanced-editing:xiahua-text": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "H"
     }
   ]
 }

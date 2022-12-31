@@ -8,69 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dec31a3e11eb407b",
+            "id": "7998848a4b10fad7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/CET4/2013年6月大学英语四级考试真题(第1套).md",
-                "mode": "preview",
+                "file": "home/index_词根词缀.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "5d715e4e7d94f371",
+            "id": "2ba619313d320caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词根词缀/词根词缀二.md",
+                "file": "教材/高一/新人教版版第二册 Unit 1 P4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94eb0fa249289e13",
+            "id": "e73645cbeed640ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词库/四级词汇.md",
+                "file": "基础单词/aesthetics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c055e500c6a2ff6",
+            "id": "124f6f0e23bcbe62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词库/Ll_wordsdictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b24c2a9c5c4a11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
+                "file": "教材/二年级.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
+                "file": "home/index_词根词缀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/高考/2022年全国甲卷英语高考真题.md",
+                "file": "home/index_词根词缀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/高考/2022年全国甲卷英语高考真题.md"
+                "file": "home/index_词根词缀.md"
               }
             }
           },
@@ -222,23 +209,42 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9b24c2a9c5c4a11d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:复习卡片": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false
+    }
+  },
+  "active": "ce9af06df4e6577e",
   "lastOpenFiles": [
-    "词库/LI_wordsrecite.md",
-    "词库/Ll_wordsdictionary.md",
-    "词库/四级词汇.md",
-    "词库/mend= 错误,瑕疵.md",
-    "Templates/T-frontmatter.md",
     "教材/一年级.md",
-    "影视/good luck charlie S1/Good Luck Charlie S1 Episode 1 Study Date.md",
-    "基础单词/A/accumulate.md",
-    "词根词缀/ac-,ad-,af-,ag-,an-,ap-,ar-,as-,at-.md",
-    "基础单词/M/mend.md"
+    "Net/CGW/AOBOUT.md",
+    "Net/GEO-GRAPHICAL ARTWORKS.md",
+    "基础单词/loosely.md",
+    "基础单词/ecology.md",
+    "基础单词/portray.md",
+    "基础单词/aesthetics.md",
+    "基础单词/convention.md",
+    "基础单词/prescriptive.md",
+    "基础单词/conform.md"
   ]
 }

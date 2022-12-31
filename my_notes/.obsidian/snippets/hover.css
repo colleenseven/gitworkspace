@@ -1,0 +1,41 @@
+/* Cloze and Hover in Source Mode */
+
+span.cm-em.cm-formatting.cm-formatting-em {
+  display: none;
+}
+
+.hoverText em, span.cm-em {
+  color: transparent;
+  background-color: transparent;
+  border-bottom: 1px solid #000000;
+  font-style: normal;
+}
+
+.hoverText em:hover, span.cm-em:hover {
+  color: #000000;
+}
+
+/* Cloze and Hover in preview Mode */
+
+.markdown-preview-view em{
+  color: transparent;
+   background-color: transparent;
+   border-bottom: 1px solid #000000;
+   font-style: normal;
+ }
+ .markdown-preview-view em:hover{
+ color: #000000;
+ }
+
+/* Cloze and Hover in Preview Print Mode */
+
+@media print {
+
+  em {
+    color: transparent;
+    background-color: transparent;
+    border-bottom: 1px solid #000000;
+    font-style: normal;
+  }
+
+}

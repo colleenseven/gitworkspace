@@ -69,6 +69,6 @@
   "capitalizedFileName": false,
   "prefix": "",
   "suffix": "",
-  "template": "---\n# {{notice}}\ncreate_date: <%tp.file.creation_date() %>\ntags: null\nstatus: 未阅读 \naliases: {{word}}\nnotes: False\nZK: \ncategory: \nuid: \n---\n\n# {{word}}\n\n## {{pronunciationHeader}}\n\n{{phoneticList}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n\n",
+  "template": "---\n# {{notice}}\ncreate_date: <%tp.file.creation_date() %>\ntags: null\nstatus: 未阅读 \naliases: {{word}}\nnotes: False\nZK: \ncategory: \nuid: \nlangr: xxx\n---\n#flashcards/words\n\n# {{word}}\n\n## {{pronunciationHeader}}\n\n{{phoneticList}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n\n",
   "languageSpecificSubFolders": false
 }

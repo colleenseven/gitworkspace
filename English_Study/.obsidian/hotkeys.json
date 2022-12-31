@@ -50,8 +50,17 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "A"
+      "key": "Q"
     }
   ],
-  "templater-obsidian:jump-to-next-cursor-location": []
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "obsidian-auto-link-title:auto-link-title-paste": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ]
 }
