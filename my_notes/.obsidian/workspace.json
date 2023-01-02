@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71575b7ff6635c6a",
+        "id": "7b0bf0f5e2f29ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "596ac887139bc635",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/自我介绍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "74de2717209b917e",
+            "id": "67b32e366341975d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+                "file": "求职面试/归档/中国人寿保险股份公司北京市分公司西城后广平营销服务部.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,12 +21,12 @@
             }
           },
           {
-            "id": "7af049b4f17639b9",
+            "id": "9aa62c059098a685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/商业洞察/刘润/收购一家公司，到底有哪些原因？.md",
+                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,12 +34,12 @@
             }
           },
           {
-            "id": "eea69e7b7c66acc0",
+            "id": "395905a1867cdfae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
+                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,12 +47,12 @@
             }
           },
           {
-            "id": "281c0cb07ad13c69",
+            "id": "8be08474f6c64a5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
+                "file": "求职面试/归档/丰贺信息-产品运营经理（bp方向）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,12 +60,12 @@
             }
           },
           {
-            "id": "b0ed71f864e1488b",
+            "id": "fb9b86e2f95789d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+                "file": "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,15 +73,98 @@
             }
           },
           {
-            "id": "ad253450b2885ff2",
+            "id": "4601543c8ff478cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/中信保诚-高级运营主管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b90def332ae7439f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d47a79661391f8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/京北方-业务主管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b682e6377da508a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/滴滴-B端用户运营.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef2979b07bbd2956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/字节-综合行业运营-品类策略运营.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18f5fa860f4d1331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/京北方-业务主管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b3f3b7e65cab7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职面试/归档/希望学-社群策略运营.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -173,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md"
+                "file": "求职面试/归档/希望学-社群策略运营.md"
               }
             }
           },
@@ -207,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
+                "file": "求职面试/归档/希望学-社群策略运营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interest/商业洞察/刘润/刘润：金融，就是早上一碗热气腾腾的面.md",
+                "file": "求职面试/归档/希望学-社群策略运营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,17 +328,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "eea69e7b7c66acc0",
+  "active": "4b3f3b7e65cab7ef",
   "lastOpenFiles": [
-    "Interest/商业洞察/刘润/收购一家公司，到底有哪些原因？.md",
-    "Interest/美团、微信、拼多多的比较——双边市场、规模效应及其他 写作此文是为了归纳整理自身杂乱的知识并查漏补缺，有来自不同来源的大段的引用，详见文末。关键词：双边市场、规模效应、双边网... - 雪球 1.md",
-    "Interest/商业洞察/刘润/把组织，建在群聊里.md",
-    "Home/index_刘润.md",
-    "Interest/商业洞察/刘润/放开之后，我建议每个公司要恶补的一堂课.md",
-    "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
-    "Home/OB操作学习/打戏.md",
-    "求职面试/自我介绍.md",
-    "求职面试/面试问题汇总.md",
-    "求职面试/未命名.canvas"
+    "求职面试/归档/京北方-业务主管.md",
+    "求职面试/归档/中服信控股(北京)有限公司-运营主管.md",
+    "求职面试/归档/字节-综合行业运营-品类策略运营.md",
+    "求职面试/归档/滴滴-B端用户运营.md",
+    "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
+    "求职面试/归档/字节-服务商平台产品运营-生活服务职位.md",
+    "求职面试/归档/中信保诚-高级运营主管.md",
+    "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
+    "求职面试/归档/丰贺信息-产品运营经理（bp方向）.md",
+    "求职面试/归档/北京金企鹅文化发展有限公司-网站运营经理.md"
   ]
 }
