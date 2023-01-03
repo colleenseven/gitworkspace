@@ -4,167 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0bf0f5e2f29ae8",
+        "id": "1be2e6c19aed4f62",
         "type": "tabs",
         "children": [
           {
-            "id": "67b32e366341975d",
+            "id": "6d62e05b8be0339b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/中国人寿保险股份公司北京市分公司西城后广平营销服务部.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa62c059098a685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395905a1867cdfae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be08474f6c64a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/丰贺信息-产品运营经理（bp方向）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb9b86e2f95789d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4601543c8ff478cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/中信保诚-高级运营主管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b90def332ae7439f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47a79661391f8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/京北方-业务主管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b682e6377da508a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/滴滴-B端用户运营.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef2979b07bbd2956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/字节-综合行业运营-品类策略运营.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f5fa860f4d1331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/京北方-业务主管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b3f3b7e65cab7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职面试/归档/希望学-社群策略运营.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "求职面试/归档/希望学-社群策略运营.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职面试/归档/希望学-社群策略运营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职面试/归档/希望学-社群策略运营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -328,17 +175,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4b3f3b7e65cab7ef",
+  "active": "6d62e05b8be0339b",
   "lastOpenFiles": [
+    "Interest/商业洞察/刘润/Power BI如何统计文本中字符出现的次数？.md",
+    "求职面试/归档/中国人寿保险股份公司北京市分公司西城后广平营销服务部.md",
+    "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
+    "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
+    "求职面试/归档/希望学-社群策略运营.md",
     "求职面试/归档/京北方-业务主管.md",
     "求职面试/归档/中服信控股(北京)有限公司-运营主管.md",
     "求职面试/归档/字节-综合行业运营-品类策略运营.md",
     "求职面试/归档/滴滴-B端用户运营.md",
-    "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-    "求职面试/归档/字节-服务商平台产品运营-生活服务职位.md",
-    "求职面试/归档/中信保诚-高级运营主管.md",
-    "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
-    "求职面试/归档/丰贺信息-产品运营经理（bp方向）.md",
-    "求职面试/归档/北京金企鹅文化发展有限公司-网站运营经理.md"
+    "求职面试/归档/字节-服务商平台产品运营-生活服务职位.md"
   ]
 }

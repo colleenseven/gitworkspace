@@ -154,6 +154,14 @@ from "PowerBI/PowerBi星球"
 where contains(create_date, "2022-11")
 sort create_date DESC 
 ```
+#### 202212文章汇总 
+
+```dataview
+table status,category,create_date,tags,ZK,DAX,notes
+from "PowerBI/PowerBi星球"
+where contains(create_date, "2022-12")
+sort create_date DESC 
+```
 
 ### 2021文件汇总
 

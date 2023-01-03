@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/index_词根词缀.md",
+                "file": "基础单词/aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/index_词根词缀.md",
+                "file": "基础单词/aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/index_词根词缀.md"
+                "file": "基础单词/aesthetics.md"
               }
             }
           },
@@ -234,8 +234,9 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "ce9af06df4e6577e",
+  "active": "e73645cbeed640ac",
   "lastOpenFiles": [
+    "home/index_词根词缀.md",
     "教材/一年级.md",
     "Net/CGW/AOBOUT.md",
     "Net/GEO-GRAPHICAL ARTWORKS.md",
@@ -244,7 +245,6 @@
     "基础单词/portray.md",
     "基础单词/aesthetics.md",
     "基础单词/convention.md",
-    "基础单词/prescriptive.md",
-    "基础单词/conform.md"
+    "基础单词/prescriptive.md"
   ]
 }

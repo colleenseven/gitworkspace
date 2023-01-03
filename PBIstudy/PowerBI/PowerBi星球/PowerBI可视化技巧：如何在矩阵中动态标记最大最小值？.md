@@ -1,16 +1,18 @@
 ---
 ZK: Origin
-notes: Fa'l'se
+notes: True
 aliases: null
 create_date: 2022-01-26T12:29:05 (UTC +08:00)
 tags: 
 pagetitle: PowerBI可视化技巧：如何在矩阵中动态标记最大最小值？
 source: https://mp.weixin.qq.com/s/xJQ302Dw95VS7N9BvjqRPQ
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 uid: 
 ---
+
+DAX:: CALCULATETABLE, VALUES , ALLSELECTED ,SWITCH ,MAXX,MINX
 
 遇到星友的提问，如何在矩阵中动态标记出哪个数据是最大值、哪个是最小值呢？  
 
@@ -44,7 +46,7 @@ uid:
 > 
 > )
 
-这个度量值的主要逻辑是，先利用变量构造出每个产品的虚拟表，并对这个虚拟表，计算出其对应的收入的最大值和最小值；并判断当前单元格的收入，如果等于最大值返回绿色，如果等于最小值，返回红色。
+这个度量值的主要逻辑是，<mark style="background: #ADCCFFA6;">先利用变量构造出每个产品的虚拟表，并对这个虚拟表，计算出其对应的收入的最大值</mark><mark style="background: #ADCCFFA6;">和最小值</mark>；并判断当前单元格的收入，如果等于最大值返回绿色，如果等于最小值，返回红色。
 
 打开矩阵的格式面板，在“单元格元素”中（之前的版本是条件格式），打开“背景色”，点击fx按钮：
 
@@ -56,7 +58,7 @@ uid:
 
 这样清晰标记出了每一列的最大值和最小值，通过颜色就可以直观看出，每个月贡献收入最高的大都是VR眼镜，而数据线的收入贡献一直都是最低的。  
 
-并且上面的度量值中，VAR定义的虚拟表t，用了ALLSELECTED，返回的产品名称列表就是动态的，计算出的最大最小标记也是动态的，比如放置个产品类别切片器，选择“手机配件”，矩阵只显示属于手机配件的产品收入，最大最小标记也在这个范围内进行每列标记：  
+并且上面的度量值中，VAR定义的虚拟表t，<mark style="background: #ADCCFFA6;">用了ALLSELECTED，返回的产品名称列表就是动态的，计算出的最大最小标记也是动态的</mark>，比如放置个产品类别切片器，选择“手机配件”，矩阵只显示属于手机配件的产品收入，最大最小标记也在这个范围内进行每列标记：  
 
 手机配件中，收入贡献最高的产品位置被充电宝和耳机占据。
 
@@ -113,15 +115,3 @@ uid:
 单月收入贡献最高的是2021年11月VR眼镜、最低的是2021年3月数据线。  
 
 以上就是对矩阵的最大最小值不同的标记方式，关键是根据需要，针对矩阵每一行、每一列以及全部数据的逻辑，构造出对应的虚拟表，并对这个表计算最大值和最小值，如果单元格的收入等于最大值或者最小值，利用矩阵的背景色字段值规则，标记相应的颜色。
-
-[**PowerBI星球的最新版****内容合辑****，值得你收藏学习：**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN8YOicNXzCaSLpQrKXOL0LsNeYw0fj3iaGFy7XSwwmibHicdtiaHEbhgmHSPXQlkg3WiaVA4hJ8PGDcdEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**  
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMFLnwgdbghRHPLicKRaV70mVCZVq8Fhm46rkciaeOrLFJCv5f1omJxF8256YogHflkicEDM29aUMtaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。
