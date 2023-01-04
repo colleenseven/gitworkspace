@@ -66,8 +66,8 @@
     "ALLSELECTED": {
       "ALLSELECTED": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672759074769
+          "count": 3,
+          "lastUpdated": 1672847311878
         }
       }
     },
@@ -90,8 +90,8 @@
     "SELECTEDVALUE": {
       "SELECTEDVALUE": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672761495022
+          "count": 5,
+          "lastUpdated": 1672847784333
         }
       }
     },
@@ -106,16 +106,24 @@
     "CALCULATE": {
       "CALCULATE": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672761507006
+          "count": 3,
+          "lastUpdated": 1672847755118
         }
       }
     },
     "TREATAS": {
       "TREATAS": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672761509448
+          "count": 2,
+          "lastUpdated": 1672847812663
+        }
+      }
+    },
+    "FILTER": {
+      "FILTER": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672847760987
         }
       }
     }

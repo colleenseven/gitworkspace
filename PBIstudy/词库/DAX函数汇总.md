@@ -67,7 +67,7 @@ EARLIER	迭代前一个日期
 IN	逻辑运算属于
 SAMEPERIODLASTYEAR	去年同期
 AND	逻辑运算和
-
+PREVIOUSDAY	前一日
 
 
 

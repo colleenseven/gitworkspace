@@ -6,11 +6,13 @@ aliases: null
 pagetitle: Power BI分析技巧：动态展示最近N个工作日
 source: https://mp.weixin.qq.com/s/B0xbNFoiwejqXYJubwEL0A
 author: 采悟
-status: 未阅读
-category: 
-notes: False
+status: 已完成
+category: 精读文章
+notes: True
 uid: 
 ---
+
+DAX:: CALCULATE ,MAX,FILTER ,ALL,SELECTEDVALUE ,IF,TREATAS ,VALUES
 
 本文源于一个星友的提问，如何在报告中展示最近7个工作日的数据？这个问题不难，其实更进一步的需求是，如何根据用户选择，动态的展示某个日期的最近N个工作日的数据呢？
 
@@ -26,20 +28,20 @@ uid:
 
 **2、复制一个日期表**
 
-这种动态需求，为了避免切片器与图表直接发生筛选作用，需要有一个独立的日期表，可以直接新建表='日期表'，就可以轻松复制出一个相同的日期表。
-
+这种<mark style="background: #ADCCFFA6;">动态需求，为了避免切片器与图表直接发生筛选作用，需要有一个独立的日期表，可以直接新建表='日期表'，就可以轻松复制出一个相同的日期表。</mark>
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMalyBYDdQeHcOnU56EtTUUdLD6xeScG3D5r2aafd5xljhez4hfkUkUVKpNov3AhlRrPo0fKLibiazQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMalyBYDdQeHcOnU56EtTUUdLD6xeScG3D5r2aafd5xljhez4hfkUkUVKpNov3AhlRrPo0fKLibiazQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 这个日期表无需与模型中的其他表建立关系，所以称之为独立日期表。
 
 **3、新建参数**
-
+在报告中新建一个参数，来动态的切换N天，方法参考：[创建PowerBI「参数」轻松搞定动态分析](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067672&idx=1&sn=1a141b81b4e20f83cabf410164f55974&chksm=8e0c778fb97bfe9904d988eb9972b26436c260e575d008d1414076b86df997fee74dc559ec73&scene=21#wechat_redirect)
 **4、新建度量值**
 
 在建度量值之前，首先应该想清楚，如何进行动态的展现，利用哪些元素来实现我们的需求？
 
-可以用日期表的日期生成切片器，切片器所选作为锚定的日期，动态显示距离该日期最近的N个工作日的数据；用独立日期表的日期来制作图表，比如用柱形图展示，就用独立日期表中的日期作为x轴字段，这样可以避免日期切片器直接筛选柱形图。  
+可以用<mark style="background: #ADCCFFA6;">日期表的日期生成切片器，切片器所选作为锚定的日期，动态显示距离该日期最近的N个工作日的数据；用独立日期表的日期来制作图表，比如用柱形图展示，就用独立日期表中的日期作为x轴字段，这样可以避免日期切片器直接筛选柱形图</mark>。  
 
 有了这个思路，就可以写度量值来计算最近N个工作日的每个日期的数据：
-
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMalyBYDdQeHcOnU56EtTUUt7picTuFTpcdE7z8GODSic87MywsMGUiaCvpkrVHs0blveTIPia1SwgwWw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMalyBYDdQeHcOnU56EtTUUt7picTuFTpcdE7z8GODSic87MywsMGUiaCvpkrVHs0blveTIPia1SwgwWw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 这个度量值看着长，实际上是因为我写了详细的注释，你可以根据注释来理解它的逻辑，其中的关键，依然是日期表中添加的工作日字段。  
 
 把这个度量值放到柱形图中，就可以实现最终的效果：
@@ -49,15 +51,3 @@ uid:
 仔细观察X轴，就会发现，柱形图自动跳过了节假日，显示的都是工作日的数据。
 
 如果你也有类似的需求，可以参考以上的做法。  
-
-___
-
-**PowerBI星球学习社群**  
-
-**双11限时优惠活动进行中**
-
-双11期间加入立减50，以后不再有的低价，仅限前299名，扫码抢先加入~
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPqMkIyUw4C2I47MgpY2Xy5vECkEIFgA1UK0GpDT8BySjzpfZP1sd5ev5amb6IsE0YVXia8NUHdR0Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-↑ 扫码加入，和4k 学习者一起成长

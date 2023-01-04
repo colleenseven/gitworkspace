@@ -11,8 +11,13 @@
             "id": "6d62e05b8be0339b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/OB操作学习/if_mytexttools.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/OB操作学习/if_mytexttools.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/OB操作学习/if_mytexttools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/OB操作学习/if_mytexttools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
