@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b037f33736fa053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,21 +194,20 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-memos:Memos": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "6d62e05b8be0339b",
+  "active": "59f2efa47b98dfba",
   "lastOpenFiles": [
+    "Interest/知乎/关键词汇总/置身事内.md",
+    "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
+    "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+    "Home/index_刘润.md",
+    "Interest/商业洞察/刘润/品牌增长的逻辑，变了.md",
+    "求职面试/美团打车-品类增长运营.md",
     "Interest/商业洞察/刘润/Power BI如何统计文本中字符出现的次数？.md",
     "求职面试/归档/中国人寿保险股份公司北京市分公司西城后广平营销服务部.md",
     "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-    "求职面试/归档/美团-SG闪购-商家运营（北京）.md",
-    "求职面试/归档/希望学-社群策略运营.md",
-    "求职面试/归档/京北方-业务主管.md",
-    "求职面试/归档/中服信控股(北京)有限公司-运营主管.md",
-    "求职面试/归档/字节-综合行业运营-品类策略运营.md",
-    "求职面试/归档/滴滴-B端用户运营.md",
-    "求职面试/归档/字节-服务商平台产品运营-生活服务职位.md"
+    "求职面试/归档/美团-SG闪购-商家运营（北京）.md"
   ]
 }

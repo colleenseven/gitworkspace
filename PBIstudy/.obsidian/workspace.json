@@ -14,11 +14,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/index_Powerbi.md",
+                "file": "home/index_Powerbi星球.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "315841333305ee43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91124fc2f3a0b59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/index_Powerbi星球.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29e84b691477a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerBI/PowerBi星球/PowerBI如何进行工作日的滚动计算？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -71,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 207.5,
+    "collapsed": true
   },
   "right": {
     "id": "2961c401d02d43a7",
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/index_Powerbi.md",
+                "file": "home/index_Powerbi星球.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/index_Powerbi.md",
+                "file": "home/index_Powerbi星球.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/index_Powerbi.md"
+                "file": "home/index_Powerbi星球.md"
               }
             }
           },
@@ -156,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +210,15 @@
   },
   "active": "11e19484852ab00b",
   "lastOpenFiles": [
-    "PowerBI/PowerBi星球/Power BI分析技巧：动态展示最近N个工作日.md",
+    "home/笔记.md",
+    "home/index_Powerbi星球.md",
+    "PowerBI/PowerBi星球/PowerBI如何进行工作日的滚动计算？.md",
     "词库/DAX函数汇总.md",
-    "home/index_Powerbi.md",
+    "home/Powerbi账号概述.md",
+    "home/未命名.md",
+    "Templates/T-frontmatter.md",
+    "PowerBI/PowerBi星球/Power BI分析技巧：动态展示最近N个工作日.md",
     "PowerBI/PowerBi星球/利用PowerBI将累计数据还原当日发生数据，三种方法送给你.md",
-    "PowerBI/PowerBi星球/如何用Power BI计算员工在职天数？.md",
-    "PowerBI/PowerBi星球/如何在Power BI折线图中添加平均线？.md",
-    "PowerBI/PowerBi星球/Power BI如何统计文本中字符出现的次数？.md",
-    "PowerBI/PowerBi星球/通过一个案例，学习PowerQuery性能提升技巧.md",
-    "PowerBI/PowerBi星球/Power BI如何展示本地图片？原来这么简单.md",
-    "PowerBI/PowerBi星球/如何用Power BI制作四象限图？.md"
+    "PowerBI/PowerBi星球/如何用Power BI计算员工在职天数？.md"
   ]
 }
