@@ -6,11 +6,13 @@ tags: 汇总/全局
 status: 状态为空
 uid: 
 ---
+
+
 #### 未完成歌曲汇总
 
 ```dataview
 table status,create_date,singer,tags,notes
-from "歌曲/原曲"
+from "Interest/歌曲/原曲"
 where status != "状态为空" and status != "已完成" 
 sort create_date DESC 
 ```
@@ -19,7 +21,7 @@ sort create_date DESC
 
 ```dataview
 table status,create_date,singer,tags, file.folder, notes
-from "歌曲/原曲"
+from "Interest/歌曲/原曲"
 where status = "已完成"
 sort create_date DESC 
 ```

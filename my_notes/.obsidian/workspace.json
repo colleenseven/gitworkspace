@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d62e05b8be0339b",
+            "id": "6b037f33736fa053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
-                "mode": "preview",
+                "file": "Interest/歌曲/原曲/琵琶行.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "6b037f33736fa053",
+            "id": "d4ac870870e8062d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
+                "file": "Interest/歌曲/原曲/清明上河图.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index_刘润",
+                "query": "tag:#歌曲/古风/诗歌",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md"
+                "file": "Interest/歌曲/原曲/清明上河图.md"
               }
             }
           },
@@ -132,20 +132,12 @@
             }
           },
           {
-            "id": "c7cffe924227736d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
             "id": "6198617ba7b7e2c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
+                "file": "Interest/歌曲/原曲/清明上河图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,22 +154,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
+                "file": "Interest/歌曲/原曲/清明上河图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "04b73c485ce04110",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,17 +180,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59f2efa47b98dfba",
+  "active": "d4ac870870e8062d",
   "lastOpenFiles": [
-    "Interest/知乎/关键词汇总/置身事内.md",
+    "Interest/歌曲/原曲/琵琶行.md",
     "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
-    "Interest/商业洞察/刘润/把组织，建在群聊里.md",
-    "Home/index_刘润.md",
-    "Interest/商业洞察/刘润/品牌增长的逻辑，变了.md",
-    "求职面试/美团打车-品类增长运营.md",
-    "Interest/商业洞察/刘润/Power BI如何统计文本中字符出现的次数？.md",
-    "求职面试/归档/中国人寿保险股份公司北京市分公司西城后广平营销服务部.md",
-    "求职面试/归档/北大方正人寿保险有限公司-优秀管理职.md",
-    "求职面试/归档/美团-SG闪购-商家运营（北京）.md"
+    "Interest/歌曲/原曲/湖光水色调.md",
+    "Interest/歌曲/原曲/清平乐·别来春半.md",
+    "Interest/歌曲/原曲/虞兮叹.md",
+    "Interest/歌曲/原曲/声声慢.md",
+    "Interest/歌曲/原曲/如梦令.md",
+    "Interest/歌曲/原曲/泊秦淮.md",
+    "Interest/歌曲/原曲/锦瑟.md",
+    "Interest/歌曲/原曲/谪仙.md"
   ]
 }
