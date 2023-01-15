@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "RFM模型是通过一个客户的近期购买行为、购买的总体频率以及花了多少钱3个维度来描述该客户价值状况的客户分类模型，这3个维度分别表示为：": {
-      "RFM模型是通过一个客户的近期购买行为、购买的总体频率以及花了多少钱3个维度来描述该客户价值状况的客户分类模型，这3个维度分别表示为：": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671027377516
-        }
-      }
-    },
-    "帕累托分析依据的原理是": {
-      "帕累托分析依据的原理是": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671027414053
-        }
-      }
-    },
     "对业务的价值": {
       "对业务的价值": {
         "currentFile": {
@@ -154,8 +138,8 @@
     "歌曲/古风/诗歌": {
       "歌曲/古风/诗歌": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1673794762309
+          "count": 11,
+          "lastUpdated": 1673796537170
         }
       }
     }

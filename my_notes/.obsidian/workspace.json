@@ -26,7 +26,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/歌曲/原曲/清明上河图.md",
+                "file": "Interest/歌曲/原曲/初见雪.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9da33ab1ceb7f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/歌曲/原曲/枉凝眉.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a34570cc42e568a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/歌曲/原曲/菩萨蛮.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de8e73d66f5b6412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/歌曲/原曲/别亦难.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5ce6e6b40d8cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/歌曲/原曲/滚滚长江东逝水.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c1d94d6a27368b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/歌曲/原曲/如梦令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -80,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interest/歌曲/原曲/清明上河图.md"
+                "file": "Interest/歌曲/原曲/如梦令.md"
               }
             }
           },
@@ -137,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interest/歌曲/原曲/清明上河图.md",
+                "file": "Interest/歌曲/原曲/如梦令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,10 +220,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interest/歌曲/原曲/清明上河图.md",
+                "file": "Interest/歌曲/原曲/如梦令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "3bfe9aa0e6f440be",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
+              "state": {}
             }
           }
         ]
@@ -180,17 +254,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d4ac870870e8062d",
+  "active": "0c1d94d6a27368b9",
   "lastOpenFiles": [
+    "Interest/歌曲/原曲/知否知否.md",
+    "Interest/歌曲/原曲/滚滚长江东逝水.md",
+    "Interest/歌曲/原曲/别亦难.md",
+    "Interest/歌曲/原曲/菩萨蛮.md",
+    "Interest/歌曲/原曲/枉凝眉.md",
+    "Interest/歌曲/原曲/初见雪.md",
+    "Interest/歌曲/原曲/清明上河图.md",
     "Interest/歌曲/原曲/琵琶行.md",
     "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
-    "Interest/歌曲/原曲/湖光水色调.md",
-    "Interest/歌曲/原曲/清平乐·别来春半.md",
-    "Interest/歌曲/原曲/虞兮叹.md",
-    "Interest/歌曲/原曲/声声慢.md",
-    "Interest/歌曲/原曲/如梦令.md",
-    "Interest/歌曲/原曲/泊秦淮.md",
-    "Interest/歌曲/原曲/锦瑟.md",
-    "Interest/歌曲/原曲/谪仙.md"
+    "Interest/歌曲/原曲/湖光水色调.md"
   ]
 }
