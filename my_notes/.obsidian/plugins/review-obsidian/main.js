@@ -399,6 +399,7 @@ async function createDailyNote(date) {
         return createdFile;
     }
     catch (err) {
+        alert(normalizedPath)
         console.error(`Failed to create file: '${normalizedPath}'`, err);
         new obsidian__default["default"].Notice("Unable to create new file.");
     }

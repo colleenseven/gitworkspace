@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-29T00:07:59 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI模拟大厂图表总结贴-2022版
 source: https://mp.weixin.qq.com/s/QPP5oEE4GwSPlDzKRHlBvg
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -179,9 +179,3 @@ ___
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6R2qHRRkS7iaEOFbkicreBHoO6gpWta7foJSxzS3wEIdpkGHOEaDPfT6Hc1Gc5603GiahJZzGhdhQ7Rg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 _源文件https://t.zsxq.com/095RG3WxH_
-
-___
-
-星球将在2023年1月1日涨价，有兴趣的读者不要错过。详细介绍：[Power BI业务实战及图表开发社群&视频课程](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

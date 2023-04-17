@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1be2e6c19aed4f62",
+        "id": "9665ea572b8f2e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "6b037f33736fa053",
+            "id": "5e9ba3c5cbc810e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/歌曲/原曲/琵琶行.md",
+                "file": "Home/OB操作学习/OB插件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,85 +21,20 @@
             }
           },
           {
-            "id": "d4ac870870e8062d",
+            "id": "c5144e67bdbac9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interest/歌曲/原曲/初见雪.md",
+                "file": "Home/OB操作学习/if_mytexttools.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9da33ab1ceb7f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest/歌曲/原曲/枉凝眉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a34570cc42e568a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest/歌曲/原曲/菩萨蛮.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de8e73d66f5b6412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest/歌曲/原曲/别亦难.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c5ce6e6b40d8cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest/歌曲/原曲/滚滚长江东逝水.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c1d94d6a27368b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interest/歌曲/原曲/如梦令.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#歌曲/古风/诗歌",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -145,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interest/歌曲/原曲/如梦令.md"
+                "file": "Home/OB操作学习/if_mytexttools.md"
               }
             }
           },
@@ -203,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interest/歌曲/原曲/如梦令.md",
+                "file": "Home/OB操作学习/if_mytexttools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interest/歌曲/原曲/如梦令.md",
+                "file": "Home/OB操作学习/if_mytexttools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,6 +167,14 @@
               "type": "online.tokuhirom.obsidian-stopwatch-plugin",
               "state": {}
             }
+          },
+          {
+            "id": "f82d7879e3f91c65",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -242,11 +184,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -254,17 +196,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0c1d94d6a27368b9",
+  "active": "c5144e67bdbac9bb",
   "lastOpenFiles": [
-    "Interest/歌曲/原曲/知否知否.md",
-    "Interest/歌曲/原曲/滚滚长江东逝水.md",
-    "Interest/歌曲/原曲/别亦难.md",
-    "Interest/歌曲/原曲/菩萨蛮.md",
-    "Interest/歌曲/原曲/枉凝眉.md",
-    "Interest/歌曲/原曲/初见雪.md",
-    "Interest/歌曲/原曲/清明上河图.md",
+    "Home/OB操作学习/简睿学堂.md",
+    "Home/OB操作学习/OB插件.md",
+    "Home/OB操作学习/if_mytexttools.md",
+    "Home/插件语法汇总.md",
+    "Home/阅读计划汇总.md",
+    "Home/笔记概述.md",
+    "DailyNote/日记/2023-02-14-日记.md",
+    "DailyNote/日记/Untitled Diagram.svg",
     "Interest/歌曲/原曲/琵琶行.md",
-    "Interest/知乎/人生感悟/表达能力不好，一说话脑子空白，是因为词汇量少还是不够自信？.md",
-    "Interest/歌曲/原曲/湖光水色调.md"
+    "Interest/歌曲/原曲/初见雪.md"
   ]
 }

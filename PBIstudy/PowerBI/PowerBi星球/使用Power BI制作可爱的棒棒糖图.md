@@ -1,14 +1,14 @@
 ---
 ZK: Origin
-notes: Fa'l'se
+notes: False
 aliases: null
 create_date: 2022-01-23T12:29:39 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 pagetitle: 使用Power BI制作可爱的棒棒糖图
 source: https://mp.weixin.qq.com/s/zDwcIjcDzkAFzekwSxosdg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 uid: 
 ---
 
@@ -50,7 +50,7 @@ uid:
 
 **4、利用Charticulator制作**
 
-Charticulator是非常强大的无代码图表设计工具，可以直接在PowerBI中使用，对于棒棒糖图，有现成的模板，可以在官网下载：https://charticulator.com/templates.html
+==Charticulator是非常强大的无代码图表设计工具，可以直接在PowerBI中使用==，对于棒棒糖图，有现成的模板，可以在官网下载：https://charticulator.com/templates.html
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aHEbZtANQJMHdfFMzopM2xoABVqaD8YuQlesAColJJ5kBoAta3TtrK5m7mKwFcCgHOaXvDyZC2Zia9dg2QibNNhw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -70,16 +70,4 @@ Charticulator是非常强大的无代码图表设计工具，可以直接在Powe
 
 这种方式也非常灵活，利用DAX就可以制作出各种效果，包括棒棒糖图，如果感兴趣可以参考武俊敏老师的文章：[使用公式花式制作条形图](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247487240&idx=1&sn=b4e076eb10214fe2e05dc99734b0c101&chksm=97db3658a0acbf4e51e6beac9664a76c3929a02e001e351f4fd787ba15ca8ba482e7ee1771fd&scene=21#wechat_redirect)
 
-上面就是PowerBI中制作棒棒糖图的几种方式，其灵活度、难易程度各不相同，如果你的报告中想用该图表展现，可以动手尝试，选择一个最适合你的方式。  
-
-[**PowerBI星球的最新版****内容合辑****，值得你收藏学习：**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN8YOicNXzCaSLpQrKXOL0LsNeYw0fj3iaGFy7XSwwmibHicdtiaHEbhgmHSPXQlkg3WiaVA4hJ8PGDcdEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**  
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMFLnwgdbghRHPLicKRaV70mVCZVq8Fhm46rkciaeOrLFJCv5f1omJxF8256YogHflkicEDM29aUMtaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。
+上面就是PowerBI中制作棒棒糖图的几种方式，其灵活度、难易程度各不相同，如果你的报告中想用该图表展现，可以动手尝试，选择一个最适合你的方式。 

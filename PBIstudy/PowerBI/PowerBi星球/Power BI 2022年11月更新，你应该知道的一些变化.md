@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-02T23:50:39 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能 
 aliases: null
 pagetitle: Power BI 2022年11月更新，你应该知道的一些变化
 source: https://mp.weixin.qq.com/s/3lkJ2P5tQX-zUPfmOgxsAA
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -23,21 +23,21 @@ https://powerbi.microsoft.com/zh-cn/blog/power-bi-november-2022-feature-summary/
 **1\. 界面颜色调整**
 
 当你安装新的版本，打开就会发现与之前不一样的清爽感觉，欢迎弹窗以及功能区强调色都变成了蓝绿色！
-
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUu3g1PLpaE3g52l0qbs53VKz01ncByVAiczrjJXQic1wNibqp2AZPOZLNng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUu3g1PLpaE3g52l0qbs53VKz01ncByVAiczrjJXQic1wNibqp2AZPOZLNng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 按微软官方的说法，此更改是为了确保更易于残障用户使用，新颜色提高了对比度并增加了 Power BI 中用户界面的可见性，使体验更易于使用且更具包容性。
 
 Power BI 品牌颜色和图标徽标将继续保持黄色。
 
 **2\. 小多图优化，坐标轴可不统一**
 
-之前小多图的坐标轴是统一的，如果每个小多图类别的数据范围变化很大时，与最大值较高的图表相比，最大值较低的图表会被推低。很难评估较低图表的销售趋势，比如下面的小多图，有的产品的趋势图看起来接近水平线。
+之前==小多图的坐标轴是统一的，如果每个小多图类别的数据范围变化很大时，与最大值较高的图表相比，最大值较低的图表会被推低。很难评估较低图表的销售趋势==，比如下面的小多图，有的产品的趋势图看起来接近水平线。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUuBNd8tib8IU6pialm4xPFTEW6JTAqUlSIEOMGN74PictkeDhk4MWdtktzQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-有时用户可能不太关心比较显示的数字的绝对值，而只对比较每个类别随时间的趋势感兴趣，所以新版本新增个选项，允许用户根据单独绘制每个小多图表的Y轴。
+有时用户可能不太关心比较显示的数字的绝对值，而只对比较每个类别随时间的趋势感兴趣，所以新版本新增个选项，==允许用户根据单独绘制每个小多图表的Y轴==。
 
-在格式窗格的Y轴中找到新选项“共享的y轴”和“调整大小”，关闭"共享的 y 轴"并打开“调整大小”：
-
+在格式窗格的Y轴中找到新选项“共享的y轴”和“调整大小”，==关闭"共享的 y 轴"并打开“调整大小==”：
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUuSvTa74HHGmArsOfqMEmRedcXRrSscX7Ln7HCMK1GKGLRAfCbMpryeQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUuSvTa74HHGmArsOfqMEmRedcXRrSscX7Ln7HCMK1GKGLRAfCbMpryeQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 然后每个小多图的Y轴刻度将变得不同，折线图也自动缩放了：
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUu8oDXtcAk6S1H5UTacIq9AAHUNsEmZrCnHFx3lqxVVhLepBeGic1MNhA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -67,25 +67,11 @@ Power BI Desktop中新增优化功能区，可以点击上方“优化”选项�
 
 优化功能区上的创作工具为您提供了以下功能：
 
--   完全控制视觉刷新时间。切换到优化功能区，可单击暂停视觉效果，当您准备好让视觉对象运行其查询并更新其数据时，可单击刷新视觉对象。
+-   ==完全控制视觉刷新时间==。切换到优化功能区，可单击暂停视觉效果，当您准备好让视觉对象运行其查询并更新其数据时，可单击刷新视觉对象。
     
 -   快速选择并应用根据您的报告需求量身定制的预定义设置组合。单击优化预设上的下拉菜单，在完全交互性、完全查询减少或自定义之间进行选择，以找到报告的完美平衡点。
     
--   方便地启动性能分析器来分析您的报表视觉对象生成的查询。
+-   方便地==启动性能分析器==来分析您的报表视觉对象生成的查询。
     
 
 本月的更新就简单介绍这几个，更全面的功能可以去看官方博客继续探索，或者视频号中观看中文字幕的官方视频讲解。
-
-___
-
-PowerBI每月更新后，如果不能自动更新或者不方便下载，可以在公众号后台发送"**软件下载**",获取最新的PowerBI Desktop安装包；
-
-如果要下载历史安装包，也可以发送**6位年月编号**获取，比如发送“202109”获取2021年9月的安装包。
-
-更多安装说明请参考：[关于Power BI的下载和安装，你想知道的都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078648&idx=1&sn=7e53496bd78498ed962696055a500474&chksm=8e13a2efb9642bf98bb73de730c5141d61eb2dfd22e1781c2603745137302ea56ba2ae4dd6ba&scene=21#wechat_redirect)
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

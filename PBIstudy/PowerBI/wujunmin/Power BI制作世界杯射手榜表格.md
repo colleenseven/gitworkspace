@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-16T00:10:30 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI制作世界杯射手榜表格
 source: https://mp.weixin.qq.com/s/NG_geLZdbkraQNwYA30omA
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -57,13 +57,20 @@ Power Query可以直接导入数据，导入后如下图所示：
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6Shbs94bkNUpvk4IMvTbSAxKjvR2hSqfGassfFu8YH2vudWlYiagm0hJp3u8sX8u0POvqA7jaIDUibw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 头像显示时，可以对球员字段施加条件格式图标，图标为头像列，如下图所示：  
-
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
+![https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6Shbs94bkNUpvk4IMvTbSAxkPhIBIpJo02mt6LQ1WRvauZXxA79L7xZUXUSXHSsWw0k5k2kZcjRvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6Shbs94bkNUpvk4IMvTbSAxkPhIBIpJo02mt6LQ1WRvauZXxA79L7xZUXUSXHSsWw0k5k2kZcjRvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 点球显示时，可以将点球数据包装成SVG矢量图图标（Power BI不支持纯文本类型的条件格式图标），点球图标如下：  
 
 ```
 点球图标 = 
+VAR SVG= 
+"data:image/svg+xml;utf8,"&"
+<svg xmlns='http://www.w3.org/2000/svg' height='100' width='100'>
+<text x='0' y='55' font-size='70' text-anchor='start' dominant-baseline='middle' font-family='Segoe UI'>("
+        & [点球数] & ")
+</text>
+</svg> " 
+RETURN
+IF([点球数]>0,SVG)
 ```
 
 将该度量值施加于进球度量值，并放在右侧，产生进球点球一体化显示的效果。  
@@ -75,9 +82,3 @@ Power Query可以直接导入数据，导入后如下图所示：
 [世界杯可视化之国家地区旗帜](http://mp.weixin.qq.com/s?__biz=MzI1OTA5NzU3Mw==&mid=2247485615&idx=1&sn=1824173a5dfa2e529ce239aeb2ca8907&chksm=ea7f5e25dd08d733771567823036c1bb7f2291922353bb3539124ccff764f3ade26d2d247faa&scene=21#wechat_redirect)  
 
 以上。
-
-___
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-[详情](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)

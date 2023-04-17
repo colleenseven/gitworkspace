@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-25T00:08:52 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI表达羊
 source: https://mp.weixin.qq.com/s/qFI0mkBfgvDyTSOeLJgf-Q
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -30,6 +30,27 @@ uid:
 
 ```
 条形图 = 
+VAR MaxValue =
+    MAXX ( ALLSELECTED('表'[地区]), [新增]) 
+VAR Color= "
+    <defs>
+        <LinearGradient id='w'>
+            <Stop offset='0%' style='stop-color:Snow'/>
+            <Stop offset='100%' style='stop-color:tomato'/>
+        </LinearGradient>
+    </defs>"
+VAR Chart ="
+    <rect x='20'  width='" & 100 * [新增] / MaxValue & "' height='12' fill='url(#w)' />
+    <text x='0' y='8'  text-anchor='start' font-size='6' >" & SELECTEDVALUE('表'[地区]) & "</text>
+    <text x='" & 24+100 * [新增] / MaxValue & "' y='8'  text-anchor='start' font-size='6' >"
+                &  [新增] & "</text>
+    <image xlink:href='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00LjA5IDEuMDY0YTEuMDkgMS4wNjcgMCAxIDEtMi4xOCAwIDEuMDkgMS4wNjcgMCAwIDEgMi4xOCAwem0xLjg4MyA1LjQ5NGwtLjc2NC0zLjE3NGEuNjMuNjMgMCAwIDAtLjE2NC0uMjkzQTMuMzA4IDMuMzA4IDAgMCAwIDMuOSAyLjUwNGMtLjMtLjA1My0uNi0uMTA2LS45LS4xMDYtLjMgMC0uNi4wNTMtLjkuMTMzLS40MzYuMTA3LS44MTguMzItMS4xNDUuNTg3YS42MzIuNjMyIDAgMCAwLS4xNjQuMjkzTC4wMjcgNi41ODVjMCAuMDI2LS4wMjcuMDgtLjAyNy4xMzMgMCAuMjkzLjI0Ni41MzMuNTQ2LjUzM2EuNTU0LjU1NCAwIDAgMCAuNTE4LS40bC41NzItMi4zMnY3LjQ2N2gxLjA5MXYtNC44aC41NDZ2NC44aDEuMDlWNC41MDRsLjU3MyAyLjMyQS41NDEuNTQxIDAgMCAwIDYgNi42OTFjMC0uMDUzLS4wMjctLjEwNi0uMDI3LS4xMzN6IiBmaWxsPSJ0b21hdG8iIHN0cm9rZT0ic25vdyIgc3Ryb2tlLXdpZHRoPSIuMSIvPjwvc3ZnPg==' x='" & 16.5+100 * [新增] / MaxValue & "' height='12' width='6' />"
+VAR SVG = "
+    <svg xmlns='http://www.w3.org/2000/svg' viewbox='0 0 141 20' >" &
+        Color & Chart & "
+    </svg>"
+RETURN
+    SVG 
 ```
 
 度量值中，rect生成条形，第一个text生成类别标签，第二个text生成数据标签，image生成人物图标，color变量产生渐变效果。将度量值放入HTML Content这个视觉对象，设计即完成。  
@@ -42,6 +63,3 @@ uid:
 
 本文PBIX源文件在下方知识星球下载。直达链接（左下角阅读原文也可访问）：_https://t.zsxq.com/09NG48LbQ_
 
-星球将在2023年1月1日涨价，有兴趣的读者不要错过。详细介绍：[Power BI业务实战及图表开发社群&视频课程](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

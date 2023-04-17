@@ -47,67 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "对业务的价值": {
-      "对业务的价值": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672366711896
-        }
-      }
-    },
-    "wx/商业洞察": {
-      "wx/商业洞察": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1672499718148
-        }
-      }
-    },
-    "wx/企业管理": {
-      "wx/企业管理": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672413781852
-        }
-      }
-    },
     "已完成": {
       "已完成": {
         "frontMatter": {
           "count": 2,
           "lastUpdated": 1673793638999
-        }
-      }
-    },
-    "精读文章": {
-      "精读文章": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672493438502
-        }
-      }
-    },
-    "zh": {
-      "zh": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672668987796
-        }
-      }
-    },
-    "qz/保险行业": {
-      "qz/保险行业": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672669681570
-        }
-      }
-    },
-    "qz/字节跳动": {
-      "qz/字节跳动": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672674660184
         }
       }
     },
@@ -140,6 +84,30 @@
         "frontMatter": {
           "count": 11,
           "lastUpdated": 1673796537170
+        }
+      }
+    },
+    "#####": {
+      "#####": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681142034740
+        }
+      }
+    },
+    "emoji里的猫咪": {
+      "emoji里的猫咪": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681228640101
+        }
+      }
+    },
+    "obsidian": {
+      "obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681229535104
         }
       }
     }

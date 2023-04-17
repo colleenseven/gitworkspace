@@ -1,0 +1,1283 @@
+
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#3.9 秒是什么概念
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#CPU 性能大排名
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#Power BI 经典性能测评
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#全世界最适合运行 Power BI 的 CPU 来了
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#回顾 Power BI 的运行原理
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#实际测评 - 十二代旗舰
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#实际测评 - 十代旗舰
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#性能就是对自由的向往
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#总结
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#成为顶级选手
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#梦想已至
+PowerBI/PowerBI战友联盟/3.9秒破亿，世界最快PBI电脑即将普及.md#自助商业智能分析精英时代正式开启
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#关闭响应开关
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#总结
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#打开维护层顺序
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#设计布局系统
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#隐藏标头图标
+PowerBI/PowerBI战友联盟/99% 用户在 Power BI 云端报表常犯错误.md#预告
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#Cube 运算的组装
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#CubeMember 函数
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#CubeValue
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#CubeValue 是干嘛的
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#CubeValue 的特点
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#为什么几乎没人知道
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#为什么现在可以了
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#使用 CUBE 的方法一：透视表
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#使用 CUBE 的方法二：CubeValue
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#关于 CUBE 误解的纠正
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#到底 CUBE 是什么
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#历史革新
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#总结
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#最强大的函数
+PowerBI/PowerBI战友联盟/99% 的人不知道的 Excel 中最强大的函数，没有之一.md#透视表转为 CubeValue
+PowerBI/PowerBI战友联盟/BI真经-精英系列-第一集-自助商业智能分析的底层逻辑揭秘.md
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#一定会遇到的陷阱：AutoExist
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#为什么要有 AutoExist
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#总结
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#案例解析
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#解决方案
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#诡异之处
+PowerBI/PowerBI战友联盟/DAX 陷阱 AutoExist 及解决方案.md#问题重述
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#开始
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#总结
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#招聘管理
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#离职管理
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#组织结构
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#统计分布
+PowerBI/PowerBI战友联盟/IBM 人力资源综合分析案例.md#薪酬规划
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#KPI
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#参数
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#地理数据
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#字段的层次结构
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#度量值
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#度量值组
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#总结
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#数值计算列
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#数字字段图标
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#新文件夹图标
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#标识字段
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#检测度量值
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#组
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#警告
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#计算列图标
+PowerBI/PowerBI战友联盟/Power BI 中的十六大功能图标你都认识吗.md#计算表
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#什么是混合模型
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#加入本地数据
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#完成计算
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#应用场景
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#总结
+PowerBI/PowerBI战友联盟/Power BI 企业应用之混合模型 - 销售完成度.md#操作方法
+PowerBI/PowerBI战友联盟/Power BI 如何准确计算门店数.md
+PowerBI/PowerBI战友联盟/Power BI 实现局部走向预测 - 效果篇.md
+PowerBI/PowerBI战友联盟/Power BI 终极调试器 DAX Studio V3 发布.md
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#Excel 无法使用
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#与 SWITCH TRUE 的不同
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#与 计算组 的不同
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#二层抽象
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#再探究计算原理
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#再论字段参数平铺展开
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数 - 度量值型
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数内部是什么样
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数应用小结
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数改名
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数理论小结
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数的使用
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段参数规律感悟
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#字段的平铺展开
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#应用一：动态坐标轴
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#应用三：全面动态图表
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#应用二：全动态图表
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#应用四：动态矩阵
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#开启字段参数
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#总结
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#无法独立构建
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#更改参数字段
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#混合形态
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#理解什么是字段参数
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#用度量值构造字段参数
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#用表列构造字段参数
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#疑惑与混淆
+PowerBI/PowerBI战友联盟/Power BI 重大更新：字段参数详解 - 基础篇.md#预备知识
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#与其他类似东西的区别
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#什么场景用
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#什么时候可以用
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#什么样子的
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#发生了什么
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#总结
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#数据集市的特性
+PowerBI/PowerBI战友联盟/Power BI 重磅推出：自助数据仓库。掌控数据就是掌控力量。.md#谁可以使用
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#作者致谢
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#作者致谢#Ken 的致谢
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#作者致谢#Miguel 的致谢
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#作者致谢#我们忠实的支持者
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#作者致谢#最后
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#生活因此而变
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#生活因此而变#Ken 的故事
+PowerBI/PowerBI战友联盟/Power Query 真经 - 前言.md#生活因此而变#Miguel 的故事
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.1 数据分析师的常见场景
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.2 “黑魔法” 的好处和危险
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.3 未来的改变
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.4 为什么说 Power Query 有魔力
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.4 为什么说 Power Query 有魔力#0.4.1 提取
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.4 为什么说 Power Query 有魔力#0.4.2 转换
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.4 为什么说 Power Query 有魔力#0.4.3 加载
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.5 Power Query 和产品体验的整合
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.5 Power Query 和产品体验的整合#0.5.1 Power Query 的组件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.5 Power Query 和产品体验的整合#0.5.2 产品体验的整合
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期#0.6.1 Power Query 在线版
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期#0.6.2 Microsoft 365
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期#0.6.3 Excel 2016/2019/2021
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期#0.6.4 Excel 2010 & 2013
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.6 Power Query 的更新周期#0.6.5 Power BI 桌面版
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书#0.7.1 Excel 365
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书#0.7.3 Power BI 桌面版
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书#0.7.4 以前的 Excel 版本
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书#0.7.5 点击【获取数据】按钮
+PowerBI/PowerBI战友联盟/Power Query 真经 - 导言：一场新的革命.md#0.7 如何使用这本书#0.7.6 特殊元素
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.1 开始之前
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.1 开始之前#1.1.1 调整 Excel 默认设置
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.1 开始之前#1.1.2 调整 Power BI 默认设置
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.2 提取
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.2 提取#1.2.1 选择数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.2 提取#1.2.2 身份验证
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.2 提取#1.2.3 预览窗口
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.2 提取#1.2.4 数据加载
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.1 编辑器
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.2 默认转换
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.3 源
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.4 将第一行用作标题
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.5 更改的类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.3 转换#1.3.6 调整和修改转换
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.4 加载
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.4 加载#1.4.1 设置数据类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.4 加载#1.4.2 重命名查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.4 加载#1.4.3 在 Excel 中加载查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.4 加载#1.4.4 在 Power BI 中加载查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.5 刷新查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.6 编辑查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.6 编辑查询#1.6.1 在 Power BI 中启动查询编辑器
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.6 编辑查询#1.6.2 在 Excel 中启动查询编辑器
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.6 编辑查询#1.6.3 检查步骤
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.6 编辑查询#1.6.4 重新配置步骤
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 1 章 - 基础知识.md#1.7 Power Query 的价值
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.1 合并基础知识
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.1 合并基础知识#10.1.1 创建暂存查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.1 合并基础知识#10.1.2 执行合并
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.1 左外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.2 右外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.3 完全外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.4 内部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.5 左反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.6 右反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.2 连接类型#10.2.7 完全反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.3 笛卡尔积（交叉连接）
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.3 笛卡尔积（交叉连接）#10.3.1 方法
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.3 笛卡尔积（交叉连接）#10.3.2 实例
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.3 笛卡尔积（交叉连接）#10.3.3 意外问题
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.4 近似匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.4 近似匹配#10.4.1 方法
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.4 近似匹配#10.4.2 示例
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.5 模糊匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.5 模糊匹配#10.5.1 基本模糊匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.5 模糊匹配#10.5.2 转换表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.5 模糊匹配#10.5.3 降低相似度阈值
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据 1.md#10.5 模糊匹配#10.5.4 保持模糊匹配的策略
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.1 合并基础知识
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.1 合并基础知识#10.1.1 创建暂存查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.1 合并基础知识#10.1.2 执行合并
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.1 左外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.2 右外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.3 完全外部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.4 内部连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.5 左反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.6 右反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.2 连接类型#10.2.7 完全反连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.3 笛卡尔积（交叉连接）
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.3 笛卡尔积（交叉连接）#10.3.1 方法
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.3 笛卡尔积（交叉连接）#10.3.2 实例
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.3 笛卡尔积（交叉连接）#10.3.3 意外问题
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.4 近似匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.4 近似匹配#10.4.1 方法
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.4 近似匹配#10.4.2 示例
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.5 模糊匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.5 模糊匹配#10.5.1 基本模糊匹配
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.5 模糊匹配#10.5.2 转换表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.5 模糊匹配#10.5.3 降低相似度阈值
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 10 章 - 横向合并数据.md#10.5 模糊匹配#10.5.4 保持模糊匹配的策略
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.1 使用多查询体系结构
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.1 使用多查询体系结构#2.1.1 对 ETL 进行分层
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.1 使用多查询体系结构#2.1.2 单个查询的好处
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.1 使用多查询体系结构#2.1.3 分拆查询的好处
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.1 使用多查询体系结构#2.1.4 关于暂存查询的性能
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.2 查询的引用#2.2.1 创建基础查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.2 查询的引用#2.2.2 创建查询的引用
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.2 查询的引用#2.2.3 查询依赖关系树的可视化
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.2 查询的引用#2.2.4 使用 Monkey 工具查看依赖关系
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.3 选择查询加载目的地
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.3 选择查询加载目的地#2.3.1 在 Power BI 中选择加载目的地
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.3 选择查询加载目的地#2.3.2 在 Excel 中选择加载目的地
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.3 选择查询加载目的地#2.3.3 更改加载目的地
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.4 保持查询的条理性
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.4 保持查询的条理性#2.4.1 查询文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.4 保持查询的条理性#2.4.2 将查询分配到文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.4 保持查询的条理性#2.4.3 排列查询和文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.4 保持查询的条理性#2.4.4 查询子文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.5 拆分现有查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 2 章 - 查询管理.md#2.6 关于查询体系结构的最后思考
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式#3.1.1 数据格式
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式#3.1.2 数据类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式#3.1.3 如何设置格式
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式#3.1.4 设置数据类型的顺序
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.1 数据类型与格式#3.1.5 数据类型的重要性
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.2 常见的错误类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.4 步骤级错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.4 步骤级错误#3.4.1 数据源错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.4 步骤级错误#3.4.2 没有找到某列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.5 值错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.5 值错误#3.5.1 发现错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.5 值错误#3.5.2 无效的数据类型转换
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.5 值错误#3.5.3 不兼容的数据类型
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.6 检查查询错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.6 检查查询错误#3.6.1 发现错误的来源
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.6 检查查询错误#3.6.2 修复最初查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.6 检查查询错误#3.6.3 删除错误查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 3 章 - 数据类型与错误.md#3.7 关于数据类型与错误的最后思考
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.1 在工具之间复制查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.1 在工具之间复制查询#4.1.1 Excel 到 Excel
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.1 在工具之间复制查询#4.1.2 Excel 到 Power BI
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.1 在工具之间复制查询#4.1.3 Power BI 到 Excel
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.1 在工具之间复制查询#4.1.4 Power BI 到 Power BI
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.2 导入查询
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.2 导入查询#4.2.1 仅外部数据源
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.2 导入查询#4.2.2 数据模型的导入
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.2 导入查询#4.2.3 导入时复制数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.2 导入查询#4.2.4 导入时保持连接
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 4 章 - 在 Excel 和 Power BI 之间迁移查询.md#4.3 在工具之间迁移查询的思考
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.1 了解系统如何导入数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.1 了解系统如何导入数据#5.1.1 设置系统默认值
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.1 了解系统如何导入数据#5.1.2 程序如何解析平面数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.2 导入带分隔符的文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.2 导入带分隔符的文件#5.2.1 源数据文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.2 导入带分隔符的文件#5.2.3 提取数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.2 导入带分隔符的文件#5.2.4 错误的解析
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.2 导入带分隔符的文件#5.2.5 使用区域设置
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.1 连接到文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.2 清洗无分隔符文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.3 按位置拆分列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.4 利用查询中的错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.5 删除垃圾列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.6 合并列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.7 通过分隔符拆分列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.8 修剪重复的空格
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 5 章 - 从平面文件导入数据.md#5.3 导入无分隔符的文本文件#5.3.9 Power Query 的闪耀时刻
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据#6.1.1 连接到表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据#6.1.2 连接到区域
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据#6.1.3 连接到命名区域
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据#6.1.4 连接到动态区域
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.1 来自当前工作簿的数据#6.1.5 连接到工作表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.2 来自其他工作簿的数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.2 来自其他工作簿的数据#6.2.1 连接到文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.2 来自其他工作簿的数据#6.2.2 连接到表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.2 来自其他工作簿的数据#6.2.3 连接到命名区域
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.2 来自其他工作簿的数据#6.2.4 连接到工作表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 6 章 - 从Excel导入数据.md#6.3 关于连接到 Excel 数据的最后思考
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视#7.1.1 准备数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视#7.1.2 逆透视其他列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视#7.1.3 重新透视
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视#7.1.4 应对变化
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.1 逆透视#7.1.5 逆透视之间的区别
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.2 数据透视
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.3 拆分列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.3 拆分列#7.3.1 将列拆分为多列
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.3 拆分列#7.3.2 将列拆分为多行
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.3 拆分列#7.3.3 拆分后逆透视 vs 拆分到行
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.4 筛选和排序
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.4 筛选和排序#7.4.1 按特定值筛选
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.4 筛选和排序#7.4.2 按上下文筛选
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.4 筛选和排序#7.4.3 数据排序
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 7 章 - 常用数据转换.md#7.5 数据分组
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.1 基本追加
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.1 基本追加#8.1.1 追加两个表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.1 基本追加#8.1.2 追加额外的表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.2 追加列标题不同的数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.3 在当前文件中追加表和区域
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.3 在当前文件中追加表和区域#8.3.1 合并表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.3 在当前文件中追加表和区域#8.3.2 合并区域或工作表
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.3 在当前文件中追加表和区域#8.3.3 Excel.CurrentWorkbook
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 8 章 - 纵向追加数据.md#8.4 关于追加查询的最后思考
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.1 示例文件背景介绍
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.1 过程概述#9.2.1 合并文件的标准流程
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.1 过程概述#9.2.2 合并文件的通用架构
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.3 步骤 0：连接到文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.3 步骤 0：连接到文件夹#9.3.1 连接到本地/网络文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.3 步骤 0：连接到文件夹#9.3.2 连接到 SharePoint 文件夹
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.3 步骤 0：连接到文件夹#9.3.3 连接到 OneDrive for Business
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.3 步骤 0：连接到文件夹#9.3.4 连接到其他文件系统
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.4 步骤 1：筛选文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.4 步骤 1：筛选文件#9.4.1 标准模式
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.4 步骤 1：筛选文件#9.4.2 应用于示例场景
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.5 步骤 2：合并文件#9.5.1 标准模式
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.5 步骤 2：合并文件#9.5.2 应用于示例场景
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.6 步骤 3：转换示例文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.6 步骤 3：转换示例文件#9.6.1 使用转换示例文件的原因
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.6 步骤 3：转换示例文件#9.6.2 使用转换示例文件的方法
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.7 步骤 4：通过主查询规范数据#9.7.1 修复主查询中的错误
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.7 步骤 4：通过主查询规范数据#9.7.2 保存文件属性
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.7 步骤 4：通过主查询规范数据#9.7.3 添加更多的步骤
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.8 更新解决方案#9.8.1 使用数据
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.8 更新解决方案#9.8.2 添加新文件
+PowerBI/PowerBI战友联盟/Power Query 真经 - 第 9 章 - 批量合并文件.md#9.8 更新解决方案#9.8.3 只用最后 x 个文件以提升速度
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#参数
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#总结
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#更复杂的案例
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#案例
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#注意
+PowerBI/PowerBI战友联盟/PowerBI DAX 新函数 OFFSET.md#运行的规律
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#DAX 合并模式
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#DAX 的递归限制
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#总结
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#比例型递归
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#测试效果
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#递归的特殊形态
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#递归计算
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#问题分析
+PowerBI/PowerBI战友联盟/PowerBI DAX 递归问题如何解 - 比例型.md#问题场景
+PowerBI/PowerBI战友联盟/PowerBI 三大发布：PPT 集成，指标，零代码数据仓库.md
+PowerBI/PowerBI战友联盟/PowerBI 三大发布：PPT 集成，指标，零代码数据仓库.md#在 PPT 中讲更好的故事
+PowerBI/PowerBI战友联盟/PowerBI 三大发布：PPT 集成，指标，零代码数据仓库.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 三大发布：PPT 集成，指标，零代码数据仓库.md#指标帮助更好达成目标
+PowerBI/PowerBI战友联盟/PowerBI 三大发布：PPT 集成，指标，零代码数据仓库.md#零代码数据仓库
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md#技巧
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md#约定
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md#计算
+PowerBI/PowerBI战友联盟/PowerBI 中处理重复排名，展示TOPN.md#设计模式
+PowerBI/PowerBI战友联盟/PowerBI 中如何实现快速模糊查找.md
+PowerBI/PowerBI战友联盟/PowerBI 中如何嵌入视频.md
+PowerBI/PowerBI战友联盟/PowerBI 中如何嵌入视频.md#度量值
+PowerBI/PowerBI战友联盟/PowerBI 中如何嵌入视频.md#思路
+PowerBI/PowerBI战友联盟/PowerBI 中如何嵌入视频.md#扩展
+PowerBI/PowerBI战友联盟/PowerBI 中如何嵌入视频.md#效果
+PowerBI/PowerBI战友联盟/PowerBI 四象限通用分析模式系列之一.md
+PowerBI/PowerBI战友联盟/PowerBI 四象限通用分析模式系列之一.md#什么是 80/20
+PowerBI/PowerBI战友联盟/PowerBI 四象限通用分析模式系列之一.md#如何计算 80/20 并组合四象限
+PowerBI/PowerBI战友联盟/PowerBI 四象限通用分析模式系列之一.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 四象限通用分析模式系列之一.md#简要分析
+PowerBI/PowerBI战友联盟/PowerBI 完美嵌入 PPT，讲述数据故事.md
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#Power BI 模板
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#不同主题
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#体验它的流程
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#应用场景
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#用于 Power BI 学习
+PowerBI/PowerBI战友联盟/PowerBI 打造一键式个人全局文件分析器.md#界面概览
+PowerBI/PowerBI战友联盟/PowerBI 打造高端震撼开屏效果.md
+PowerBI/PowerBI战友联盟/PowerBI 打造高端震撼开屏效果.md#实现方法
+PowerBI/PowerBI战友联盟/PowerBI 打造高端震撼开屏效果.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 抖动图，快速标记众多数值的分布.md
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#可视化分析
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#复杂度分析
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#总结
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#故事素材
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#数据处理
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#数据模型
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#更复杂的问题
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#计算的自适应性
+PowerBI/PowerBI战友联盟/PowerBI 计算疫情影响的业务天数.md#记录
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#Cube 函数
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#Excel 如何获得数据模型的数据
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#Excel 数据可视化
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#Power BI 的精华
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#Power Pivot
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#tusimple BI 与 Zebra BI 的对比
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#tusimple BI 的限制
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#一键出图
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#出图精华需要哪些
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#可视化的场景
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#平面数据 - 可视化
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#必然之选
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#总结
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#数据模型 - 透视表
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#模型与可视化架构
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#福利
+PowerBI/PowerBI战友联盟/PowerBI建模，Excel作图，双剑合璧.md#透视表 - 可视化
+PowerBI/PowerBI战友联盟/RANKX 的三种排名方法.md
+PowerBI/PowerBI战友联盟/RANKX 的三种排名方法.md#Dense 方法
+PowerBI/PowerBI战友联盟/RANKX 的三种排名方法.md#Order 方法
+PowerBI/PowerBI战友联盟/RANKX 的三种排名方法.md#Skip 方法
+PowerBI/PowerBI战友联盟/RANKX 的三种排名方法.md#总结
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Excel
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Power BI 体系
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Power BI 嵌入式（Power BI Embedded）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Power BI 报表服务器（Power BI Report Server）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Power BI 桌面端（Power BI Desktop）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#Power BI 高级版（Power BI Premium）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#SQL Server Data Tools / Report Builder
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#仪表板（Dashboard）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#总结
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#报表（Reports）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#数据流（Data Flows）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#数据网关（Data Gateway）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#数据集（Data Sets）
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#用户角色
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#终端：Excel
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#终端：浏览器
+PowerBI/PowerBI战友联盟/一图了解 Power BI 全部架构体系，老板一目了然.md#终端：第三方应用
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#DAX 新函数
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#如何提取数据模型的信息
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#小白时刻
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#度量值实现
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#我是小白我怕谁
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#扩展思考
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#无法用于计算表
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#显示信息
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#模型数据字典
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#第一次重构：解除名称硬编码
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#第三次重构：修复问题
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#第二次重构：应对复杂工程
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#重构
+PowerBI/PowerBI战友联盟/一秒钟一句话生成 PowerBI 数据字典并与同事分享.md#高手时刻
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#与业务高管论道
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#具体解释
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#四两拨千斤
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#总结
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#排名
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#故事解释
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#整体概述
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#整体财务的趋势健康性
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#案例背景
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#结构贡献
+PowerBI/PowerBI战友联盟/世界五百强财务高管数字化战群雄经典案例.md#财务模型
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#DAX 如何实现多态
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#DAX 如何实现封装
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#DAX 如何实现继承
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#交易表
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#优化计算
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#场景抽象
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#基础指标
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#多态性与预计算
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#实现效果
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#封装继承多态
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#总结
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#数据模型设计
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#查找汇率
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率定义表
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率是事实表吗
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率统一预计算
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率维度要和交易连接吗
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率表
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率转换设计模式
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#汇率转换设计模式的实现
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#设计模式 - 封装与继承
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#进一步多态化
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#适配性
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#通用数据模型结构
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#难点分析
+PowerBI/PowerBI战友联盟/从汇率转换通用解决方案到可复用设计思想.md#预计算以性能优化
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#与去年的业务进行对比
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#与目标的差异分析
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#业务场景的默认显示
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#加入高亮标记
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#参数化模板
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#增加误差区间
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#总结
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#目标的制定
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#简洁化
+PowerBI/PowerBI战友联盟/从误差分析到通用对比分析模板终极方案.md#自动批注
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#业务核心
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#为大家服务
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#发布给公众
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#数据变换
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#数据可视化
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#数据来源
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#数据模型
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#数据的定时刷新
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#日期维度
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#生成二维码
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#细腻调整
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#细腻调整#复杂的日期区间交互设置
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#细腻调整#指标含义的调整
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#细腻调整#细腻中的细腻
+PowerBI/PowerBI战友联盟/发布重大信息报告，用PowerBI只需一小时.md#细腻调整#臻于艺术的低代码 DAX
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#场景描述
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#基础计算
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#总结
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#设计思想
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#问题
+PowerBI/PowerBI战友联盟/四象限分析的 DAX 实现及高阶思维模式.md#预计算与静态化
+PowerBI/PowerBI战友联盟/如何使用 Power BI 智能文本框，实现智能批注.md
+PowerBI/PowerBI战友联盟/如何使用 Power BI 智能文本框，实现智能批注.md#复用内容
+PowerBI/PowerBI战友联盟/如何使用 Power BI 智能文本框，实现智能批注.md#总结
+PowerBI/PowerBI战友联盟/如何使用 Power BI 智能文本框，实现智能批注.md#插入智能内容
+PowerBI/PowerBI战友联盟/如何使用 Power BI 智能文本框，实现智能批注.md#文本拼装
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#垂直对比图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#垂直差异图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#堆叠图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#如何选择一个图表
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#小多图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#差异构成图 - 瀑布图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#总结
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#扩展图表
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#水平对比图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#水平差异图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#系列对比图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#组合图
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#选择器
+PowerBI/PowerBI战友联盟/如何在 Power BI 快速制作满足 IBCS 规范的专业图表.md#集成差异图
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md#DAX 公式的特点
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md#典型的错误
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md#分析错误信息
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md#总结
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中快速调试上百行 DAX 公式.md#进行调试
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中设置数值标签的动态颜色.md
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中设置数值标签的动态颜色.md#动态标记最大值与最小值
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中设置数值标签的动态颜色.md#总结
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中设置数值标签的动态颜色.md#扩展创意用法
+PowerBI/PowerBI战友联盟/如何在 PowerBI 中设置数值标签的动态颜色.md#渐变色方式
+PowerBI/PowerBI战友联盟/如何将 Power BI 模板化，一键构建出一切.md
+PowerBI/PowerBI战友联盟/如何将 Power BI 模板化，一键构建出一切.md#总结
+PowerBI/PowerBI战友联盟/如何将 Power BI 模板化，一键构建出一切.md#第一步：路径参数化
+PowerBI/PowerBI战友联盟/如何将 Power BI 模板化，一键构建出一切.md#第二步：模板化
+PowerBI/PowerBI战友联盟/如何批量导入1000张缩略图到 PowerBI 做图片目录.md
+PowerBI/PowerBI战友联盟/如何批量导入1000张缩略图到 PowerBI 做图片目录.md#Power Query 自动转换
+PowerBI/PowerBI战友联盟/如何批量导入1000张缩略图到 PowerBI 做图片目录.md#总结
+PowerBI/PowerBI战友联盟/如何批量导入1000张缩略图到 PowerBI 做图片目录.md#显示图片列表
+PowerBI/PowerBI战友联盟/如何批量导入1000张缩略图到 PowerBI 做图片目录.md#缩略图的生成
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md#Power BI
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md#在官网注册
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md#填写信息
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md#总结
+PowerBI/PowerBI战友联盟/如何注册账号 Power BI 不需要企业邮箱.md#管理界面
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#DAX 计算的检验
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#总结
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#数据模型
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#日期维度的变换
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#活跃客户
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#活跃客户的计算
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#留存率的计算
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#留存的客户计算
+PowerBI/PowerBI战友联盟/如何用 Power BI DAX 计算年度留存客户.md#计算的可扩展性
+PowerBI/PowerBI战友联盟/如何用【智能分解树】对 KPI 做多维度智能分析.md
+PowerBI/PowerBI战友联盟/如何用【智能分解树】对 KPI 做多维度智能分析.md#总结
+PowerBI/PowerBI战友联盟/如何用【智能分解树】对 KPI 做多维度智能分析.md#效果展示
+PowerBI/PowerBI战友联盟/如何用【智能分解树】对 KPI 做多维度智能分析.md#解决方案
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#动态的分析方案
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#帕累托图的设置
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#总结
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#架构设计
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#框架探讨 - 全动态帕累托分析
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#精妙的设计
+PowerBI/PowerBI战友联盟/字段参数详解 - 应用篇 - 全动态帕累托分析.md#细节探讨 - 归入其他的问题
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#Power BI 模板
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#总结
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#活跃客户
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#老客户
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#通用模型
+PowerBI/PowerBI战友联盟/客户首次购买后 X 日内购买的销量.md#首次购买后 X 日内购买销量
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#内容
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#学习外文书的问题
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#学习外文书的问题#问题一：内涵通俗接地气
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#学习外文书的问题#问题二：提纲挈领划重点
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#学习外文书的问题#问题的解决
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#学习群
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#导读
+PowerBI/PowerBI战友联盟/开始学习 Power Query 真经.md#正式内容
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md#价值排名
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md#使用数据
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md#性能数据
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md#总结
+PowerBI/PowerBI战友联盟/打造集团首席 Power BI 报表.md#深度使用
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#什么是指标维度
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#什么样的东西分析不了
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#只显示 TOPN 值的 KPI
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#总结
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#指标维度陷阱
+PowerBI/PowerBI战友联盟/指标维度 - 1 - 海量科目前 N 名计算.md#还原为内容
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#DAX 之父的建议
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#一对多关系
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#业务与 IT 的不同
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#商务智能的原子流程
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#复杂的数据模型
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#多事实表
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#多关系结构
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#多环形结构
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#多级连接
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#如何精进
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#实际的复杂
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#总结
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#数据的列化
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#整个流程
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#模型的局部化
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#环形结构
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#理论的失效
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#真实的数据模型
+PowerBI/PowerBI战友联盟/数据建模的精华：很少有人真正理解数据模型的形态.md#维度建模
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#实践 WTD 计算
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#总结
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#时间智能的逻辑本质
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#移动和缩放日期区间
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#移动日期区间
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#缩放日期区间
+PowerBI/PowerBI战友联盟/时间维度计算与分析专题-01-理解结构.md#考一考
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#业务分析师
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#常见问题
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#总结
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#数据中的角色
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#数据分析师
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#数据工程师
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#数据库管理员
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#数据科学家
+PowerBI/PowerBI战友联盟/理解商业智能分析中的角色以规划自己的定位.md#用一图看懂
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#为什么必须用日期表
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#总结
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#扩展这个日期表
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#日期表初始化
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#构建一个日期表
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#构建日期表的注意事项
+PowerBI/PowerBI战友联盟/用 DAX 快速构建一个日期表.md#构造日期表的方法
+PowerBI/PowerBi星球/2021年BI魔力象限发布，这也是一个很棒的动态散点图练习素材.md
+PowerBI/PowerBi星球/2023魔力象限发布，利用AI神器帮你快速解读.md
+PowerBI/PowerBi星球/ChatGPT一路狂飙，它的DAX水平怎么样？.md
+PowerBI/PowerBi星球/ChatGPT太强大：一分钟制作Power BI流程图！.md
+PowerBI/PowerBi星球/ChatGPT的PowerQuery技能能否解决您的数据清洗问题？我们来试试.md
+PowerBI/PowerBi星球/Excel中PowerQuery的全自动动态路径.md
+PowerBI/PowerBi星球/FORMAT函数，原来还可以这么用.md
+PowerBI/PowerBi星球/PPT支持PowerBI单个图表插入，并自动生成数据见解.md
+PowerBI/PowerBi星球/PQ高阶技能：M函数.md
+PowerBI/PowerBi星球/Power BI 2021年10月更新.md
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md#**1\. 快速度量建议**
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md#**2\. 堆积柱形图的反向堆叠**
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md#**3\. 模型视图中新增关系编辑面板**
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md#**4\. 模型视图中支持编写DAX**
+PowerBI/PowerBi星球/Power BI 2022年10月更新，自然语言生成DAX功能面世.md#**5\. 在PowerBI服务中支持下载不含数据的pbix文件**
+PowerBI/PowerBi星球/Power BI 2022年11月更新，你应该知道的一些变化.md
+PowerBI/PowerBi星球/Power BI 2022年12月更新，你应该知道的一些变化.md
+PowerBI/PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md#**1、新增"字段参数"功能**
+PowerBI/PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md#**2、新增画布缩放功能**
+PowerBI/PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md#**3\. 新格式窗格继续优化**
+PowerBI/PowerBi星球/Power BI 2022年5月更新，你应该知道的几个变化.md#**4、组合图支持添加误差线**
+PowerBI/PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md#**1\. 新格式窗格全面可用**
+PowerBI/PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md#**2. 表格效果增强**
+PowerBI/PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md#**3\. Power BI Desktop支持连接数据集市**
+PowerBI/PowerBi星球/Power BI 2022年6月更新，你应该知道的几个变化.md#**4\. Power BI报表支持嵌入到PPT**
+PowerBI/PowerBi星球/Power BI 2022年7月更新，NETWORKDAYS函数亮相.md
+PowerBI/PowerBi星球/Power BI 2022年7月更新，NETWORKDAYS函数亮相.md#**1、误差线功能普遍可用**
+PowerBI/PowerBi星球/Power BI 2022年7月更新，NETWORKDAYS函数亮相.md#**2、新增DAX函数：NETWORKDAYS**
+PowerBI/PowerBi星球/Power BI 2022年8月更新，你可能会遇到的几个bug.md
+PowerBI/PowerBi星球/Power BI 2022年8月更新，你可能会遇到的几个bug.md#**1\. 打开文件报错**
+PowerBI/PowerBi星球/Power BI 2022年8月更新，你可能会遇到的几个bug.md#**2\. Shift + Enter无法缩进**
+PowerBI/PowerBi星球/Power BI 2022年8月更新，你可能会遇到的几个bug.md#**3、Ctrl+Z撤销操作时，会删除视觉对象**
+PowerBI/PowerBi星球/Power BI 2022年9月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/Power BI 2022年9月更新，你应该知道的几个变化.md#**1\. 层级坐标轴优化**
+PowerBI/PowerBi星球/Power BI 2022年9月更新，你应该知道的几个变化.md#**2\. 增加了是否显示聚合类型的选项**
+PowerBI/PowerBi星球/Power BI 2022年9月更新，你应该知道的几个变化.md#**3\. 移动布局单独调整格式功能普遍可用**
+PowerBI/PowerBi星球/Power BI 2022年更新的功能盘点，你最喜欢哪一个？.md
+PowerBI/PowerBi星球/Power BI 2023年2月更新，你应该知道的一些变化.md
+PowerBI/PowerBi星球/Power BI 2023年4月更新，你应该知道的一些变化.md
+PowerBI/PowerBi星球/Power BI 总计错误的终极解决方案(二).md
+PowerBI/PowerBi星球/Power BI与Power Query、Power Pivot 是什么关系？.md
+PowerBI/PowerBi星球/Power BI业务分析：如何统计未完成的订单？.md
+PowerBI/PowerBi星球/Power BI业务分析：折扣计算问题.md
+PowerBI/PowerBi星球/Power BI中不显示表格总计的技巧.md
+PowerBI/PowerBi星球/Power BI中不显示表格总计的技巧.md#**1\. 利用DAX让总计行返回空值**
+PowerBI/PowerBi星球/Power BI中不显示表格总计的技巧.md#**2. 利用条件格式隐藏总计行**
+PowerBI/PowerBi星球/Power BI中如何用度量值做切片器坐标轴？.md
+PowerBI/PowerBi星球/Power BI中最常用的切片器，利用DAX灵活显示.md
+PowerBI/PowerBi星球/Power BI中的书签，你应该用过，但它的秘密却未必都知道.md
+PowerBI/PowerBi星球/Power BI主题全面解析：你不能错过的精华指南.md
+PowerBI/PowerBi星球/Power BI交互技巧：动态切换自然年财年计算.md
+PowerBI/PowerBi星球/Power BI公式中表达颜色的3种方式.md
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**10. 销售额最低的产品**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**1\. 最新业务日期**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**2\. 最早业务日期**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**3\. 最新业务日期下单的客户**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**4. 最新业务日期上一个交易日**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**5. 最新业务日期上一个交易日销售的产品**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**6. 单笔最小订单对应的产品**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**7. 单笔最大订单对应的客户**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**8. 单笔第二大订单对应的客户**
+PowerBI/PowerBi星球/Power BI分析10个常用的业务度量值，你肯定会用的到.md#**9. 销售额最高的产品**
+PowerBI/PowerBi星球/Power BI分析技巧：动态展示最近N个工作日.md
+PowerBI/PowerBi星球/Power BI分析技巧：层级排名.md
+PowerBI/PowerBi星球/Power BI动态显示最近N天的数据-优化.md
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**一、订单表脱敏**
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**一、订单表脱敏**#**1\. 缩减数据量**
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**一、订单表脱敏**#**2\. 订单日期脱敏**
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**一、订单表脱敏**#**3\. 销售额脱敏**
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**三、产品表脱敏**
+PowerBI/PowerBi星球/Power BI可视化大赛火热进行中，利用这个方法轻松脱敏你的数据.md#**二、客户表脱敏**
+PowerBI/PowerBi星球/Power BI可视化技巧：利用条件格式动态显示数据标签.md
+PowerBI/PowerBi星球/Power BI可视化技巧：折线图动态显示预算实际.md
+PowerBI/PowerBi星球/Power BI可视化技巧：柱形图动态显示预算实际.md
+PowerBI/PowerBi星球/Power BI可视化技巧：正负值配色.md
+PowerBI/PowerBi星球/Power BI可视化技巧：矩阵中迷你图的妙用.md
+PowerBI/PowerBi星球/Power BI可视化技巧：突出标识特定事件的数据.md
+PowerBI/PowerBi星球/Power BI可视化设计技巧：局部切换.md
+PowerBI/PowerBi星球/Power BI可视化设计技巧：局部切换.md#**1、调整书签属性为“所选的视觉对象”**
+PowerBI/PowerBi星球/Power BI可视化设计技巧：局部切换.md#**3、重复前2个步骤，调整其他书签**
+PowerBI/PowerBi星球/Power BI可视化设计：折线图高亮显示.md
+PowerBI/PowerBi星球/Power BI可视化设计：用文字展示切片器的筛选情况.md
+PowerBI/PowerBi星球/Power BI如何制作平滑折线图、垂直折线图…….md
+PowerBI/PowerBi星球/Power BI如何制作漂亮的玫瑰图？.md
+PowerBI/PowerBi星球/Power BI如何动态展示表？送你两种方法.md
+PowerBI/PowerBi星球/Power BI如何动态计算任意粒度的上期数据？.md
+PowerBI/PowerBi星球/Power BI如何对度量值分组统计？.md
+PowerBI/PowerBi星球/Power BI如何展示本地图片？原来这么简单.md
+PowerBI/PowerBi星球/Power BI如何统计文本中字符出现的次数？.md
+PowerBI/PowerBi星球/Power BI如何计算任意所选期间的环比？.md
+PowerBI/PowerBi星球/Power BI如何计算非日期维度的同比环比？.md
+PowerBI/PowerBi星球/Power BI如何进行收益率相关的计算？.md
+PowerBI/PowerBi星球/Power BI如何进行财年分析？.md
+PowerBI/PowerBi星球/Power BI如何连接OneDrive？这个极简教程分享给你.md
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md#**什么是字段参数**
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md#**如何修改字段参数**
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md#**如何创建字段参数**
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md#**如何启用“字段参数”**
+PowerBI/PowerBi星球/Power BI字段参数介绍以及常见应用场景.md#**字段参数的几个常用场景**
+PowerBI/PowerBi星球/Power BI字段参数应用：动态列名.md
+PowerBI/PowerBi星球/Power BI字段参数应用：动态列名.md#**1\. 新建字段参数**
+PowerBI/PowerBi星球/Power BI字段参数应用：动态列名.md#**2\. 为参数表添加一列**
+PowerBI/PowerBi星球/Power BI字段参数应用：动态列名.md#**3\. 修改参数表中的参数名称**
+PowerBI/PowerBi星球/Power BI字段参数应用：同时切换坐标轴和指标.md
+PowerBI/PowerBi星球/Power BI实用技巧：利用DAX隐藏未来日期的计算.md
+PowerBI/PowerBi星球/Power BI客户留存分析.md
+PowerBI/PowerBi星球/Power BI导航设计：多级下拉菜单.md
+PowerBI/PowerBi星球/Power BI工具提示，这个问题你应该遇到过….md
+PowerBI/PowerBi星球/Power BI工具提示，这个问题你应该遇到过….md#**1、建立独立日期表**
+PowerBI/PowerBi星球/Power BI工具提示，这个问题你应该遇到过….md#**2、建立度量值**
+PowerBI/PowerBi星球/Power BI工具提示，这个问题你应该遇到过….md#**3、制作趋势图**
+PowerBI/PowerBi星球/Power BI帕累托分析，为什么累计占比是错误的？.md
+PowerBI/PowerBi星球/Power BI建立维度表常用的几种方式.md
+PowerBI/PowerBi星球/Power BI技巧  如何让切片器只显示有数据的选项？.md
+PowerBI/PowerBi星球/Power BI报告中制作动态摘要，这个好用的方法推荐给你.md
+PowerBI/PowerBi星球/Power BI报告中的动画效果，利用这三种方式轻松实现.md
+PowerBI/PowerBi星球/Power BI报告中的动画效果，利用这三种方式轻松实现.md#**1、在图表背景中插入动画**
+PowerBI/PowerBi星球/Power BI报告中的动画效果，利用这三种方式轻松实现.md#**2、在按钮插入动画**
+PowerBI/PowerBi星球/Power BI报告中的动画效果，利用这三种方式轻松实现.md#**3、在页面背景中插入动图**
+PowerBI/PowerBi星球/Power BI报告如何像PPT一样自动演示？.md
+PowerBI/PowerBi星球/Power BI报告设计技巧：动态工具提示.md
+PowerBI/PowerBi星球/Power BI数据分析入门案例：折扣计算问题.md
+PowerBI/PowerBi星球/Power BI数据分析入门案例：目标实际对比.md
+PowerBI/PowerBi星球/Power BI数据分析入门案例：费用分摊问题.md
+PowerBI/PowerBi星球/Power BI数据分析：任意时间段对比.md
+PowerBI/PowerBi星球/Power BI数据分析：如何快速找出连续下降的数据？.md
+PowerBI/PowerBi星球/Power BI数据建模.md
+PowerBI/PowerBi星球/Power BI数据建模，你遇到的各种问题，原来可以这样轻松解决.md
+PowerBI/PowerBi星球/Power BI数据源从Excel变更为文件夹应如何处理？.md
+PowerBI/PowerBi星球/Power BI文件太大无法发布？这个方法推荐给你.md
+PowerBI/PowerBi星球/Power BI本月正式推出的DAX新函数：OFFSET、INDEX、WINDOW.md
+PowerBI/PowerBi星球/Power BI条件格式规则，你知道怎么设置吗？.md
+PowerBI/PowerBi星球/Power BI根据历史数据进行预测的几种方式.md
+PowerBI/PowerBi星球/Power BI模板文件，你用过吗？.md
+PowerBI/PowerBi星球/Power BI界面重大改变：感受Excel般的熟悉与便利！.md
+PowerBI/PowerBi星球/Power BI的这个功能，每个人都用过，但是我建议你以后禁用.md
+PowerBI/PowerBi星球/Power BI盈亏平衡分析-优化.md
+PowerBI/PowerBi星球/Power BI自定义排序，你应该知道的技巧.md
+PowerBI/PowerBi星球/Power BI行级安全性三种常见的角色规则设置.md
+PowerBI/PowerBi星球/Power BI表格迷你图如何动态显示最近15日数据趋势？.md
+PowerBI/PowerBi星球/Power BI设计技巧：切片器的动态筛选.md
+PowerBI/PowerBi星球/Power BI财务应用：应收账款账龄分析.md
+PowerBI/PowerBi星球/Power BI连接mysql,如何实现定时自动刷新？.md
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**一、准备工作**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**三、测试应用效果**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**1\. 插入>窗体>编辑**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**2\. 连接数据源**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**3\. 添加字段。**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**4\. 利用公式获取PowerBI上下文**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**5\. 添加按钮**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**6\. 应用设计**
+PowerBI/PowerBi星球/Power BI集成Power Apps，轻松实现用户在报告中任意输入信息.md#**二、利用Power Apps创建应用**#**7\. 保存并发布**
+PowerBI/PowerBi星球/Power BI页面级权限控制，其实只需要这3步.md
+PowerBI/PowerBi星球/Power BI预算分析：预算实际比较.md
+PowerBI/PowerBi星球/Power BI预算分析：预算目标分解.md
+PowerBI/PowerBi星球/Power Query 数据丰富，依然轻松搞定！.md
+PowerBI/PowerBi星球/Power Query如何从局域网文件夹中获取数据？.md
+PowerBI/PowerBi星球/Power Query批量合并Excel数据，这个技巧你应该掌握.md
+PowerBI/PowerBi星球/Power Query批量合并Excel，列顺序列名都不一致怎么办？.md
+PowerBI/PowerBi星球/Power Query批量合并Excel，数据不是从第一行开始怎么办？.md
+PowerBI/PowerBi星球/PowerBI 10月更新，全新图标正式亮相.md
+PowerBI/PowerBi星球/PowerBI 2020年11月更新，这两个功能很好用.md
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**2、问答现在支持算术运算**
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**4、堆叠式图表支持总计**
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**Collage by CloudScope**
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md#xViz的瀑布图，支持“堆积瀑布图”选项和“仅值瀑布”的常见请求提示位置请求，以及现有的方差和细分分析用例。
+PowerBI/PowerBi星球/PowerBI 2020年9月更新，这几个功能你可能会用到.md#xViz的高级网格/小倍数图表，拥有10多种新图表选项，其中专用的样式和数据标签部分，可以分别为每个图表设置样式。
+PowerBI/PowerBi星球/PowerBI 2020年最后一次更新，这几个新增的可视化图表你应该知道.md
+PowerBI/PowerBi星球/PowerBI 2020年最后一次更新，这几个新增的可视化图表你应该知道.md#在进行两个指标的比较时，哑铃条形图可以非常直观的显示它们之间的差异。
+PowerBI/PowerBi星球/PowerBI 2020年最后一次更新，这几个新增的可视化图表你应该知道.md#它类似于子弹图，如果你需要重叠条形以紧凑格式比较两类数据，它非常适合，这种简洁的效果经常用于预算/实际比较。
+PowerBI/PowerBi星球/PowerBI 2021年11月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年12月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年3月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年4月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年5月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年6月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年6月更新，你应该知道的几个变化.md#**Dumbbell Bar Chart by Nova Silva**
+PowerBI/PowerBi星球/PowerBI 2021年6月更新，你应该知道的几个变化.md#**Zebra BI Charts 5.0**
+PowerBI/PowerBi星球/PowerBI 2021年6月更新，你应该知道的几个变化.md#**graphomate bubbles**
+PowerBI/PowerBi星球/PowerBI 2021年7月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年7月更新，你应该知道的几个变化.md#**2\. Power Automate 转为内置**
+PowerBI/PowerBi星球/PowerBI 2021年7月更新，你应该知道的几个变化.md#**Control Chart XmR**
+PowerBI/PowerBi星球/PowerBI 2021年7月更新，你应该知道的几个变化.md#**Drill Down Waterfall PRO**
+PowerBI/PowerBi星球/PowerBI 2021年7月更新，你应该知道的几个变化.md#可以生成更丰富的迷你图的效果，以获得惊人的视觉洞察力，迷你图支持以下图表类型：
+PowerBI/PowerBi星球/PowerBI 2021年8月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年8月更新，你应该知道的几个变化.md#**Floor Plan Visual by Simpson Associates**
+PowerBI/PowerBi星球/PowerBI 2021年8月更新，你应该知道的几个变化.md#X轴恒线值现在支持自定义了，这个功能虽小，但非常实用，选中图表，打开分析面板，就可以看到它：
+PowerBI/PowerBi星球/PowerBI 2021年8月更新，你应该知道的几个变化.md#新增的两个时间线可视化。
+PowerBI/PowerBi星球/PowerBI 2021年8月更新，你应该知道的几个变化.md#此视觉效果以一种每个人都可以理解的方式显示资产负债表。
+PowerBI/PowerBi星球/PowerBI 2021年9月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2021年首次更新，你应该知道的几个新功能.md
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md#**1\. 新的移动布局格式面板**
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md#**2. 动态M查询参数支持SQL Server**
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md#**3. Power BI Windows 应用支持深色模式**
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md#**4. Appsource界面，可以直接下载示例文件**
+PowerBI/PowerBi星球/PowerBI 2022年2月更新，你应该知道的几个变化.md#**5\. Power BI Desktop现在需要WebView2**
+PowerBI/PowerBi星球/PowerBI 2022年3月更新，折线图支持添加误差线了.md
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**1\. 新的格式窗格优化**
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**2. 工具提示支持矩阵图、折线图和面积图的钻取操作**
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**3\. 簇状****柱形图和条形图支持误差线**
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**4. 书签导航器现在可显示每组最后选择的书签**
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**5. **动态 M 查询参数功能GA****
+PowerBI/PowerBi星球/PowerBI 2022年4月更新，你应该知道的几个变化.md#**6.** **移动格式化选项支持视觉交互**
+PowerBI/PowerBi星球/PowerBI 2023年3月更新，你应该知道的一些变化.md
+PowerBI/PowerBi星球/PowerBI Web端报告快速刷新技巧.md
+PowerBI/PowerBi星球/PowerBI业务分析：贡献TOP N%销售额的产品数量.md
+PowerBI/PowerBi星球/PowerBI业务分析：连续销售天数.md
+PowerBI/PowerBi星球/PowerBI中为什么会有空白？以及查找缺失值的技巧.md
+PowerBI/PowerBi星球/PowerBI中的这个AI功能，你可能还没有用过.md
+PowerBI/PowerBi星球/PowerBI交互技巧：利用按钮实现跨页钻取.md
+PowerBI/PowerBi星球/PowerBI分析技巧：如何根据起止日期进行数据统计？.md
+PowerBI/PowerBi星球/PowerBI分析技巧：自定义动态分组.md
+PowerBI/PowerBi星球/PowerBI分析技巧：部门变动问题.md
+PowerBI/PowerBi星球/PowerBI切片器，原来还可以这样交互？.md
+PowerBI/PowerBi星球/PowerBI可视化  可展示多个指标的KPI图.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：切片器中增加自定义选项.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：动态切换矩阵背景标记.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：如何在矩阵中动态标记最大最小值？.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：折线图上直接显示类别.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：柱形图突出显示超出均值部分.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：突出显示特定数据的颜色和数据标签.md
+PowerBI/PowerBi星球/PowerBI可视化技巧：突出显示特定期间数据.md
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**10、壁纸**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**11、封面**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**12、颜****色主题**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**1、隐藏视觉对象标头**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**2、对齐和分组**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**3、锁定对象**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**4、切片器**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**5、标题**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**6、页面尺寸**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**7、布局**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**8、导航**
+PowerBI/PowerBi星球/PowerBI可视化报告美化的12个技巧.md#**9、页面背景**
+PowerBI/PowerBi星球/PowerBI可视化设计技巧：页内导航.md
+PowerBI/PowerBi星球/PowerBI可视化设计技巧：页内导航.md#**1、将不变的元素设计为页面背景图片**
+PowerBI/PowerBi星球/PowerBI可视化设计技巧：页内导航.md#**2、插入当前页面的醒目图标按钮**
+PowerBI/PowerBi星球/PowerBI可视化设计技巧：页内导航.md#**3、设置图标状态，并更新书签**
+PowerBI/PowerBi星球/PowerBI可视化设计：预警指标分析.md
+PowerBI/PowerBi星球/PowerBI可视化设计：预警指标分析.md#**1\. 指标参数化**
+PowerBI/PowerBi星球/PowerBI可视化设计：预警指标分析.md#**2\. 制作钻取详情页**
+PowerBI/PowerBi星球/PowerBI可视化设计：预警指标分析.md#**3\. 设计预警页面**
+PowerBI/PowerBi星球/PowerBI如何计算不同期间的共同客户.md
+PowerBI/PowerBi星球/PowerBI如何进行工作日的滚动计算？.md
+PowerBI/PowerBi星球/PowerBI度量值存放技巧，任意多级子文件夹管理.md
+PowerBI/PowerBi星球/PowerBI报告中莫名冒出来的筛选器，是怎么回事？.md
+PowerBI/PowerBi星球/PowerBI报告设计技巧：一键部分重置.md
+PowerBI/PowerBi星球/PowerBI报告设计技巧：一键重置.md
+PowerBI/PowerBi星球/PowerBI报告设计：一键应用清除所有切片器.md
+PowerBI/PowerBi星球/PowerBI数据分析中，如何用DAX计算出有效工作时间？.md
+PowerBI/PowerBi星球/PowerBI数据建模，为什么不建议你使用双向关系？.md
+PowerBI/PowerBi星球/PowerBI矩阵可视化技巧：总计显示在左侧+动态显示列.md
+PowerBI/PowerBi星球/PowerBI设计技巧：动态数据格式.md
+PowerBI/PowerBi星球/PowerBI设计技巧：工具提示开关.md
+PowerBI/PowerBi星球/PowerBI账户登录提示安全默认值？通过这个设置轻松关闭.md
+PowerBI/PowerBi星球/PowerBI预算分析：根据预算目标进行动态预测.md
+PowerBI/PowerBi星球/PowerBI预算分析：预测与预算目标差异比较.md
+PowerBI/PowerBi星球/PowerQuery  利用List.Zip进行特殊格式的一维表转换.md
+PowerBI/PowerBi星球/PowerQuery如何批量合并csv文件的指定列？.md
+PowerBI/PowerBi星球/PowerQuery快速批量更改源文件路径的小技巧.md
+PowerBI/PowerBi星球/PowerQuery批量合并Excel，前面有空行且不相等的解决办法.md
+PowerBI/PowerBi星球/PowerQuery批量合并Excel，原来这个方法更好用.md
+PowerBI/PowerBi星球/PowerQuery报错？利用参数轻松解决源文件路径问题.md
+PowerBI/PowerBi星球/PowerQuery数据处理技巧：时分秒文本转换为数字.md
+PowerBI/PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md
+PowerBI/PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md#**1\. 在PQ中重新加载**
+PowerBI/PowerBi星球/PowerQuery查询加载到数据模型后，列的顺序变了怎么办？.md#**2\. 利用SELECTCOLUMNS对列重新排序**
+PowerBI/PowerBi星球/PowerQuery添加索引，这几种情况你应该知道怎么做.md
+PowerBI/PowerBi星球/PowerQuery：源数据列名更改导致错误的问题.md
+PowerBI/PowerBi星球/RELATED、LOOKUPVALUE报错？它才是最通用的函数.md
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md#**1、在第2个参数外面套上CALCULATE**
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md#**2、第2个参数用度量值**
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md#**2、第2个参数用度量值**#**按年月和产品两个维度计算平均值**
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md#**2、第2个参数用度量值**#**按年月计算平均销售额**
+PowerBI/PowerBi星球/一文掌握Power BI中平均值的计算.md#**2、第2个参数用度量值**#**本年至今按月计算平均销售额**
+PowerBI/PowerBi星球/一文掌握Power BI中的IN运算符.md
+PowerBI/PowerBi星球/一文掌握Power BI矩阵总计的自定义计算.md
+PowerBI/PowerBi星球/一文掌握Power BI矩阵的自定义配色.md
+PowerBI/PowerBi星球/不写DAX也能做帕累托分析？这个Power BI图表绝了.md
+PowerBI/PowerBi星球/从东京奥运奖牌榜中，学到了一个数据可视化技巧.md
+PowerBI/PowerBi星球/从星友的提问中，学到了一个PowerBI可视化技巧.md
+PowerBI/PowerBi星球/体验ChatGPT，我和它聊聊Power BI.md
+PowerBI/PowerBi星球/体验Power BI  分分钟生成一份可视化图表.md
+PowerBI/PowerBi星球/使用Power BI制作个性的凸凹图.md
+PowerBI/PowerBi星球/使用Power BI制作可爱的棒棒糖图.md
+PowerBI/PowerBi星球/使用Power BI制作可爱的棒棒糖图.md#**1、Lolipop Bar Chart**
+PowerBI/PowerBi星球/使用Power BI制作可爱的棒棒糖图.md#**2、Lolipop Column Chart**
+PowerBI/PowerBi星球/使用Power Query是一种什么体验？.md
+PowerBI/PowerBi星球/假如Power BI融合ChatGPT，它将变成什么样？.md
+PowerBI/PowerBi星球/关于Power BI的下载和安装，你想知道的都在这里了.md
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md#**1、构造矩阵为什么会报错？**
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md#**2、为什么不显示数据？**
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md#**3、列标题排序问题**
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md#**4、无法根据原始数据自动缩进**
+PowerBI/PowerBi星球/关于Power BI矩阵，这5个常见的问题你应该也遇到过.md#**5、按矩阵格式导出数据**
+PowerBI/PowerBi星球/关于数据分析的这些活，交给ChatGPT做吧~.md
+PowerBI/PowerBi星球/分享21个相见恨晚的DAX编辑器快捷键.md
+PowerBI/PowerBi星球/分享一个 Power BI 文本展示的小妙招.md
+PowerBI/PowerBi星球/分享一个更实用的Power BI日期表.md
+PowerBI/PowerBi星球/分享一个网站，帮你轻松选择合适的图表.md
+PowerBI/PowerBi星球/分享两个图表，帮你在Power BI中轻松制作时间轴.md
+PowerBI/PowerBi星球/利用DAX配色，突出标识重点数据.md
+PowerBI/PowerBi星球/利用Excel和这个函数，对PowerBI报告进行动态的权限控制.md
+PowerBI/PowerBi星球/利用Power Automate，下载PowerBI中的数据到本地文件夹.md
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**一、在报表中添加 Power Automate 视觉对象**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**三、设置按钮格式**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**#**1\. 点击左下角的模板：从PowerBI更新Excel表**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**#**2\. 删除现有的步骤**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**#**3\. 添加步骤①：编辑**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**#**4\. 添加步骤②：创建csv表格**
+PowerBI/PowerBi星球/利用Power Automate，轻松下载PowerBI报告中的数据.md#**二、编辑流**#**5\. 添加步骤③：创建文件**
+PowerBI/PowerBi星球/利用Power BI字段参数，实现列级别安全性.md
+PowerBI/PowerBi星球/利用Power BI批量获取豆瓣电影数据.md
+PowerBI/PowerBi星球/利用Power BI智能叙述，生成动态报告摘要.md
+PowerBI/PowerBi星球/利用Power BI的书签导航器，原来设计导航如此简单.md
+PowerBI/PowerBi星球/利用Power BI的误差线突出标识特定数据.md
+PowerBI/PowerBi星球/利用Power BI行级安全性，限制用户访问权限.md
+PowerBI/PowerBi星球/利用Power BI计算组，动态切换各种范围的数据标签.md
+PowerBI/PowerBi星球/利用PowerBI Report Builder打造像素级完美报告.md
+PowerBI/PowerBi星球/利用PowerBI将累计数据还原当日发生数据，三种方法送给你.md
+PowerBI/PowerBi星球/利用PowerBI的这个功能，原来设计导航如此方便.md
+PowerBI/PowerBi星球/利用PowerBI的这个控件，美化你的切片器.md
+PowerBI/PowerBi星球/利用PowerBI的这个控件，美化你的切片器.md#切片器是报表设计的一个最常用也是最重要的控件，很多动态的交互都依靠切片器来完成，它的功能和用法也很简单，上手即用，PowerBI中内置的切片器几乎都能实现大多数所需要的效果。
+PowerBI/PowerBi星球/利用PowerBI的这个控件，美化你的切片器.md#搜索的时候，记得先在分类中选择“全部”，然后才能搜索到哦。
+PowerBI/PowerBi星球/利用PowerBI的这个控件，美化你的切片器.md#是不是很有趣。
+PowerBI/PowerBi星球/利用PowerBI的这个控件，美化你的切片器.md#还可以继续美化，文字都不要显示了，只用logo来筛选：
+PowerBI/PowerBi星球/利用PowerBI计算组，设计个性化数据标签.md
+PowerBI/PowerBi星球/利用PowerBI这个自定义对象，轻松展示列表信息.md
+PowerBI/PowerBi星球/利用PowerQuery转换一维表，这种格式的表格你见过吗？.md
+PowerBI/PowerBi星球/利用PowerQuery，批量合并多个Excel的指定列.md
+PowerBI/PowerBi星球/利用SEARCH函数轻松在PowerBI中模糊查找.md
+PowerBI/PowerBi星球/利用书签，轻松显示不同日期维度的数据趋势.md
+PowerBI/PowerBi星球/利用微软输入法，轻松为PowerBI报表添加图标.md
+PowerBI/PowerBi星球/利用网关实现Power BI报告的自动刷新.md
+PowerBI/PowerBi星球/利用这个方法，轻松搞定PowerBI多页面导航.md
+PowerBI/PowerBi星球/利用这个经典应用场景，学习PowerBI父子函数的用法.md
+PowerBI/PowerBi星球/原来Power BI不是必须从外部导入数据，还可以直接输入数据.md
+PowerBI/PowerBi星球/原来PowerBI里还有这个精美图表，你一定还不知道.md
+PowerBI/PowerBi星球/周末，推荐一个极具动感 PowerBI 自定义图表.md
+PowerBI/PowerBi星球/图表太多不知道用哪个？让PowerBI可视化辞典来帮你.md
+PowerBI/PowerBi星球/在Power BI中如何通过经纬度来计算距离？.md
+PowerBI/PowerBi星球/在Power BI中轻松使用可视化神器Charticulator.md
+PowerBI/PowerBi星球/在PowerBI中创建日期表，你可能会遇到的3个问题.md
+PowerBI/PowerBi星球/在PowerBI中创建日期表，你可能会遇到的3个问题.md#**1\. 系统报错：该表达式引用多列，多列不能转换为标量值**
+PowerBI/PowerBi星球/在PowerBI中创建日期表，你可能会遇到的3个问题.md#**2\. 系统报错：CALENDARAUTO 函数无法在模型中找到 DateTime 类型的基列。**
+PowerBI/PowerBi星球/在PowerBI中创建日期表，你可能会遇到的3个问题.md#**3\. FORMAT函数不能正常返回中文粒度**
+PowerBI/PowerBi星球/处理多对多关系，Excel中的PowerPivot与PowerBI哪个更方便？.md
+PowerBI/PowerBi星球/多列结构的二维表转一维表，PowerQuery可以这样做.md
+PowerBI/PowerBi星球/多列结构的二维表转一维表，PowerQuery可以这样做.md#**第一步：选中课程1和成绩1两列，点击合并列。**
+PowerBI/PowerBi星球/多列结构的二维表转一维表，PowerQuery可以这样做.md#**第三步：删除“属性”列，拆分“值”列，以之前合并时候的分割符空格为拆分符，并修改拆分后的列名。**
+PowerBI/PowerBi星球/多列结构的二维表转一维表，PowerQuery可以这样做.md#**第二步：选中“姓名”列，点击“逆透视其他列”，逆透视后数据结构如下。**
+PowerBI/PowerBi星球/如何“借鉴”别人家的 Power BI 作品.md
+PowerBI/PowerBi星球/如何为Power BI图表添加辅助线？.md
+PowerBI/PowerBi星球/如何为Power BI报表设计动画背景？.md
+PowerBI/PowerBi星球/如何为Power BI页面批量插入背景图片？.md
+PowerBI/PowerBi星球/如何利用Power BI原生图表制作甘特图？.md
+PowerBI/PowerBi星球/如何利用Power Query进行排名？.md
+PowerBI/PowerBi星球/如何利用PowerQuery将特殊文本日期转换为正常日期？.md
+PowerBI/PowerBi星球/如何利用PowerQuery将特殊文本日期转换为正常日期？.md#**1\. 修改区域设置**
+PowerBI/PowerBi星球/如何利用PowerQuery将特殊文本日期转换为正常日期？.md#**2\. 利用Date.FromText的Culture参数**
+PowerBI/PowerBi星球/如何利用PowerQuery将特殊文本日期转换为正常日期？.md#**3\. 利用Date.FromText的Format参数**
+PowerBI/PowerBi星球/如何在Power BI中制作各式各样的小多图？.md
+PowerBI/PowerBi星球/如何在Power BI中快速转换日期格式？.md
+PowerBI/PowerBi星球/如何在Power BI中计算和展示时间进度？.md
+PowerBI/PowerBi星球/如何在Power BI折线图中添加平均线？.md
+PowerBI/PowerBi星球/如何在Power BI报告中插入视频？.md
+PowerBI/PowerBi星球/如何在Power BI报告中插入链接？.md
+PowerBI/PowerBi星球/如何在Power BI报告中插入链接？.md#**1、利用文本框插入链接**
+PowerBI/PowerBi星球/如何在Power BI报告中插入链接？.md#**2、利用按钮插入链接**
+PowerBI/PowerBi星球/如何在Power BI报告中插入链接？.md#**3、利用表格/矩阵插入链接**
+PowerBI/PowerBi星球/如何在Power BI报告中添加个搜索框？.md
+PowerBI/PowerBi星球/如何在Power BI报告中添加个搜索框？.md#**1\. 利用切片器搜索**
+PowerBI/PowerBi星球/如何在Power BI报告中添加个搜索框？.md#**2\. 利用Text Filter搜索**
+PowerBI/PowerBi星球/如何在Power BI报告中添加个搜索框？.md#**3.利用Text search slicer搜索**
+PowerBI/PowerBi星球/如何在Power BI文件之间批量复制度量值？.md
+PowerBI/PowerBi星球/如何在PowerQuery中实现DAX中的IN运算？.md
+PowerBI/PowerBi星球/如何填充Power BI矩阵中的空白？.md
+PowerBI/PowerBi星球/如何用 PowerBI 做盈亏平衡分析？原来这么简单！.md
+PowerBI/PowerBi星球/如何用Power BI制作四象限图？.md
+PowerBI/PowerBi星球/如何用Power BI计算员工在职天数？.md
+PowerBI/PowerBi星球/如何用Power BI设计一个在线可视化作品？只需要这6步.md
+PowerBI/PowerBi星球/如何用Power BI设计复杂结构的表格？.md
+PowerBI/PowerBi星球/如何用Power BI进行工作日相关的计算？.md
+PowerBI/PowerBi星球/学习Power BI必须收藏的10个网址，推荐给你.md
+PowerBI/PowerBi星球/学会使用PowerBI的“数据警报”，随时跟踪业务指标.md
+PowerBI/PowerBi星球/展现人口结构的旋风图，Power BI可以这样制作.md
+PowerBI/PowerBi星球/手把手教你利用PowerBI实现动态TOPN及其他.md
+PowerBI/PowerBi星球/推荐5个有趣的Power BI自定义控件.md
+PowerBI/PowerBi星球/提升用户体验的PowerBI个性化视觉对象.md
+PowerBI/PowerBi星球/收藏  提升Power BI报告性能的最佳实践.md
+PowerBI/PowerBi星球/数据不规范？PowerQuery中这个M函数你应该掌握.md
+PowerBI/PowerBi星球/数据不规范？PowerQuery中这个M函数你应该掌握.md#**基本用法**
+PowerBI/PowerBi星球/数据不规范？PowerQuery中这个M函数你应该掌握.md#**总结**
+PowerBI/PowerBi星球/数据不规范？PowerQuery中这个M函数你应该掌握.md#**进阶用法**
+PowerBI/PowerBi星球/数据清洗中最常使用的十三招.md
+PowerBI/PowerBi星球/数据获取，PQ就是这么任性！.md
+PowerBI/PowerBi星球/无日期上下文如何计算同比环比？其实很简单.md
+PowerBI/PowerBi星球/无日期上下文的本月至今的同比环比  PowerBI星球.md
+PowerBI/PowerBi星球/日期维度的动态可视化技巧，这几篇文章推荐给你.md
+PowerBI/PowerBi星球/最新发布的PPT集成PowerBI插件，你最关心的几个问题.md
+PowerBI/PowerBi星球/玩转PowerBI的切片器，看这篇就够了.md
+PowerBI/PowerBi星球/用一个度量值返回列表？CONCATENATEX函数你应该掌握.md
+PowerBI/PowerBi星球/用一个度量值返回列表？CONCATENATEX函数你应该掌握.md#**1\. 返回多个类别名称**
+PowerBI/PowerBi星球/用一个度量值返回列表？CONCATENATEX函数你应该掌握.md#**2\. 返回多个类别的名称和数据**
+PowerBI/PowerBi星球/用一个度量值返回列表？CONCATENATEX函数你应该掌握.md#**3\. 按顺序来展示类别名称和数据**
+PowerBI/PowerBi星球/结合Power Automate，自动向任意邮箱发送数据警报.md
+PowerBI/PowerBi星球/自动展示最近N天，其实利用 Power Query 更简单.md
+PowerBI/PowerBi星球/认识3个新的Power BI可视化控件.md
+PowerBI/PowerBi星球/认识3个新的Power BI可视化控件.md#![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPdps8BZLtoJusqBlFlG4L38tJeHH4o3eoq4PwuibUFs4llTuuicSdhnfwmMVicib4t3S4RGbXF0tyBjA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+PowerBI/PowerBi星球/认识3个新的Power BI可视化控件.md#**Mass Filter**
+PowerBI/PowerBi星球/认识3个新的Power BI可视化控件.md#**Preselected Slicer(预选切片器)**
+PowerBI/PowerBi星球/认识Power BI.md
+PowerBI/PowerBi星球/认识Power BI中的财务函数.md
+PowerBI/PowerBi星球/这个Power BI可视化技巧，你学会了吗？.md
+PowerBI/PowerBi星球/这个Power BI报告加密技巧，看完你就可以用上！.md
+PowerBI/PowerBi星球/这个Power BI自定义图表，忍不住推荐给你，真的太强大了.md
+PowerBI/PowerBi星球/这个PowerBI图表，帮你轻松实现Excel目标进度图效果.md
+PowerBI/PowerBi星球/这个PowerQuery数据整理技巧，你应该会用到.md
+PowerBI/PowerBi星球/这些小众的可视化图表，你用过几个？.md
+PowerBI/PowerBi星球/通过一个案例，学习PowerQuery性能提升技巧.md
+PowerBI/PowerBi星球/通过一个案例，掌握Power BI可视化的制作技巧.md
+PowerBI/PowerBi星球/通过这个设置，Power BI表格秒变高大上.md
+PowerBI/wujunmin/Power BI SVG地图应用总结-2022版.md
+PowerBI/wujunmin/Power BI 动态背景的一个实现路径.md
+PowerBI/wujunmin/Power BI 条件格式图标的五重境界.md
+PowerBI/wujunmin/Power BI 模拟豆瓣人性化涂鸦.md
+PowerBI/wujunmin/Power BI 模拟金融时报市场升降卡片图.md
+PowerBI/wujunmin/Power BI 表格无限滚屏效果.md
+PowerBI/wujunmin/Power BI制作世界杯射手榜表格.md
+PowerBI/wujunmin/Power BI模拟FIFA世界杯球员数据卡片图-兼谈任意卡片图的制作.md
+PowerBI/wujunmin/Power BI模拟大厂图表总结贴-2022版.md
+PowerBI/wujunmin/Power BI模拟谷歌2022搜索排行榜.md
+PowerBI/wujunmin/Power BI窗口函数应用于图表设计.md
+PowerBI/wujunmin/Power BI表格显示图片的若干问题.md
+PowerBI/wujunmin/Power BI表格矩阵实现大头针图的极简方案.md
+PowerBI/wujunmin/Power BI表达羊.md
+PowerBI/wujunmin/如何将假日安排植入Power BI日历.md
+Templates/T-frontmatter.md
+home/Powerbi账号概述.md
+home/index_PowerBI战友联盟 1.md
+home/index_PowerBI战友联盟.md
+home/index_Powerbi星球.md
+home/index_Powerbi星球.md#Powerbi星球
+home/index_Powerbi星球.md#Powerbi星球#2017文件汇总#201712文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202001文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202002文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202003文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202004文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202005文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202006文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202007文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202008文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202009文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202010文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202011文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2020文件汇总#202012文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202101文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202102文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202103文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202104文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202105文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202106文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202107文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202108文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202109文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202110文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202111文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2021文件汇总#202112文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#202201文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202202文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202203文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202204文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202205文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202206文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202207文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202208文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202209文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202210文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202211文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2022文章汇总#💕202212文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2023文章汇总#202304文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2023文章汇总#💕202301文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2023文章汇总#💕202302文章汇总
+home/index_Powerbi星球.md#Powerbi星球#2023文章汇总#💕202303文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2017文件汇总#💕201712文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#202201文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202201文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202202文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202203文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202204文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202205文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202206文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202207文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202208文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202209文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202210文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202211文章汇总
+home/index_Powerbi星球.md#Powerbi星球#🌻2022文章汇总#💕202212文章汇总
+home/index_Powerbi星球.md#函数抽取
+home/index_wujunmin.md
+home/未命名.md
+home/笔记.md
+mytexttools.md
+网络剪藏/4月/2021年BI魔力象限发布，这也是一个很棒的动态散点图练习素材.md
+网络剪藏/4月/Excel中PowerQuery的全自动动态路径.md
+网络剪藏/4月/PQ高阶技能：M函数.md
+网络剪藏/4月/Power BI 总计错误的终极解决方案(二).md
+网络剪藏/4月/Power BI与Power Query、Power Pivot 是什么关系？.md
+网络剪藏/4月/Power BI可视化技巧：折线图动态显示预算实际.md
+网络剪藏/4月/Power BI可视化技巧：柱形图动态显示预算实际.md
+网络剪藏/4月/Power BI如何动态展示表？送你两种方法.md
+网络剪藏/4月/Power BI如何计算任意所选期间的环比？.md
+网络剪藏/4月/Power BI如何进行财年分析？.md
+网络剪藏/4月/Power BI实用技巧：利用DAX隐藏未来日期的计算.md
+网络剪藏/4月/Power BI导航设计：多级下拉菜单.md
+网络剪藏/4月/Power BI数据建模.md
+网络剪藏/4月/Power BI根据历史数据进行预测的几种方式.md
+网络剪藏/4月/Power BI预算分析：预算实际比较.md
+网络剪藏/4月/Power BI预算分析：预算目标分解.md
+网络剪藏/4月/Power Query 数据丰富，依然轻松搞定！.md
+网络剪藏/4月/Power Query批量合并Excel，数据不是从第一行开始怎么办？.md
+网络剪藏/4月/PowerBI 10月更新，全新图标正式亮相.md
+网络剪藏/4月/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**2、问答现在支持算术运算**
+网络剪藏/4月/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**4、堆叠式图表支持总计**
+网络剪藏/4月/PowerBI 2020年9月更新，这几个功能你可能会用到.md#**Collage by CloudScope**
+网络剪藏/4月/PowerBI 2020年9月更新，这几个功能你可能会用到.md#xViz的瀑布图，支持“堆积瀑布图”选项和“仅值瀑布”的常见请求提示位置请求，以及现有的方差和细分分析用例。
+网络剪藏/4月/PowerBI 2020年9月更新，这几个功能你可能会用到.md#xViz的高级网格/小倍数图表，拥有10多种新图表选项，其中专用的样式和数据标签部分，可以分别为每个图表设置样式。
+网络剪藏/4月/PowerBI 2021年3月更新，你应该知道的几个变化.md
+网络剪藏/4月/PowerBI 2021年7月更新，你应该知道的几个变化.md#**2\. Power Automate 转为内置**
+网络剪藏/4月/PowerBI 2021年7月更新，你应该知道的几个变化.md#**Control Chart XmR**
+网络剪藏/4月/PowerBI 2021年7月更新，你应该知道的几个变化.md#**Drill Down Waterfall PRO**
+网络剪藏/4月/PowerBI 2021年7月更新，你应该知道的几个变化.md#可以生成更丰富的迷你图的效果，以获得惊人的视觉洞察力，迷你图支持以下图表类型：
+网络剪藏/4月/PowerBI 2021年首次更新，你应该知道的几个新功能.md
+网络剪藏/4月/PowerBI切片器，原来还可以这样交互？.md
+网络剪藏/4月/PowerBI可视化技巧：柱形图突出显示超出均值部分.md
+网络剪藏/4月/PowerBI如何计算不同期间的共同客户.md
+网络剪藏/4月/PowerBI报告设计技巧：一键重置.md
+网络剪藏/4月/PowerBI数据建模，为什么不建议你使用双向关系？.md
+网络剪藏/4月/PowerBI设计技巧：工具提示开关.md
+网络剪藏/4月/PowerQuery报错？利用参数轻松解决源文件路径问题.md
+网络剪藏/4月/体验Power BI  分分钟生成一份可视化图表.md
+网络剪藏/4月/使用Power Query是一种什么体验？.md
+网络剪藏/4月/分享一个 Power BI 文本展示的小妙招.md
+网络剪藏/4月/利用Power BI批量获取豆瓣电影数据.md
+网络剪藏/4月/利用PowerBI Report Builder打造像素级完美报告.md
+网络剪藏/4月/利用PowerBI的这个控件，美化你的切片器.md#切片器是报表设计的一个最常用也是最重要的控件，很多动态的交互都依靠切片器来完成，它的功能和用法也很简单，上手即用，PowerBI中内置的切片器几乎都能实现大多数所需要的效果。
+网络剪藏/4月/利用PowerBI的这个控件，美化你的切片器.md#搜索的时候，记得先在分类中选择“全部”，然后才能搜索到哦。
+网络剪藏/4月/利用PowerBI的这个控件，美化你的切片器.md#是不是很有趣。
+网络剪藏/4月/利用PowerBI的这个控件，美化你的切片器.md#还可以继续美化，文字都不要显示了，只用logo来筛选：
+网络剪藏/4月/利用PowerQuery，批量合并多个Excel的指定列.md
+网络剪藏/4月/利用书签，轻松显示不同日期维度的数据趋势.md
+网络剪藏/4月/原来PowerBI里还有这个精美图表，你一定还不知道.md
+网络剪藏/4月/周末，推荐一个极具动感 PowerBI 自定义图表.md
+网络剪藏/4月/处理多对多关系，Excel中的PowerPivot与PowerBI哪个更方便？.md
+网络剪藏/4月/如何为Power BI报表设计动画背景？.md
+网络剪藏/4月/如何为Power BI页面批量插入背景图片？.md
+网络剪藏/4月/如何在Power BI文件之间批量复制度量值？.md
+网络剪藏/4月/如何用 PowerBI 做盈亏平衡分析？原来这么简单！.md
+网络剪藏/4月/手把手教你利用PowerBI实现动态TOPN及其他.md
+网络剪藏/4月/提升用户体验的PowerBI个性化视觉对象.md
+网络剪藏/4月/收藏  提升Power BI报告性能的最佳实践.md
+网络剪藏/4月/数据不规范？PowerQuery中这个M函数你应该掌握.md#**基本用法**
+网络剪藏/4月/数据不规范？PowerQuery中这个M函数你应该掌握.md#**总结**
+网络剪藏/4月/数据不规范？PowerQuery中这个M函数你应该掌握.md#**进阶用法**
+网络剪藏/4月/数据清洗中最常使用的十三招.md
+网络剪藏/4月/数据获取，PQ就是这么任性！.md
+网络剪藏/4月/无日期上下文如何计算同比环比？其实很简单.md
+网络剪藏/4月/无日期上下文的本月至今的同比环比  PowerBI星球.md
+网络剪藏/4月/日期维度的动态可视化技巧，这几篇文章推荐给你.md
+网络剪藏/4月/玩转PowerBI的切片器，看这篇就够了.md
+网络剪藏/4月/认识Power BI.md

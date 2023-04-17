@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-22T00:09:46 (UTC +08:00)
-tags: 
+tags: wx/pbi/DAX函数 
 aliases: null
 pagetitle: Power BI窗口函数应用于图表设计
 source: https://mp.weixin.qq.com/s/GYUJRjut29I2guq70CrkLw
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 泛读文章 
 notes: False
 ZK: Origin
 uid: 
@@ -14,7 +14,7 @@ uid:
 
 Power BI于2022年12月推出的窗口函数极大简化了使用[SVG矢量图自定义图表的](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)过程。OFFSET、INDEX和WINDOW函数对设计连续型图表有重大意义。（不了解窗口函数参考采总此文：[Power BI本月正式推出的DAX新函数：OFFSET、INDEX、WINDOW](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484083291&idx=1&sn=18c13a35482f8e36820368e5afb095ce&chksm=8e13b08cb964399ab081b2a692fd7ee8f9084104dc756f254a2182798ae93ded282579a8b706&scene=21#wechat_redirect)）
 
-什么是连续型图表？连续性图表是指当前维度图表的内容和上一维度或下一维度存在关联。条形图柱形图是非连续型图表，因为每个柱子是独立分布的。折线图属于连续型图表，例如下图的纵向折线图，本行的折线走向受上一行和下一行影响。
+什么是连续型图表？==连续性图表是指当前维度图表的内容和上一维度或下一维度存在关联==。条==形图柱形图是非连续型图表==，因为每个柱子是独立分布的。==折线图属于连续型图表==，例如下图的纵向折线图，本行的折线走向受上一行和下一行影响。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6SqcrZdMBhoMn0MWaj42maxSDBbheCtH4aeiaZjpPqqdd9ghhNmRnrRcjk146vRyiayRM1o8mJtTZ5w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -22,7 +22,7 @@ Power BI于2022年12月推出的窗口函数极大简化了使用[SVG矢量图�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6SqcrZdMBhoMn0MWaj42maxmWB6CkHtrDQY4dLc6bEibYpe7XVZfvxHF3XqgvIAhEWarI5lLiauv7Kw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-OFFSET、INDEX、WINDOW分别实现了单行相对定位、单行绝对定位和任意范围的相对定位及绝对定位。**以下以纵向折线图为例进行讲解。**
+OFFSET、INDEX、WINDOW分别实现了==单行相对定位、单行绝对定位和任意范围的相对定位及绝对定位==。**以下以纵向折线图为例进行讲解。**
 
 纵向折线图每一行的折线形状由上一行数据、本行数据和下一行数据共同决定。比如，上一行数据50，本行数据20，下一行数据80，我们大体可以判断本行的折线走向大致如下图所示：
 
@@ -32,6 +32,7 @@ OFFSET、INDEX、WINDOW分别实现了单行相对定位、单行绝对定位和
 
 ```
 上一行 = CALCULATE([Value],OFFSET(-1,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
+下一行 = CALCULATE([Value],OFFSET(1,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
 ```
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6Ro5z9o7jVFn9TibTjRqNgrWZR06A4gbRLGL8mK4MYvBApiaq3RdOdgEdu3uDx5GXGphd3S5wGwRh7g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -40,6 +41,30 @@ OFFSET、INDEX、WINDOW分别实现了单行相对定位、单行绝对定位和
 
 ```
 纵向折线图 = 
+VAR OffsetNext=CALCULATE([Value],OFFSET(1,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
+VAR OffsetLast=CALCULATE([Value],OFFSET(-1,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
+VAR MaxValue=MAXX(ALLSELECTED('日期表'[Date]),[Value])
+VAR MinValue=MINX(ALLSELECTED('日期表'[Date]),[Value])
+VAR Gap=MaxValue-MinValue
+VAR r= 5 
+VAR X_Last= (50-2*r) *(OffsetLast-MinValue)/Gap +r
+VAR X= (50-2*r) *([Value]-MinValue)/Gap + r
+VAR X_Next= (50-2*r) * (OffsetNext-MinValue)/Gap + r
+VAR Y_Last= -25
+VAR Y= 25
+VAR Y_Next= 75
+VAR SVG = "data:image/svg+xml;utf8,
+    <svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'>
+        <polyline id='wujunmin'
+            points='"&
+                IF(OffsetLast<>BLANK(),X_Last &","&Y_Last&" ",BLANK())
+                & X &","&Y&" "& 
+                IF(OffsetNext<>BLANK(),X_Next &","&Y_Next,BLANK())&"' " & "
+            stroke-width='1' stroke='black' fill='none'/>
+        <circle cx='"&X&"' cy='"&Y&"' r='"&r&"' fill='" &IF([Value]>=30,"DarkCyan","tomato")&"' />
+    </svg>"
+RETURN
+    SVG
 ```
 
 此时你大概率得不到正确的结果，很可能显示如下图的断裂效果。这是因为水平网格线的存在切断了连线。  
@@ -62,10 +87,11 @@ OFFSET、INDEX、WINDOW分别实现了单行相对定位、单行绝对定位和
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6Ro5z9o7jVFn9TibTjRqNgrWFZRsxAf95xwP5AN2wjSUZ0OPiaQ0XaHKK4meZId0Nmaygs5hK8GAddg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-目前（截止2022年12月）推出的窗口函数最神通广大的是WINDOW，一定程度上，可以只用WINDOW，而不使用OFFSET和INDEX。比如上方度量值在定义上一行和下一行的值时使用了OFFSET，现在替换为WINDOW如下所示。WINDOW需要指明定位范围，例如上一行（度量值中的offsetlast）定位的起点和终点都是-1，REL表示相对偏移。
+目前（截止2022年12月）推出的窗口函数最神通广大的是WINDOW，==一定程度上，可以只用WINDOW，而不使用OFFSET和INDEX。==比如上方度量值在定义上一行和下一行的值时使用了OFFSET，现在替换为WINDOW如下所示。WINDOW需要指明定位范围，例如上一行（度量值中的offsetlast）定位的起点和终点都是-1，REL表示相对偏移。
 
 ```
-VAR OffsetNext=CALCULATE([Value],WINDOW(1,REL,1,REL,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
+VAR OffsetNext=CALCULATE([Value],WINDOW(1,REL,1,REL,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
+VAR OffsetLast=CALCULATE([Value],WINDOW(-1,REL,-1,REL,ALLSELECTED('日期表'[Date]),ORDERBY('日期表'[Date])))
 ```
 
 度量值同样可以放于表格矩阵列显示，也可设置为条件格式图标，以下是条件格式效果。  
@@ -75,9 +101,3 @@ VAR OffsetNext=CALCULATE([Value],WINDOW(1,REL,1,REL,ALLSELECTED('日期表'[Dat
 本文INDEX函数还没有用到，且听后文分解。前期介绍的若干自定义图表都可以基于窗口函数进行优化。  
 
 本文PBIX源文件在下方知识星球下载。直达链接（左下角阅读原文也可访问）：https://t.zsxq.com/09PlAsPkz
-
-___
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-[详情](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)

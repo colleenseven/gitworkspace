@@ -1,14 +1,14 @@
 ---
 ZK: Origin
-notes: Fa'l'se
+notes: False
 aliases: null
 create_date: 2022-01-12T12:32:12 (UTC +08:00)
-tags: 
+tags: wx/pbi/DAX函数 
 pagetitle: Power BI数据分析入门案例：费用分摊问题
 source: https://mp.weixin.qq.com/s/-3Arce_ol0d2ZPXsSRByQg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 泛读文章 
 uid: 
 ---
 
@@ -34,7 +34,7 @@ uid:
 
 **（2）业务员维度表**  
 
-由于业务员和部门是层级关系，可以用SUMMARIZE一次性从销售表中提取两个字段：
+由于==业务员和部门是层级关系，可以用SUMMARIZE一次性从销售表中提取两个字段==：
 
 > 业务员表 =
 > 
@@ -109,15 +109,3 @@ uid:
 这样就实现了任一维度的费用分摊，并没有用到复杂的DAX公式。  
 
 通过这个例子，不仅是学习如何解决分摊问题，还可以进一步的理解度量值的逻辑，它是一个动态的值，通过上下文的切换动态返回当前上下的结果，当然也不要忘了，度量值背后的数据模型，才是数据分析的灵魂。
-
-[**PowerBI星球的最新版****内容合辑****，值得你收藏学习：**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN8YOicNXzCaSLpQrKXOL0LsNeYw0fj3iaGFy7XSwwmibHicdtiaHEbhgmHSPXQlkg3WiaVA4hJ8PGDcdEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**  
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMFLnwgdbghRHPLicKRaV70mVCZVq8Fhm46rkciaeOrLFJCv5f1omJxF8256YogHflkicEDM29aUMtaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

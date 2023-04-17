@@ -1,14 +1,14 @@
 ---
 ZK: Origin
-notes: Fa'l'se
+notes: False
 aliases: null
 create_date: 2022-01-19T12:30:09 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 pagetitle: Power BI可视化技巧：矩阵中迷你图的妙用
 source: https://mp.weixin.qq.com/s/_5Q4pwqzHvcnSP9JwAlf0Q
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 uid: 
 ---
 
@@ -73,13 +73,3 @@ uid:
 这里主要就是灵活运用矩阵新的迷你图功能，并熟练掌握矩阵的各项细节设置，建议动手做一遍，矩阵的细节设置如果还不是太清楚，可以参考：
 
 [Power BI矩阵格式设置13招](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484071983&idx=1&sn=3fd379f7bf88141747ac9a09dc4273b7&chksm=8e0c44f8b97bcdee4cb068fd1e47e033629cf0734dd29c8341746d449372068dbb4e6d298cba&scene=21#wechat_redirect)  
-
-[**PowerBI星球的最新版****内容合辑****，值得你收藏学习：**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN8YOicNXzCaSLpQrKXOL0LsNeYw0fj3iaGFy7XSwwmibHicdtiaHEbhgmHSPXQlkg3WiaVA4hJ8PGDcdEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**  
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

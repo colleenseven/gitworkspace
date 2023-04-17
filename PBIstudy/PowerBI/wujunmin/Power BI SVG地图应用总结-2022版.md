@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-31T00:07:28 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI SVG地图应用总结-2022版
 source: https://mp.weixin.qq.com/s/T_X_PC6xwvqXowDplBrl4g
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -22,7 +22,7 @@ _申明：本公众号提到的地图仅供个人学习_
 
 ___
 
-近年我比较了Power BI不同类型地图的优劣，从实用性和可扩展性结合，最后选择SVG地图作为主要研究对象。2022年也取得了一点成果，本文是一个总结。  
+近年我比较了Power BI不同类型地图的优劣，从实用性和可扩展性结合，最后选择==SVG地图作为主要研究对象==。2022年也取得了一点成果，本文是一个总结。  
 
 **1\. SVG视觉对象及应用情景**  
 
@@ -36,7 +36,7 @@ Power BI显示SVG着色地图常用的视觉对象有三个，内置表格/矩�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6RBPe2miaDQAibZ8PeGwEdjEX4MbtsXhY1SvJm1PicmZhiabQ6XlvhK7m2JmDMwNdI2Fytb14CU9Ee2IA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-Synoptic Panel是最主要的Power BI SVG着色地图载体，各个层级都可以使用。《[Power BI Synoptic Panel显示着色地图](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488025&idx=1&sn=d2200a158b4edd501c78173fdfd29f8e&chksm=97db2b49a0aca25f7b600d2e9a0036df1e48c642359be95e7a5f4add9fd93dc40d5b85a258c4&scene=21#wechat_redirect)》这个视频介绍了该视觉对象的详细用法。
+==Synoptic Panel是最主要的Power BI SVG着色地图载体==，各个层级都可以使用。《[Power BI Synoptic Panel显示着色地图](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488025&idx=1&sn=d2200a158b4edd501c78173fdfd29f8e&chksm=97db2b49a0aca25f7b600d2e9a0036df1e48c642359be95e7a5f4add9fd93dc40d5b85a258c4&scene=21#wechat_redirect)》这个视频介绍了该视觉对象的详细用法。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6RBPe2miaDQAibZ8PeGwEdjEXP7ic4mLMeW5GyAjRPkK25dV1eNKwwl5dQUSnWo00o58udRj7sJBSmyw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -92,7 +92,7 @@ ___
 
 以上操作方式大都使用了地理的拼音作为ID与Power BI连接，因此需要数据源中准备拼音列。能不能**直接识别中文地理名称**？《[Power BI着色地图优化中文地理标签](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488452&idx=1&sn=b71b0d20ece1dc8f87f6259df62b290b&chksm=97db2a94a0aca382b66ee46b7ca20bb27ca32dcfa933c39ef148ab0ab2aa46b32ee4541ce2c9&scene=21#wechat_redirect)》提供了解决方案。
 
-## [Synoptic Panel](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488025&idx=1&sn=d2200a158b4edd501c78173fdfd29f8e&chksm=97db2b49a0aca25f7b600d2e9a0036df1e48c642359be95e7a5f4add9fd93dc40d5b85a258c4&scene=21#wechat_redirect)是Power BI中显示着色地图的良好载体，然而它的缺陷也不少。比方地图大小无法随着外部切片的变化而**自适应**，《[Power BI着色地图自适应画布大小](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488505&idx=1&sn=6cac4f79e237a5dff6bd9aca60c2b9b9&chksm=97db2aa9a0aca3bf14104666ebf89cd4f18964e67a929b3ae75d159ef0746aeed6e36c718139&scene=21#wechat_redirect)》给出了一种解决思路。
+ [Synoptic Panel](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488025&idx=1&sn=d2200a158b4edd501c78173fdfd29f8e&chksm=97db2b49a0aca25f7b600d2e9a0036df1e48c642359be95e7a5f4add9fd93dc40d5b85a258c4&scene=21#wechat_redirect)是Power BI中显示着色地图的良好载体，然而它的缺陷也不少。比方地图大小无法随着外部切片的变化而**自适应**，《[Power BI着色地图自适应画布大小](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247488505&idx=1&sn=6cac4f79e237a5dff6bd9aca60c2b9b9&chksm=97db2aa9a0aca3bf14104666ebf89cd4f18964e67a929b3ae75d159ef0746aeed6e36c718139&scene=21#wechat_redirect)》给出了一种解决思路。
 
 地图不仅仅可以填充颜色，也可以条件格式变换边框颜色《[Power BI 地图轮廓颜色变化](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247490967&idx=1&sn=0ffd9e0e94281c15b956bfe152f73b49&chksm=97db24c7a0acadd107768558de2112230330a3d5a31fdaf84a92b5eec2d06966c1dc91e3dee1&scene=21#wechat_redirect)》给出了办法。
 
@@ -121,5 +121,3 @@ ___
 ___
 
 星球将在2023年1月1日涨价，有兴趣的读者不要错过。详细介绍：[Power BI业务实战及图表开发社群&视频课程](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

@@ -1,16 +1,18 @@
 ---
 ZK: Origin
-notes: Fa'l'se
+notes: False
 aliases: null
 create_date: 2022-01-14T12:31:47 (UTC +08:00)
-tags: 
+tags: wx/pbi/DAX函数 
 pagetitle: Power BI数据分析入门案例：折扣计算问题
 source: https://mp.weixin.qq.com/s/RX0xUbDXwyP3Q5hqzDIIHQ
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 精读文章 
 uid: 
 ---
+
+DAX :: SUMX, SELECTEDVALUE ,FILTER ,IF,COUNTROWS , CALCULATE ,SUM
 
 前面介绍了两个Power BI数据分析入门案例：
 
@@ -38,7 +40,7 @@ uid:
 
 构造模型是PowerBI数据分析的基础，先梳理需要分析的维度，建立合适的模型，而不建议拿到数据，直接就利用这些表开始写度量值计算。
 
-就以上的分析需求来说，分析维度是三个：日期、平台和产品，所以先做三个维度表，都可以利用DAX来生成。
+就以上的分析需求来说，分析维度是三个：==日期、平台和产品，所以先做三个维度表，都可以利用DAX来生成==。
 
 日期表制作很简单，以前专门介绍过：[玩PowerBI必备的日期表制作方式汇总](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067654&idx=1&sn=905c186a9cbd91159b6615924a2d5068&chksm=8e0c7791b97bfe87623904f7002cd6cb726f711c6e7a289a36c9a4973964d907493aa2397fe7&scene=21#wechat_redirect)
 
@@ -91,13 +93,3 @@ uid:
 其实用PowerBI做各种业务分析，抛开细节的业务逻辑，主要的步骤均是如此，关键是要多思考多练习，做到举一反三。
 
 本文示例文件可以在「PowerBI星球」公众号后台发送"折扣计算"获取。
-
-[**PowerBI星球的最新版****内容合辑****，值得你收藏学习：**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJN8YOicNXzCaSLpQrKXOL0LsNeYw0fj3iaGFy7XSwwmibHicdtiaHEbhgmHSPXQlkg3WiaVA4hJ8PGDcdEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-___
-
-**如果你对PowerBI感兴趣，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和4000+ 爱好者一起精进~**  
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松入门。

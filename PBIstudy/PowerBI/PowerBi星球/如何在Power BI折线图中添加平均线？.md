@@ -1,6 +1,6 @@
 ---
 create_date: 2022-12-06T23:50:08 (UTC +08:00)
-tags: 
+tags: wx/pbi/DAX函数 
 aliases: null
 pagetitle: 如何在Power BI折线图中添加平均线？
 source: https://mp.weixin.qq.com/s/_CcFiQ7l-RcNzDmbjr7Skg
@@ -19,18 +19,19 @@ DAX:: IF,SELECTEDVALUE ,AVERAGEX ,ALL ,CALCULATE, TREATAS  ,VALUES
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOa6zmfQRCLeWwgIR5m4s4rDseMCDmKQ0blZW39LyVvUibheNdsiadrlicUH9e5CXTfWVtnasPxoKicxQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 如果使用自带的添加平均值线的功能，它展现的是一条直线。
-
-上图中的平均值，展示的是全年每个月份每个产品类别整体的均值，和每个月份无关，所以是一条各月份相等的直线。如果想添加一条按月计算的平均值折线，应该怎么做呢？  
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOa6zmfQRCLeWwgIR5m4s4rlR6Ot3m7loATTNCCAC1CtUKjSvl6PVib0fLJdZDgG5oeefKsRs6VBnQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOa6zmfQRCLeWwgIR5m4s4rlR6Ot3m7loATTNCCAC1CtUKjSvl6PVib0fLJdZDgG5oeefKsRs6VBnQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+上图中的平均值，展示的是全年每个月份每个产品类别整体的均值，和每个月份无关，所以是一条各月份相等的直线。如果想添加一条==按月计算的平均值折线==，应该怎么做呢？  
 
 对于多系列的折线图，如果每一条折线是一个独立的度量值，这种相对简单，再写一个平均值的度量值放到折线图中即可。
 
-<mark style="background: #ADCCFFA6;">多系列折线图更常规更简单的做法是只有一个度量值，在图例中放入字段</mark>，上图就是这样做的，图例中是产品类别字段，每条折线表示一个类别，如果想添加一条折线，就需要在图例中添加一个类别。
+<mark style="background: #ADCCFFA6;">多系列折线图更常规更简单的做法是只有一个度量值，在图例中放入字段</mark>，上图就是这样做的，图例中是产品类别字段，每条折线表示一个类别，如果==想添加一条折线，就需要在图例中添加一个类别==。
 
 整体思路是<mark style="background: #ADCCFFA6;">先构造带平均值的图例字段，并用DAX来实现每月均值的计算</mark>，下面就以这种做法来看看实现步骤。
 
 **1\. 创建辅助表**
 
 先建立一个辅助表，在产品类别中添加一个“平均值”的类别，方式如下：  
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPgscuWHhFWJeibJDYN7mPB9xXQ9KcgGvSVXFvdksheD0GtRRibewPSO0cxLCMxBQ8vDaickUqahMiaUw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPgscuWHhFWJeibJDYN7mPB9xXQ9KcgGvSVXFvdksheD0GtRRibewPSO0cxLCMxBQ8vDaickUqahMiaUw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 关于创建辅助表的更多方式请参考：[Power BI 辅助表制作方式汇总](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484071809&idx=1&sn=9e8f4916082c32cc0291a2e4e565f1fd&chksm=8e0c4756b97bce4087ec53dfb6e5380e7cb0662e73fa070f831e4283095505a5aced233e59c8&scene=21#wechat_redirect)
 

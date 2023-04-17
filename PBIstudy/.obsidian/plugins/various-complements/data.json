@@ -47,107 +47,171 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "CALCULATETABLE": {
-      "CALCULATETABLE": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672758762067
+    "精读文章": {
+      "精读文章": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1681655547618
         }
       }
     },
-    "VALUES": {
-      "VALUES": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1672761513515
+    "wx/pbi/数据处理功能": {
+      "wx/pbi/数据处理功能": {
+        "frontMatter": {
+          "count": 20,
+          "lastUpdated": 1681651569016
+        }
+      }
+    },
+    "wx/pbi/PQ数据处理": {
+      "wx/pbi/PQ数据处理": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1681651268039
+        }
+      }
+    },
+    "已完成": {
+      "已完成": {
+        "frontMatter": {
+          "count": 34,
+          "lastUpdated": 1681661423070
+        }
+      }
+    },
+    "泛读文章": {
+      "泛读文章": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1681660149889
+        }
+      }
+    },
+    "wx/pbi/可视化图表": {
+      "wx/pbi/可视化图表": {
+        "frontMatter": {
+          "count": 17,
+          "lastUpdated": 1681661420166
+        }
+      }
+    },
+    "浏览文章": {
+      "浏览文章": {
+        "frontMatter": {
+          "count": 34,
+          "lastUpdated": 1681661425431
         }
       }
     },
     "ALLSELECTED": {
       "ALLSELECTED": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1672847311878
+          "count": 2,
+          "lastUpdated": 1681635629555
         }
       }
     },
     "SWITCH": {
       "SWITCH": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672759086585
+          "count": 3,
+          "lastUpdated": 1681639521804
         }
       }
     },
-    "202211文章汇总": {
-      "202211文章汇总": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672760344953
+    "wx/pbi/DAX函数": {
+      "wx/pbi/DAX函数": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1681660142546
         }
       }
     },
     "SELECTEDVALUE": {
       "SELECTEDVALUE": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1672847784333
-        }
-      }
-    },
-    "AVERAGEX": {
-      "AVERAGEX": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672761500428
+          "count": 2,
+          "lastUpdated": 1681655482948
         }
       }
     },
     "CALCULATE": {
       "CALCULATE": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1672847755118
+          "count": 5,
+          "lastUpdated": 1681655516264
         }
       }
     },
     "TREATAS": {
       "TREATAS": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672847812663
+          "count": 1,
+          "lastUpdated": 1681612989768
         }
       }
     },
     "FILTER": {
       "FILTER": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672847760987
+          "count": 3,
+          "lastUpdated": 1681655487038
         }
       }
     },
-    "powerbi": {
-      "powerbi": {
-        "currentFile": {
+    "wx/pbi/chatgpt": {
+      "wx/pbi/chatgpt": {
+        "frontMatter": {
           "count": 2,
-          "lastUpdated": 1673365862232
+          "lastUpdated": 1681630096828
         }
       }
     },
-    "四川的powerbi爱好者": {
-      "四川的powerbi爱好者": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1673365936140
-        }
-      }
-    },
-    "Filter": {
-      "Filter": {
+    "VALUES": {
+      "VALUES": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1673366128979
+          "lastUpdated": 1681630260035
+        }
+      }
+    },
+    "OFFSET": {
+      "OFFSET": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681635623327
+        }
+      }
+    },
+    "INDEX": {
+      "INDEX": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681635810698
+        }
+      }
+    },
+    "WINDOW": {
+      "WINDOW": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681635886081
+        }
+      }
+    },
+    "202012文章汇总": {
+      "202012文章汇总": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681647926242
+        }
+      }
+    },
+    "COUNTROWS": {
+      "COUNTROWS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681655512491
         }
       }
     }

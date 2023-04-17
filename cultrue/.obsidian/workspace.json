@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "1003332ff8e8327c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77d07cad71a2bcf",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be726bd451f2447f",
+    "type": "split",
+    "children": [
+      {
+        "id": "692981e13d08ec68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69962acea2c6a7e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79216231c2588fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "304535a6a1e067a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4fa79a4b4b0af92",
+    "type": "split",
+    "children": [
+      {
+        "id": "58affc69af59890e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "406c72ef1e836f66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8658d436a65c6753",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "56db607bf901e3e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae53664bd46113c7",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-memos:Memos": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "d77d07cad71a2bcf",
+  "lastOpenFiles": [
+    "日记/2023-04-17.md",
+    "2023-04-17.md",
+    "未命名.md",
+    "日记/delete.md",
+    "Pasted Image 20230417232204.png",
+    "日记",
+    "Templates/T-课外阅读.md",
+    "Templates/T-英语学习.md",
+    "Templates/T-炒股心得.md",
+    "Templates/T-求职功课.md",
+    "Templates/T-歌曲记录片段.md",
+    "Templates/T-日记.md",
+    "Templates/T-抖音碎片想法.md",
+    "Templates/T-刘博尹读书笔记.md",
+    "Templates/T-关键词引用.md",
+    "Templates/T-table.md",
+    "Templates/T-frontmatter读书笔记.md",
+    "Templates/T-frontmater全局.md",
+    "Templates/T-filectime.md",
+    "Templates/T-New未完成.md",
+    "Templates",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "歌曲/解析",
+    "歌曲/原曲",
+    "歌曲"
+  ]
+}

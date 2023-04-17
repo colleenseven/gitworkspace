@@ -1,12 +1,12 @@
 ---
 create_date: 2023-01-04T00:04:14 (UTC +08:00)
-tags: 
+tags: wx/pbi/数据处理功能 
 aliases: null
 pagetitle: Power BI 2022年更新的功能盘点，你最喜欢哪一个？
 source: https://mp.weixin.qq.com/s/i1RN_59rYlfPhLBsZHmtMw
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -14,7 +14,7 @@ uid:
 
 依照惯例，Power BI 每年1月不会更新，这里来盘点一下2022年更新的主要功能/变化。  
 
-平时单月的更新看起来好像变化不大，但是一整年看下来，2022年底的版本，相对于2021年底的版本，变化还是蛮大的，在这一年，发布了重磅的字段参数、支持嵌入到PPT等功能，界面的颜色也发生了显著变化，下面我们就来盘点一下这一年来的主要变化。
+平时单月的更新看起来好像变化不大，但是一整年看下来，2022年底的版本，相对于2021年底的版本，变化还是蛮大的，在这一年，发布了==重磅的字段参数、支持嵌入到PPT等功能==，界面的颜色也发生了显著变化，下面我们就来盘点一下这一年来的主要变化。
 
 **1\. 字段参数**
 
@@ -44,7 +44,7 @@ uid:
 
 **3\. 误差线**
 
-2022年3月的更新，折线图中支持添加误差线了：  
+2022年3月的更新，==折线图中支持添加误差线了==：  
 
 [PowerBI 2022年3月更新，折线图支持添加误差线了](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484079538&idx=1&sn=db3d9ce423d4c771891cd86e586fb9c6&chksm=8e13a165b9642873e5162a3b25f7ad2bd1b0e04e0f572cc77fc7195642806869e545cfd74e7e&scene=21#wechat_redirect)  
 
@@ -91,17 +91,3 @@ uid:
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJPhc18kYVJM8V7nx1NvVeUu3g1PLpaE3g52l0qbs53VKz01ncByVAiczrjJXQic1wNibqp2AZPOZLNng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 以上就是PowerBI在2022年主要的一些改变，你是不是都用过呢？这些变化你最喜欢哪一个呢，欢迎留言分享。
-
-___
-
-[PowerBI星球的最新版内容合辑，值得你收藏学习：](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484078675&idx=1&sn=07abf841815e43fb0a554081c82de72a&chksm=8e13a284b9642b92d07b518abe3e6e2e2ef5066c0941c1ced26a245a6990b4330830431789a9&scene=21#wechat_redirect)
-
-[**「PowerBI星球」内容合集(2022版)**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484083365&idx=1&sn=7acb9794552bbd59387c0c39ee2767f5&chksm=8e13b072b9643964fb7ee25b1ccb32d30143567bb780626f963166ea599d90f6dc8ee77154a2&scene=21#wechat_redirect)  
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

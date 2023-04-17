@@ -1,31 +1,28 @@
 ---
 create_date: 2023-01-09T00:04:47 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI公式中表达颜色的3种方式
 source: https://mp.weixin.qq.com/s/OMiFdcb5V_nJCckK5aM_gg
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
 ---
 
-在PowerBI中设置各种可视化元素的颜色时，可以直接根据颜色调色板来选择某个颜色。不过更灵活的方法，是通过DAX与条件格式结合起来，这样就可以动态地设置颜色了。
+在PowerBI中设置各种可视化元素的颜色时，可以直==接根据颜色调色板来选择某个颜色。==不过更灵活的方法，是通过==DAX与条件格式结合起来，这样就可以动态地设置颜色了==。
 
 以下面这个柱形图为例：  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOuiaKKng94tBP0vr9Kbac9fSLNrjEsziaj5MwPRqvFGHZePkbRXGsicBTwibo4BhL5mHA6KLwicMlJqiaw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 在格式中可以直接设置颜色，也可以点击旁边的这个小按钮"fx"（如果没有这个图标，就是不支持条件格式），
-
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOuiaKKng94tBP0vr9Kbac9fEjMdNRt0W1u0GRv1UaZcgXuXKicfJVNo4XuXKOhicXG0bicYYZqicXdgDw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOuiaKKng94tBP0vr9Kbac9fEjMdNRt0W1u0GRv1UaZcgXuXKicfJVNo4XuXKOhicXG0bicYYZqicXdgDw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 可以在里面设置条件格式，其中最灵活的是格式样式中的“字段值”，
-
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
+![https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOuiaKKng94tBP0vr9Kbac9fW4ae9vUVqkgCuaRBzFOOusHcYe5NkZExO5Ipjre6xMgLX5WkhuzGeA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJOuiaKKng94tBP0vr9Kbac9fW4ae9vUVqkgCuaRBzFOOusHcYe5NkZExO5Ipjre6xMgLX5WkhuzGeA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 然后选择一个字段，可以是列字段，也可以是度量值，只要这个字段返回的是PowerBI支持的颜色代码就行。
 
 最常用也是最灵活的方式是度量值，那么度量值如何返回颜色呢，或者说颜色如何用DAX来表达呢？

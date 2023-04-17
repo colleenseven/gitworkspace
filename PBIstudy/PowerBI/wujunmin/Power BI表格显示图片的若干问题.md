@@ -1,12 +1,12 @@
 ---
 create_date: 2022-12-28T00:08:26 (UTC +08:00)
-tags: 
+tags: wx/pbi/可视化图表 
 aliases: null
 pagetitle: Power BI表格显示图片的若干问题
 source: https://mp.weixin.qq.com/s/WQL2fIKFg8n44SQ_DHblSg
 author: wujunmin
-status: 未阅读
-category: 
+status: 已完成 
+category: 浏览文章 
 notes: False
 ZK: Origin
 uid: 
@@ -36,7 +36,7 @@ BASE64表现为：
 
 **不同形式的图片应用场景是什么？**  
 
-URL常用来装饰或显示宜对外公开的图片信息；SVG常用来装饰或自定义个性化迷你图；BASE64适用于不想使用网络图床的情景。  
+==URL常用来装饰或显示宜对外公开的图片信息；SVG常用来装饰或自定义个性化迷你图；BASE64适用于不想使用网络图床的情景。  ==
 
 **图片在表格怎么显示？**
 
@@ -89,9 +89,3 @@ SVG自定义表格迷你图表本公众号已经分享过很多篇了，读者�
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/JHQQIBqYy6R2qHRRkS7iaEOFbkicreBHoOE9TdEgoD7Og7nURIiaBxhZO9I3nwPLuLooxo3QtYgn0WPxDhlc6GfyQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 完。  
-
-___
-
-星球将在2023年1月1日涨价，有兴趣的读者不要错过。详细介绍：[Power BI业务实战及图表开发社群&视频课程](http://mp.weixin.qq.com/s?__biz=MzIxOTQ5MjQxNQ==&mid=2247491267&idx=1&sn=9f8011a4c2a7f38f17b6ef4168625c63&chksm=97db2793a0acae853c07277e58d55c0b8db67e953b44228508b7282f4e907af330cf64efbf51&scene=21#wechat_redirect)
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JHQQIBqYy6SrFOpSISmqT2k74QM76UrbIBKw9vBMzBUmBfibKCas2iccpABJdicQ4UNYGL2QCMLGaesXVyJ601kvw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

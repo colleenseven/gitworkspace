@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "网络剪藏/4月",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "author": {
+                "hide": true
+              },
+              "name": {
+                "hide": false
+              },
+              "notes": {
+                "hide": true
+              },
+              "pagetitle": {
+                "hide": true
+              },
+              "status": {
+                "hide": true
+              },
+              "ZK": {
+                "hide": true
+              },
+              "create_date": {
+                "width": 334
+              },
+              "category": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              }
+            },
+            "sortField": "create_date",
+            "sortAsc": true
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "0ee3471a-12e6-478b-bb77-bedc6f437ab6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "74423230-e64c-48a7-9b51-0f84221dff2b",
+      "name": "剪藏4月"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}

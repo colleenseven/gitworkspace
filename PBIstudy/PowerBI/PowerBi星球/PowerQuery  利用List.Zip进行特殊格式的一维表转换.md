@@ -1,12 +1,12 @@
 ---
 create_date: 2022-11-21T22:24:08 (UTC +08:00)
-tags: 
+tags: wx/pbi/PQ数据处理 
 aliases: null
 pagetitle: PowerQuery | 利用List.Zip进行特殊格式的一维表转换
 source: https://mp.weixin.qq.com/s/rD40NouVCR9YVtSWcpXdnw
 author: 采悟
-status: 未阅读
-category: 
+status: 已完成
+category: 精读文章
 notes: False
 ZK: Origin
 uid: 
@@ -24,7 +24,7 @@ uid:
 
 **1\. 添加自定义列，将挤在一起的列拆分为列表**
 
-利用Text.Split函数分别将这两列拆分为列表，先拆分\[型号\]列：
+利用==Text.Split函数分别将这两列拆分为列表==，先拆分\[型号\]列：
 
 > Text.Split(\[型号\],",")
 
@@ -40,7 +40,7 @@ uid:
 
 **2\. 利用List.Zip函数，将两个List合并到一起**
 
-将两个列表合并到一起，有个M函数是List.Zip专门做这种处理，它可以将多个列表相同位置的数据合并到一起。
+将==两个列表合并到一起，有个M函数是List.Zip专门做这种处理==，它可以将多个列表相同位置的数据合并到一起。
 
 再添加个自定义列：  
 
@@ -48,7 +48,7 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNcvQHNop91TA2ZqeWW6icRyezRBunicZhgSwypJgvS3540oJgHxla9FNLl3CrHhWbjEb6wmCzz9DmQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-上面两个步骤，其实也可以合并为一个步骤，直接添加一个这样的自定义列就可以了：  
+上面两个步骤，其实也可以合并为一个步骤，==直接添加一个这样的自定义列==就可以了：  
 
 > List.Zip(
 > 
@@ -64,15 +64,15 @@ uid:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNcvQHNop91TA2ZqeWW6icRyeYfcRiapdvYibEeeQDGxl07Piagiced3vg9mZYw4FRANazkpdjov0WvPdQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-这里处理以后，List.Zip就可以将{A1,A2,A3}和{1,2,3}这样的列表转换成{ {A1,1},{A2,2},{A3,3} }的形式，然后下一步将转后的列表展开就可以了。
+这里处理以后，==List.Zip就可以将{A1,A2,A3}和{1,2,3}这样的列表转换成{ {A1,1},{A2,2},{A3,3} }的形式==，然后下一步将转后的列表展开就可以了。
 
 **3\. 展开列表**
 
-对于经过List.Zip处理后的自定义列，点击展开按钮，选择“扩展到新行”，  
+对于经过List.Zip处理后的自定义列，点击展开按钮，==选择“扩展到新行”==，  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNcvQHNop91TA2ZqeWW6icRyrNd5pM6vGwQX6M88m4JHGFAgC4CKxa8Ngpo8DibMEVv1qhib4R04wibcQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-扩展以后这一列还是List，再次展开，选择“提取值”：  
+扩展以后这一列还是List，==再次展开，选择“提取值”：  ==
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJNcvQHNop91TA2ZqeWW6icRyibgoCYkicxjZddOTprf7p6hFne4leAibexdqd40B30K5HVFJpFQm32mbg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -85,17 +85,3 @@ uid:
 对上面的自定义列按分隔符拆分，并删除原有的\[型号\]和\[数量\]列，就得到了最终的效果。
 
 上面这种数据转换的关键是M函数List.Zip函数的运用，利用它可以轻松将多个列表按顺序合并在一起，本文也是帮你理解该函数的一个很经典的示例。
-
-___
-
-[**PowerBI商业数据分析**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074987&idx=1&sn=5cf4ba4b683ee9136bb7a26f6e9bcf01&chksm=8e0c533cb97bda2add48a4576b9c1e230249a5a4160dd93cd677a37ea21d26fc9cc26fc4cb1c&scene=21#wechat_redirect)
-
-帮你从0到1，轻松上手PowerBI
-
-___
-
-**如果你想深入学习Power BI，欢迎加入我的PowerBI学习社群****，获取更多学习资源，和5000+ 爱好者一起精进~**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/aHEbZtANQJMstwXX5zrKianmFXzyqbIVgh7byfo3V8JJPmhqicywbtYkM0j2ibngnT5XBZ2AwKvGZiby9ngoKfLvzg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-假如你刚开始接触Power BI，也可以在微信公众号后台回复"PowerBI"，获取《七天入门Power BI》电子书，轻松入门。

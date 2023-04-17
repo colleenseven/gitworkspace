@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "584a6c19c51da885",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,20 +173,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "fc4df23f5b054bfd",
+  "active": "584a6c19c51da885",
   "lastOpenFiles": [
     "longform/星派大-白如霜南雁飞-一重天/01.md",
     "longform/星派大-白如霜南雁飞-一重天/Index.md",
