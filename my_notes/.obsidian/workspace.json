@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9665ea572b8f2e9d",
+        "id": "607d5afd79bc2615",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9ba3c5cbc810e8",
+            "id": "9e6172230cc5cbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/OB操作学习/OB插件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5144e67bdbac9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
+                "file": "Home/OB操作学习/简睿学堂.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md"
+                "file": "Home/OB操作学习/简睿学堂.md"
               }
             }
           },
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
+                "file": "Home/OB操作学习/简睿学堂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/OB操作学习/if_mytexttools.md",
+                "file": "Home/OB操作学习/简睿学堂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,8 +161,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "9296a79beb9c26ea",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -187,23 +182,34 @@
       "canvas:新建白板": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "c5144e67bdbac9bb",
+  "active": "9e6172230cc5cbd1",
   "lastOpenFiles": [
+    "Home/OB操作学习/打戏.md",
     "Home/OB操作学习/简睿学堂.md",
     "Home/OB操作学习/OB插件.md",
+    "Home/笔记概述.md",
+    "Templates/B站-metadata.md",
+    "Home/OB操作学习/Untitled.md",
+    "auto-card-link/styles.css",
+    "auto-card-link/manifest.json",
+    "auto-card-link/main.js",
+    "auto-card-link",
+    "Templates/T-frontmater全局.md",
+    "Templates/T-New未完成.md",
+    "Templates/T-frontmatter读书笔记.md",
+    "Templates/T-炒股心得.md",
     "Home/OB操作学习/if_mytexttools.md",
     "Home/插件语法汇总.md",
     "Home/阅读计划汇总.md",
-    "Home/笔记概述.md",
     "DailyNote/日记/2023-02-14-日记.md",
     "DailyNote/日记/Untitled Diagram.svg",
     "Interest/歌曲/原曲/琵琶行.md",

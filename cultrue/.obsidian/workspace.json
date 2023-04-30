@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d77d07cad71a2bcf",
-        "type": "leaf",
-        "state": {
-          "type": "memos_view",
-          "state": {}
-        }
+        "id": "1bdde0dcc1c20616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b00e27da15f133",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,15 +127,27 @@
       "command-palette:打开命令面板": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-memos:Memos": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "d77d07cad71a2bcf",
+  "active": "50b00e27da15f133",
   "lastOpenFiles": [
+    "附件库/须尽欢.png",
+    "日记/2023-04-21.md",
+    "附件库/时光洪流.png",
+    "附件库/人世间.png",
+    "附件库/风催雨.png",
+    "附件库/Pasted Image 20230420233015.png",
+    "附件库/风夜行.png",
+    "附件库/漠河舞厅.png",
+    "Home.md",
+    "附件库",
+    "日记/2023-04-20.md",
+    "日记/2023-04-19.md",
+    "日记/2023-04-18.md",
     "日记/2023-04-17.md",
     "2023-04-17.md",
     "未命名.md",
@@ -153,11 +171,6 @@
     "Templates",
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",

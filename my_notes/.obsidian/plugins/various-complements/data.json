@@ -47,46 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "已完成": {
-      "已完成": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1673793638999
-        }
-      }
-    },
-    "restore": {
-      "restore": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1673790751616
-        }
-      }
-    },
-    "Interest": {
-      "Interest": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1673790764850
-        }
-      }
-    },
-    "歌曲/古风/地名": {
-      "歌曲/古风/地名": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1673791565295
-        }
-      }
-    },
-    "歌曲/古风/诗歌": {
-      "歌曲/古风/诗歌": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1673796537170
-        }
-      }
-    },
     "#####": {
       "#####": {
         "currentVault": {
@@ -108,6 +68,86 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681229535104
+        }
+      }
+    },
+    "author": {
+      "author": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682263362149
+        }
+      }
+    },
+    "description": {
+      "description": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682263408668
+        }
+      }
+    },
+    "status": {
+      "status": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682263540603
+        }
+      }
+    },
+    "metadata": {
+      "metadata": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682263753326
+        }
+      }
+    },
+    "{{date": {
+      "{{date": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682554374115
+        }
+      }
+    },
+    "down": {
+      "down": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1682776165148
+        }
+      }
+    },
+    "note": {
+      "note": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682698345009
+        }
+      }
+    },
+    "callout": {
+      "callout": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682698552098
+        }
+      }
+    },
+    "progress": {
+      "progress": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1682731415351
+        }
+      }
+    },
+    "list": {
+      "list": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682734504335
         }
       }
     }

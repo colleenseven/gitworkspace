@@ -284,5 +284,14 @@
       ],
       "key": "H"
     }
+  ],
+  "templater-obsidian:Templates/B站-metadata.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }

@@ -25,8 +25,7 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "Templates/T-三级标题.md",
-    "Templates/T-四级标题.md"
+    "Templates/B站-metadata.md"
   ],
   "startup_templates": [
     ""

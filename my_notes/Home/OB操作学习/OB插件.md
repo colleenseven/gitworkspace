@@ -3,11 +3,57 @@ aliases: null
 create_date: 2022-10-26 10:05
 tags: dy/汇总
 status: 阅读中
-uid: null
+uid: null 
 date updated: 2022-10-28 14:52
 ---
 
+### 2023年4月
 
+[五一小礼物——把我的B站视频全部打包进Obsidian的库送给你_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fa4y1P7VS/?spm_id_from=333.999.0.0&vd_source=0e30673b55c5c5beeb0619a112151137)
+
+%%
+metadata
+- create_time: 2022-10-26 10:05
+- author: 
+- publisher: B站
+- status: 
+- keywords: 
+- description: 
+
+%%
+
+
+%%
+- create_time: {{date hh:mm:ss}}
+- author: 
+- publisher: B站
+- status: 
+- keywords: 
+- description: 
+
+%%
+%%
+- create_time: undefined
+- author: 
+- publisher: B站
+- status: 
+- keywords: 
+- description: 
+
+%%
+%%
+- create_time: 2023-04-27 08:14
+- author: 
+- publisher: B站
+- status: 
+- keywords: 
+- description: 
+
+%%
+
+
+[Fetching Data#a0sn](https://github.com/nekoshita/obsidian-auto-card-link/releases/tag/1.1.1)
+[微信公众平台](https://mp.weixin.qq.com/s/T_X_PC6xwvqXowDplBrl4g)
 ### 基础增强
 
 #### advanced tables %%表格增强%%

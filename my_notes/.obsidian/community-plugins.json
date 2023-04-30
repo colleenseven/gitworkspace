@@ -9,7 +9,6 @@
   "templater-obsidian",
   "markdown-prettifier",
   "obsidian-advanced-uri",
-  "obsidian-image-toolkit",
   "table-editor-obsidian",
   "cm-chs-patch",
   "highlightr-plugin",
@@ -32,7 +31,6 @@
   "obsidian-memos",
   "obsidian-annotator",
   "text-snippets-obsidian",
-  "obsidian-read-it-later",
   "review-obsidian",
   "obsidian-stopwatch-plugin",
   "obsidian-related-notes-finder",
@@ -43,7 +41,10 @@
   "cmdr",
   "obsidian-excel-to-markdown-table",
   "nldates-obsidian",
-  "obsidian-emoji-toolbar",
   "emoji-shortcodes",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "obsidian-citation-plugin",
+  "chronology",
+  "open-in-new-tab",
+  "awesome-image"
 ]

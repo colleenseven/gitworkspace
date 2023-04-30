@@ -193,7 +193,7 @@
             }
           },
           {
-            "id": "6792d85ef4c41d27",
+            "id": "dd5b0ba80a71e813",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -201,7 +201,7 @@
             }
           },
           {
-            "id": "ebf7d767fab29b1a",
+            "id": "3a575de0e977c927",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -209,12 +209,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +228,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cbf386eb36eec6eb",
+  "active": "3a575de0e977c927",
   "lastOpenFiles": [
     "home/index_wujunmin.md",
     "PowerBI/wujunmin/Power BI模拟谷歌2022搜索排行榜.md",

@@ -3,5 +3,7 @@
   "theme": "moonstone",
   "cssTheme": "",
   "baseFontSize": 15,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ]
 }
