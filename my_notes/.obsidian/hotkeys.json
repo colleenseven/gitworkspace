@@ -293,5 +293,29 @@
       ],
       "key": "B"
     }
+  ],
+  "creases:toggle-fold-heading-level-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "creases:toggle-fold-heading-level-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "creases:toggle-fold-heading-level-3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
   ]
 }

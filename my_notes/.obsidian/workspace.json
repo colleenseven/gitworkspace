@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "607d5afd79bc2615",
+        "id": "dcc8c896b70152cf",
         "type": "tabs",
         "children": [
           {
-            "id": "9e6172230cc5cbd1",
+            "id": "c5e84fe1cc9ea34e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home/OB操作学习/简睿学堂.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": true
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -59,10 +59,18 @@
             }
           },
           {
-            "id": "fb05a26928bf1323",
+            "id": "32abbbd8af766247",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fbcdd8da65b76e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -92,7 +100,15 @@
             }
           },
           {
-            "id": "0a4ad9e76c6bad0d",
+            "id": "0f0e50a2516c7ed3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "821cb94a8f146510",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -102,7 +118,23 @@
             }
           },
           {
-            "id": "3e1538c6aa9c9f97",
+            "id": "9296a79beb9c26ea",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "de21cad6915b4203",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "396dada2957302d4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -110,68 +142,15 @@
             }
           },
           {
-            "id": "0f0e50a2516c7ed3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6198617ba7b7e2c1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home/OB操作学习/简睿学堂.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "59f2efa47b98dfba",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home/OB操作学习/简睿学堂.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "3bfe9aa0e6f440be",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
-              "state": {}
-            }
-          },
-          {
-            "id": "f82d7879e3f91c65",
+            "id": "e282328fa72dc5b6",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "9296a79beb9c26ea",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,24 +158,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
-      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "chronology:Open Chronology": false
     }
   },
-  "active": "9e6172230cc5cbd1",
+  "active": "c5e84fe1cc9ea34e",
   "lastOpenFiles": [
-    "Home/OB操作学习/打戏.md",
+    "旅行/北京画院之旅.canvas",
+    "旅行/未命名.md",
     "Home/OB操作学习/简睿学堂.md",
+    "旅行",
+    "Home/OB操作学习/test.md",
+    "title.css",
+    "Home/OB操作学习/if_mytexttools.md",
+    "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
+    "Interest/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
     "Home/OB操作学习/OB插件.md",
     "Home/笔记概述.md",
+    "Home/插件语法汇总.md",
+    "Home/阅读计划汇总.md",
+    "common.css",
+    "Home/OB操作学习/打戏.md",
     "Templates/B站-metadata.md",
     "Home/OB操作学习/Untitled.md",
     "auto-card-link/styles.css",
@@ -207,9 +195,6 @@
     "Templates/T-New未完成.md",
     "Templates/T-frontmatter读书笔记.md",
     "Templates/T-炒股心得.md",
-    "Home/OB操作学习/if_mytexttools.md",
-    "Home/插件语法汇总.md",
-    "Home/阅读计划汇总.md",
     "DailyNote/日记/2023-02-14-日记.md",
     "DailyNote/日记/Untitled Diagram.svg",
     "Interest/歌曲/原曲/琵琶行.md",

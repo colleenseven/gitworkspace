@@ -4,6 +4,7 @@
   "cssTheme": "",
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "common"
   ]
 }

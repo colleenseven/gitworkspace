@@ -1,0 +1,5 @@
+/* h2加标题等级*/
+.markdown-preview-view h2::before, 
+.is-live-preview .HyperMD-header-2::before {
+  content: 'H2';
+}

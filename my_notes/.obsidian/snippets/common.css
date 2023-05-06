@@ -1,0 +1,13 @@
+/* 頁籤上方加上顯著邊框 */
+.is-focused .mod-active .workspace-tab-header.is-active {
+  border-top: 3px solid orange;
+}
+
+/* caret line */
+.theme-dark .cm-active, .theme-dark .suggestion-item.is-selected {
+  background-color: #414040 !important;
+}
+
+.theme-light .cm-active, .theme-light .suggestion-item.is-selected {
+  background-color: lightyellow !important;
+}

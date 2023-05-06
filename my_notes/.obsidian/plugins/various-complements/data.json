@@ -47,6 +47,14 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "202301": {
+      "202301": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682833634883
+        }
+      }
+    },
     "#####": {
       "#####": {
         "currentVault": {
@@ -114,8 +122,8 @@
     "down": {
       "down": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1682776165148
+          "count": 21,
+          "lastUpdated": 1683385173383
         }
       }
     },
@@ -130,8 +138,8 @@
     "callout": {
       "callout": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682698552098
+          "count": 4,
+          "lastUpdated": 1683385221937
         }
       }
     },
@@ -148,6 +156,150 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1682734504335
+        }
+      }
+    },
+    "dataview": {
+      "dataview": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682819613663
+        }
+      }
+    },
+    "code": {
+      "code": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682825753313
+        }
+      }
+    },
+    "block": {
+      "block": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682825755849
+        }
+      }
+    },
+    "space": {
+      "space": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682825888834
+        }
+      }
+    },
+    "spaced": {
+      "spaced": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682825890896
+        }
+      }
+    },
+    "repetition": {
+      "repetition": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682825911462
+        }
+      }
+    },
+    "github": {
+      "github": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682832892478
+        }
+      }
+    },
+    "20221210110842": {
+      "20221210110842": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682833639289
+        }
+      }
+    },
+    "search": {
+      "search": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682837779352
+        }
+      }
+    },
+    "https": {
+      "https": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682856065821
+        }
+      }
+    },
+    "done⭐": {
+      "done⭐": {
+        "currentFile": {
+          "count": 12,
+          "lastUpdated": 1683385372568
+        }
+      }
+    },
+    "homepage与其他功能有冲突": {
+      "homepage与其他功能有冲突": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683296365939
+        }
+      }
+    },
+    "paste": {
+      "paste": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1683299170415
+        }
+      }
+    },
+    "linter": {
+      "linter": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1683300383512
+        }
+      }
+    },
+    "tag": {
+      "tag": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1683383758777
+        }
+      }
+    },
+    "cssclass": {
+      "cssclass": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683383765981
+        }
+      }
+    },
+    "compel": {
+      "compel": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1683385195789
+        }
+      }
+    },
+    "Complements，用Callout": {
+      "Complements，用Callout": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683385211292
         }
       }
     }
