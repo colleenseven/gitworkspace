@@ -4,23 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc8c896b70152cf",
+        "id": "49bb0b2748ff627a",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e84fe1cc9ea34e",
+            "id": "f718f7203a1a75a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "生活/房屋布局图.canvas",
+                "viewState": {
+                  "x": -45.18475864421325,
+                  "y": 376.27990990955317,
+                  "zoom": -0.19276100410522914
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d05337766b6cc394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Home/OB操作学习/简睿学堂.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-03-06 00.15.57.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ce25c1fda5da159e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-06 00.11.09.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,7 +59,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e480ced3d772d4cc",
+            "id": "f312b482bae7362f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,6 +98,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "d172a0a68ae4b922",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,28 +141,10 @@
             }
           },
           {
-            "id": "821cb94a8f146510",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home/OB操作学习/简睿学堂.md"
-              }
-            }
-          },
-          {
             "id": "9296a79beb9c26ea",
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "de21cad6915b4203",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
               "state": {}
             }
           },
@@ -150,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,39 +180,63 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "chronology:Open Chronology": false
+      "chronology:Open Chronology": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c5e84fe1cc9ea34e",
+  "active": "ce25c1fda5da159e",
   "lastOpenFiles": [
-    "旅行/北京画院之旅.canvas",
-    "旅行/未命名.md",
-    "Home/OB操作学习/简睿学堂.md",
-    "旅行",
-    "Home/OB操作学习/test.md",
-    "title.css",
-    "Home/OB操作学习/if_mytexttools.md",
-    "Interest/商业洞察/刘润/不一样的国产，不一样的钱江摩托.md",
+    "Excalidraw/Drawing 2024-03-06 00.15.57.excalidraw.md",
+    "未命名.canvas",
+    "生活/房屋布局图.canvas",
+    "Excalidraw/Drawing 2024-03-06 00.13.10.excalidraw.md",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-03-06 00.11.09.excalidraw.md",
+    "Excalidraw",
+    "成长记录/课本/语文·二年级下册.md",
     "Interest/商业洞察/刘润/5个方面洞察项目：我如何判断一个项目能否成功.md",
-    "Home/OB操作学习/OB插件.md",
-    "Home/笔记概述.md",
-    "Home/插件语法汇总.md",
-    "Home/阅读计划汇总.md",
-    "common.css",
-    "Home/OB操作学习/打戏.md",
-    "Templates/B站-metadata.md",
-    "Home/OB操作学习/Untitled.md",
-    "auto-card-link/styles.css",
-    "auto-card-link/manifest.json",
-    "auto-card-link/main.js",
-    "auto-card-link",
-    "Templates/T-frontmater全局.md",
+    "阅读记录/未命名.md",
+    "成长记录/小学阅读/二年级/蛤蟆小姐减肥.md",
+    "阅读记录",
+    "成长记录/小学阅读/二年级/孤独的小螃蟹.md",
+    "Templates/T-生活.md",
     "Templates/T-New未完成.md",
     "Templates/T-frontmatter读书笔记.md",
-    "Templates/T-炒股心得.md",
-    "DailyNote/日记/2023-02-14-日记.md",
-    "DailyNote/日记/Untitled Diagram.svg",
-    "Interest/歌曲/原曲/琵琶行.md",
-    "Interest/歌曲/原曲/初见雪.md"
+    "Templates/T-frontmater全局.md",
+    "成长记录/读书笔记/人一生要读的经典/《我所知道的康桥》-散文名篇-古译文网.md",
+    "词库/EM-恐龙当家.md",
+    "生活/厨具/加厚老式搪瓷汤碗防烫高脚碗米饭碗复古家用泡面碗餐厅工地大铁碗.md",
+    "Untitled Diagram 1.svg",
+    "词库/四级词汇.md",
+    "Interest/商业洞察/刘润/Twitter裁员：转型之难，断腕之痛，成功之贵。.md",
+    "Interest/商业洞察/刘润/潮玩之后，未来巨大的商业机会是什么？.md",
+    "网络剪藏/6月/马斯克，想做赢家.md",
+    "词库/callout补全.md",
+    "Home/OB操作学习/OB插件.md",
+    "Interest/炒股/持仓股.md",
+    "成长记录/课本/语文·一年级下册.md",
+    "网络剪藏/6月/提高成交额，你需要懂点消费心理学.md",
+    "Interest/商业洞察/刘润/把组织，建在群聊里.md",
+    "网络剪藏/6月",
+    "网络剪藏",
+    "生活/服装/assets/然与纯春冬季黑色阔腿休闲裤女系带松紧腰简约宽松九分裤清/image-20230527223147211.png",
+    "生活/服装/assets/然与纯春冬季黑色阔腿休闲裤女系带松紧腰简约宽松九分裤清",
+    "生活/服装/assets/开叉阔腿裤女春秋高腰薄款2022年夏季新款直筒宽松雪纺休闲裤子女/image-20230527222940385.png",
+    "生活/服装/assets/开叉阔腿裤女春秋高腰薄款2022年夏季新款直筒宽松雪纺休闲裤子女",
+    "生活/服装/assets/绮桦 刺绣毛边九分裤微喇裤2017夏装新款中腰弹力薄款开叉牛仔裤/image-20230527222708636.png",
+    "生活/服装/assets/绮桦 刺绣毛边九分裤微喇裤2017夏装新款中腰弹力薄款开叉牛仔裤",
+    "生活/服装/assets/蓓晴2017春季新款九分牛仔裤女破洞小脚裤毛边弹力修身学生韩版潮/image-20230527222511307.png",
+    "生活/服装/assets/蓓晴2017春季新款九分牛仔裤女破洞小脚裤毛边弹力修身学生韩版潮",
+    "生活/服装/assets/DREAMER ERA师梦造松紧腰牛仔裤女弹力高腰铅笔裤小脚长裤修身/image-20230527222342690.png",
+    "生活/服装/assets/DREAMER ERA师梦造松紧腰牛仔裤女弹力高腰铅笔裤小脚长裤修身",
+    "生活/服装/assets/牛仔阔腿裤女宽松2019夏季新薄款九分垂坠感泫雅cec直筒裤子高腰/image-20230527222154915.png",
+    "生活/服装/assets/牛仔阔腿裤女宽松2019夏季新薄款九分垂坠感泫雅cec直筒裤子高腰",
+    "生活/服装/assets/她图2018夏装新款牛仔阔腿裤女 韩版高腰显瘦哈伦裤九分裤休闲裤/image-20230527221956861.png",
+    "生活/服装/assets/牛仔裤女阔腿裤2018春装新款韩版高腰九分宽松原宿bf学生chic显瘦/image-20230527221754449.png",
+    "生活/0205衣柜.canvas",
+    "生活/010301饭桌下层-蓝色篮子.canvas",
+    "生活/030102化妆盒.canvas",
+    "旅行/北京画院之旅.canvas"
   ]
 }

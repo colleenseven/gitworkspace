@@ -21,8 +21,6 @@
   "highlightr-plugin",
   "markdown-prettifier",
   "nldates-obsidian",
-  "number-headings-obsidian",
-  "open-in-new-tab",
   "obsidian-pandoc",
   "quickadd",
   "remember-cursor-position",
@@ -36,5 +34,16 @@
   "creases",
   "obsidian-scroll-to-top-plugin",
   "obsidian-paste-image-rename",
-  "obsidian-columns"
+  "obsidian-columns",
+  "obsidian-custom-attachment-location",
+  "obsidian-list-callouts",
+  "text-snippets-obsidian",
+  "mousewheel-image-zoom",
+  "recent-files-obsidian",
+  "obsidian-projects",
+  "frontmatter-links",
+  "callout-manager",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

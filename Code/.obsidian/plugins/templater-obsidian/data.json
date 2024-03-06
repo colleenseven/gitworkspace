@@ -17,6 +17,10 @@
     {
       "folder": "/",
       "template": "Templates/T-fontmatter.md"
+    },
+    {
+      "folder": "Icode",
+      "template": "Templates/T-fontmatter -icode.md"
     }
   ],
   "syntax_highlighting": true,

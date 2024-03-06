@@ -6,7 +6,7 @@ tags: wx/大厂见闻
 pagetitle: Twitter裁员：转型之难，断腕之痛，成功之贵。
 source: https://mp.weixin.qq.com/s/cZnNzxuGAbkyKkIooySpxQ
 author: 刘润
-status: 已完成
+status: done 
 category: 浏览文章
 notes: False
 uid: 

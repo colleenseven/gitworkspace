@@ -5,7 +5,7 @@
   "createHeaderIfNotPresent": false,
   "newHeaderTemplate": "\ndate create_date:\"{{date:YYYY-MM-DD HH:mm}}\" \n",
   "updateHeader": true,
-  "updateHeaderTemplate": "\ndate updated: \"{{date:YYYY-MM-DD HH:mm}}\" \n",
+  "updateHeaderTemplate": "\ndate_updated: \"{{date:YYYY-MM-DD HH:mm}}\" \n",
   "listItemIndent": "one",
   "newlinesAroundHeadings": true
 }

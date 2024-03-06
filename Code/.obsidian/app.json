@@ -1,7 +1,7 @@
 {
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "附件库",
+  "attachmentFolderPath": "./assets/index_SQL基础知识",
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }

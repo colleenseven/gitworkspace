@@ -8,7 +8,7 @@
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
-  "insertAfterCompletion": false,
+  "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
@@ -28,12 +28,12 @@
   "excludeCurrentVaultPathPrefixPatterns": "OB操作/打戏\nOB操作/家庭生活",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "词库/四级词汇.md",
-  "columnDelimiter": "Tab",
+  "customDictionaryPaths": "词库/四级词汇.md\n词库/callout补全.md",
+  "columnDelimiter": "Pipe",
   "customDictionaryWordRegexPattern": "",
-  "delimiterToHideSuggestion": "",
-  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
-  "caretLocationSymbolAfterComplement": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "=>",
+  "caretLocationSymbolAfterComplement": "$END$",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": true,
@@ -47,259 +47,575 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "202301": {
-      "202301": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682833634883
-        }
-      }
-    },
-    "#####": {
-      "#####": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1681142034740
-        }
-      }
-    },
-    "emoji里的猫咪": {
-      "emoji里的猫咪": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1681228640101
-        }
-      }
-    },
-    "obsidian": {
-      "obsidian": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681229535104
-        }
-      }
-    },
-    "author": {
-      "author": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682263362149
-        }
-      }
-    },
-    "description": {
-      "description": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682263408668
-        }
-      }
-    },
-    "status": {
-      "status": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682263540603
-        }
-      }
-    },
-    "metadata": {
-      "metadata": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682263753326
-        }
-      }
-    },
-    "{{date": {
-      "{{date": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682554374115
-        }
-      }
-    },
-    "down": {
-      "down": {
-        "customDictionary": {
-          "count": 21,
-          "lastUpdated": 1683385173383
-        }
-      }
-    },
     "note": {
       "note": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682698345009
-        }
-      }
-    },
-    "callout": {
-      "callout": {
-        "currentVault": {
-          "count": 4,
-          "lastUpdated": 1683385221937
-        }
-      }
-    },
-    "progress": {
-      "progress": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1682731415351
-        }
-      }
-    },
-    "list": {
-      "list": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682734504335
-        }
-      }
-    },
-    "dataview": {
-      "dataview": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682819613663
-        }
-      }
-    },
-    "code": {
-      "code": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682825753313
-        }
-      }
-    },
-    "block": {
-      "block": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1682825755849
-        }
-      }
-    },
-    "space": {
-      "space": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682825888834
-        }
-      }
-    },
-    "spaced": {
-      "spaced": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682825890896
-        }
-      }
-    },
-    "repetition": {
-      "repetition": {
-        "customDictionary": {
           "count": 2,
-          "lastUpdated": 1682825911462
-        }
-      }
-    },
-    "github": {
-      "github": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682832892478
-        }
-      }
-    },
-    "20221210110842": {
-      "20221210110842": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682833639289
+          "lastUpdated": 1684195810075
         }
       }
     },
     "search": {
       "search": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682837779352
-        }
-      }
-    },
-    "https": {
-      "https": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682856065821
+          "count": 2,
+          "lastUpdated": 1683561454717
         }
       }
     },
     "done⭐": {
       "done⭐": {
         "currentFile": {
-          "count": 12,
-          "lastUpdated": 1683385372568
-        }
-      }
-    },
-    "homepage与其他功能有冲突": {
-      "homepage与其他功能有冲突": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1683296365939
-        }
-      }
-    },
-    "paste": {
-      "paste": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1683299170415
-        }
-      }
-    },
-    "linter": {
-      "linter": {
+          "count": 17,
+          "lastUpdated": 1683764553337
+        },
         "currentVault": {
           "count": 2,
-          "lastUpdated": 1683300383512
+          "lastUpdated": 1683943767073
         }
       }
     },
-    "tag": {
-      "tag": {
+    "editor": {
+      "editor": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1683561111546
+        }
+      }
+    },
+    "sequence": {
+      "sequence": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1683383758777
+          "lastUpdated": 1683560756903
         }
       }
     },
-    "cssclass": {
-      "cssclass": {
+    "shortcut": {
+      "shortcut": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1683383765981
+          "lastUpdated": 1683560761242
         }
       }
     },
-    "compel": {
-      "compel": {
+    "quickadd": {
+      "quickadd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683764560763
+        }
+      }
+    },
+    "macro": {
+      "macro": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683764565395
+        }
+      }
+    },
+    "IOI科技": {
+      "IOI科技": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683943638665
+        }
+      }
+    },
+    "file": {
+      "file": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1683385195789
+          "lastUpdated": 1684163066585
         }
       }
     },
-    "Complements，用Callout": {
-      "Complements，用Callout": {
+    "File": {
+      "File": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1684163084262
+        }
+      }
+    },
+    "category": {
+      "category": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684195765642
+        }
+      }
+    },
+    "embed": {
+      "embed": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1684163343664
+        }
+      }
+    },
+    "color": {
+      "color": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1684163817276
+        }
+      }
+    },
+    "青色": {
+      "青色": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684164153867
+        }
+      }
+    },
+    "⭐⭐⭐⭐⭐": {
+      "⭐⭐⭐⭐⭐": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684164158905
+        }
+      }
+    },
+    "汉服,旗袍": {
+      "汉服,旗袍": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1684935864547
+        }
+      }
+    },
+    "食品": {
+      "食品": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1684164146717
+        }
+      }
+    },
+    "date_updated": {
+      "date_updated": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1683385211292
+          "lastUpdated": 1684164766652
+        }
+      }
+    },
+    "contains": {
+      "contains": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1684251397548
+        }
+      }
+    },
+    "andriod": {
+      "andriod": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1685195547498
+        }
+      }
+    },
+    "半裙": {
+      "半裙": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1684337038121
+        }
+      }
+    },
+    "已淘汰": {
+      "已淘汰": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684336814807
+        }
+      }
+    },
+    "050201-蓝色布艺收纳筐": {
+      "050201-蓝色布艺收纳筐": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684801430316
+        }
+      }
+    },
+    "~020501": {
+      "~020501": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1684890574259
+        }
+      }
+    },
+    "~020503": {
+      "~020503": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1684937667366
+        }
+      }
+    },
+    "~020504": {
+      "~020504": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684936315440
+        }
+      }
+    },
+    "~null~": {
+      "~null~": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1685029245963
+        }
+      }
+    },
+    "拼多多": {
+      "拼多多": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684975649701
+        }
+      }
+    },
+    "030101-常用化妆品收纳筐": {
+      "030101-常用化妆品收纳筐": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1685029621316
+        }
+      }
+    },
+    "10g": {
+      "10g": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685029110665
+        }
+      }
+    },
+    "~020506夏季下装": {
+      "~020506夏季下装": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1685197822490
+        }
+      }
+    },
+    "~020504冬季上衣": {
+      "~020504冬季上衣": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685061067758
+        }
+      }
+    },
+    "~020503春夏秋上衣": {
+      "~020503春夏秋上衣": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1685196562327
+        }
+      }
+    },
+    "T恤": {
+      "T恤": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685169421300
+        }
+      }
+    },
+    "020507睡衣专用": {
+      "020507睡衣专用": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1685194378055
+        }
+      }
+    },
+    "防晒衣": {
+      "防晒衣": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685193817989
+        }
+      }
+    },
+    "穿着中": {
+      "穿着中": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685195960180
+        }
+      }
+    },
+    "套装,夏季": {
+      "套装,夏季": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1685196566251
+        }
+      }
+    },
+    "~020505冬季下装": {
+      "~020505冬季下装": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1685197941689
+        }
+      }
+    },
+    "弟子规": {
+      "弟子规": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685549216809
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685634820657
+        }
+      }
+    },
+    "still": {
+      "still": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685634840533
+        }
+      }
+    },
+    "saddle": {
+      "saddle": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685634909628
+        }
+      }
+    },
+    "him": {
+      "him": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685719409221
+        }
+      }
+    },
+    "normally": {
+      "normally": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685719444761
+        }
+      }
+    },
+    "look": {
+      "look": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685807731022
+        }
+      }
+    },
+    "dog": {
+      "dog": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685807736032
+        }
+      }
+    },
+    "grass": {
+      "grass": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685807783452
+        }
+      }
+    },
+    "else": {
+      "else": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685807907497
+        }
+      }
+    },
+    "什么吴？口天吴。": {
+      "什么吴？口天吴。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685860306617
+        }
+      }
+    },
+    "call-error": {
+      "call-error": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685861294559
+        }
+      }
+    },
+    "wx/企业管理": {
+      "wx/企业管理": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685888534588
+        }
+      }
+    },
+    "wx/商业洞察": {
+      "wx/商业洞察": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685889257076
+        }
+      }
+    },
+    "flower": {
+      "flower": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1685892559597
+        }
+      }
+    },
+    "notes": {
+      "notes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685892444197
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685892445555
+        }
+      }
+    },
+    "variety": {
+      "variety": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1685893697872
+        }
+      }
+    },
+    "ca-abs": {
+      "ca-abs": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1685978214446
+        }
+      }
+    },
+    "abstract\\n": {
+      "abstract\\n": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685977319712
+        }
+      }
+    },
+    "info\\n": {
+      "info\\n": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685977340489
+        }
+      }
+    },
+    "5flower": {
+      "5flower": {
+        "customDictionary": {
+          "count": 23,
+          "lastUpdated": 1686237078421
+        }
+      }
+    },
+    "5flower=>": {
+      "5flower=>": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685978005676
+        }
+      }
+    },
+    "ca-suc": {
+      "ca-suc": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1685978397057
+        }
+      }
+    },
+    "abandon": {
+      "abandon": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685978560141
+        }
+      }
+    },
+    "ca-note": {
+      "ca-note": {
+        "customDictionary": {
+          "count": 18,
+          "lastUpdated": 1686237082964
+        }
+      }
+    },
+    "king": {
+      "king": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685979336135
+        }
+      }
+    },
+    "kingof": {
+      "kingof": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685979405141
+        }
+      }
+    },
+    "kingofshazi": {
+      "kingofshazi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685979368667
+        }
+      }
+    },
+    "co-abstract": {
+      "co-abstract": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685979517677
+        },
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685979655221
+        }
+      }
+    },
+    "tip": {
+      "tip": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1685979868645
         }
       }
     }

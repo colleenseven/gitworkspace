@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"8f0e5dec0c672d5d","x":-306,"y":47,"width":250,"height":60,"type":"text","text":"是少女萌"}
+		{"id":"c876667a944d9ea7","type":"text","text":"123","x":-180,"y":-20,"width":250,"height":60,"color":"3"},
+		{"id":"668bb2a6e794ca55","type":"file","file":"生活/服装/assets/然与纯春冬季黑色阔腿休闲裤女系带松紧腰简约宽松九分裤清/image-20230527223147211.png","x":-215,"y":80,"width":321,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"86b6a5a4bb7d36e1","fromNode":"c876667a944d9ea7","fromSide":"bottom","toNode":"668bb2a6e794ca55","toSide":"top"}
+	]
 }

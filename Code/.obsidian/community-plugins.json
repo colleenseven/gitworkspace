@@ -6,14 +6,12 @@
   "tag-wrangler",
   "find-unlinked-files",
   "obsidian-advanced-uri",
-  "better-word-count",
-  "highlightr-plugin",
-  "extract-highlights-plugin",
   "cmdr",
   "find-and-replace-in-selection",
   "text-snippets-obsidian",
   "various-complements",
-  "breadcrumbs",
   "code-block-copy",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "obsidian-custom-attachment-location",
+  "editing-toolbar"
 ]

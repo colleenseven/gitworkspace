@@ -36,7 +36,7 @@
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
-  "suggestInternalLinkWithAlias": false,
+  "suggestInternalLinkWithAlias": true,
   "excludeInternalLinkPathPrefixPatterns": "词库/DAX函数汇总",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
@@ -47,99 +47,43 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "精读文章": {
-      "精读文章": {
-        "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1681655547618
-        }
-      }
-    },
-    "wx/pbi/数据处理功能": {
-      "wx/pbi/数据处理功能": {
-        "frontMatter": {
-          "count": 20,
-          "lastUpdated": 1681651569016
-        }
-      }
-    },
-    "wx/pbi/PQ数据处理": {
-      "wx/pbi/PQ数据处理": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1681651268039
-        }
-      }
-    },
-    "已完成": {
-      "已完成": {
-        "frontMatter": {
-          "count": 34,
-          "lastUpdated": 1681661423070
-        }
-      }
-    },
-    "泛读文章": {
-      "泛读文章": {
-        "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1681660149889
-        }
-      }
-    },
-    "wx/pbi/可视化图表": {
-      "wx/pbi/可视化图表": {
-        "frontMatter": {
-          "count": 17,
-          "lastUpdated": 1681661420166
-        }
-      }
-    },
-    "浏览文章": {
-      "浏览文章": {
-        "frontMatter": {
-          "count": 34,
-          "lastUpdated": 1681661425431
-        }
-      }
-    },
-    "ALLSELECTED": {
-      "ALLSELECTED": {
+    "FIRSTNONBLANKVALUE": {
+      "FIRSTNONBLANKVALUE": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1681635629555
+          "lastUpdated": 1690034029508
         }
       }
     },
-    "SWITCH": {
-      "SWITCH": {
+    "ISINSCOPE": {
+      "ISINSCOPE": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1681639521804
+          "count": 1,
+          "lastUpdated": 1690034188655
         }
       }
     },
-    "wx/pbi/DAX函数": {
-      "wx/pbi/DAX函数": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1681660142546
-        }
-      }
-    },
-    "SELECTEDVALUE": {
-      "SELECTEDVALUE": {
+    "PREVIOUSDAY": {
+      "PREVIOUSDAY": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1681655482948
+          "lastUpdated": 1690034473612
         }
       }
     },
-    "CALCULATE": {
-      "CALCULATE": {
+    "PRODUCT": {
+      "PRODUCT": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1681655516264
+          "count": 1,
+          "lastUpdated": 1690034492896
+        }
+      }
+    },
+    "RANKX": {
+      "RANKX": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690034532249
         }
       }
     },
@@ -147,63 +91,23 @@
       "TREATAS": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1681612989768
+          "lastUpdated": 1690034757888
         }
       }
     },
-    "FILTER": {
-      "FILTER": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1681655487038
-        }
-      }
-    },
-    "wx/pbi/chatgpt": {
-      "wx/pbi/chatgpt": {
+    "精读文章": {
+      "精读文章": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1681630096828
+          "count": 3,
+          "lastUpdated": 1690041961407
         }
       }
     },
-    "VALUES": {
-      "VALUES": {
+    "CONCATENATEX": {
+      "CONCATENATEX": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1681630260035
-        }
-      }
-    },
-    "OFFSET": {
-      "OFFSET": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681635623327
-        }
-      }
-    },
-    "INDEX": {
-      "INDEX": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681635810698
-        }
-      }
-    },
-    "WINDOW": {
-      "WINDOW": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681635886081
-        }
-      }
-    },
-    "202012文章汇总": {
-      "202012文章汇总": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681647926242
+          "lastUpdated": 1690036662871
         }
       }
     },
@@ -211,7 +115,71 @@
       "COUNTROWS": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1681655512491
+          "lastUpdated": 1690041333670
+        }
+      }
+    },
+    "VALUES": {
+      "VALUES": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041338220
+        }
+      }
+    },
+    "CALCULATE": {
+      "CALCULATE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041370496
+        }
+      }
+    },
+    "SAMEPERIODLASTYEAR": {
+      "SAMEPERIODLASTYEAR": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041373728
+        }
+      }
+    },
+    "INTERSECT": {
+      "INTERSECT": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041406967
+        }
+      }
+    },
+    "已完成": {
+      "已完成": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1690041957947
+        }
+      }
+    },
+    "浏览文章": {
+      "浏览文章": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1690041761917
+        }
+      }
+    },
+    "TOTALMTD": {
+      "TOTALMTD": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041823200
+        }
+      }
+    },
+    "TOTALYTD": {
+      "TOTALYTD": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690041828293
         }
       }
     }

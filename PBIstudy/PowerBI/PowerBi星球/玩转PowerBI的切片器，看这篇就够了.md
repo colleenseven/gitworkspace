@@ -5,8 +5,8 @@ aliases:
 pagetitle: 玩转PowerBI的切片器，看这篇就够了
 source: https://mp.weixin.qq.com/s/CuXn0A4NNdwVIbryBl9qaQ
 author: 采悟
-status: 未阅读
-category:
+status: 已完成 
+category: 浏览文章 
 notes: false
 ZK: Origin
 uid:
@@ -81,19 +81,3 @@ PowerBI内置的切片器，对于颜色和形状的设置非常简约，可以�
 [利用DAX，突破切片器的默认交互方式](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484072463&idx=1&sn=95c684b48ff2e2779ca90f734688b3e1&chksm=8e0c5ad8b97bd3ce897a72e1255398769c1a0da914a553dab6f39d34f9cf4e8169bb1a97f96a&scene=21#wechat_redirect)  
 
 [PowerBI切片器，原来还可以这样交互？](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074281&idx=1&sn=ea825a10f8bb56815772997dcccfff08&chksm=8e0c5dfeb97bd4e8b6bf810457b5c579cf6633545260ce2097d21bc48e187bd88f49f3c528bf&scene=21#wechat_redirect)  
-
-___
-
-**PowerBI星球的**[**历史精华文章合辑**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074255&idx=1&sn=0c183ee84fd7fcc4e9dfb6baf39580c0&chksm=8e0c5dd8b97bd4ce1a617be83fe88938a0ba49668102ca3d10794c0e530f38c2950df75cf2ee&scene=21#wechat_redirect)**：**  
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aHEbZtANQJNn5eia186067w5or6WoVmwdm210CYQfaibhdzFvJvR59sFUgk13iauEzR4oLzGvXiaziaX8VJcB2sCbzg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074255&idx=1&sn=0c183ee84fd7fcc4e9dfb6baf39580c0&chksm=8e0c5dd8b97bd4ce1a617be83fe88938a0ba49668102ca3d10794c0e530f38c2950df75cf2ee&scene=21#wechat_redirect)
-
-___
-
-如果你刚开始学习Power BI，可在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松上手。
-
-**成为PowerBI星球会员****，获取更多学习资源**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aHEbZtANQJNCQ4pzSiaQOMPia6kNbbF0gtVXYmWpicF9SVicdBBQYdaKG4icSfUTkS9dFIBW3NsL5ZrNpYH6icjgJaUA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-↑ 扫码加入，和 3k+ 学习者一起成长

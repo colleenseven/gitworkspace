@@ -25,7 +25,7 @@ sort create_date desc
 
 ## Powerbi星球
 
-powerbi 星球文章统计：共有文章数`$= dv.pages('"PowerBI/PowerBi星球"').length`条 
+Powerbi 星球文章统计：共有文章数`$= dv.pages('"PowerBI/PowerBi星球"').length`条 
 
 ### 2023文章汇总
 

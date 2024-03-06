@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020501-蓝色布艺收纳筐.png","id":"40e9147a90981c70","x":-260,"y":20,"width":297,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020502-浅蓝色布艺收纳筐.png","id":"f1fa65da666f68cd","x":60,"y":20,"width":361,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020505-条纹布艺收纳筐.png","id":"3e91329a3d36843c","x":480,"y":0,"width":364,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020503-玫瑰布艺收纳筐.png","id":"706b5f58d2f08e6f","x":160,"y":520,"width":384,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020506-方格布艺收纳筐.png","id":"47961e99bd32b142","x":-573,"y":-400,"width":386,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020507-蓝色方格布艺收纳筐.png","id":"5be7b348e08b6c27","x":141,"y":-440,"width":339,"height":399},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020508-小花布艺收纳筐.png","id":"e1a5a3b866e3e4b3","x":600,"y":520,"width":371,"height":400},
+		{"type":"file","file":"生活/容器/assets/01-大号布艺收纳筐/020504-绿色布艺收纳筐.png","id":"6e8aaa34455cfa0e","x":-294,"y":520,"width":354,"height":400}
+	],
+	"edges":[]
+}

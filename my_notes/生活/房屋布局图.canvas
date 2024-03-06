@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"1b122715a712e43f","x":-220,"y":255,"width":503,"height":305,"type":"group","label":"主卧"},
+		{"type":"group","id":"6c0f94c6ef462d3c","x":-220,"y":-480,"width":384,"height":350,"color":"6","label":"次卧"},
+		{"type":"text","text":"0304格子柜","id":"b58822262c13aa21","x":-113,"y":-460,"width":152,"height":90},
+		{"type":"text","text":"厨房","id":"750133a59237c853","x":-420,"y":-400,"width":120,"height":320,"color":"3"},
+		{"type":"text","text":"阳台","id":"802506faf4386a03","x":-520,"y":-340,"width":100,"height":80,"color":"2"},
+		{"type":"text","text":"0306衣柜","id":"5aaabaa52a5104a1","x":-200,"y":-460,"width":87,"height":60},
+		{"type":"text","text":"0303凳子","id":"a3e109a7adf998ce","x":39,"y":-460,"width":105,"height":110},
+		{"type":"text","text":"0307被包","id":"83402fb998343cf5","x":-200,"y":-400,"width":87,"height":60},
+		{"type":"text","text":"0302矮桌","id":"cf32e298aee5b129","x":39,"y":-350,"width":105,"height":90},
+		{"type":"text","text":"阳台","id":"79c80322bb13e088","x":160,"y":-190,"width":250,"height":60},
+		{"type":"text","text":"0301桌子","id":"57c0c4d2c9937250","x":39,"y":-260,"width":105,"height":100},
+		{"type":"text","text":"0106桌子","id":"28be724d875db976","x":-209,"y":-130,"width":139,"height":80},
+		{"type":"text","text":"0305二层床","id":"26d4cddc6e68f0f4","x":-200,"y":-340,"width":120,"height":90},
+		{"type":"text","text":"0306一层床","id":"dedfbf2cc7e179f0","x":-200,"y":-250,"width":120,"height":100},
+		{"type":"text","text":"0107电视柜","id":"735bc64cdce49593","x":-209,"y":-50,"width":139,"height":110},
+		{"type":"text","text":"0108三角柜","id":"847f55f67d22a63f","x":-209,"y":60,"width":139,"height":60},
+		{"type":"text","text":"0105凳子","id":"29d80bebc3734dcd","x":-70,"y":195,"width":107,"height":80},
+		{"type":"text","text":"0103饭桌","id":"09b262bc08bc10c7","x":39,"y":-120,"width":201,"height":80},
+		{"type":"text","text":"0101沙发","id":"ddfaf9e665af2bda","x":39,"y":-40,"width":125,"height":195},
+		{"type":"text","text":"0102沙发桌","id":"8cc49e865e17f4d4","x":164,"y":-40,"width":76,"height":195},
+		{"type":"text","text":"0104书桌","id":"8456298ab586bcf5","x":37,"y":155,"width":201,"height":120},
+		{"type":"text","text":"0201抽屉","id":"0258555397cd875f","x":-200,"y":275,"width":100,"height":50},
+		{"type":"text","text":"0202抽屉柜","id":"823571115598270f","x":-200,"y":325,"width":100,"height":50},
+		{"type":"text","text":"0203电脑桌","id":"2dca2337897a4557","x":-200,"y":375,"width":100,"height":50},
+		{"type":"text","text":"0204抽屉柜","id":"f619a2c4f4d41e0d","x":-200,"y":425,"width":100,"height":50},
+		{"type":"text","text":"0206床","id":"27fc1b4b24590933","x":-33,"y":315,"width":250,"height":60},
+		{"type":"text","text":"0205衣柜","id":"9522bd57270f45c4","x":13,"y":420,"width":250,"height":60},
+		{"type":"text","text":"0207阳台","id":"0f57d91b7ed9271e","x":-195,"y":480,"width":250,"height":60}
+	],
+	"edges":[]
+}

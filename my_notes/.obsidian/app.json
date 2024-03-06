@@ -9,6 +9,7 @@
   },
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "附件库",
-  "newFileLocation": "current"
+  "attachmentFolderPath": "./assets/Drawing 2024-03-06 00.11.09.excalidraw",
+  "newFileLocation": "current",
+  "readableLineLength": false
 }

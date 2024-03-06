@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7649e9dd81c5d538",
+        "id": "5ed33ba89fb5d57e",
         "type": "tabs",
         "children": [
           {
-            "id": "34b0ac425396d0e4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mytexttools.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "91124fc2f3a0b59f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/index_Powerbi星球.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2b227d6d8a1690dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/index_wujunmin.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "cbf386eb36eec6eb",
+            "id": "298f5344c802fdc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerBI/wujunmin/如何将假日安排植入Power BI日历.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "148d224511206bea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -128,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerBI/wujunmin/如何将假日安排植入Power BI日历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerBI/wujunmin/如何将假日安排植入Power BI日历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PowerBI/wujunmin/如何将假日安排植入Power BI日历.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,25 +148,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "dd5b0ba80a71e813",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3a575de0e977c927",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,11 +169,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3a575de0e977c927",
+  "active": "298f5344c802fdc6",
   "lastOpenFiles": [
-    "home/index_wujunmin.md",
-    "PowerBI/wujunmin/Power BI模拟谷歌2022搜索排行榜.md",
+    "未命名 1.canvas",
     "mytexttools.md",
+    "home/Powerbi账号概述.md",
+    "home/index_Powerbi星球.md",
+    "词库/DAX函数汇总.md",
+    "未命名.canvas",
+    "PowerBI/PowerBi星球/Power BI如何进行财年分析？.md",
+    "PowerBI/PowerBi星球/Excel中PowerQuery的全自动动态路径.md",
+    "PowerBI/PowerBi星球/Power BI如何动态展示表？送你两种方法.md",
+    "PowerBI/PowerBi星球/日期维度的动态可视化技巧，这几篇文章推荐给你.md",
+    "PowerBI/PowerBi星球/玩转PowerBI的切片器，看这篇就够了.md",
+    "PowerBI/PowerBi星球/PowerBI如何计算不同期间的共同客户.md",
+    "home/index_wujunmin.md",
+    "home/笔记.md",
+    "PowerBI/wujunmin/如何将假日安排植入Power BI日历.md",
+    "PowerBI/wujunmin/Power BI模拟谷歌2022搜索排行榜.md",
     "PowerBI/wujunmin/Power BI制作世界杯射手榜表格.md",
     "PowerBI/wujunmin/Power BI模拟FIFA世界杯球员数据卡片图-兼谈任意卡片图的制作.md",
     "PowerBI/wujunmin/Power BI窗口函数应用于图表设计.md",
@@ -242,19 +196,7 @@
     "PowerBI/wujunmin/Power BI模拟大厂图表总结贴-2022版.md",
     "home/index_PowerBI战友联盟.md",
     "PowerBI/wujunmin/Power BI SVG地图应用总结-2022版.md",
-    "home/Powerbi账号概述.md",
     "home/未命名.md",
-    "home/index_Powerbi星球.md",
-    "PowerBI/PowerBi星球/Power BI数据分析入门案例：费用分摊问题.md",
-    "PowerBI/PowerBi星球/Power BI数据分析入门案例：目标实际对比.md",
-    "PowerBI/PowerBi星球/利用PowerBI这个自定义对象，轻松展示列表信息.md",
-    "PowerBI/PowerBi星球/Power BI数据分析入门案例：折扣计算问题.md",
-    "词库/DAX函数汇总.md",
-    "PowerBI/PowerBi星球/Power BI可视化技巧：矩阵中迷你图的妙用.md",
-    "PowerBI/PowerBi星球/使用Power BI制作可爱的棒棒糖图.md",
-    "PowerBI/PowerBi星球/体验Power BI  分分钟生成一份可视化图表.md",
-    "PowerBI/PowerBi星球/Power BI与Power Query、Power Pivot 是什么关系？.md",
-    "PowerBI/PowerBi星球/使用Power Query是一种什么体验？.md",
-    "PowerBI/PowerBi星球/数据获取，PQ就是这么任性！.md"
+    "PowerBI/PowerBi星球/Power BI数据分析入门案例：费用分摊问题.md"
   ]
 }

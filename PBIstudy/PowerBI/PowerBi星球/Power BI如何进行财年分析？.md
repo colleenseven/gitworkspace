@@ -5,18 +5,20 @@ aliases:
 pagetitle: Power BI如何进行财年分析？
 source: https://mp.weixin.qq.com/s/vQyctluB5DN567GwJYma-A
 author: 采悟
-status: 未阅读
-category:
+status: 已完成 
+category: 精读文章 
 notes: false
 ZK: Origin
 uid:
 ---
 
+DAX:: TOTALYTD ,IF, QUARTER
+
 日常分析涉及日期维度的分析一般是用自然日历，但也有些比较特殊，比如有些国家/地区的财务报告年度并不是从1月开始，有的是从4月开始，有的是从7月开始，苹果的财年是从10月开始的，这种年度一般称为财年（Fiscal Year），本文就来看看PowerBI如何按财年分析。
 
 按财年分析时，对某个月的计算一般并没有影响，涉及到年度季度的计算时，才需要特殊处理。
 
-比如计算本年累计，并不是常规的从1月开始累计，而是从财年的开始日期累计，假如某公司的财务年度是从10月1号开始、9月30日结束，本年累计收入的度量值可以这样写：  
+比如计算本年累计，并不是常规的从1月开始累计，而是从财年的开始日期累计，假如==某公司的财务年度是从10月1号开始、9月30日结束，本年累计收入的度量值可以这样写==：  
 
 > 收入 FYTD = 
 > 
@@ -30,9 +32,9 @@ uid:
 
 通过上面本年累计的度量值，也可以看到时间智能函数对于财年的计算依然可用，关键最后一个可选参数：**年度结束日期**。  
 
-对于时间智能函数，不仅是TOTALYTD，包括其他几个与年度有关的时间智能函数，都可以通过最后一个可选参数来控制年度的结束日期，在之前介绍时间智能函数时，也都提到过，参考：[一文了解PowerBI的时间智能函数](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067537&idx=1&sn=b6a0ac62f09fe97ebe530573ad8623d4&chksm=8e0c7606b97bff10157eb8ffde8589acc80ec0118bf9a73ec1acca7a69611525b2453e907dc4&scene=21#wechat_redirect)
+对于==时间智能函数，不仅是TOTALYTD，包括其他几个与年度有关的时间智能函数，都可以通过最后一个可选参数来控制年度的结束日期==，在之前介绍时间智能函数时，也都提到过，参考：[一文了解PowerBI的时间智能函数](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067537&idx=1&sn=b6a0ac62f09fe97ebe530573ad8623d4&chksm=8e0c7606b97bff10157eb8ffde8589acc80ec0118bf9a73ec1acca7a69611525b2453e907dc4&scene=21#wechat_redirect)
 
-虽然利用自然日期表和时间智能函数也可以进行财年分析，但更灵活的方式是做一个财年日期表。如果现有模型中已经有了一个日期表，可以直接在现有日期表的基础上添加相应的财年维度列。
+虽然利用自然日期表和时间智能函数也可以进行财年分析，但更灵活的方式是==做一个财年日期表==。如果现有模型中已经有了一个日期表，可以直接在现有日期表的==基础上添加相应的财年维度列==。
 
 以财年从10月1日开始为例来添加财年的年度和季度，假如财务年度按这样的逻辑定义，小于10月，则财年等于本自然年度，大于等于10月，则财年等于下个自然年度：  
 
@@ -57,19 +59,3 @@ uid:
 看起来和正常的自然年度季度并没有什么不同。
 
 如果财年分析中需要按其他粒度来分析，都可以按上面的方式，在日期表中添加对应粒度的财年字段即可。
-
-___
-
-**PowerBI星球的**[**历史精华文章合辑**](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074255&idx=1&sn=0c183ee84fd7fcc4e9dfb6baf39580c0&chksm=8e0c5dd8b97bd4ce1a617be83fe88938a0ba49668102ca3d10794c0e530f38c2950df75cf2ee&scene=21#wechat_redirect)**：**  
-
-[![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aHEbZtANQJNn5eia186067w5or6WoVmwdm210CYQfaibhdzFvJvR59sFUgk13iauEzR4oLzGvXiaziaX8VJcB2sCbzg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)](http://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484074255&idx=1&sn=0c183ee84fd7fcc4e9dfb6baf39580c0&chksm=8e0c5dd8b97bd4ce1a617be83fe88938a0ba49668102ca3d10794c0e530f38c2950df75cf2ee&scene=21#wechat_redirect)
-
-___
-
-如果你刚开始学习Power BI，可在微信公众号后台回复"PowerBI"，获取《七天入门PowerBI》电子书，轻松上手。
-
-**成为PowerBI星球会员****，获取更多学习资源**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/aHEbZtANQJNCQ4pzSiaQOMPia6kNbbF0gtVXYmWpicF9SVicdBBQYdaKG4icSfUTkS9dFIBW3NsL5ZrNpYH6icjgJaUA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-↑ 扫码加入，和 2k+ 学习者一起成长
